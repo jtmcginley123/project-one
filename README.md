@@ -1,10 +1,7 @@
 # Marijuana Legalization in United States
 
 ## Team Members:
-**James**
-**Howard**
-**Olan**
-**Jackie**
+**Howard, Olan, James and Jackie**
 
 ## Project Description/Outline:
 ### Does Marijuana legalization have a place in American society at large? This is a question that hasn’t strayed far from the spotlight for almost a decade now and has been the topic of many public and political discussions. Today, we have <insert figure> states that have legalized this drug and seen significant changes to their economies in different ways. With this project, we will take a look at how country-wide legalization of marijuana could affect the country at large. 
