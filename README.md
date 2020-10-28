@@ -8,6 +8,8 @@
 * Jackie
 
 # Project Description/Outline:
+### Does Marijuana legalization have a place in American society at large? This is a question that hasn’t strayed far from the spotlight for almost a decade now and has been the topic of many public and political discussions. Today, we have <insert figure> states that have legalized this drug and seen significant changes to their economies in different ways. With this project, we will take a look at how country-wide legalization of marijuana could affect the country at large. 
+
 ## Using States that have been legalized
 * States that are legalized: Washington, Oregon, California, Nevada, Alaska, Colarado, Illinois, Michigan, Massachusetts, Vermont, Maine, District of Columbia
 
@@ -23,7 +25,7 @@
 
 ### https://www.fool.com/investing/stock-market/market-sectors/healthcare/marijuana-stocks/marijuana-legalization/
 
-## Does Marijuana legalization have a place in American society at large? This is a question that hasn’t strayed far from the spotlight for almost a decade now and has been the topic of many public and political discussions. Today, we have <insert figure> states that have legalized this drug and seen significant changes to their economies in different ways. With this project, we will take a look at how country-wide legalization of marijuana could affect the country at large. 
+
 
 # Research Questions to Answer:
 ## Referencing both US states and countries that have already legalized marijuana, we will take a look at:
