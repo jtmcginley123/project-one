@@ -40,9 +40,9 @@
 ## https://www.dolthub.com/blog/2020-04-20-cannabis-data-sets/#dea
 
 # Rough Breakdown of Task:
-## All: Continue to find relevant data
-## Categorize the data
-## Fine tune the outline based on data found and recommendations from Cam
-## Clean Data
-## Start work on actual Project
+* All: Continue to find relevant data
+* Categorize the data
+* Fine tune the outline based on data found and recommendations from Cam
+* Clean Data
+* Start work on actual Project
 
