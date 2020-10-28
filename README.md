@@ -11,7 +11,7 @@
     ## Using States that have been legalized
         * States that are legalized: Washington, Oregon, California, Nevada, Alaska, Colarado, Illinois, Michigan, Massachusetts, Vermont, Maine, District of Columbia
 
-        ![United States Marijuana Legalization](https://github.com/jtmcginley123/project-one/blob/master/images/statesvotingmarijuana.png)
+![United States Marijuana Legalization](https://github.com/jtmcginley123/project-one/blob/master/images/statesvotingmarijuana.png)
     ## Look on different indexes, such as the Happiness Index, to find countries near the United States that have legalization and see how they compare and differ from the United States.
         * World Hapiness Report(Legalized): 1. Finland 2. Denmark 3. Switzerland 4. Iceland 5. Norway 6. The Netherlands 7. Sweden 8. New Zeland 9. Luxembourg 10. Austria 11. Canada 12. Australia 13. United Kingdom 14. Israel 15. Costa Rica 16. Ireland 17. Germany 18. United States 19. Czech Republic 20. Belgium
         ### https://worldhappiness.report/news/its-a-three-peat-finland-keeps-top-spot-as-happiest-country-in-world/
