@@ -1,10 +1,7 @@
 # Marijuana Legalization in United States
 
 ## Team Members:
-**James**
-**Howard**
-**Olan**
-**Jackie**
+**Howard, Olan, James and Jackie**
 
 ## Project Description/Outline:
 ### Does Marijuana legalization have a place in American society at large? This is a question that hasn’t strayed far from the spotlight for almost a decade now and has been the topic of many public and political discussions. Today, we have 2 foreign nations and 11 states as well as Washington, DC that have legalized this drug recreationally and seen significant changes to their economies in different ways. Looking at the GDP of countries and states that have already legalized marijuana, we will attempt to predict how nation-wide legalization could affect the United States economy at a macro level.
