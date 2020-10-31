@@ -4,6 +4,33 @@
 **Howard, Olan, James and Jackie**
 
 ## Project Description/Outline:
+### The U.S. State of Colorado legalized cannabis for medical use in 2000 and legalized cannabis for in 2014. This has been the topic of many public and political discussions and has changed Colorodo since. The data in the years after legalization of cannabis in Colorado shows different aspects to how the state has changed, for better or for worse -- we'll present our findings to show what other states may face in the years after legalization of cannabis.
+
+## Research Questions to Answer:
+* QUESTIONS HERE
+
+
+## Data Sets to be Used:
+### ADD DATA SETS THAT WE USE HERE.
+
+## Rough Breakdown of Task:
+* All: Continue to find relevant data
+* Categorize the data
+* Fine tune the outline based on data found and recommendations from Cam
+* Clean Data
+* Start work on actual Project
+
+
+
+
+
+
+
+-----------------------------------
+-----------------------------------
+1st draft below:
+-----------------------------------
+## Project Description/Outline:
 ### Does Marijuana legalization have a place in American society at large? This is a question that hasn’t strayed far from the spotlight for almost a decade now and has been the topic of many public and political discussions. Today, we have 2 foreign nations and 11 states as well as Washington, DC that have legalized this drug recreationally and seen significant changes to their economies in different ways. Looking at the GDP of countries and states that have already legalized marijuana, we will attempt to predict how nation-wide legalization could affect the United States economy at a macro level.
 
 ### Using States that have been legalized
