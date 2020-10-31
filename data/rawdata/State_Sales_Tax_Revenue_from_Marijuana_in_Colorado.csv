@@ -1,0 +1,2696 @@
+Month,Year,County,Med_Tax_Rev,Rec_Tax_Rev,Med_RemainderOfState_Counties,Rec_RemainderOfState_Counties,Med_Blank_Code,Rec_Blank_Code,ID
+8,2019,Adams,17037,,,,,,82019Adams
+8,2019,Alamosa,,,,,NR,,82019Alamosa
+8,2019,Arapahoe,24256,,,,,,82019Arapahoe
+8,2019,Boulder,33557,,,,,,82019Boulder
+8,2019,Chaffee,,,,,NR,,82019Chaffee
+8,2019,Clear Creek,,,,,NR,,82019Clear Creek
+8,2019,Denver,392226,,,,,,82019Denver
+8,2019,Eagle,2826,,,,,,82019Eagle
+8,2019,El Paso,270107,,,,,,82019El Paso
+8,2019,Fremont,5548,,,,,,82019Fremont
+8,2019,Garfield,3086,,,,,,82019Garfield
+8,2019,Grand,,,,,NR,,82019Grand
+8,2019,Jefferson,39411,,,,,,82019Jefferson
+8,2019,La Plata,,,,,NR,,82019La Plata
+8,2019,Larimer,22969,,,,,,82019Larimer
+8,2019,Las Animas,1901,,,,,,82019Las Animas
+8,2019,Mesa,,,,,NR,,82019Mesa
+8,2019,Moffat,,,,,NR,,82019Moffat
+8,2019,Montezuma,1102,,,,,,82019Montezuma
+8,2019,Montrose,,,,,NR,,82019Montrose
+8,2019,Morgan,,,,,NR,,82019Morgan
+8,2019,Otero,,,,,NR,,82019Otero
+8,2019,Park,,,,,NR,,82019Park
+8,2019,Pitkin,,,,,NR,,82019Pitkin
+8,2019,Pueblo,21459,,,,,,82019Pueblo
+8,2019,Routt,3878,,,,,,82019Routt
+8,2019,San Miguel,,,,,NR,,82019San Miguel
+8,2019,Sedgwick,,,,,NR,,82019Sedgwick
+8,2019,Summit,,,,,NR,,82019Summit
+8,2019,Weld,8858,,,,,,82019Weld
+8,2019,Sum of NR Counties,18015,,,,,,82019Sum of NR Counties
+7,2019,Adams,16539,,,,,,72019Adams
+7,2019,Alamosa,,,,,NR,,72019Alamosa
+7,2019,Arapahoe,23076,,,,,,72019Arapahoe
+7,2019,Boulder,29361,,,,,,72019Boulder
+7,2019,Chaffee,,,,,NR,,72019Chaffee
+7,2019,Clear Creek,,,,,NR,,72019Clear Creek
+7,2019,Denver,357367,,,,,,72019Denver
+7,2019,Eagle,2501,,,,,,72019Eagle
+7,2019,El Paso,291131,,,,,,72019El Paso
+7,2019,Fremont,,,,,NR,,72019Fremont
+7,2019,Garfield,3797,,,,,,72019Garfield
+7,2019,Grand,,,,,NR,,72019Grand
+7,2019,Jefferson,39008,,,,,,72019Jefferson
+7,2019,La Plata,,,,,NR,,72019La Plata
+7,2019,Larimer,19575,,,,,,72019Larimer
+7,2019,Las Animas,1082,,,,,,72019Las Animas
+7,2019,Mesa,,,,,NR,,72019Mesa
+7,2019,Moffat,,,,,NR,,72019Moffat
+7,2019,Montezuma,,,,,NR,,72019Montezuma
+7,2019,Montrose,,,,,NR,,72019Montrose
+7,2019,Morgan,,,,,NR,,72019Morgan
+7,2019,Otero,,,,,NR,,72019Otero
+7,2019,Park,,,,,NR,,72019Park
+7,2019,Pitkin,,,,,NR,,72019Pitkin
+7,2019,Pueblo,17354,,,,,,72019Pueblo
+7,2019,Routt,3998,,,,,,72019Routt
+7,2019,San Miguel,,,,,NR,,72019San Miguel
+7,2019,Sedgwick,,,,,NR,,72019Sedgwick
+7,2019,Summit,2084,,,,,,72019Summit
+7,2019,Weld,8746,,,,,,72019Weld
+7,2019,Sum of NR Counties,22155,,,,,,72019Sum of NR Counties
+6,2019,Adams,40248,,,,,,62019Adams
+6,2019,Alamosa,,,,,NR,,62019Alamosa
+6,2019,Arapahoe,34767,,,,,,62019Arapahoe
+6,2019,Boulder,32044,,,,,,62019Boulder
+6,2019,Chaffee,,,,,NR,,62019Chaffee
+6,2019,Clear Creek,,,,,NR,,62019Clear Creek
+6,2019,Denver,419366,,,,,,62019Denver
+6,2019,Eagle,2418,,,,,,62019Eagle
+6,2019,El Paso,274695,,,,,,62019El Paso
+6,2019,Fremont,,,,,NR,,62019Fremont
+6,2019,Garfield,3582,,,,,,62019Garfield
+6,2019,Grand,,,,,NR,,62019Grand
+6,2019,Jefferson,39562,,,,,,62019Jefferson
+6,2019,La Plata,,,,,NR,,62019La Plata
+6,2019,Larimer,22399,,,,,,62019Larimer
+6,2019,Las Animas,1258,,,,,,62019Las Animas
+6,2019,Mesa,,,,,NR,,62019Mesa
+6,2019,Moffat,,,,,NR,,62019Moffat
+6,2019,Montezuma,,,,,NR,,62019Montezuma
+6,2019,Montrose,,,,,NR,,62019Montrose
+6,2019,Morgan,,,,,NR,,62019Morgan
+6,2019,Otero,,,,,NR,,62019Otero
+6,2019,Park,,,,,NR,,62019Park
+6,2019,Pitkin,1555,,,,,,62019Pitkin
+6,2019,Pueblo,21492,,,,,,62019Pueblo
+6,2019,Routt,3863,,,,,,62019Routt
+6,2019,San Miguel,,,,,NR,,62019San Miguel
+6,2019,Sedgwick,,,,,NR,,62019Sedgwick
+6,2019,Summit,2319,,,,,,62019Summit
+6,2019,Weld,8798,,,,,,62019Weld
+6,2019,Sum of NR Counties,23047,,,,,,62019Sum of NR Counties
+5,2019,Adams,14932,,,,,,52019Adams
+5,2019,Alamosa,,,,,NR,,52019Alamosa
+5,2019,Arapahoe,17175,,,,,,52019Arapahoe
+5,2019,Boulder,32725,,,,,,52019Boulder
+5,2019,Chaffee,,,,,NR,,52019Chaffee
+5,2019,Clear Creek,,,,,NR,,52019Clear Creek
+5,2019,Denver,350404,,,,,,52019Denver
+5,2019,Eagle,2546,,,,,,52019Eagle
+5,2019,El Paso,255727,,,,,,52019El Paso
+5,2019,Fremont,,,,,NR,,52019Fremont
+5,2019,Garfield,3206,,,,,,52019Garfield
+5,2019,Grand,,,,,NR,,52019Grand
+5,2019,Jefferson,27501,,,,,,52019Jefferson
+5,2019,La Plata,,,,,NR,,52019La Plata
+5,2019,Larimer,22562,,,,,,52019Larimer
+5,2019,Las Animas,958,,,,,,52019Las Animas
+5,2019,Mesa,,,,,NR,,52019Mesa
+5,2019,Montezuma,1327,,,,,,52019Montezuma
+5,2019,Montrose,,,,,NR,,52019Montrose
+5,2019,Morgan,,,,,NR,,52019Morgan
+5,2019,Otero,,,,,NR,,52019Otero
+5,2019,Park,,,,,NR,,52019Park
+5,2019,Pitkin,1696,,,,,,52019Pitkin
+5,2019,Pueblo,22190,,,,,,52019Pueblo
+5,2019,Routt,3972,,,,,,52019Routt
+5,2019,San Miguel,,,,,NR,,52019San Miguel
+5,2019,Sedgwick,,,,,NR,,52019Sedgwick
+5,2019,Summit,2598,,,,,,52019Summit
+5,2019,Weld,9444,,,,,,52019Weld
+5,2019,Sum of NR Counties,22563,,,,,,52019Sum of NR Counties
+4,2019,Adams,21146,,,,,,42019Adams
+4,2019,Alamosa,,,,,NR,,42019Alamosa
+4,2019,Arapahoe,23080,,,,,,42019Arapahoe
+4,2019,Boulder,33388,,,,,,42019Boulder
+4,2019,Chaffee,,,,,NR,,42019Chaffee
+4,2019,Clear Creek,,,,,NR,,42019Clear Creek
+4,2019,Denver,346317,,,,,,42019Denver
+4,2019,Eagle,4199,,,,,,42019Eagle
+4,2019,El Paso,264408,,,,,,42019El Paso
+4,2019,Fremont,4323,,,,,,42019Fremont
+4,2019,Garfield,4111,,,,,,42019Garfield
+4,2019,Grand,,,,,NR,,42019Grand
+4,2019,Jefferson,36049,,,,,,42019Jefferson
+4,2019,La Plata,,,,,NR,,42019La Plata
+4,2019,Larimer,25736,,,,,,42019Larimer
+4,2019,Las Animas,1114,,,,,,42019Las Animas
+4,2019,Mesa,,,,,NR,,42019Mesa
+4,2019,Moffat,,,,,NR,,42019Moffat
+4,2019,Montezuma,1261,,,,,,42019Montezuma
+4,2019,Montrose,,,,,NR,,42019Montrose
+4,2019,Morgan,,,,,NR,,42019Morgan
+4,2019,Otero,,,,,NR,,42019Otero
+4,2019,Park,,,,,NR,,42019Park
+4,2019,Pitkin,1496,,,,,,42019Pitkin
+4,2019,Pueblo,21617,,,,,,42019Pueblo
+4,2019,Routt,4195,,,,,,42019Routt
+4,2019,San Miguel,,,,,NR,,42019San Miguel
+4,2019,Sedgwick,,,,,NR,,42019Sedgwick
+4,2019,Summit,2536,,,,,,42019Summit
+4,2019,Weld,9085,,,,,,42019Weld
+4,2019,Sum of NR Counties,18282,,,,,,42019Sum of NR Counties
+3,2019,Adams,16041,,,,,,32019Adams
+3,2019,Alamosa,,,,,NR,,32019Alamosa
+3,2019,Arapahoe,29064,,,,,,32019Arapahoe
+3,2019,Boulder,31224,,,,,,32019Boulder
+3,2019,Chaffee,,,,,NR,,32019Chaffee
+3,2019,Clear Creek,,,,,NR,,32019Clear Creek
+3,2019,Denver,307975,,,,,,32019Denver
+3,2019,Eagle,,,,,NR,,32019Eagle
+3,2019,El Paso,225598,,,,,,32019El Paso
+3,2019,Fremont,,,,,NR,,32019Fremont
+3,2019,Garfield,4507,,,,,,32019Garfield
+3,2019,Grand,,,,,NR,,32019Grand
+3,2019,Jefferson,31523,,,,,,32019Jefferson
+3,2019,La Plata,,,,,NR,,32019La Plata
+3,2019,Larimer,21259,,,,,,32019Larimer
+3,2019,Las Animas,576,,,,,,32019Las Animas
+3,2019,Mesa,,,,,NR,,32019Mesa
+3,2019,Montezuma,1339,,,,,,32019Montezuma
+3,2019,Montrose,,,,,NR,,32019Montrose
+3,2019,Morgan,,,,,NR,,32019Morgan
+3,2019,Otero,,,,,NR,,32019Otero
+3,2019,Park,,,,,NR,,32019Park
+3,2019,Pitkin,1871,,,,,,32019Pitkin
+3,2019,Pueblo,14854,,,,,,32019Pueblo
+3,2019,Routt,3669,,,,,,32019Routt
+3,2019,San Miguel,,,,,NR,,32019San Miguel
+3,2019,Sedgwick,,,,,NR,,32019Sedgwick
+3,2019,Summit,2257,,,,,,32019Summit
+3,2019,Weld,8445,,,,,,32019Weld
+3,2019,Sum of NR Counties,20467,,,,,,32019Sum of NR Counties
+2,2019,Adams,15881,,,,,,22019Adams
+2,2019,Alamosa,,,,,NR,,22019Alamosa
+2,2019,Arapahoe,30402,,,,,,22019Arapahoe
+2,2019,Boulder,34428,,,,,,22019Boulder
+2,2019,Chaffee,,,,,NR,,22019Chaffee
+2,2019,Clear Creek,,,,,NR,,22019Clear Creek
+2,2019,Denver,318162,,,,,,22019Denver
+2,2019,Eagle,,,,,NR,,22019Eagle
+2,2019,El Paso,201245,,,,,,22019El Paso
+2,2019,Fremont,3868,,,,,,22019Fremont
+2,2019,Garfield,5016,,,,,,22019Garfield
+2,2019,Grand,,,,,NR,,22019Grand
+2,2019,Jefferson,43310,,,,,,22019Jefferson
+2,2019,La Plata,,,,,NR,,22019La Plata
+2,2019,Larimer,20871,,,,,,22019Larimer
+2,2019,Las Animas,658,,,,,,22019Las Animas
+2,2019,Mesa,,,,,NR,,22019Mesa
+2,2019,Moffat,,,,,NR,,22019Moffat
+2,2019,Montezuma,1314,,,,,,22019Montezuma
+2,2019,Montrose,,,,,NR,,22019Montrose
+2,2019,Morgan,,,,,NR,,22019Morgan
+2,2019,Otero,,,,,NR,,22019Otero
+2,2019,Park,,,,,NR,,22019Park
+2,2019,Pitkin,,,,,NR,,22019Pitkin
+2,2019,Pueblo,17217,,,,,,22019Pueblo
+2,2019,Routt,3893,,,,,,22019Routt
+2,2019,San Miguel,,,,,NR,,22019San Miguel
+2,2019,Sedgwick,,,,,NR,,22019Sedgwick
+2,2019,Summit,2712,,,,,,22019Summit
+2,2019,Weld,9111,,,,,,22019Weld
+2,2019,Sum of NR Counties,19258.77,,,,,,22019Sum of NR Counties
+12,2018,Adams,14927,,,,,,122018Adams
+12,2018,Alamosa,0,,,,NR,,122018Alamosa
+12,2018,Arapahoe,31430,,,,,,122018Arapahoe
+12,2018,Boulder,35788,,,,,,122018Boulder
+12,2018,Chaffee,0,,,,NR,,122018Chaffee
+12,2018,Clear Creek,614,,,,,,122018Clear Creek
+12,2018,Denver,350452,,,,,,122018Denver
+12,2018,Eagle,2285,,,,,,122018Eagle
+12,2018,El Paso,213030,,,,,,122018El Paso
+12,2018,Fremont,4903,,,,,,122018Fremont
+12,2018,Garfield,3364,,,,,,122018Garfield
+12,2018,Grand,0,,,,NR,,122018Grand
+12,2018,Jefferson,42989,,,,,,122018Jefferson
+12,2018,La Plata,0,,,,NR,,122018La Plata
+12,2018,Larimer,25049,,,,,,122018Larimer
+12,2018,Las Animas,641,,,,,,122018Las Animas
+12,2018,Mesa,0,,,,NR,,122018Mesa
+12,2018,Moffat,0,,,,NR,,122018Moffat
+12,2018,Montezuma,1359,,,,,,122018Montezuma
+12,2018,Montrose,0,,,,NR,,122018Montrose
+12,2018,Morgan,0,,,,NR,,122018Morgan
+12,2018,Otero,0,,,,NR,,122018Otero
+12,2018,Park,0,,,,NR,,122018Park
+12,2018,Pitkin,936,,,,,,122018Pitkin
+12,2018,Pueblo,16183,,,,,,122018Pueblo
+12,2018,Routt,3518,,,,,,122018Routt
+12,2018,San Miguel,0,,,,NR,,122018San Miguel
+12,2018,Sedgwick,0,,,,NR,,122018Sedgwick
+12,2018,Summit,2975,,,,,,122018Summit
+12,2018,Weld,9838,,,,,,122018Weld
+12,2018,Sum of NR Counties,18870,,,,,,122018Sum of NR Counties
+11,2018,Adams,12763,,,,,,112018Adams
+11,2018,Alamosa,0,,,,NR,,112018Alamosa
+11,2018,Arapahoe,22223,,,,,,112018Arapahoe
+11,2018,Boulder,36501,,,,,,112018Boulder
+11,2018,Chaffee,0,,,,NR,,112018Chaffee
+11,2018,Clear Creek,562,,,,,,112018Clear Creek
+11,2018,Denver,325870,,,,,,112018Denver
+11,2018,Eagle,2302,,,,,,112018Eagle
+11,2018,El Paso,232217,,,,,,112018El Paso
+11,2018,Fremont,3238,,,,,,112018Fremont
+11,2018,Garfield,4552,,,,,,112018Garfield
+11,2018,Grand,0,,,,NR,,112018Grand
+11,2018,Jefferson,31191,,,,,,112018Jefferson
+11,2018,La Plata,0,,,,NR,,112018La Plata
+11,2018,Larimer,26235,,,,,,112018Larimer
+11,2018,Las Animas,781,,,,,,112018Las Animas
+11,2018,Mesa,0,,,,NR,,112018Mesa
+11,2018,Moffat,0,,,,NR,,112018Moffat
+11,2018,Montezuma,1311,,,,,,112018Montezuma
+11,2018,Montrose,0,,,,NR,,112018Montrose
+11,2018,Morgan,0,,,,NR,,112018Morgan
+11,2018,Otero,0,,,,NR,,112018Otero
+11,2018,Park,0,,,,NR,,112018Park
+11,2018,Pitkin,949,,,,,,112018Pitkin
+11,2018,Pueblo,22884,,,,,,112018Pueblo
+11,2018,Routt,3720,,,,,,112018Routt
+11,2018,San Miguel,0,,,,NR,,112018San Miguel
+11,2018,Sedgwick,0,,,,NR,,112018Sedgwick
+11,2018,Summit,2692,,,,,,112018Summit
+11,2018,Weld,9382,,,,,,112018Weld
+11,2018,Sum of NR Counties,19352,,,,,,112018Sum of NR Counties
+10,2018,Adams,13322,,,,,,102018Adams
+10,2018,Alamosa,0,,,,NR,,102018Alamosa
+10,2018,Arapahoe,22042,,,,,,102018Arapahoe
+10,2018,Boulder,37751,,,,,,102018Boulder
+10,2018,Chaffee,0,,,,NR,,102018Chaffee
+10,2018,Clear Creek,761,,,,,,102018Clear Creek
+10,2018,Denver,375357,,,,,,102018Denver
+10,2018,Eagle,2444,,,,,,102018Eagle
+10,2018,El Paso,217313,,,,,,102018El Paso
+10,2018,Fremont,4280,,,,,,102018Fremont
+10,2018,Garfield,5205,,,,,,102018Garfield
+10,2018,Grand,0,,,,NR,,102018Grand
+10,2018,Jefferson,30674,,,,,,102018Jefferson
+10,2018,La Plata,0,,,,NR,,102018La Plata
+10,2018,Larimer,26149,,,,,,102018Larimer
+10,2018,Las Animas,1395,,,,,,102018Las Animas
+10,2018,Mesa,0,,,,NR,,102018Mesa
+10,2018,Moffat,0,,,,NR,,102018Moffat
+10,2018,Montezuma,1750,,,,,,102018Montezuma
+10,2018,Montrose,0,,,,NR,,102018Montrose
+10,2018,Morgan,0,,,,NR,,102018Morgan
+10,2018,Otero,0,,,,NR,,102018Otero
+10,2018,Park,0,,,,NR,,102018Park
+10,2018,Pitkin,1333,,,,,,102018Pitkin
+10,2018,Pueblo,15810,,,,,,102018Pueblo
+10,2018,Routt,3789,,,,,,102018Routt
+10,2018,San Miguel,0,,,,NR,,102018San Miguel
+10,2018,Sedgwick,0,,,,NR,,102018Sedgwick
+10,2018,Summit,2638,,,,,,102018Summit
+10,2018,Weld,8798,,,,,,102018Weld
+10,2018,Sum of NR Counties,20171,,,,,,102018Sum of NR Counties
+9,2018,Adams,11283,,,,,,92018Adams
+9,2018,Alamosa,0,,,,NR,,92018Alamosa
+9,2018,Arapahoe,34311,,,,,,92018Arapahoe
+9,2018,Archuleta,0,,,,NR,,92018Archuleta
+9,2018,Boulder,47559,,,,,,92018Boulder
+9,2018,Chaffee,0,,,,NR,,92018Chaffee
+9,2018,Clear Creek,0,,,,NR,,92018Clear Creek
+9,2018,Denver,363832,,,,,,92018Denver
+9,2018,Eagle,2817,,,,,,92018Eagle
+9,2018,El Paso,210772,,,,,,92018El Paso
+9,2018,Fremont,0,,,,NR,,92018Fremont
+9,2018,Garfield,5355,,,,,,92018Garfield
+9,2018,Gilpin,0,,,,NR,,92018Gilpin
+9,2018,Grand,0,,,,NR,,92018Grand
+9,2018,Jefferson,51799,,,,,,92018Jefferson
+9,2018,La Plata,0,,,,NR,,92018La Plata
+9,2018,Larimer,39310,,,,,,92018Larimer
+9,2018,Las Animas,740,,,,,,92018Las Animas
+9,2018,Mesa,0,,,,NR,,92018Mesa
+9,2018,Montezuma,1478,,,,,,92018Montezuma
+9,2018,Montrose,0,,,,NR,,92018Montrose
+9,2018,Morgan,0,,,,NR,,92018Morgan
+9,2018,Otero,0,,,,NR,,92018Otero
+9,2018,Park,0,,,,NR,,92018Park
+9,2018,Pitkin,0,,,,NR,,92018Pitkin
+9,2018,Pueblo,12698,,,,,,92018Pueblo
+9,2018,Routt,4413,,,,,,92018Routt
+9,2018,San Miguel,0,,,,NR,,92018San Miguel
+9,2018,Sedgwick,0,,,,NR,,92018Sedgwick
+9,2018,Summit,2930,,,,,,92018Summit
+9,2018,Teller,0,,,,NR,,92018Teller
+9,2018,Weld,9305,,,,,,92018Weld
+9,2018,Sum of NR Counties,27375,,,,,,92018Sum of NR Counties
+8,2018,Adams,10430,,,,,,82018Adams
+8,2018,Alamosa,0,,,,NR,,82018Alamosa
+8,2018,Arapahoe,22523,,,,,,82018Arapahoe
+8,2018,Archuleta,0,,,,NR,,82018Archuleta
+8,2018,Boulder,39960,,,,,,82018Boulder
+8,2018,Chaffee,0,,,,NR,,82018Chaffee
+8,2018,Clear Creek,635,,,,,,82018Clear Creek
+8,2018,Denver,362184,,,,,,82018Denver
+8,2018,Eagle,2572,,,,,,82018Eagle
+8,2018,El Paso,208085,,,,,,82018El Paso
+8,2018,Fremont,5553,,,,,,82018Fremont
+8,2018,Garfield,5564,,,,,,82018Garfield
+8,2018,Gilpin,0,,,,NR,,82018Gilpin
+8,2018,Grand,0,,,,NR,,82018Grand
+8,2018,Jefferson,30661,,,,,,82018Jefferson
+8,2018,La Plata,7117,,,,,,82018La Plata
+8,2018,Larimer,20477,,,,,,82018Larimer
+8,2018,Las Animas,896,,,,,,82018Las Animas
+8,2018,Mesa,0,,,,NR,,82018Mesa
+8,2018,Moffat,0,,,,NR,,82018Moffat
+8,2018,Montezuma,1462,,,,,,82018Montezuma
+8,2018,Montrose,0,,,,NR,,82018Montrose
+8,2018,Morgan,0,,,,NR,,82018Morgan
+8,2018,Otero,0,,,,NR,,82018Otero
+8,2018,Ouray,0,,,,NR,,82018Ouray
+8,2018,Park,0,,,,NR,,82018Park
+8,2018,Pitkin,1321,,,,,,82018Pitkin
+8,2018,Pueblo,14939,,,,,,82018Pueblo
+8,2018,Routt,3832,,,,,,82018Routt
+8,2018,San Miguel,0,,,,NR,,82018San Miguel
+8,2018,Sedgwick,0,,,,NR,,82018Sedgwick
+8,2018,Summit,2554,,,,,,82018Summit
+8,2018,Weld,8769,,,,,,82018Weld
+8,2018,Sum of NR Counties,15554,,,,,,82018Sum of NR Counties
+7,2018,Adams,8872,,,,,,72018Adams
+7,2018,Alamosa,0,,,,NR,,72018Alamosa
+7,2018,Arapahoe,16931,,,,,,72018Arapahoe
+7,2018,Archuleta,0,,,,NR,,72018Archuleta
+7,2018,Boulder,38413,,,,,,72018Boulder
+7,2018,Chaffee,0,,,,NR,,72018Chaffee
+7,2018,Clear Creek,584,,,,,,72018Clear Creek
+7,2018,Denver,329663,,,,,,72018Denver
+7,2018,Eagle,2803,,,,,,72018Eagle
+7,2018,El Paso,225358,,,,,,72018El Paso
+7,2018,Fremont,4139,,,,,,72018Fremont
+7,2018,Garfield,7497,,,,,,72018Garfield
+7,2018,Gilpin,0,,,,NR,,72018Gilpin
+7,2018,Grand,0,,,,NR,,72018Grand
+7,2018,Jefferson,28040,,,,,,72018Jefferson
+7,2018,La Plata,8076,,,,,,72018La Plata
+7,2018,Larimer,26215,,,,,,72018Larimer
+7,2018,Las Animas,1004,,,,,,72018Las Animas
+7,2018,Mesa,0,,,,NR,,72018Mesa
+7,2018,Moffat,0,,,,NR,,72018Moffat
+7,2018,Montezuma,1464,,,,,,72018Montezuma
+7,2018,Montrose,0,,,,NR,,72018Montrose
+7,2018,Morgan,0,,,,NR,,72018Morgan
+7,2018,Otero,0,,,,NR,,72018Otero
+7,2018,Ouray,0,,,,NR,,72018Ouray
+7,2018,Park,0,,,,NR,,72018Park
+7,2018,Pitkin,1460,,,,,,72018Pitkin
+7,2018,Pueblo,19999,,,,,,72018Pueblo
+7,2018,Routt,3553,,,,,,72018Routt
+7,2018,San Miguel,0,,,,NR,,72018San Miguel
+7,2018,Sedgwick,0,,,,NR,,72018Sedgwick
+7,2018,Summit,2364,,,,,,72018Summit
+7,2018,Weld,9300,,,,,,72018Weld
+7,2018,Sum of NR Counties,15780,,,,,,72018Sum of NR Counties
+6,2018,Adams,12139,,,,,,62018Adams
+6,2018,Alamosa,0,,,,NR,,62018Alamosa
+6,2018,Arapahoe,20062,,,,,,62018Arapahoe
+6,2018,Archuleta,0,,,,NR,,62018Archuleta
+6,2018,Boulder,40594,,,,,,62018Boulder
+6,2018,Chaffee,0,,,,NR,,62018Chaffee
+6,2018,Clear Creek,712,,,,,,62018Clear Creek
+6,2018,Denver,299207,,,,,,62018Denver
+6,2018,Eagle,3158,,,,,,62018Eagle
+6,2018,El Paso,213698,,,,,,62018El Paso
+6,2018,Fremont,4147,,,,,,62018Fremont
+6,2018,Garfield,8837,,,,,,62018Garfield
+6,2018,Gilpin,0,,,,NR,,62018Gilpin
+6,2018,Grand,0,,,,NR,,62018Grand
+6,2018,Jefferson,52231,,,,,,62018Jefferson
+6,2018,La Plata,7303,,,,,,62018La Plata
+6,2018,Larimer,27045,,,,,,62018Larimer
+6,2018,Las Animas,1259,,,,,,62018Las Animas
+6,2018,Mesa,0,,,,NR,,62018Mesa
+6,2018,Moffat,0,,,,NR,,62018Moffat
+6,2018,Montezuma,1329,,,,,,62018Montezuma
+6,2018,Montrose,0,,,,NR,,62018Montrose
+6,2018,Morgan,0,,,,NR,,62018Morgan
+6,2018,Otero,0,,,,NR,,62018Otero
+6,2018,Ouray,0,,,,NR,,62018Ouray
+6,2018,Park,0,,,,NR,,62018Park
+6,2018,Pitkin,1303,,,,,,62018Pitkin
+6,2018,Pueblo,9735,,,,,,62018Pueblo
+6,2018,Routt,4289,,,,,,62018Routt
+6,2018,San Miguel,0,,,,NR,,62018San Miguel
+6,2018,Sedgwick,0,,,,NR,,62018Sedgwick
+6,2018,Summit,2891,,,,,,62018Summit
+6,2018,Weld,9289,,,,,,62018Weld
+6,2018,Sum of NR Counties,15543,,,,,,62018Sum of NR Counties
+5,2018,Adams,12832,,,,,,52018Adams
+5,2018,Alamosa,0,,,,NR,,52018Alamosa
+5,2018,Arapahoe,22006,,,,,,52018Arapahoe
+5,2018,Archuleta,0,,,,NR,,52018Archuleta
+5,2018,Boulder,50915,,,,,,52018Boulder
+5,2018,Chaffee,0,,,,NR,,52018Chaffee
+5,2018,Clear Creek,0,,,,NR,,52018Clear Creek
+5,2018,Denver,346635,,,,,,52018Denver
+5,2018,Eagle,4331,,,,,,52018Eagle
+5,2018,El Paso,269582,,,,,,52018El Paso
+5,2018,Fremont,4093,,,,,,52018Fremont
+5,2018,Garfield,7065,,,,,,52018Garfield
+5,2018,Gilpin,0,,,,NR,,52018Gilpin
+5,2018,Grand,0,,,,NR,,52018Grand
+5,2018,Jefferson,42353,,,,,,52018Jefferson
+5,2018,La Plata,7580,,,,,,52018La Plata
+5,2018,Larimer,29016,,,,,,52018Larimer
+5,2018,Las Animas,1181,,,,,,52018Las Animas
+5,2018,Mesa,0,,,,NR,,52018Mesa
+5,2018,Moffat,0,,,,NR,,52018Moffat
+5,2018,Montezuma,1277,,,,,,52018Montezuma
+5,2018,Montrose,0,,,,NR,,52018Montrose
+5,2018,Morgan,0,,,,NR,,52018Morgan
+5,2018,Otero,0,,,,NR,,52018Otero
+5,2018,Ouray,0,,,,NR,,52018Ouray
+5,2018,Park,0,,,,NR,,52018Park
+5,2018,Pitkin,2658,,,,,,52018Pitkin
+5,2018,Pueblo,16433,,,,,,52018Pueblo
+5,2018,Routt,4436,,,,,,52018Routt
+5,2018,San Miguel,0,,,,NR,,52018San Miguel
+5,2018,Sedgwick,0,,,,NR,,52018Sedgwick
+5,2018,Summit,3091,,,,,,52018Summit
+5,2018,Weld,10516,,,,,,52018Weld
+5,2018,Sum of NR Counties,23915,,,,,,52018Sum of NR Counties
+4,2018,Adams,11528,,,,,,42018Adams
+4,2018,Alamosa,0,,,,NR,,42018Alamosa
+4,2018,Arapahoe,36520,,,,,,42018Arapahoe
+4,2018,Archuleta,0,,,,NR,,42018Archuleta
+4,2018,Boulder,40955,,,,,,42018Boulder
+4,2018,Chaffee,0,,,,NR,,42018Chaffee
+4,2018,Clear Creek,1221,,,,,,42018Clear Creek
+4,2018,Denver,350745,,,,,,42018Denver
+4,2018,Eagle,3010,,,,,,42018Eagle
+4,2018,El Paso,197924,,,,,,42018El Paso
+4,2018,Fremont,3250,,,,,,42018Fremont
+4,2018,Garfield,6062,,,,,,42018Garfield
+4,2018,Gilpin,0,,,,NR,,42018Gilpin
+4,2018,Grand,0,,,,NR,,42018Grand
+4,2018,Jefferson,46567,,,,,,42018Jefferson
+4,2018,La Plata,7058,,,,,,42018La Plata
+4,2018,Larimer,30385,,,,,,42018Larimer
+4,2018,Las Animas,687,,,,,,42018Las Animas
+4,2018,Mesa,0,,,,NR,,42018Mesa
+4,2018,Moffat,0,,,,NR,,42018Moffat
+4,2018,Montezuma,1552,,,,,,42018Montezuma
+4,2018,Montrose,0,,,,NR,,42018Montrose
+4,2018,Morgan,0,,,,NR,,42018Morgan
+4,2018,Ouray,0,,,,NR,,42018Ouray
+4,2018,Park,0,,,,NR,,42018Park
+4,2018,Pitkin,0,,,,NR,,42018Pitkin
+4,2018,Pueblo,14317,,,,,,42018Pueblo
+4,2018,Routt,4942,,,,,,42018Routt
+4,2018,San Miguel,0,,,,NR,,42018San Miguel
+4,2018,Sedgwick,0,,,,NR,,42018Sedgwick
+4,2018,Summit,3479,,,,,,42018Summit
+4,2018,Weld,10373,,,,,,42018Weld
+4,2018,Sum of NR Counties,13129,,,,,,42018Sum of NR Counties
+3,2018,Adams,10534,,,,,,32018Adams
+3,2018,Alamosa,0,,,,NR,,32018Alamosa
+3,2018,Arapahoe,21125,,,,,,32018Arapahoe
+3,2018,Archuleta,0,,,,NR,,32018Archuleta
+3,2018,Boulder,48159,,,,,,32018Boulder
+3,2018,Chaffee,0,,,,NR,,32018Chaffee
+3,2018,Clear Creek,742,,,,,,32018Clear Creek
+3,2018,Denver,313884,,,,,,32018Denver
+3,2018,Eagle,3352,,,,,,32018Eagle
+3,2018,El Paso,214919,,,,,,32018El Paso
+3,2018,Fremont,3783,,,,,,32018Fremont
+3,2018,Garfield,6855,,,,,,32018Garfield
+3,2018,Gilpin,0,,,,NR,,32018Gilpin
+3,2018,Grand,0,,,,NR,,32018Grand
+3,2018,Gunnison,0,,,,NR,,32018Gunnison
+3,2018,Jefferson,24284,,,,,,32018Jefferson
+3,2018,La Plata,7713,,,,,,32018La Plata
+3,2018,Larimer,27883,,,,,,32018Larimer
+3,2018,Las Animas,1011,,,,,,32018Las Animas
+3,2018,Mesa,0,,,,NR,,32018Mesa
+3,2018,Moffat,0,,,,NR,,32018Moffat
+3,2018,Montezuma,1463,,,,,,32018Montezuma
+3,2018,Montrose,0,,,,NR,,32018Montrose
+3,2018,Morgan,0,,,,NR,,32018Morgan
+3,2018,Otero,0,,,,NR,,32018Otero
+3,2018,Ouray,0,,,,NR,,32018Ouray
+3,2018,Park,0,,,,NR,,32018Park
+3,2018,Pitkin,1626,,,,,,32018Pitkin
+3,2018,Pueblo,16070,,,,,,32018Pueblo
+3,2018,Routt,4308,,,,,,32018Routt
+3,2018,San Miguel,0,,,,NR,,32018San Miguel
+3,2018,Sedgwick,0,,,,NR,,32018Sedgwick
+3,2018,Summit,2997,,,,,,32018Summit
+3,2018,Weld,9165,,,,,,32018Weld
+3,2018,Sum of NR Counties,15088,,,,,,32018Sum of NR Counties
+2,2018,Adams,10047,,,,,,22018Adams
+2,2018,Alamosa,0,,,,NR,,22018Alamosa
+2,2018,Arapahoe,25400,,,,,,22018Arapahoe
+2,2018,Archuleta,0,,,,NR,,22018Archuleta
+2,2018,Boulder,47908,,,,,,22018Boulder
+2,2018,Chaffee,0,,,,NR,,22018Chaffee
+2,2018,Clear Creek,795,,,,,,22018Clear Creek
+2,2018,Denver,353791,,,,,,22018Denver
+2,2018,Eagle,2148,,,,,,22018Eagle
+2,2018,El Paso,211394,,,,,,22018El Paso
+2,2018,Fremont,3781,,,,,,22018Fremont
+2,2018,Garfield,6667,,,,,,22018Garfield
+2,2018,Gilpin,0,,,,NR,,22018Gilpin
+2,2018,Grand,0,,,,NR,,22018Grand
+2,2018,Jefferson,31881,,,,,,22018Jefferson
+2,2018,La Plata,7721,,,,,,22018La Plata
+2,2018,Larimer,30632,,,,,,22018Larimer
+2,2018,Las Animas,1246,,,,,,22018Las Animas
+2,2018,Mesa,0,,,,NR,,22018Mesa
+2,2018,Moffat,0,,,,NR,,22018Moffat
+2,2018,Montezuma,1531,,,,,,22018Montezuma
+2,2018,Montrose,0,,,,NR,,22018Montrose
+2,2018,Morgan,0,,,,NR,,22018Morgan
+2,2018,Otero,0,,,,NR,,22018Otero
+2,2018,Ouray,0,,,,NR,,22018Ouray
+2,2018,Park,0,,,,NR,,22018Park
+2,2018,Pitkin,1831,,,,,,22018Pitkin
+2,2018,Pueblo,22316,,,,,,22018Pueblo
+2,2018,Routt,4637,,,,,,22018Routt
+2,2018,San Miguel,0,,,,NR,,22018San Miguel
+2,2018,Sedgwick,0,,,,NR,,22018Sedgwick
+2,2018,Summit,3329,,,,,,22018Summit
+2,2018,Weld,9757,,,,,,22018Weld
+2,2018,Sum of NR Counties,16126,,,,,,22018Sum of NR Counties
+1,2018,Adams,12001,,,,,,12018Adams
+1,2018,Alamosa,0,,,,NR,,12018Alamosa
+1,2018,Arapahoe,26048,,,,,,12018Arapahoe
+1,2018,Archuleta,0,,,,NR,,12018Archuleta
+1,2018,Boulder,53814,,,,,,12018Boulder
+1,2018,Chaffee,0,,,,NR,,12018Chaffee
+1,2018,Clear Creek,871,,,,,,12018Clear Creek
+1,2018,Denver,406884,,,,,,12018Denver
+1,2018,Eagle,3722,,,,,,12018Eagle
+1,2018,El Paso,236730,,,,,,12018El Paso
+1,2018,Fremont,4539,,,,,,12018Fremont
+1,2018,Garfield,6550,,,,,,12018Garfield
+1,2018,Gilpin,0,,,,NR,,12018Gilpin
+1,2018,Grand,0,,,,NR,,12018Grand
+1,2018,Gunnison,0,,,,NR,,12018Gunnison
+1,2018,Jefferson,52353,,,,,,12018Jefferson
+1,2018,La Plata,8393,,,,,,12018La Plata
+1,2018,Larimer,34043,,,,,,12018Larimer
+1,2018,Las Animas,1398,,,,,,12018Las Animas
+1,2018,Mesa,0,,,,NR,,12018Mesa
+1,2018,Moffat,0,,,,NR,,12018Moffat
+1,2018,Montezuma,1903,,,,,,12018Montezuma
+1,2018,Montrose,0,,,,NR,,12018Montrose
+1,2018,Morgan,0,,,,NR,,12018Morgan
+1,2018,Otero,0,,,,NR,,12018Otero
+1,2018,Ouray,0,,,,NR,,12018Ouray
+1,2018,Park,0,,,,NR,,12018Park
+1,2018,Pitkin,1620,,,,,,12018Pitkin
+1,2018,Pueblo,14941,,,,,,12018Pueblo
+1,2018,Routt,4921,,,,,,12018Routt
+1,2018,San Miguel,0,,,,NR,,12018San Miguel
+1,2018,Sedgwick,0,,,,NR,,12018Sedgwick
+1,2018,Summit,3552,,,,,,12018Summit
+1,2018,Teller,0,,,,NR,,12018Teller
+1,2018,Weld,11638,,,,,,12018Weld
+1,2018,Sum of NR Counties,16330,,,,,,12018Sum of NR Counties
+12,2017,Adams,11440,,,,,,122017Adams
+12,2017,Alamosa,0,,,,NR,,122017Alamosa
+12,2017,Arapahoe,29558,,,,,,122017Arapahoe
+12,2017,Archuleta,0,,,,NR,,122017Archuleta
+12,2017,Boulder,52374,,,,,,122017Boulder
+12,2017,Chaffee,0,,,,NR,,122017Chaffee
+12,2017,Clear Creek,1038,,,,,,122017Clear Creek
+12,2017,Denver,366058,,,,,,122017Denver
+12,2017,Eagle,3327,,,,,,122017Eagle
+12,2017,El Paso,206701,,,,,,122017El Paso
+12,2017,Fremont,3312,,,,,,122017Fremont
+12,2017,Garfield,6839,,,,,,122017Garfield
+12,2017,Gilpin,0,,,,NR,,122017Gilpin
+12,2017,Grand,0,,,,NR,,122017Grand
+12,2017,Gunnison,0,,,,NR,,122017Gunnison
+12,2017,Jefferson,40427,,,,,,122017Jefferson
+12,2017,La Plata,7055,,,,,,122017La Plata
+12,2017,Larimer,27212,,,,,,122017Larimer
+12,2017,Las Animas,1022,,,,,,122017Las Animas
+12,2017,Mesa,0,,,,NR,,122017Mesa
+12,2017,Montezuma,1527,,,,,,122017Montezuma
+12,2017,Montrose,0,,,,NR,,122017Montrose
+12,2017,Morgan,0,,,,NR,,122017Morgan
+12,2017,Otero,0,,,,NR,,122017Otero
+12,2017,Ouray,0,,,,NR,,122017Ouray
+12,2017,Park,0,,,,NR,,122017Park
+12,2017,Pitkin,1513,,,,,,122017Pitkin
+12,2017,Pueblo,10969,,,,,,122017Pueblo
+12,2017,Routt,0,,,,NR,,122017Routt
+12,2017,San Miguel,0,,,,NR,,122017San Miguel
+12,2017,Sedgwick,0,,,,NR,,122017Sedgwick
+12,2017,Summit,3219,,,,,,122017Summit
+12,2017,Weld,9840,,,,,,122017Weld
+12,2017,Sum of NR Counties,18207,,,,,,122017Sum of NR Counties
+11,2017,Adams,26582,,,,,,112017Adams
+11,2017,Alamosa,0,,,,NR,,112017Alamosa
+11,2017,Arapahoe,24137,,,,,,112017Arapahoe
+11,2017,Archuleta,0,,,,NR,,112017Archuleta
+11,2017,Boulder,51056,,,,,,112017Boulder
+11,2017,Chaffee,0,,,,NR,,112017Chaffee
+11,2017,Clear Creek,882,,,,,,112017Clear Creek
+11,2017,Denver,466517,,,,,,112017Denver
+11,2017,Eagle,3401,,,,,,112017Eagle
+11,2017,El Paso,227708,,,,,,112017El Paso
+11,2017,Fremont,4018,,,,,,112017Fremont
+11,2017,Garfield,8647,,,,,,112017Garfield
+11,2017,Gilpin,0,,,,NR,,112017Gilpin
+11,2017,Grand,0,,,,NR,,112017Grand
+11,2017,Gunnison,0,,,,NR,,112017Gunnison
+11,2017,Jefferson,49255,,,,,,112017Jefferson
+11,2017,La Plata,8389,,,,,,112017La Plata
+11,2017,Larimer,29191,,,,,,112017Larimer
+11,2017,Las Animas,999,,,,,,112017Las Animas
+11,2017,Mesa,0,,,,NR,,112017Mesa
+11,2017,Moffat,0,,,,NR,,112017Moffat
+11,2017,Montezuma,1302,,,,,,112017Montezuma
+11,2017,Montrose,0,,,,NR,,112017Montrose
+11,2017,Morgan,0,,,,NR,,112017Morgan
+11,2017,Otero,0,,,,NR,,112017Otero
+11,2017,Park,0,,,,NR,,112017Park
+11,2017,Pitkin,1611,,,,,,112017Pitkin
+11,2017,Pueblo,14313,,,,,,112017Pueblo
+11,2017,Routt,0,,,,NR,,112017Routt
+11,2017,San Miguel,0,,,,NR,,112017San Miguel
+11,2017,Sedgwick,0,,,,NR,,112017Sedgwick
+11,2017,Summit,3391,,,,,,112017Summit
+11,2017,Teller,0,,,,NR,,112017Teller
+11,2017,Weld,9155,,,,,,112017Weld
+11,2017,Sum of NR Counties,20312,,,,,,112017Sum of NR Counties
+10,2017,Adams,29766,,,,,,102017Adams
+10,2017,Alamosa,0,,,,NR,,102017Alamosa
+10,2017,Arapahoe,22182,,,,,,102017Arapahoe
+10,2017,Archuleta,0,,,,NR,,102017Archuleta
+10,2017,Boulder,49754,,,,,,102017Boulder
+10,2017,Chaffee,0,,,,NR,,102017Chaffee
+10,2017,Clear Creek,1160,,,,,,102017Clear Creek
+10,2017,Costilla,0,,,,NR,,102017Costilla
+10,2017,Denver,502759,,,,,,102017Denver
+10,2017,Eagle,4087,,,,,,102017Eagle
+10,2017,El Paso,240981,,,,,,102017El Paso
+10,2017,Fremont,4667,,,,,,102017Fremont
+10,2017,Garfield,10787,,,,,,102017Garfield
+10,2017,Gilpin,0,,,,NR,,102017Gilpin
+10,2017,Grand,0,,,,NR,,102017Grand
+10,2017,Jefferson,40777,,,,,,102017Jefferson
+10,2017,La Plata,8462,,,,,,102017La Plata
+10,2017,Larimer,32452,,,,,,102017Larimer
+10,2017,Las Animas,1181,,,,,,102017Las Animas
+10,2017,Mesa,0,,,,NR,,102017Mesa
+10,2017,Moffat,0,,,,NR,,102017Moffat
+10,2017,Montezuma,2098,,,,,,102017Montezuma
+10,2017,Montrose,0,,,,NR,,102017Montrose
+10,2017,Morgan,0,,,,NR,,102017Morgan
+10,2017,Otero,0,,,,NR,,102017Otero
+10,2017,Ouray,0,,,,NR,,102017Ouray
+10,2017,Park,0,,,,NR,,102017Park
+10,2017,Pitkin,1816,,,,,,102017Pitkin
+10,2017,Pueblo,15471,,,,,,102017Pueblo
+10,2017,Routt,0,,,,NR,,102017Routt
+10,2017,San Miguel,580,,,,,,102017San Miguel
+10,2017,Sedgwick,0,,,,NR,,102017Sedgwick
+10,2017,Summit,3245,,,,,,102017Summit
+10,2017,Weld,9260,,,,,,102017Weld
+10,2017,Sum of NR Counties,21774,,,,,,102017Sum of NR Counties
+9,2017,Adams,30520,,,,,,92017Adams
+9,2017,Alamosa,0,,,,NR,,92017Alamosa
+9,2017,Arapahoe,32494,,,,,,92017Arapahoe
+9,2017,Archuleta,0,,,,NR,,92017Archuleta
+9,2017,Boulder,50861,,,,,,92017Boulder
+9,2017,Chaffee,0,,,,NR,,92017Chaffee
+9,2017,Clear Creek,1102,,,,,,92017Clear Creek
+9,2017,Costilla,0,,,,NR,,92017Costilla
+9,2017,Denver,508760,,,,,,92017Denver
+9,2017,Eagle,4343,,,,,,92017Eagle
+9,2017,El Paso,232556,,,,,,92017El Paso
+9,2017,Fremont,5245,,,,,,92017Fremont
+9,2017,Garfield,9881,,,,,,92017Garfield
+9,2017,Gilpin,0,,,,NR,,92017Gilpin
+9,2017,Grand,0,,,,NR,,92017Grand
+9,2017,Jefferson,44969,,,,,,92017Jefferson
+9,2017,La Plata,8916,,,,,,92017La Plata
+9,2017,Larimer,31565,,,,,,92017Larimer
+9,2017,Las Animas,1333,,,,,,92017Las Animas
+9,2017,Mesa,0,,,,NR,,92017Mesa
+9,2017,Moffat,0,,,,NR,,92017Moffat
+9,2017,Montezuma,2667,,,,,,92017Montezuma
+9,2017,Montrose,0,,,,NR,,92017Montrose
+9,2017,Morgan,0,,,,NR,,92017Morgan
+9,2017,Otero,0,,,,NR,,92017Otero
+9,2017,Park,0,,,,NR,,92017Park
+9,2017,Pitkin,1867,,,,,,92017Pitkin
+9,2017,Pueblo,21657,,,,,,92017Pueblo
+9,2017,Routt,0,,,,NR,,92017Routt
+9,2017,San Miguel,473,,,,,,92017San Miguel
+9,2017,Sedgwick,0,,,,NR,,92017Sedgwick
+9,2017,Summit,3159,,,,,,92017Summit
+9,2017,Teller,0,,,,NR,,92017Teller
+9,2017,Weld,8927,,,,,,92017Weld
+9,2017,Sum of NR Counties,23236,,,,,,92017Sum of NR Counties
+8,2017,Adams,26195,,,,,,82017Adams
+8,2017,Alamosa,0,,,,NR,,82017Alamosa
+8,2017,Arapahoe,29587,,,,,,82017Arapahoe
+8,2017,Archuleta,0,,,,NR,,82017Archuleta
+8,2017,Boulder,55997,,,,,,82017Boulder
+8,2017,Chaffee,0,,,,NR,,82017Chaffee
+8,2017,Clear Creek,921,,,,,,82017Clear Creek
+8,2017,Costilla,0,,,,NR,,82017Costilla
+8,2017,Denver,507955,,,,,,82017Denver
+8,2017,Eagle,3990,,,,,,82017Eagle
+8,2017,El Paso,234542,,,,,,82017El Paso
+8,2017,Fremont,5740,,,,,,82017Fremont
+8,2017,Garfield,6908,,,,,,82017Garfield
+8,2017,Gilpin,0,,,,NR,,82017Gilpin
+8,2017,Grand,0,,,,NR,,82017Grand
+8,2017,Gunnison,0,,,,NR,,82017Gunnison
+8,2017,Jefferson,32199,,,,,,82017Jefferson
+8,2017,La Plata,8696,,,,,,82017La Plata
+8,2017,Larimer,33455,,,,,,82017Larimer
+8,2017,Las Animas,0,,,,NR,,82017Las Animas
+8,2017,Mesa,0,,,,NR,,82017Mesa
+8,2017,Moffat,0,,,,NR,,82017Moffat
+8,2017,Montezuma,2047,,,,,,82017Montezuma
+8,2017,Montrose,0,,,,NR,,82017Montrose
+8,2017,Morgan,0,,,,NR,,82017Morgan
+8,2017,Otero,0,,,,NR,,82017Otero
+8,2017,Ouray,0,,,,NR,,82017Ouray
+8,2017,Park,0,,,,NR,,82017Park
+8,2017,Pitkin,2076,,,,,,82017Pitkin
+8,2017,Pueblo,17460,,,,,,82017Pueblo
+8,2017,Routt,0,,,,NR,,82017Routt
+8,2017,San Miguel,753,,,,,,82017San Miguel
+8,2017,Sedgwick,0,,,,NR,,82017Sedgwick
+8,2017,Summit,3351,,,,,,82017Summit
+8,2017,Weld,8132,,,,,,82017Weld
+8,2017,Sum of NR Counties,23556,,,,,,82017Sum of NR Counties
+7,2017,Adams,30597,139506,,,,,72017Adams
+7,2017,Arapahoe,34103,279150,,,,,72017Arapahoe
+7,2017,Archuleta,0,19763,,,NR,,72017Archuleta
+7,2017,Boulder,53398,200148,,,,,72017Boulder
+7,2017,Chaffee,0,16274,,,NR,,72017Chaffee
+7,2017,Clear Creek,1585,16559,,,,,72017Clear Creek
+7,2017,Conejos,,14534,,,,,72017Conejos
+7,2017,Costilla,0,11438,,,NR,,72017Costilla
+7,2017,Denver,481698,885655,,,,,72017Denver
+7,2017,Eagle,3072,32069,,,,,72017Eagle
+7,2017,El Paso,253579,0,,,,NR,72017El Paso
+7,2017,Garfield,8239,58333,,,,,72017Garfield
+7,2017,Gilpin,0,7725,,,NR,,72017Gilpin
+7,2017,Grand,0,9385,,,NR,,72017Grand
+7,2017,Gunnison,0,10725,,,NR,,72017Gunnison
+7,2017,Huerfano,,0,,,,NR,72017Huerfano
+7,2017,Jefferson,32163,127460,,,,,72017Jefferson
+7,2017,La Plata,17234,63041,,,,,72017La Plata
+7,2017,Lake,,7274,,,,,72017Lake
+7,2017,Larimer,31333,141072,,,,,72017Larimer
+7,2017,Las Animas,926,126033,,,,,72017Las Animas
+7,2017,Mesa,0,0,,,NR,NR,72017Mesa
+7,2017,Montezuma,2140,52762,,,,,72017Montezuma
+7,2017,Morgan,0,24634,,,NR,,72017Morgan
+7,2017,Ouray,0,19357,,,NR,,72017Ouray
+7,2017,Park,0,12169,,,NR,,72017Park
+7,2017,Pitkin,1945,25771,,,,,72017Pitkin
+7,2017,Pueblo,21903,104818,,,,,72017Pueblo
+7,2017,Routt,0,23405,,,NR,,72017Routt
+7,2017,Saguache,,0,,,,NR,72017Saguache
+7,2017,San Juan,,0,,,,NR,72017San Juan
+7,2017,San Miguel,672,11970,,,,,72017San Miguel
+7,2017,Sedgwick,0,0,,,NR,NR,72017Sedgwick
+7,2017,Summit,2933,44262,,,,,72017Summit
+7,2017,Weld,8488,73106,,,,,72017Weld
+7,2017,Sum of NR Counties,20830,120778,,,,,72017Sum of NR Counties
+7,2017,Alamosa,0,,,,NR,,72017Alamosa
+7,2017,Fremont,5918,,,,,,72017Fremont
+7,2017,Moffat,0,,,,NR,,72017Moffat
+7,2017,Montrose,0,,,,NR,,72017Montrose
+7,2017,Otero,0,,,,NR,,72017Otero
+7,2017,Teller,0,,,,NR,,72017Teller
+6,2017,Adams,30141,138365,,,,,62017Adams
+6,2017,Arapahoe,33906,270122,,,,,62017Arapahoe
+6,2017,Archuleta,0,0,,,NR,NR,62017Archuleta
+6,2017,Boulder,55178,190372,,,,,62017Boulder
+6,2017,Chaffee,0,12647,,,NR,,62017Chaffee
+6,2017,Clear Creek,1256,13076,,,,,62017Clear Creek
+6,2017,Conejos,,12640,,,,,62017Conejos
+6,2017,Costilla,0,9352,,,NR,,62017Costilla
+6,2017,Denver,517605,885739,,,,,62017Denver
+6,2017,Eagle,3502,24541,,,,,62017Eagle
+6,2017,El Paso,267657,0,,,,NR,62017El Paso
+6,2017,Garfield,9703,54425,,,,,62017Garfield
+6,2017,Gilpin,0,8165,,,NR,,62017Gilpin
+6,2017,Grand,0,6192,,,NR,,62017Grand
+6,2017,Gunnison,0,15267,,,NR,,62017Gunnison
+6,2017,Huerfano,,0,,,,NR,62017Huerfano
+6,2017,Jefferson,29317,126205,,,,,62017Jefferson
+6,2017,La Plata,10397,57259,,,,,62017La Plata
+6,2017,Lake,,5782,,,,,62017Lake
+6,2017,Larimer,32395,131764,,,,,62017Larimer
+6,2017,Las Animas,0,89341,,,NR,,62017Las Animas
+6,2017,Mesa,0,0,,,NR,NR,62017Mesa
+6,2017,Montezuma,2214,52487,,,,,62017Montezuma
+6,2017,Morgan,0,29755,,,NR,,62017Morgan
+6,2017,Ouray,0,12599,,,NR,,62017Ouray
+6,2017,Park,0,10155,,,NR,,62017Park
+6,2017,Pitkin,1657,14163,,,,,62017Pitkin
+6,2017,Pueblo,20925,96357,,,,,62017Pueblo
+6,2017,Routt,4346,19046,,,,,62017Routt
+6,2017,Saguache,,0,,,,NR,62017Saguache
+6,2017,San Juan,,0,,,,NR,62017San Juan
+6,2017,San Miguel,383,5521,,,,,62017San Miguel
+6,2017,Sedgwick,0,0,,,NR,NR,62017Sedgwick
+6,2017,Summit,2855,32940,,,,,62017Summit
+6,2017,Weld,8099,73732,,,,,62017Weld
+6,2017,Sum of NR Counties,20451,129869,,,,,62017Sum of NR Counties
+6,2017,Alamosa,0,,,,NR,,62017Alamosa
+6,2017,Fremont,0,,,,NR,,62017Fremont
+6,2017,Moffat,0,,,,NR,,62017Moffat
+6,2017,Montrose,0,,,,NR,,62017Montrose
+6,2017,Otero,0,,,,NR,,62017Otero
+6,2017,Teller,0,,,,NR,,62017Teller
+5,2017,Adams,32817,141429,,,,,52017Adams
+5,2017,Arapahoe,24274,287048,,,,,52017Arapahoe
+5,2017,Archuleta,0,13515,,,NR,,52017Archuleta
+5,2017,Boulder,60974,177017,,,,,52017Boulder
+5,2017,Chaffee,0,10426,,,NR,,52017Chaffee
+5,2017,Clear Creek,1512,13646,,,,,52017Clear Creek
+5,2017,Conejos,,11856,,,,,52017Conejos
+5,2017,Costilla,0,7217,,,NR,,52017Costilla
+5,2017,Denver,532556,839280,,,,,52017Denver
+5,2017,Eagle,4509,40768,,,,,52017Eagle
+5,2017,El Paso,237951,0,,,,NR,52017El Paso
+5,2017,Garfield,8733,51969,,,,,52017Garfield
+5,2017,Gilpin,0,7475,,,NR,,52017Gilpin
+5,2017,Grand,0,6221,,,NR,,52017Grand
+5,2017,Gunnison,0,11860,,,NR,,52017Gunnison
+5,2017,Huerfano,,0,,,,NR,52017Huerfano
+5,2017,Jefferson,29147,134975,,,,,52017Jefferson
+5,2017,Lake,,7211,,,,,52017Lake
+5,2017,La Plata,8135,61222,,,,,52017La Plata
+5,2017,Larimer,31925,125328,,,,,52017Larimer
+5,2017,Las Animas,894,91940,,,,,52017Las Animas
+5,2017,Mesa,0,0,,,NR,NR,52017Mesa
+5,2017,Montezuma,2032,44742,,,,,52017Montezuma
+5,2017,Morgan,0,0,,,NR,NR,52017Morgan
+5,2017,Ouray,0,0,,,NR,NR,52017Ouray
+5,2017,Park,0,8856,,,NR,,52017Park
+5,2017,Pitkin,0,17181,,,NR,,52017Pitkin
+5,2017,Pueblo,18844,84883,,,,,52017Pueblo
+5,2017,Routt,5114,20380,,,,,52017Routt
+5,2017,Saguache,,0,,,,NR,52017Saguache
+5,2017,San Juan,,0,,,,NR,52017San Juan
+5,2017,San Miguel,654,10235,,,,,52017San Miguel
+5,2017,Sedgwick,0,0,,,NR,NR,52017Sedgwick
+5,2017,Summit,3962,45620,,,,,52017Summit
+5,2017,Weld,8173,75243,,,,,52017Weld
+5,2017,Combined Counties,,130366,,,,,52017Combined Counties
+5,2017,Alamosa,0,,,,NR,,52017Alamosa
+5,2017,Fremont,4982,,,,,,52017Fremont
+5,2017,Moffat,0,,,,NR,,52017Moffat
+5,2017,Montrose,0,,,,NR,,52017Montrose
+5,2017,Otero,0,,,,NR,,52017Otero
+5,2017,Teller,0,,,,NR,,52017Teller
+5,2017,Combined Counties 2,16892,,,,,,52017Combined Counties 2
+4,2017,Adams,26842,145724,,,,,42017Adams
+4,2017,Arapahoe,33771,282799,,,,,42017Arapahoe
+4,2017,Archuleta,,18619,,,,,42017Archuleta
+4,2017,Boulder,56283,176018,,,,,42017Boulder
+4,2017,Chaffee,,12371,,,,,42017Chaffee
+4,2017,Clear Creek,1815,18349,,,,,42017Clear Creek
+4,2017,Conejos,,11950,,,,,42017Conejos
+4,2017,Costilla,,9285,,,,,42017Costilla
+4,2017,Denver,538559,842583,,,,,42017Denver
+4,2017,Eagle,4584,42600,,,,,42017Eagle
+4,2017,Garfield,9433,56406,,,,,42017Garfield
+4,2017,Gilpin,,6473,,,,,42017Gilpin
+4,2017,Grand,,14253,,,,,42017Grand
+4,2017,Gunnison,,17986,,,,,42017Gunnison
+4,2017,Jefferson,46752,138054,,,,,42017Jefferson
+4,2017,La Plata,418,62570,,,,,42017La Plata
+4,2017,Larimer,32838,129580,,,,,42017Larimer
+4,2017,Las Animas,985,89954,,,,,42017Las Animas
+4,2017,Montezuma,1677,47539,,,,,42017Montezuma
+4,2017,Park,,10403,,,,,42017Park
+4,2017,Pitkin,705,41656,,,,,42017Pitkin
+4,2017,Pueblo,17842,100262,,,,,42017Pueblo
+4,2017,Routt,,28355,,,,,42017Routt
+4,2017,San Miguel,791,12539,,,,,42017San Miguel
+4,2017,Summit,4435,82597,,,,,42017Summit
+4,2017,Weld,8263,78402,,,,,42017Weld
+4,2017,Remainder of State,20678,138703,"Costilla, Gilpin, Grand, Mesa, Moffat, Montrose, Morgan, Otero, Park, Routt, Sedgwick, and Teller.","El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,42017Remainder of State
+4,2017,El Paso,264869,,,,,,42017El Paso
+4,2017,Fremont,5362,,,,,,42017Fremont
+3,2017,Adams,16881,118622,,,,,32017Adams
+3,2017,Arapahoe,39164,256518,,,,,32017Arapahoe
+3,2017,Archuleta,,15275,,,,,32017Archuleta
+3,2017,Boulder,61636,166310,,,,,32017Boulder
+3,2017,Chaffee,,9073,,,,,32017Chaffee
+3,2017,Clear Creek,1952,15946,,,,,32017Clear Creek
+3,2017,Conejos,,9536,,,,,32017Conejos
+3,2017,Costilla,,6232,,,,,32017Costilla
+3,2017,Denver,582381,860182,,,,,32017Denver
+3,2017,Eagle,3823,44064,,,,,32017Eagle
+3,2017,Garfield,7738,46369,,,,,32017Garfield
+3,2017,Gilpin,,5592,,,,,32017Gilpin
+3,2017,Grand,,10486,,,,,32017Grand
+3,2017,Gunnison,,22710,,,,,32017Gunnison
+3,2017,Jefferson,83809,112884,,,,,32017Jefferson
+3,2017,La Plata,7996,68476,,,,,32017La Plata
+3,2017,Lake,,5580,,,,,32017Lake
+3,2017,Larimer,30401,111818,,,,,32017Larimer
+3,2017,Las Animas,875,75067,,,,,32017Las Animas
+3,2017,Montezuma,1702,37104,,,,,32017Montezuma
+3,2017,Morgan,,22438,,,,,32017Morgan
+3,2017,Ouray,,14949,,,,,32017Ouray
+3,2017,Park,,7937,,,,,32017Park
+3,2017,Pitkin,3299,33421,,,,,32017Pitkin
+3,2017,Pueblo,17316,74493,,,,,32017Pueblo
+3,2017,Routt,4519,26802,,,,,32017Routt
+3,2017,San Miguel,483,9759,,,,,32017San Miguel
+3,2017,Summit,3889,70029,,,,,32017Summit
+3,2017,Weld,7480,69558,,,,,32017Weld
+3,2017,Remainder of State,13015,96165,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison,  Mesa, Moffat, Montrose, Morgan, Otero, Ouray, Park, and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan, and Sedgwick.",,,32017Remainder of State
+3,2017,El Paso,216143,,,,,,32017El Paso
+3,2017,Fremont,6812,,,,,,32017Fremont
+2,2017,Adams,21071,127372,,,,,22017Adams
+2,2017,Arapahoe,27713,229318,,,,,22017Arapahoe
+2,2017,Archuletta,,15507,,,,,22017Archuletta
+2,2017,Boulder,57350,160367,,,,,22017Boulder
+2,2017,Chaffee,,9199,,,,,22017Chaffee
+2,2017,Clear Creek,1469,16698,,,,,22017Clear Creek
+2,2017,Conejos,,8494,,,,,22017Conejos
+2,2017,Costilla,,6166,,,,,22017Costilla
+2,2017,Denver,431934,747069,,,,,22017Denver
+2,2017,Eagle,5601,49642,,,,,22017Eagle
+2,2017,Garfield,8672,39091,,,,,22017Garfield
+2,2017,Gilpin,,4495,,,,,22017Gilpin
+2,2017,Grand,,10764,,,,,22017Grand
+2,2017,Gunnison,,10871,,,,,22017Gunnison
+2,2017,Jefferson,39660,116005,,,,,22017Jefferson
+2,2017,La Plata,8717,47922,,,,,22017La Plata
+2,2017,Lake,,5566,,,,,22017Lake
+2,2017,Larimer,27286,100562,,,,,22017Larimer
+2,2017,Las Animas,,58200,,,,,22017Las Animas
+2,2017,Montezuma,3140,46063,,,,,22017Montezuma
+2,2017,Ouray,,10759,,,,,22017Ouray
+2,2017,Park,,7784,,,,,22017Park
+2,2017,Pitkin,2087,30840,,,,,22017Pitkin
+2,2017,Pueblo,7671,60707,,,,,22017Pueblo
+2,2017,Routt,5226,27362,,,,,22017Routt
+2,2017,San Miguel,1031,14527,,,,,22017San Miguel
+2,2017,Summit,,85554,,,,,22017Summit
+2,2017,Weld,7422,67803,,,,,22017Weld
+2,2017,Remainder of State,22330,69020,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Otero, Ouray, Park, Sedgwick, Summit, Teller","El Paso, Huerfano, Mesa, Morgan, Saguache, San Juan,and Sedgwick.",,,22017Remainder of State
+2,2017,El Paso,194433,,,,,,22017El Paso
+1,2017,Adams,14960,126839,,,,,12017Adams
+1,2017,Arapahoe,37520,268979,,,,,12017Arapahoe
+1,2017,Boulder,59231,161640,,,,,12017Boulder
+1,2017,Chaffee,,10341,,,,,12017Chaffee
+1,2017,Clear Creek,1738,20964,,,,,12017Clear Creek
+1,2017,Conejos,,9755,,,,,12017Conejos
+1,2017,Costilla,,7616,,,,,12017Costilla
+1,2017,Denver,419489,762068,,,,,12017Denver
+1,2017,Eagle,4146,40748,,,,,12017Eagle
+1,2017,Garfield,7262,41432,,,,,12017Garfield
+1,2017,Gilpin,,5984,,,,,12017Gilpin
+1,2017,Grand,,11214,,,,,12017Grand
+1,2017,Gunnison,,18269,,,,,12017Gunnison
+1,2017,Jefferson,43750,123827,,,,,12017Jefferson
+1,2017,La Plata,10547,53458,,,,,12017La Plata
+1,2017,Lake,,5393,,,,,12017Lake
+1,2017,Larimer,32979,117689,,,,,12017Larimer
+1,2017,Las Animas,,69105,,,,,12017Las Animas
+1,2017,Montezuma,,29368,,,,,12017Montezuma
+1,2017,Morgan,,16595,,,,,12017Morgan
+1,2017,Ouray,,12170,,,,,12017Ouray
+1,2017,Park,,8799,,,,,12017Park
+1,2017,Pitkin,-5267,35168,,,,,12017Pitkin
+1,2017,Pueblo,19096,75918,,,,,12017Pueblo
+1,2017,Routt,5354,23201,,,,,12017Routt
+1,2017,San Miguel,858,9207,,,,,12017San Miguel
+1,2017,Summit,4581,63209,,,,,12017Summit
+1,2017,Weld,8586,71127,,,,,12017Weld
+1,2017,Remainder of State,16391,102910,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montezuma, Montrose, Morgan, Otero, Ouray, Park, Sedgwick, and Teller","Archuletta, El Paso, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,12017Remainder of State
+1,2017,El Paso,228115,,,,,,12017El Paso
+1,2017,Fremont,4871,,,,,,12017Fremont
+12,2016,Adams,11163,126500,,,,,122016Adams
+12,2016,Arapahoe,53043,262716,,,,,122016Arapahoe
+12,2016,Boulder,51198,158528,,,,,122016Boulder
+12,2016,Chaffee,,9011,,,,,122016Chaffee
+12,2016,Clear Creek,1964,7916,,,,,122016Clear Creek
+12,2016,Conejos,,9321,,,,,122016Conejos
+12,2016,Costilla,,8088,,,,,122016Costilla
+12,2016,Denver,463738,649705,,,,,122016Denver
+12,2016,Eagle,3115,20409,,,,,122016Eagle
+12,2016,Garfield,8986,38635,,,,,122016Garfield
+12,2016,Gilpin,,5465,,,,,122016Gilpin
+12,2016,Grand,,7132,,,,,122016Grand
+12,2016,Gunnison,,5355,,,,,122016Gunnison
+12,2016,Jefferson,44066,111901,,,,,122016Jefferson
+12,2016,La Plata,8336,47240,,,,,122016La Plata
+12,2016,Larimer,33072,116143,,,,,122016Larimer
+12,2016,Las Animas,,69656,,,,,122016Las Animas
+12,2016,Montezuma,1762,37649,,,,,122016Montezuma
+12,2016,Morgan,,16096,,,,,122016Morgan
+12,2016,Ouray,,7165,,,,,122016Ouray
+12,2016,Park,,8250,,,,,122016Park
+12,2016,Pitkin,2831,12437,,,,,122016Pitkin
+12,2016,Pueblo,18775,63904,,,,,122016Pueblo
+12,2016,Routt,4862,17389,,,,,122016Routt
+12,2016,San Miguel,815,4306,,,,,122016San Miguel
+12,2016,Summit,,31614,,,,,122016Summit
+12,2016,Weld,,68979,,,,,122016Weld
+12,2016,Remainder of State,26739,109436,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, Summit, Teller and Weld","Archuletta, El Paso, Huerfano, Lake, Mesa, Saguache and Sedgwick.",,,122016Remainder of State
+12,2016,El Paso,214815,,,,,,122016El Paso
+11,2016,Adams,11675,131759,,,,,112016Adams
+11,2016,Arapahoe,27635,244765,,,,,112016Arapahoe
+11,2016,Archuletta,,15865,,,,,112016Archuletta
+11,2016,Boulder,61483,171652,,,,,112016Boulder
+11,2016,Chaffee,,10286,,,,,112016Chaffee
+11,2016,Clear Creek,1948,14014,,,,,112016Clear Creek
+11,2016,Conejos,,10932,,,,,112016Conejos
+11,2016,Costilla,,6213,,,,,112016Costilla
+11,2016,Denver,464066,834362,,,,,112016Denver
+11,2016,Eagle,4361,25591,,,,,112016Eagle
+11,2016,Garfield,13996,48610,,,,,112016Garfield
+11,2016,Gilpin,,6934,,,,,112016Gilpin
+11,2016,Grand,,7333,,,,,112016Grand
+11,2016,Gunnison,,16367,,,,,112016Gunnison
+11,2016,Jefferson,47826,120253,,,,,112016Jefferson
+11,2016,Lake,,5771,,,,,112016Lake
+11,2016,La Plata,10546,53367,,,,,112016La Plata
+11,2016,Larimer,33250,116304,,,,,112016Larimer
+11,2016,Las Animas,,65542,,,,,112016Las Animas
+11,2016,Montezuma,1727,36938,,,,,112016Montezuma
+11,2016,Morgan,,18137,,,,,112016Morgan
+11,2016,Ouray,,11529,,,,,112016Ouray
+11,2016,Park,,8861,,,,,112016Park
+11,2016,Pitkin,5249,14486,,,,,112016Pitkin
+11,2016,Pueblo,18943,83993,,,,,112016Pueblo
+11,2016,Routt,5721,19885,,,,,112016Routt
+11,2016,San Miguel,1135,7181,,,,,112016San Miguel
+11,2016,Summit,4392,41152,,,,,112016Summit
+11,2016,Weld,6768,72233,,,,,112016Weld
+11,2016,Remainder of State,16178,101444,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,112016Remainder of State
+11,2016,El Paso,241652,,,,,,112016El Paso
+11,2016,Fremont,4448,,,,,,112016Fremont
+10,2016,Adams,12256,134529,,,,,102016Adams
+10,2016,Arapahoe,52992,295759,,,,,102016Arapahoe
+10,2016,Archuletta,,20920,,,,,102016Archuletta
+10,2016,Boulder,65768,181889,,,,,102016Boulder
+10,2016,Chaffee,,14237,,,,,102016Chaffee
+10,2016,Clear Creek,3214,24259,,,,,102016Clear Creek
+10,2016,Conejos,,12378,,,,,102016Conejos
+10,2016,Costilla,,8933,,,,,102016Costilla
+10,2016,Denver,551137,821214,,,,,102016Denver
+10,2016,Eagle,5870,27734,,,,,102016Eagle
+10,2016,Garfield,10700,51113,,,,,102016Garfield
+10,2016,Gilpin,,7873,,,,,102016Gilpin
+10,2016,Gunnison,,15602,,,,,102016Gunnison
+10,2016,Jefferson,43541,129204,,,,,102016Jefferson
+10,2016,Lake,,7375,,,,,102016Lake
+10,2016,La Plata,12433,57067,,,,,102016La Plata
+10,2016,Larimer,34856,123484,,,,,102016Larimer
+10,2016,Las Animas,,71307,,,,,102016Las Animas
+10,2016,Montezuma,2491,41872,,,,,102016Montezuma
+10,2016,Morgan,,21581,,,,,102016Morgan
+10,2016,Ouray,,11446,,,,,102016Ouray
+10,2016,Park,,10504,,,,,102016Park
+10,2016,Pitkin,3682,23809,,,,,102016Pitkin
+10,2016,Pueblo,25159,90793,,,,,102016Pueblo
+10,2016,Routt,,23051,,,,,102016Routt
+10,2016,San Miguel,1465,10627,,,,,102016San Miguel
+10,2016,Summit,3982,39248,,,,,102016Summit
+10,2016,Weld,9953,73053,,,,,102016Weld
+10,2016,Remainder of State,25804,123546,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Routt, Sedgwick, and Teller","El Paso, Grand, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,102016Remainder of State
+10,2016,El Paso,240154,,,,,,102016El Paso
+10,2016,Fremont,4616,,,,,,102016Fremont
+9,2016,Adams,14137,135706,,,,,92016Adams
+9,2016,Arapahoe,35593,224305,,,,,92016Arapahoe
+9,2016,Archuletta,,21681,,,,,92016Archuletta
+9,2016,Boulder,65305,187323,,,,,92016Boulder
+9,2016,Clear Creek,1622,17103,,,,,92016Clear Creek
+9,2016,Conejos,,12098,,,,,92016Conejos
+9,2016,Costilla,,11409,,,,,92016Costilla
+9,2016,Denver,593786,782584,,,,,92016Denver
+9,2016,Eagle,7644,32453,,,,,92016Eagle
+9,2016,Garfield,11795,42285,,,,,92016Garfield
+9,2016,Gilpin,,7264,,,,,92016Gilpin
+9,2016,Grand,,11429,,,,,92016Grand
+9,2016,Gunnison,,17911,,,,,92016Gunnison
+9,2016,Jefferson,48918,127350,,,,,92016Jefferson
+9,2016,Lake,,8743,,,,,92016Lake
+9,2016,La Plata,12824,65555,,,,,92016La Plata
+9,2016,Larimer,36572,122957,,,,,92016Larimer
+9,2016,Las Animas,,63143,,,,,92016Las Animas
+9,2016,Montezuma,1467,30232,,,,,92016Montezuma
+9,2016,Ouray,,14900,,,,,92016Ouray
+9,2016,Park,,11079,,,,,92016Park
+9,2016,Pitkin,4093,28751,,,,,92016Pitkin
+9,2016,Pueblo,24628,90059,,,,,92016Pueblo
+9,2016,Routt,4811,25874,,,,,92016Routt
+9,2016,San Miguel,1331,12256,,,,,92016San Miguel
+9,2016,Summit,4642,45932,,,,,92016Summit
+9,2016,Weld,9473,69389,,,,,92016Weld
+9,2016,Remainder of State,18826,155234,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Chaffee, El Paso, Huerfano, Mesa, Morgan, Saguache,San Juan, and Sedgwick.",,,92016Remainder of State
+9,2016,El Paso,256397,,,,,,92016El Paso
+9,2016,Fremont,6898,,,,,,92016Fremont
+8,2016,Adams,11436,119706,,,,,82016Adams
+8,2016,Arapahoe,43337,252705,,,,,82016Arapahoe
+8,2016,Boulder,65391,197795,,,,,82016Boulder
+8,2016,Clear Creek,1939,21397,,,,,82016Clear Creek
+8,2016,Conejos,,12228,,,,,82016Conejos
+8,2016,Costilla,,12180,,,,,82016Costilla
+8,2016,Denver,541784,742595,,,,,82016Denver
+8,2016,Eagle,5229,32219,,,,,82016Eagle
+8,2016,Garfield,12101,47044,,,,,82016Garfield
+8,2016,Gilpin,,7001,,,,,82016Gilpin
+8,2016,Grand,,10850,,,,,82016Grand
+8,2016,Gunnison,,19887,,,,,82016Gunnison
+8,2016,Jefferson,46395,123060,,,,,82016Jefferson
+8,2016,Lake,,8087,,,,,82016Lake
+8,2016,La Plata,11781,62472,,,,,82016La Plata
+8,2016,Larimer,35770,120062,,,,,82016Larimer
+8,2016,Las Animas,,62820,,,,,82016Las Animas
+8,2016,Montezuma,2907,34131,,,,,82016Montezuma
+8,2016,Morgan,,19195,,,,,82016Morgan
+8,2016,Ouray,,26344,,,,,82016Ouray
+8,2016,Park,,11131,,,,,82016Park
+8,2016,Pitkin,-484,33561,,,,,82016Pitkin
+8,2016,Pueblo,25958,68193,,,,,82016Pueblo
+8,2016,Routt,4537,27003,,,,,82016Routt
+8,2016,San Miguel,1227,13271,,,,,82016San Miguel
+8,2016,Summit,4772,50769,,,,,82016Summit
+8,2016,Weld,9284,67760,,,,,82016Weld
+8,2016,Remainder of State,19267,147368,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Archuletta, Chaffee, El Paso, Mesa, Saguache, San Juan, and Sedgwick.",,,82016Remainder of State
+8,2016,El Paso,240225,,,,,,82016El Paso
+8,2016,Fremont,6442,,,,,,82016Fremont
+7,2016,Adams,9942,157219,,,,,72016Adams
+7,2016,Arapahoe,41835,244207,,,,,72016Arapahoe
+7,2016,Auchuletta,,17924,,,,,72016Auchuletta
+7,2016,Boulder,73253,162835,,,,,72016Boulder
+7,2016,Chaffee,,13389,,,,,72016Chaffee
+7,2016,Clear Creek,1918,12881,,,,,72016Clear Creek
+7,2016,Conejos,,9429,,,,,72016Conejos
+7,2016,Costilla,,5697,,,,,72016Costilla
+7,2016,Denver,533148,641595,,,,,72016Denver
+7,2016,Eagle,5159,24364,,,,,72016Eagle
+7,2016,Garfield,12233,41327,,,,,72016Garfield
+7,2016,Gilpin,,6023,,,,,72016Gilpin
+7,2016,Grand,,7422,,,,,72016Grand
+7,2016,Gunnison,,14784,,,,,72016Gunnison
+7,2016,Jefferson,48524,127640,,,,,72016Jefferson
+7,2016,Lake,,6064,,,,,72016Lake
+7,2016,La Plata,12367,52431,,,,,72016La Plata
+7,2016,Larimer,27483,106318,,,,,72016Larimer
+7,2016,Las Animas,,46850,,,,,72016Las Animas
+7,2016,Montezuma,2693,26396,,,,,72016Montezuma
+7,2016,Morgan,,16582,,,,,72016Morgan
+7,2016,Park,,8777,,,,,72016Park
+7,2016,Pitkin,3669,19520,,,,,72016Pitkin
+7,2016,Pueblo,22110,63232,,,,,72016Pueblo
+7,2016,Routt,3988,19063,,,,,72016Routt
+7,2016,San Miguel,1100,8789,,,,,72016San Miguel
+7,2016,Summit,4300,36181,,,,,72016Summit
+7,2016,Weld,8446,57561,,,,,72016Weld
+7,2016,Remainder of State,18177,108050,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","El Paso, Mesa, Ouray, Saguache, San Juan and Sedgwick.",,,72016Remainder of State
+7,2016,El Paso,231702,,,,,,72016El Paso
+7,2016,Fremont,6249,,,,,,72016Fremont
+6,2016,Adams,14686,49134,,,,,62016Adams
+6,2016,Arapahoe,36871,179467,,,,,62016Arapahoe
+6,2016,Auchuletta,,12901,,,,,62016Auchuletta
+6,2016,Boulder,58530,149874,,,,,62016Boulder
+6,2016,Chaffee,,9725,,,,,62016Chaffee
+6,2016,Clear Creek,2333,14968,,,,,62016Clear Creek
+6,2016,Conejos,,7320,,,,,62016Conejos
+6,2016,Costilla,,7007,,,,,62016Costilla
+6,2016,Denver,502345,590835,,,,,62016Denver
+6,2016,Eagle,10830,18789,,,,,62016Eagle
+6,2016,Garfield,12213,31113,,,,,62016Garfield
+6,2016,Gilpin,701,6137,,,,,62016Gilpin
+6,2016,Grand,,5372,,,,,62016Grand
+6,2016,Gunnison,,10558,,,,,62016Gunnison
+6,2016,Jefferson,40732,80966,,,,,62016Jefferson
+6,2016,Lake,,4322,,,,,62016Lake
+6,2016,La Plata,11219,44684,,,,,62016La Plata
+6,2016,Larimer,38915,121409,,,,,62016Larimer
+6,2016,Las Animas,,42030,,,,,62016Las Animas
+6,2016,Montezuma,2975,24750,,,,,62016Montezuma
+6,2016,Morgan,,20496,,,,,62016Morgan
+6,2016,Ouray,,8624,,,,,62016Ouray
+6,2016,Park,,7126,,,,,62016Park
+6,2016,Pitkin,4429,8279,,,,,62016Pitkin
+6,2016,Pueblo,29804,50859,,,,,62016Pueblo
+6,2016,Routt,,13756,,,,,62016Routt
+6,2016,San Miguel,1476,7250,,,,,62016San Miguel
+6,2016,Summit,4526,28576,,,,,62016Summit
+6,2016,Weld,10104,57981,,,,,62016Weld
+6,2016,Remainder of State,20882,92188,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray,Park, Routt and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan and Sedgwick.",,,62016Remainder of State
+6,2016,El Paso,247396,,,,,,62016El Paso
+6,2016,Fremont,6259,,,,,,62016Fremont
+5,2016,Adams,17594,140229,,,,,52016Adams
+5,2016,Arapahoe,62995,256522,,,,,52016Arapahoe
+5,2016,Boulder,80529,164305,,,,,52016Boulder
+5,2016,Chaffee,,8654,,,,,52016Chaffee
+5,2016,Clear Creek,2372,9744,,,,,52016Clear Creek
+5,2016,Conejos,,6314,,,,,52016Conejos
+5,2016,Costilla,,5163,,,,,52016Costilla
+5,2016,Denver,518807,770799,,,,,52016Denver
+5,2016,Eagle,3760,27045,,,,,52016Eagle
+5,2016,Garfield,15483,29640,,,,,52016Garfield
+5,2016,Gilpin,,6747,,,,,52016Gilpin
+5,2016,Grand,,6615,,,,,52016Grand
+5,2016,Gunnison,,11564,,,,,52016Gunnison
+5,2016,Jefferson,52014,131325,,,,,52016Jefferson
+5,2016,La Plata,11506,43195,,,,,52016La Plata
+5,2016,Larimer,38172,75328,,,,,52016Larimer
+5,2016,Las Animas,,43614,,,,,52016Las Animas
+5,2016,Montezuma,3164,20631,,,,,52016Montezuma
+5,2016,Park,,5851,,,,,52016Park
+5,2016,Pitkin,2474,15594,,,,,52016Pitkin
+5,2016,Pueblo,28412,60223,,,,,52016Pueblo
+5,2016,Routt,5292,15859,,,,,52016Routt
+5,2016,San Miguel,1538,7413,,,,,52016San Miguel
+5,2016,Summit,6673,54016,,,,,52016Summit
+5,2016,Weld,18193,89650,,,,,52016Weld
+5,2016,Remainder of State,17042,141231,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick and Teller","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,52016Remainder of State
+5,2016,El Paso,250786,,,,,,52016El Paso
+5,2016,Fremont,8262,,,,,,52016Fremont
+4,2016,Adams,4602,37034,,,,,42016Adams
+4,2016,Arapahoe,22393,163688,,,,,42016Arapahoe
+4,2016,Boulder,73164,131661,,,,,42016Boulder
+4,2016,Chaffee,,10012,,,,,42016Chaffee
+4,2016,Clear Creek,2602,14678,,,,,42016Clear Creek
+4,2016,Conejos,,6067,,,,,42016Conejos
+4,2016,Costilla,,5373,,,,,42016Costilla
+4,2016,Denver,450002,519517,,,,,42016Denver
+4,2016,Eagle,8681,33497,,,,,42016Eagle
+4,2016,Garfield,11204,30434,,,,,42016Garfield
+4,2016,Gilpin,,4751,,,,,42016Gilpin
+4,2016,Grand,,10273,,,,,42016Grand
+4,2016,Gunnison,,14378,,,,,42016Gunnison
+4,2016,Jefferson,42725,65274,,,,,42016Jefferson
+4,2016,La Plata,11345,47159,,,,,42016La Plata
+4,2016,Larimer,35866,93180,,,,,42016Larimer
+4,2016,Las Animas,,29997,,,,,42016Las Animas
+4,2016,Montezuma,2886,20885,,,,,42016Montezuma
+4,2016,Park,,6662,,,,,42016Park
+4,2016,Pitkin,6138,22556,,,,,42016Pitkin
+4,2016,Pueblo,10557,42687,,,,,42016Pueblo
+4,2016,Routt,6183,22235,,,,,42016Routt
+4,2016,Summit,,55819,,,,,42016Summit
+4,2016,Weld,,25947,,,,,42016Weld
+4,2016,Remainder of State,30207,142619,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick, Summit, Teller and Weld","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Miguel and Sedgwick.",,,42016Remainder of State
+4,2016,El Paso,213427,,,,,,42016El Paso
+4,2016,Fremont,5483,,,,,,42016Fremont
+3,2016,Adams,12248,87812,,,,,32016Adams
+3,2016,Arapahoe,47138,194786,,,,,32016Arapahoe
+3,2016,Boulder,71056,129140,,,,,32016Boulder
+3,2016,Chaffee,,8278,,,,,32016Chaffee
+3,2016,Clear Creek,3720,16839,,,,,32016Clear Creek
+3,2016,Conejos,,4639,,,,,32016Conejos
+3,2016,Costilla,,4627,,,,,32016Costilla
+3,2016,Denver,456044,569776,,,,,32016Denver
+3,2016,Eagle,8036,33338,,,,,32016Eagle
+3,2016,Garfield,8715,21612,,,,,32016Garfield
+3,2016,Gilpin,,4060,,,,,32016Gilpin
+3,2016,Grand,,7975,,,,,32016Grand
+3,2016,Gunnison,,6715,,,,,32016Gunnison
+3,2016,Jefferson,42654,87068,,,,,32016Jefferson
+3,2016,La Plata,10103,44645,,,,,32016La Plata
+3,2016,Larimer,31192,69294,,,,,32016Larimer
+3,2016,Las Animas,,2701,,,,,32016Las Animas
+3,2016,Montezuma,2883,17237,,,,,32016Montezuma
+3,2016,Park,,5117,,,,,32016Park
+3,2016,Pitkin,3238,26688,,,,,32016Pitkin
+3,2016,Pueblo,25507,36195,,,,,32016Pueblo
+3,2016,Routt,6097,22696,,,,,32016Routt
+3,2016,San Miguel,1558,12861,,,,,32016San Miguel
+3,2016,Summit,7018,73994,,,,,32016Summit
+3,2016,Weld,9615,54678,,,,,32016Weld
+3,2016,Remainder of State,23448,89878,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Juan, Sedgwick and Teller","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,32016Remainder of State
+3,2016,El Paso,196527,,,,,,32016El Paso
+2,2016,Adams,10424,75954,,,,,22016Adams
+2,2016,Arapahoe,41280,169337,,,,,22016Arapahoe
+2,2016,Archuletta,,12104,,,,,22016Archuletta
+2,2016,Boulder,77845,141228,,,,,22016Boulder
+2,2016,Chaffee,,9809,,,,,22016Chaffee
+2,2016,Clear Creek,2663,17808,,,,,22016Clear Creek
+2,2016,Denver,403927,546434,,,,,22016Denver
+2,2016,Eagle,8443,34568,,,,,22016Eagle
+2,2016,Garfield,10145,20432,,,,,22016Garfield
+2,2016,Gilpin,,2602,,,,,22016Gilpin
+2,2016,Grand,,8248,,,,,22016Grand
+2,2016,Gunnison,,11923,,,,,22016Gunnison
+2,2016,Jefferson,53493,83812,,,,,22016Jefferson
+2,2016,La Plata,10221,33211,,,,,22016La Plata
+2,2016,Larimer,34586,76031,,,,,22016Larimer
+2,2016,Las Animas,,25320,,,,,22016Las Animas
+2,2016,Montezuma,2225,15259,,,,,22016Montezuma
+2,2016,Park,,5691,,,,,22016Park
+2,2016,Pitkin,5244,22303,,,,,22016Pitkin
+2,2016,Pueblo,18984,37624,,,,,22016Pueblo
+2,2016,Routt,5702,23169,,,,,22016Routt
+2,2016,San Miguel,,8280,,,,,22016San Miguel
+2,2016,Summit,5433,59410,,,,,22016Summit
+2,2016,Weld,11465,49478,,,,,22016Weld
+2,2016,Remainder of State,17002,94078,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick and Teller","Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick",,,22016Remainder of State
+2,2016,El Paso,175444,,,,,,22016El Paso
+2,2016,Fremont,3448,,,,,,22016Fremont
+1,2016,Adams,13325.84,80780.43,,,,,12016Adams
+1,2016,Arapahoe,57608,192698.8,,,,,12016Arapahoe
+1,2016,Archuletta,,13143.02,,,,,12016Archuletta
+1,2016,Boulder,78352.34,147666,,,,,12016Boulder
+1,2016,Clear Creek,1654.24,13107.1,,,,,12016Clear Creek
+1,2016,Denver,532544.51,623071.7,,,,,12016Denver
+1,2016,Eagle,8600.65,28934,,,,,12016Eagle
+1,2016,Garfield,10258.21,20021,,,,,12016Garfield
+1,2016,Gilpin,,4231.51,,,,,12016Gilpin
+1,2016,Grand,,7869,,,,,12016Grand
+1,2016,Gunnison,,16366.65,,,,,12016Gunnison
+1,2016,Jefferson,52362.51,99504.98,,,,,12016Jefferson
+1,2016,La Plata,10374,38850.85,,,,,12016La Plata
+1,2016,Larimer,38714.44,92223.06,,,,,12016Larimer
+1,2016,Las Animas,,37037.56,,,,,12016Las Animas
+1,2016,Montezuma,2522,16163,,,,,12016Montezuma
+1,2016,Park,,5638.87,,,,,12016Park
+1,2016,Pitkin,2269.09,18546.89,,,,,12016Pitkin
+1,2016,Pueblo,16291.63,38557.01,,,,,12016Pueblo
+1,2016,Routt,5707,19239,,,,,12016Routt
+1,2016,San Miguel,1285,9392,,,,,12016San Miguel
+1,2016,Summit,6563,47979,,,,,12016Summit
+1,2016,Weld,10788,52765,,,,,12016Weld
+1,2016,Remainder of State,20608.7,120294.3,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Parkand Sedgwick","Chaffee, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick.",,,12016Remainder of State
+1,2016,El Paso,221778.72,,,,,,12016El Paso
+1,2016,Fremont,5619.17,,,,,,12016Fremont
+12,2015,Adams,12531,71941,,,,,122015Adams
+12,2015,Arapahoe,29363,143866,,,,,122015Arapahoe
+12,2015,Boulder,65739,122809,,,,,122015Boulder
+12,2015,Chaffee,,7481,,,,,122015Chaffee
+12,2015,Clear Creek,1918,10212,,,,,122015Clear Creek
+12,2015,Denver,349026,532887,,,,,122015Denver
+12,2015,Eagle,7829,17202,,,,,122015Eagle
+12,2015,Garfield,12323,17447,,,,,122015Garfield
+12,2015,Gilpin,,6892,,,,,122015Gilpin
+12,2015,Grand,,4270,,,,,122015Grand
+12,2015,Gunnison,,12319,,,,,122015Gunnison
+12,2015,Jefferson,51412,82255,,,,,122015Jefferson
+12,2015,La Plata,9334,33367,,,,,122015La Plata
+12,2015,Larimer,33789,75864,,,,,122015Larimer
+12,2015,Las Animas,,29225,,,,,122015Las Animas
+12,2015,Montezuma,2621,15243,,,,,122015Montezuma
+12,2015,Park,,4729,,,,,122015Park
+12,2015,Pitkin,2216,10072,,,,,122015Pitkin
+12,2015,Pueblo,13094,31773,,,,,122015Pueblo
+12,2015,Routt,5123,12790,,,,,122015Routt
+12,2015,San Miguel,1117,3617,,,,,122015San Miguel
+12,2015,Summit,6045,28603,,,,,122015Summit
+12,2015,Weld,10147,48723,,,,,122015Weld
+12,2015,Remainder of State,17773,107872,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Parkand Sedgwick","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, and Sedgwick",,,122015Remainder of State
+12,2015,El Paso,195651,,,,,,122015El Paso
+12,2015,Fremont,2993,,,,,,122015Fremont
+11,2015,Adams,10389,61952,,,,,112015Adams
+11,2015,Arapahoe,55261,146573,,,,,112015Arapahoe
+11,2015,Boulder,71686,114280,,,,,112015Boulder
+11,2015,Chaffee,,9659,,,,,112015Chaffee
+11,2015,Clear Creek,-1047,15202,,,,,112015Clear Creek
+11,2015,Denver,341421,459988,,,,,112015Denver
+11,2015,Eagle,6487,22558,,,,,112015Eagle
+11,2015,Garfield,9933,24428,,,,,112015Garfield
+11,2015,Gilpin,,4088,,,,,112015Gilpin
+11,2015,Grand,,4754,,,,,112015Grand
+11,2015,Jefferson,43267,69015,,,,,112015Jefferson
+11,2015,La Plata,11351,39047,,,,,112015La Plata
+11,2015,Larimer,36690,69043,,,,,112015Larimer
+11,2015,Las Animas,,17734,,,,,112015Las Animas
+11,2015,Montezuma,2766,17999,,,,,112015Montezuma
+11,2015,Park,,5823,,,,,112015Park
+11,2015,Pitkin,2243,24772,,,,,112015Pitkin
+11,2015,Pueblo,21151,48792,,,,,112015Pueblo
+11,2015,Routt,5651,16490,,,,,112015Routt
+11,2015,San Miguel,1436,4733,,,,,112015San Miguel
+11,2015,Summit,6243,27750,,,,,112015Summit
+11,2015,Weld,11726,54546,,,,,112015Weld
+11,2015,Remainder of State,13988,117604,"Alamosa, Archuleta, Costilla, Gilpin, Grand, Las Animas, Mesa, Montrose, Park, Sedgwick and Teller","Archuleta, Conejos, Costilla, El Paso, Gunnison, Huerfano, Lake, Mesa,Morgan, Ouray, Saguache, and Sedgwick",,,112015Remainder of State
+11,2015,El Paso,222834,,,,,,112015El Paso
+11,2015,Fremont,6167,,,,,,112015Fremont
+10,2015,Adams,11809,58124,,,,,102015Adams
+10,2015,Arapahoe,59447,162428,,,,,102015Arapahoe
+10,2015,Boulder,82097,145808,,,,,102015Boulder
+10,2015,Chaffee,,12481,,,,,102015Chaffee
+10,2015,Clear Creek,2773,16734,,,,,102015Clear Creek
+10,2015,Denver,506809,554959,,,,,102015Denver
+10,2015,Eagle,9342,13900,,,,,102015Eagle
+10,2015,Garfield,13416,25968,,,,,102015Garfield
+10,2015,Gilpin,1158,4215,,,,,102015Gilpin
+10,2015,Grand,,5811,,,,,102015Grand
+10,2015,Gunnison,,9863,,,,,102015Gunnison
+10,2015,Jefferson,57101,87195,,,,,102015Jefferson
+10,2015,La Plata,13693,44053,,,,,102015La Plata
+10,2015,Larimer,41291,83080,,,,,102015Larimer
+10,2015,Las Animas,,30698,,,,,102015Las Animas
+10,2015,Montezuma,3434,18423,,,,,102015Montezuma
+10,2015,Ouray,,7326,,,,,102015Ouray
+10,2015,Park,,6442,,,,,102015Park
+10,2015,Pitkin,1413,21501,,,,,102015Pitkin
+10,2015,Pueblo,13700,31547,,,,,102015Pueblo
+10,2015,Routt,6078,18032,,,,,102015Routt
+10,2015,San Miguel,1500,10709,,,,,102015San Miguel
+10,2015,Summit,6584,32127,,,,,102015Summit
+10,2015,Weld,12559,54301,,,,,102015Weld
+10,2015,Remainder of State,18343,126936,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Saguache, San Juan, and Sedgwick",,,102015Remainder of State
+10,2015,El Paso,205403,,,,,,102015El Paso
+10,2015,Fremont,5479,,,,,,102015Fremont
+9,2015,Adams,12066,64198,,,,,92015Adams
+9,2015,Arapahoe,50269,146920,,,,,92015Arapahoe
+9,2015,Boulder,76606,143853,,,,,92015Boulder
+9,2015,Chaffee,,26628,,,,,92015Chaffee
+9,2015,Clear Creek,3498,15590,,,,,92015Clear Creek
+9,2015,Denver,554013,586938,,,,,92015Denver
+9,2015,Eagle,9619,21534,,,,,92015Eagle
+9,2015,Garfield,19390,25479,,,,,92015Garfield
+9,2015,Gilpin,2002,5873,,,,,92015Gilpin
+9,2015,Grand,,6709,,,,,92015Grand
+9,2015,Gunnison,,11567,,,,,92015Gunnison
+9,2015,Jefferson,54043,93836,,,,,92015Jefferson
+9,2015,La Plata,13036,43601,,,,,92015La Plata
+9,2015,Larimer,40572,83960,,,,,92015Larimer
+9,2015,Las Animas,,29937,,,,,92015Las Animas
+9,2015,Montezuma,4197,18421,,,,,92015Montezuma
+9,2015,Park,,7145,,,,,92015Park
+9,2015,Pitkin,1052,21266,,,,,92015Pitkin
+9,2015,Pueblo,16188,43612,,,,,92015Pueblo
+9,2015,Routt,5550,18826,,,,,92015Routt
+9,2015,San Miguel,1363,10865,,,,,92015San Miguel
+9,2015,Summit,6649,35311,,,,,92015Summit
+9,2015,Weld,12032,55954,,,,,92015Weld
+9,2015,Remainder of State,17603,141949,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,92015Remainder of State
+9,2015,El Paso,254156,,,,,,92015El Paso
+9,2015,Fremont,7227,,,,,,92015Fremont
+8,2015,Adams,11247,47992,,,,,82015Adams
+8,2015,Arapahoe,42537,128962,,,,,82015Arapahoe
+8,2015,Boulder,85442,144255,,,,,82015Boulder
+8,2015,Clear Creek,5431,17745,,,,,82015Clear Creek
+8,2015,Denver,518868,564813,,,,,82015Denver
+8,2015,Eagle,10580,21341,,,,,82015Eagle
+8,2015,Garfield,13010,27023,,,,,82015Garfield
+8,2015,Gilpin,,5384,,,,,82015Gilpin
+8,2015,Grand,,6643,,,,,82015Grand
+8,2015,Gunnison,,11898,,,,,82015Gunnison
+8,2015,Jefferson,62487,72547,,,,,82015Jefferson
+8,2015,La Plata,13626,44086,,,,,82015La Plata
+8,2015,Larimer,37648,78122,,,,,82015Larimer
+8,2015,Las Animas,,33301,,,,,82015Las Animas
+8,2015,Montezuma,3785,15391,,,,,82015Montezuma
+8,2015,Park,,7288,,,,,82015Park
+8,2015,Pitkin,4720,26886,,,,,82015Pitkin
+8,2015,Pueblo,22247,57042,,,,,82015Pueblo
+8,2015,Routt,5217,18512,,,,,82015Routt
+8,2015,San Miguel,1438,11526,,,,,82015San Miguel
+8,2015,Summit,7079,41913,,,,,82015Summit
+8,2015,Weld,10217,53585,,,,,82015Weld
+8,2015,Remainder of State,19576,145987,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Archuleta, Chaffee, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,82015Remainder of State
+8,2015,El Paso,233749,,,,,,82015El Paso
+8,2015,Fremont,7610,,,,,,82015Fremont
+7,2015,Denver,453698,489176,,,,,72015Denver
+7,2015,Arapahoe,65918,140304,,,,,72015Arapahoe
+7,2015,Boulder,73454,128318,,,,,72015Boulder
+7,2015,Clear Creek,1251,12586,,,,,72015Clear Creek
+7,2015,Eagle,6948,15169,,,,,72015Eagle
+7,2015,Garfield,10985,21748,,,,,72015Garfield
+7,2015,Gilpin,,3414,,,,,72015Gilpin
+7,2015,Grand,,4450,,,,,72015Grand
+7,2015,Gunnison,,8620,,,,,72015Gunnison
+7,2015,Jefferson,47617,92913,,,,,72015Jefferson
+7,2015,La Plata,16528,50681,,,,,72015La Plata
+7,2015,Larimer,32508,66800,,,,,72015Larimer
+7,2015,Las Animas,,19771,,,,,72015Las Animas
+7,2015,Montezuma,2580,14267,,,,,72015Montezuma
+7,2015,Park,,5447,,,,,72015Park
+7,2015,Pitkin,3074,15148,,,,,72015Pitkin
+7,2015,Pueblo,13504,35667,,,,,72015Pueblo
+7,2015,Routt,4484,14168,,,,,72015Routt
+7,2015,San Miguel,1725,10248,,,,,72015San Miguel
+7,2015,Summit,5646,26535,,,,,72015Summit
+7,2015,Weld,8071,48347,,,,,72015Weld
+7,2015,Remainder of State,19300,183025,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller.","Adams, Archuleta, Chaffee, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,72015Remainder of State
+7,2015,Adams,17209,,,,,,72015Adams
+7,2015,El Paso,197835,,,,,,72015El Paso
+7,2015,Fremont,5773,,,,,,72015Fremont
+6,2015,Adams,10298,17494,,,,,62015Adams
+6,2015,Arapahoe,41057,75778,,,,,62015Arapahoe
+6,2015,Boulder,76119,122172,,,,,62015Boulder
+6,2015,Chaffee,,7687,,,,,62015Chaffee
+6,2015,Clear Creek,4320,7734,,,,,62015Clear Creek
+6,2015,Denver,399814,486655,,,,,62015Denver
+6,2015,Eagle,9610,12211,,,,,62015Eagle
+6,2015,Garfield,10551,19986,,,,,62015Garfield
+6,2015,Gilpin,,5000,,,,,62015Gilpin
+6,2015,Gunnison,,4928,,,,,62015Gunnison
+6,2015,Jefferson,53242,68630,,,,,62015Jefferson
+6,2015,La Plata,4622,16893,,,,,62015La Plata
+6,2015,Larimer,34480,65977,,,,,62015Larimer
+6,2015,Las Animas,,15383,,,,,62015Las Animas
+6,2015,Montezuma,4947,10424,,,,,62015Montezuma
+6,2015,Park,,4790,,,,,62015Park
+6,2015,Pitkin,1753,6038,,,,,62015Pitkin
+6,2015,Pueblo,16626,47177,,,,,62015Pueblo
+6,2015,Routt,4593,12214,,,,,62015Routt
+6,2015,San Miguel,,3709,,,,,62015San Miguel
+6,2015,Summit,6292,20710,,,,,62015Summit
+6,2015,Weld,9608,46733,,,,,62015Weld
+6,2015,Remainder of State,23817,113845,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick, and Teller",,,,62015Remainder of State
+6,2015,El Paso,189852,,,,,,62015El Paso
+6,2015,Fremont,6856,,,,,,62015Fremont
+5,2015,Garfield,10780,17752,,,,,52015Garfield
+5,2015,Adams,13330,41082,,,,,52015Adams
+5,2015,Arapahoe,160958,106133,,,,,52015Arapahoe
+5,2015,Boulder,63067,113829,,,,,52015Boulder
+5,2015,Chaffee,,10746,,,,,52015Chaffee
+5,2015,Clear Creek,519,12211,,,,,52015Clear Creek
+5,2015,Denver,266771,499741,,,,,52015Denver
+5,2015,Eagle,9024,15172,,,,,52015Eagle
+5,2015,Gilpin,,4271,,,,,52015Gilpin
+5,2015,Gunnison,,5345,,,,,52015Gunnison
+5,2015,Jefferson,47633,56772,,,,,52015Jefferson
+5,2015,La Plata,20888,19742,,,,,52015La Plata
+5,2015,Larimer,36297,58823,,,,,52015Larimer
+5,2015,Las Animas,,13583,,,,,52015Las Animas
+5,2015,Montezuma,3876,7221,,,,,52015Montezuma
+5,2015,Park,,3452,,,,,52015Park
+5,2015,Pitkin,2096,13387,,,,,52015Pitkin
+5,2015,Pueblo,8459,38321,,,,,52015Pueblo
+5,2015,Routt,5432,12648,,,,,52015Routt
+5,2015,San Miguel,1112,4581,,,,,52015San Miguel
+5,2015,Summit,8644,27781,,,,,52015Summit
+5,2015,Weld,7984,43464,,,,,52015Weld
+5,2015,Remainder of State,17906,62820,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick",,,52015Remainder of State
+5,2015,El Paso,205057,,,,,,52015El Paso
+5,2015,Fremont,5371,,,,,,52015Fremont
+4,2015,Adams,11922,44220,,,,,42015Adams
+4,2015,Arapahoe,38362,67656,,,,,42015Arapahoe
+4,2015,Boulder,59855,109336,,,,,42015Boulder
+4,2015,Clear Creek,3926,12813,,,,,42015Clear Creek
+4,2015,Denver,418500,467578,,,,,42015Denver
+4,2015,Eagle,10326,24715,,,,,42015Eagle
+4,2015,Garfield,11415,18009,,,,,42015Garfield
+4,2015,Gilpin,,2769,,,,,42015Gilpin
+4,2015,Gunnison,,7593,,,,,42015Gunnison
+4,2015,Jefferson,46460,63009,,,,,42015Jefferson
+4,2015,La Plata,25085,25344,,,,,42015La Plata
+4,2015,Larimer,34075,55678,,,,,42015Larimer
+4,2015,Las Animas,,11821,,,,,42015Las Animas
+4,2015,Montezuma,3292,6468,,,,,42015Montezuma
+4,2015,Park,,4137,,,,,42015Park
+4,2015,Pitkin,2159,24023,,,,,42015Pitkin
+4,2015,Pueblo,14904,45710,,,,,42015Pueblo
+4,2015,Routt,5918,20381,,,,,42015Routt
+4,2015,San Miguel,1864,11014,,,,,42015San Miguel
+4,2015,Summit,6350,50715,,,,,42015Summit
+4,2015,Weld,12672,41189,,,,,42015Weld
+4,2015,Remainder of State,18972,83728,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,42015Remainder of State
+4,2015,El Paso,164229,,,,,,42015El Paso
+4,2015,Fremont,4907,,,,,,42015Fremont
+3,2015,Arapahoe,25790,62680,,,,,32015Arapahoe
+3,2015,Boulder,68817,94149,,,,,32015Boulder
+3,2015,Clear Creek,2273,13659,,,,,32015Clear Creek
+3,2015,Denver,358208,451969,,,,,32015Denver
+3,2015,Eagle,7839,21256,,,,,32015Eagle
+3,2015,Garfield,9913,14884,,,,,32015Garfield
+3,2015,Gilpin,839,2853,,,,,32015Gilpin
+3,2015,Gunnison,,6597,,,,,32015Gunnison
+3,2015,Jefferson,45154,67463,,,,,32015Jefferson
+3,2015,La Plata,24576,10605,,,,,32015La Plata
+3,2015,Larimer,32718,48469,,,,,32015Larimer
+3,2015,Las Animas,,8210,,,,,32015Las Animas
+3,2015,Montezuma,2668,5096,,,,,32015Montezuma
+3,2015,Pitkin,2594,23430,,,,,32015Pitkin
+3,2015,Pueblo,9870,23618,,,,,32015Pueblo
+3,2015,San Miguel,1039,5963,,,,,32015San Miguel
+3,2015,Summit,8650,51411,,,,,32015Summit
+3,2015,Weld,10221,36230,,,,,32015Weld
+3,2015,Remainder of State,22334,150472,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Routt, Sedgwick, and Teller","Adams, Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray, Park, Routt, Saguache, San Juan and Sedgwick",,,32015Remainder of State
+3,2015,Adams,15962,,,,,,32015Adams
+3,2015,El Paso,166821,,,,,,32015El Paso
+3,2015,Fremont,4350,,,,,,32015Fremont
+2,2015,Adams,8304,13092,,,,,22015Adams
+2,2015,Arapahoe,25572,53858,,,,,22015Arapahoe
+2,2015,Boulder,64260,109224,,,,,22015Boulder
+2,2015,Clear Creek,2117,12583,,,,,22015Clear Creek
+2,2015,Denver,363061,423513,,,,,22015Denver
+2,2015,Eagle,9390,20375,,,,,22015Eagle
+2,2015,Garfield,9421,17304,,,,,22015Garfield
+2,2015,Gilpin,1065,3893,,,,,22015Gilpin
+2,2015,Gunnison,587,9075,,,,,22015Gunnison
+2,2015,Jefferson,45470,48086,,,,,22015Jefferson
+2,2015,La Plata,25691,11858,,,,,22015La Plata
+2,2015,Larimer,33160,49274,,,,,22015Larimer
+2,2015,Las Animas,,6424,,,,,22015Las Animas
+2,2015,Pitkin,2245,23537,,,,,22015Pitkin
+2,2015,Pueblo,3328,26366,,,,,22015Pueblo
+2,2015,San Miguel,1529,11557,,,,,22015San Miguel
+2,2015,Summit,6351,50009,,,,,22015Summit
+2,2015,Weld,10194,34889,,,,,22015Weld
+2,2015,Remainder of State,15878,97711,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Lake, Las Animas, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Montezuma, Morgan,  Ouray, Park, Routt, Saguache, San Juan and Sedgwick",,,22015Remainder of State
+2,2015,El Paso,142988,,,,,,22015El Paso
+2,2015,Fremont,6779,,,,,,22015Fremont
+2,2015,Montezuma,3296,,,,,,22015Montezuma
+2,2015,Route,5104,,,,,,22015Route
+1,2015,Adams,13187,41848,,,,,12015Adams
+1,2015,Arapahoe,35071,41272,,,,,12015Arapahoe
+1,2015,Boulder,70604,93696,,,,,12015Boulder
+1,2015,Clear Creek,2331,11867,,,,,12015Clear Creek
+1,2015,Denver,408178,418985,,,,,12015Denver
+1,2015,Eagle,7794,21287,,,,,12015Eagle
+1,2015,Garfield,8249,16464,,,,,12015Garfield
+1,2015,Gilpin,922,2278,,,,,12015Gilpin
+1,2015,Gunnison,-350,7698,,,,,12015Gunnison
+1,2015,Jefferson,51671,56419,,,,,12015Jefferson
+1,2015,La Plata,14932,24406,,,,,12015La Plata
+1,2015,Larimer,33837,47766,,,,,12015Larimer
+1,2015,Pitkin,2321,16837,,,,,12015Pitkin
+1,2015,Pueblo,17165,38458,,,,,12015Pueblo
+1,2015,Route,4961,14752,,,,,12015Route
+1,2015,San Miguel,1559,10158,,,,,12015San Miguel
+1,2015,Summit,7089,27756,,,,,12015Summit
+1,2015,Weld,13850,31015,,,,,12015Weld
+1,2015,Remainder of State,17241,62071,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Lake, Las Animas, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Las Animas, Montezuma, Morgan,  Ouray, Park, Saguache, and Sedgwick",,,12015Remainder of State
+1,2015,El Paso,169625,,,,,,12015El Paso
+1,2015,Fremont,5735,,,,,,12015Fremont
+1,2015,Montezuma,3276,,,,,,12015Montezuma
+12,2014,Adams,13462,38490,,,,,122014Adams
+12,2014,Arapahoe,26638,23467,,,,,122014Arapahoe
+12,2014,Boulder,64733,91020,,,,,122014Boulder
+12,2014,Clear Creek,2585,8630,,,,,122014Clear Creek
+12,2014,Denver,369967,419829,,,,,122014Denver
+12,2014,Eagle,6806,10836,,,,,122014Eagle
+12,2014,Garfield,7911,14475,,,,,122014Garfield
+12,2014,Gunnison,1663,3215,,,,,122014Gunnison
+12,2014,Jefferson,46641,47216,,,,,122014Jefferson
+12,2014,La Plata,12529,18997,,,,,122014La Plata
+12,2014,Larimer,31622,43355,,,,,122014Larimer
+12,2014,Pitkin,2135,6478,,,,,122014Pitkin
+12,2014,Pueblo,12066,39350,,,,,122014Pueblo
+12,2014,San Miguel,532,4453,,,,,122014San Miguel
+12,2014,Summit,4417,22938,,,,,122014Summit
+12,2014,Weld,8877,28156,,,,,122014Weld
+12,2014,Remainder of State,22944,56559,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Lake, Mesa, Moffat, Montezuma, Montrose, Ouray, Park, Routt, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Gilpin, Lake, Las Animas, Ouray, Park, Routt, Saguache, and Sedgwick",,,122014Remainder of State
+12,2014,El Paso,133682,,,,,,122014El Paso
+12,2014,Fremont,3261,,,,,,122014Fremont
+11,2014,Boulder,70690,99827,,,,,112014Boulder
+11,2014,Clear Creek,2916,8868,,,,,112014Clear Creek
+11,2014,Denver,480683,424815,,,,,112014Denver
+11,2014,Eagle,8584,10563,,,,,112014Eagle
+11,2014,Garfield,12527,15391,,,,,112014Garfield
+11,2014,Gunnison,,5371,,,,,112014Gunnison
+11,2014,Jefferson,48972,48372,,,,,112014Jefferson
+11,2014,Larimer,32168,43276,,,,,112014Larimer
+11,2014,Pitkin,2430,7001,,,,,112014Pitkin
+11,2014,Pueblo,6543,32693,,,,,112014Pueblo
+11,2014,San Miguel,1016,8259,,,,,112014San Miguel
+11,2014,Summit,4996,16271,,,,,112014Summit
+11,2014,Weld,10471,32041,,,,,112014Weld
+11,2014,Remainder of State,26866,135502,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Lake, Mesa, Moffat, Montezuma, Montrose, Morgan, Ouray, Park, Routt, Saguache, Sedgwick, and Teller","Adams, Arapohoe, Archuleta, Chaffee, El Paso, Gilpin, La Plata, Lake, Morgan, Ouray, Park, Routt, Saguache and Sedgwick",,,112014Remainder of State
+11,2014,Adams,13305,,,,,,112014Adams
+11,2014,Arapahoe,30817,,,,,,112014Arapahoe
+11,2014,El Paso,154894,,,,,,112014El Paso
+11,2014,Fremont,4563,,,,,,112014Fremont
+11,2014,La Plata,15890,,,,,,112014La Plata
+10,2014,Boulder,84153,101499,,,,,102014Boulder
+10,2014,Clear Creek,2880,11083,,,,,102014Clear Creek
+10,2014,Denver,420245,406376,,,,,102014Denver
+10,2014,Eagle,1551,11167,,,,,102014Eagle
+10,2014,Garfield,16510,16001,,,,,102014Garfield
+10,2014,Gilpin,1105,3775,,,,,102014Gilpin
+10,2014,Gunnison,,7460,,,,,102014Gunnison
+10,2014,Jefferson,51577,47728,,,,,102014Jefferson
+10,2014,Larimer,35881,39779,,,,,102014Larimer
+10,2014,Pitkin,3177,9033,,,,,102014Pitkin
+10,2014,Pueblo,7051,56126,,,,,102014Pueblo
+10,2014,San Miguel,1423,14825,,,,,102014San Miguel
+10,2014,Summit,6128,21294,,,,,102014Summit
+10,2014,Weld,8152,34036,,,,,102014Weld
+10,2014,Remainder of State,21210,106734,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa,    Moffat, Montrose, Morgan, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Archuleta, Chaffee, El Paso, La Plata, Lake, Morgan, Ouray, Park, Routt, Saguache and Sedgwick",,,102014Remainder of State
+10,2014,Adams,12759,,,,,,102014Adams
+10,2014,Arapahoe,28941,,,,,,102014Arapahoe
+10,2014,El Paso,170037,,,,,,102014El Paso
+10,2014,Fremont,7602,,,,,,102014Fremont
+10,2014,La Plata,19256,,,,,,102014La Plata
+10,2014,Montezuma,3497,,,,,,102014Montezuma
+10,2014,Routt,5495,,,,,,102014Routt
+9,2014,Adams,13510,,,,,,92014Adams
+9,2014,Arapahoe,32668,,,,,,92014Arapahoe
+9,2014,Boulder,79049,,,,,,92014Boulder
+9,2014,Chaffee,2607,,,,,,92014Chaffee
+9,2014,Clear Creek,2886,,,,,,92014Clear Creek
+9,2014,Denver,434878,,,,,,92014Denver
+9,2014,Eagle,6685,,,,,,92014Eagle
+9,2014,El Paso,177673,,,,,,92014El Paso
+9,2014,Fremont,6973,,,,,,92014Fremont
+9,2014,Garfield,14370,,,,,,92014Garfield
+9,2014,Gilpin,1179,,,,,,92014Gilpin
+9,2014,Jefferson,52806,,,,,,92014Jefferson
+9,2014,La Plata,16366,,,,,,92014La Plata
+9,2014,Larimer,32046,,,,,,92014Larimer
+9,2014,Montezuma,3669,,,,,,92014Montezuma
+9,2014,Pitkin,3356,,,,,,92014Pitkin
+9,2014,Pueblo,11639,,,,,,92014Pueblo
+9,2014,Routt,10693,,,,,,92014Routt
+9,2014,San Miguel,1299,,,,,,92014San Miguel
+9,2014,Summit,4790,,,,,,92014Summit
+9,2014,Weld,7631,,,,,,92014Weld
+9,2014,Remainder of State,19034,,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache and Sedgwick",,,,92014Remainder of State
+8,2014,Boulder,71626,92421,,,,,82014Boulder
+8,2014,Clear Creek,3050,13876,,,,,82014Clear Creek
+8,2014,Denver,376061,395192,,,,,82014Denver
+8,2014,Garfield,11816,11386,,,,,82014Garfield
+8,2014,Gilpin,964,4192,,,,,82014Gilpin
+8,2014,Gunnison,,6326,,,,,82014Gunnison
+8,2014,Jefferson,46348,44949,,,,,82014Jefferson
+8,2014,Larimer,29607,34481,,,,,82014Larimer
+8,2014,Pitkin,4435,14460,,,,,82014Pitkin
+8,2014,Pueblo,16490,53501,,,,,82014Pueblo
+8,2014,San Miguel,1823,20475,,,,,82014San Miguel
+8,2014,Summit,5149,28848,,,,,82014Summit
+8,2014,Weld,9092,33072,,,,,82014Weld
+8,2014,Remainder of State,14232,67899,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Routt and Sedgwick","Adams, Eagle, Lake, Ouray, Park, Routt and Sedgwick.",,,82014Remainder of State
+8,2014,Adams,12684,,,,,,82014Adams
+8,2014,Arapahoe,31401,,,,,,82014Arapahoe
+8,2014,Chaffee,4228,,,,,,82014Chaffee
+8,2014,Eagle,3377,,,,,,82014Eagle
+8,2014,El Paso,168736,,,,,,82014El Paso
+8,2014,Fremont,7310,,,,,,82014Fremont
+8,2014,La Plata,16929,,,,,,82014La Plata
+8,2014,Montezuma,3354,,,,,,82014Montezuma
+7,2014,Boulder,63803,77019,,,,,72014Boulder
+7,2014,Clear Creek,2747,11442,,,,,72014Clear Creek
+7,2014,Denver,378415,366377,,,,,72014Denver
+7,2014,Garfield,11069,11409,,,,,72014Garfield
+7,2014,Gilpin,1269,5234,,,,,72014Gilpin
+7,2014,Jefferson,49197,40723,,,,,72014Jefferson
+7,2014,Pitkin,2363,9296,,,,,72014Pitkin
+7,2014,Pueblo,8823,50988,,,,,72014Pueblo
+7,2014,San Miguel,2035,9295,,,,,72014San Miguel
+7,2014,Summit,5031,19959,,,,,72014Summit
+7,2014,Weld,13084,22550,,,,,72014Weld
+7,2014,Remainder of State,20933,75816,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Routt and Sedgwick","Adams, Eagle, Gunnison, Lake, Larimer, Ouray, Park, Routt and Sedgwick.",,,72014Remainder of State
+7,2014,Adams,12144,,,,,,72014Adams
+7,2014,Arapahoe,28959,,,,,,72014Arapahoe
+7,2014,Chaffee,2939,,,,,,72014Chaffee
+7,2014,Eagle,3903,,,,,,72014Eagle
+7,2014,El Paso,158300,,,,,,72014El Paso
+7,2014,Fremont,11845,,,,,,72014Fremont
+7,2014,La Plata,16104,,,,,,72014La Plata
+7,2014,Larimer,32545,,,,,,72014Larimer
+7,2014,Montezuma,5352,,,,,,72014Montezuma
+6,2014,Boulder,75248,66999,,,,,62014Boulder
+6,2014,Clear Creek,2768,11848,,,,,62014Clear Creek
+6,2014,Denver,448749,330940,,,,,62014Denver
+6,2014,Garfield,14261,8462,,,,,62014Garfield
+6,2014,Gilpin,1298,3911,,,,,62014Gilpin
+6,2014,Jefferson,51392,40920,,,,,62014Jefferson
+6,2014,Pitkin,4027,5360,,,,,62014Pitkin
+6,2014,Pueblo,13263,41559,,,,,62014Pueblo
+6,2014,San Miguel,1863,7740,,,,,62014San Miguel
+6,2014,Summit,5659,31904,,,,,62014Summit
+6,2014,Weld,14504,20016,,,,,62014Weld
+6,2014,Remainder of State,16146,72464,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, and Sedgwick.","Adams, Eagle, Gunnison, Lake, Larimer, Ouray, Park, and Routt.",,,62014Remainder of State
+6,2014,Adams,19753,,,,,,62014Adams
+6,2014,Arapahoe,29480,,,,,,62014Arapahoe
+6,2014,Chaffee,3066,,,,,,62014Chaffee
+6,2014,Eagle,5326,,,,,,62014Eagle
+6,2014,El Paso,161302,,,,,,62014El Paso
+6,2014,Fremont,4663,,,,,,62014Fremont
+6,2014,La Plata,15120,,,,,,62014La Plata
+6,2014,Larimer,30427,,,,,,62014Larimer
+6,2014,Montezuma,4176,,,,,,62014Montezuma
+6,2014,Routt,4761,,,,,,62014Routt
+5,2014,Boulder,88590,53566,,,,,52014Boulder
+5,2014,Clear Creek,2632,9153,,,,,52014Clear Creek
+5,2014,Denver,421106,384369,,,,,52014Denver
+5,2014,Gilpin,1214,3791,,,,,52014Gilpin
+5,2014,Jefferson,67475,39183,,,,,52014Jefferson
+5,2014,Pitkin,4325,6714,,,,,52014Pitkin
+5,2014,Pueblo,11468,32603,,,,,52014Pueblo
+5,2014,San Miguel,1429,6034,,,,,52014San Miguel
+5,2014,Summit,8120,22761,,,,,52014Summit
+5,2014,Weld,14716,14974,,,,,52014Weld
+5,2014,Remainder of State,19731,66580,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Garfield, Gunnison, Lake, Larimer, Ouray, Park, and Routt.",,,52014Remainder of State
+5,2014,Adams,6351,,,,,,52014Adams
+5,2014,Arapahoe,38484,,,,,,52014Arapahoe
+5,2014,Eagle,8591,,,,,,52014Eagle
+5,2014,El Paso,144236,,,,,,52014El Paso
+5,2014,Fremont,5689,,,,,,52014Fremont
+5,2014,Garfield,10033,,,,,,52014Garfield
+5,2014,La Plata,22917,,,,,,52014La Plata
+5,2014,Larimer,35514,,,,,,52014Larimer
+5,2014,Montezuma,2134,,,,,,52014Montezuma
+5,2014,Routt,5227,,,,,,52014Routt
+4,2014,Boulder,94702,40136,,,,,42014Boulder
+4,2014,Clear Creek,3982,15972,,,,,42014Clear Creek
+4,2014,Denver,489964,295126,,,,,42014Denver
+4,2014,Gilpin,970,3968,,,,,42014Gilpin
+4,2014,Jefferson,57720,30120,,,,,42014Jefferson
+4,2014,Pueblo,14555,51330,,,,,42014Pueblo
+4,2014,San Miguel,3177,9620,,,,,42014San Miguel
+4,2014,Summit,6003,29054,,,,,42014Summit
+4,2014,Remainder of State,23768,94179,"Alamosa, Archuleta, Chaffee, Costilla, Gunnison, Lake, Mesa, Moffat, Montezuma, Montrose, Ouray, Park, Saguache, and Sedgwick.","Adams, Garfield, Gunnison, Lake, Ouray, Park, Pitkin, Routt, and Weld.",,,42014Remainder of State
+4,2014,Adams,13534,,,,,,42014Adams
+4,2014,Arapahoe,29504,,,,,,42014Arapahoe
+4,2014,Eagle,4867,,,,,,42014Eagle
+4,2014,El Paso,155230,,,,,,42014El Paso
+4,2014,Fremont,6589,,,,,,42014Fremont
+4,2014,Garfield,13101,,,,,,42014Garfield
+4,2014,La Plata,16639,,,,,,42014La Plata
+4,2014,Larimer,32081,,,,,,42014Larimer
+4,2014,Pitkin,11125,,,,,,42014Pitkin
+4,2014,Routt,5928,,,,,,42014Routt
+4,2014,Weld,16461,,,,,,42014Weld
+3,2014,Clear Creek,2845,12491,,,,,32014Clear Creek
+3,2014,Denver,483432,245709,,,,,32014Denver
+3,2014,Gilpin,918,6833,,,,,32014Gilpin
+3,2014,Jefferson,55944,24961,,,,,32014Jefferson
+3,2014,Pueblo,14683,15262,,,,,32014Pueblo
+3,2014,San Miguel,5016,5786,,,,,32014San Miguel
+3,2014,Summit,9343,31584,,,,,32014Summit
+3,2014,Remainder of State,16668,95627,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Boulder, Garfield, Gunnison, Lake, Ouray, Park, Routt, and Weld",,,32014Remainder of State
+3,2014,Adams,14491,,,,,,32014Adams
+3,2014,Arapahoe,30854,,,,,,32014Arapahoe
+3,2014,Boulder,104687,,,,,,32014Boulder
+3,2014,Eagle,8289,,,,,,32014Eagle
+3,2014,El Paso,177929,,,,,,32014El Paso
+3,2014,Fremont,5063,,,,,,32014Fremont
+3,2014,Garfield,10626,,,,,,32014Garfield
+3,2014,La Plata,13041,,,,,,32014La Plata
+3,2014,Larimer,33897,,,,,,32014Larimer
+3,2014,Montezuma,2651,,,,,,32014Montezuma
+3,2014,Pitkin,2398,,,,,,32014Pitkin
+3,2014,Routt,9018,,,,,,32014Routt
+3,2014,Weld,20383,,,,,,32014Weld
+2,2014,Clear Creek,3952,12770,,,,,22014Clear Creek
+2,2014,Denver,442941,256756,,,,,22014Denver
+2,2014,Gilpin,1269,5380,,,,,22014Gilpin
+2,2014,Jefferson,54443,24416,,,,,22014Jefferson
+2,2014,San Miguel,2319,12121,,,,,22014San Miguel
+2,2014,Summit,7681,37274,,,,,22014Summit
+2,2014,Remainder of State,10067,67972,"Alamosa, Archuleta, Costilla, Grand, Lake, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Adams, Garfield, Lake, Park, Pueblo, Routt, and Weld.",,,22014Remainder of State
+2,2014,Adams,18254,,,,,,22014Adams
+2,2014,Arapahoe,25951,,,,,,22014Arapahoe
+2,2014,Boulder,97913,,,,,,22014Boulder
+2,2014,Chaffee,2338,,,,,,22014Chaffee
+2,2014,Eagle,4141,,,,,,22014Eagle
+2,2014,El Paso,141447,,,,,,22014El Paso
+2,2014,Fremont,4726,,,,,,22014Fremont
+2,2014,Garfield,16674,,,,,,22014Garfield
+2,2014,Gunnison,1992,,,,,,22014Gunnison
+2,2014,La Plata,13422,,,,,,22014La Plata
+2,2014,Larimer,21404,,,,,,22014Larimer
+2,2014,Montezuma,4266,,,,,,22014Montezuma
+2,2014,Pitkin,6999,,,,,,22014Pitkin
+2,2014,Pueblo,6249,,,,,,22014Pueblo
+2,2014,Routt,4171,,,,,,22014Routt
+2,2014,Weld,20901,,,,,,22014Weld
+9,2019,Adams,20297,,,,,,92019Adams
+9,2019,Alamosa,,,,,NR,,92019Alamosa
+9,2019,Arapahoe,26477,,,,,,92019Arapahoe
+9,2019,Boulder,35837,,,,,,92019Boulder
+9,2019,Chaffee,,,,,NR,,92019Chaffee
+9,2019,Clear Creek,,,,,NR,,92019Clear Creek
+9,2019,Delta,,,,,NR,,92019Delta
+9,2019,Denver,362152,,,,,,92019Denver
+9,2019,Eagle,2970,,,,,,92019Eagle
+9,2019,El Paso,308682,,,,,,92019El Paso
+9,2019,Fremont,,,,,NR,,92019Fremont
+9,2019,Garfield,2990,,,,,,92019Garfield
+9,2019,Grand,,,,,NR,,92019Grand
+9,2019,Jefferson,43135,,,,,,92019Jefferson
+9,2019,La Plata,,,,,NR,,92019La Plata
+9,2019,Larimer,22385,,,,,,92019Larimer
+9,2019,Las Animas,1558,,,,,,92019Las Animas
+9,2019,Mesa,,,,,NR,,92019Mesa
+9,2019,Moffat,,,,,NR,,92019Moffat
+9,2019,Montezuma,,,,,NR,,92019Montezuma
+9,2019,Montrose,,,,,NR,,92019Montrose
+9,2019,Morgan,,,,,NR,,92019Morgan
+9,2019,Otero,,,,,NR,,92019Otero
+9,2019,Park,,,,,NR,,92019Park
+9,2019,Pitkin,,,,,NR,,92019Pitkin
+9,2019,Pueblo,28451,,,,,,92019Pueblo
+9,2019,Routt,4263,,,,,,92019Routt
+9,2019,San Miguel,,,,,NR,,92019San Miguel
+9,2019,Sedgwick,,,,,NR,,92019Sedgwick
+9,2019,Summit,3486,,,,,,92019Summit
+9,2019,Weld,9856,,,,,,92019Weld
+9,2019,Sum of NR Counties,23362,,,,,,92019Sum of NR Counties
+10,2019,Adams,20498,,,,,,102019Adams
+10,2019,Alamosa,,,,,NR,,102019Alamosa
+10,2019,Arapahoe,23973,,,,,,102019Arapahoe
+10,2019,Boulder,32954,,,,,,102019Boulder
+10,2019,Chaffee,,,,,NR,,102019Chaffee
+10,2019,Clear Creek,331,,,,,,102019Clear Creek
+10,2019,Delta,,,,,NR,,102019Delta
+10,2019,Denver,352082,,,,,,102019Denver
+10,2019,Eagle,2603,,,,,,102019Eagle
+10,2019,El Paso,278351,,,,,,102019El Paso
+10,2019,Fremont,7840,,,,,,102019Fremont
+10,2019,Garfield,2960,,,,,,102019Garfield
+10,2019,Grand,,,,,NR,,102019Grand
+10,2019,Jefferson,36904,,,,,,102019Jefferson
+10,2019,La Plata,,,,,NR,,102019La Plata
+10,2019,Larimer,23181,,,,,,102019Larimer
+10,2019,Las Animas,732,,,,,,102019Las Animas
+10,2019,Mesa,,,,,NR,,102019Mesa
+10,2019,Moffat,,,,,NR,,102019Moffat
+10,2019,Montezuma,,,,,NR,,102019Montezuma
+10,2019,Montrose,,,,,NR,,102019Montrose
+10,2019,Morgan,,,,,NR,,102019Morgan
+10,2019,Otero,,,,,NR,,102019Otero
+10,2019,Park,,,,,NR,,102019Park
+10,2019,Pitkin,,,,,NR,,102019Pitkin
+10,2019,Pueblo,26742,,,,,,102019Pueblo
+10,2019,Routt,4308,,,,,,102019Routt
+10,2019,San Miguel,,,,,NR,,102019San Miguel
+10,2019,Sedgwick,,,,,NR,,102019Sedgwick
+10,2019,Summit,2209,,,,,,102019Summit
+10,2019,Weld,8978,,,,,,102019Weld
+10,2019,Sum of NR Counties,19639,,,,,,102019Sum of NR Counties
+11,2019,Adams,19152,,,,,,112019Adams
+11,2019,Alamosa,,,,,NR,,112019Alamosa
+11,2019,Arapahoe,26106,,,,,,112019Arapahoe
+11,2019,Boulder,33713,,,,,,112019Boulder
+11,2019,Chaffee,,,,,NR,,112019Chaffee
+11,2019,Clear Creek,,,,,NR,,112019Clear Creek
+11,2019,Delta,,,,,NR,,112019Delta
+11,2019,Denver,338064,,,,,,112019Denver
+11,2019,Eagle,2610,,,,,,112019Eagle
+11,2019,El Paso,263194,,,,,,112019El Paso
+11,2019,Fremont,,,,,NR,,112019Fremont
+11,2019,Garfield,2413,,,,,,112019Garfield
+11,2019,Grand,,,,,NR,,112019Grand
+11,2019,Jefferson,33383,,,,,,112019Jefferson
+11,2019,La Plata,,,,,NR,,112019La Plata
+11,2019,Larimer,19621,,,,,,112019Larimer
+11,2019,Las Animas,674,,,,,,112019Las Animas
+11,2019,Mesa,,,,,NR,,112019Mesa
+11,2019,Moffat,,,,,NR,,112019Moffat
+11,2019,Montezuma,,,,,NR,,112019Montezuma
+11,2019,Montrose,,,,,NR,,112019Montrose
+11,2019,Morgan,,,,,NR,,112019Morgan
+11,2019,Otero,,,,,NR,,112019Otero
+11,2019,Park,,,,,NR,,112019Park
+11,2019,Pitkin,,,,,NR,,112019Pitkin
+11,2019,Pueblo,22045,,,,,,112019Pueblo
+11,2019,Routt,4478,,,,,,112019Routt
+11,2019,San Miguel,,,,,NR,,112019San Miguel
+11,2019,Sedgwick,,,,,NR,,112019Sedgwick
+11,2019,Summit,2063,,,,,,112019Summit
+11,2019,Weld,8923,,,,,,112019Weld
+11,2019,Sum of NR Counties,22938,,,,,,112019Sum of NR Counties
+11,2019,Mineral,,,,,,,112019Mineral
+11,2019,Teller,,,,,,,112019Teller
+11,2019,Custer,,,,,,,112019Custer
+11,2019,Costilla,,,,,,,112019Costilla
+11,2019,Dolores,,,,,,,112019Dolores
+11,2019,Baca,,,,,,,112019Baca
+11,2019,Saguache,,,,,,,112019Saguache
+11,2019,Kiowa,,,,,,,112019Kiowa
+11,2019,Ouray,,,,,,,112019Ouray
+11,2019,Lake,,,,,,,112019Lake
+11,2019,Cheyenne,,,,,,,112019Cheyenne
+11,2019,Prowers,,,,,,,112019Prowers
+11,2019,Hinsdale,,,,,,,112019Hinsdale
+11,2019,Phillips,,,,,,,112019Phillips
+11,2019,Archuleta,,,,,,,112019Archuleta
+11,2019,San Juan,,,,,,,112019San Juan
+11,2019,Logan,,,,,,,112019Logan
+11,2019,Kit Carson,,,,,,,112019Kit Carson
+11,2019,Elbert,,,,,,,112019Elbert
+11,2019,Conejos,,,,,,,112019Conejos
+11,2019,Broomfield,,,,,,,112019Broomfield
+11,2019,Washington,,,,,,,112019Washington
+11,2019,Bent,,,,,,,112019Bent
+11,2019,Rio Grande,,,,,,,112019Rio Grande
+11,2019,Huerfano,,,,,,,112019Huerfano
+11,2019,Lincoln,,,,,,,112019Lincoln
+11,2019,Gunnison,,,,,,,112019Gunnison
+11,2019,Gilpin,,,,,,,112019Gilpin
+11,2019,Crowley,,,,,,,112019Crowley
+11,2019,Rio Blanco,,,,,,,112019Rio Blanco
+11,2019,Yuma,,,,,,,112019Yuma
+11,2019,Douglas,,,,,,,112019Douglas
+11,2019,Jackson,,,,,,,112019Jackson
+1,2020,Phillips,,,,,,,12020Phillips
+1,2020,Douglas,,,,,,,12020Douglas
+1,2020,Mesa,,,,,NR,,12020Mesa
+1,2020,La Plata,,,,,NR,,12020La Plata
+1,2020,Mineral,,,,,,,12020Mineral
+1,2020,Broomfield,,,,,,,12020Broomfield
+1,2020,Grand,,,,,NR,,12020Grand
+1,2020,Lake,,,,,,,12020Lake
+1,2020,Dolores,,,,,,,12020Dolores
+1,2020,Saguache,,,,,,,12020Saguache
+1,2020,Moffat,,,,,NR,,12020Moffat
+1,2020,Huerfano,,,,,,,12020Huerfano
+1,2020,Lincoln,,,,,,,12020Lincoln
+1,2020,Conejos,,,,,,,12020Conejos
+1,2020,Cheyenne,,,,,,,12020Cheyenne
+1,2020,Baca,,,,,,,12020Baca
+1,2020,Ouray,,,,,,,12020Ouray
+1,2020,Rio Grande,,,,,,,12020Rio Grande
+1,2020,Alamosa,,,,,NR,,12020Alamosa
+1,2020,San Miguel,,,,,NR,,12020San Miguel
+1,2020,Kit Carson,,,,,,,12020Kit Carson
+1,2020,Washington,,,,,,,12020Washington
+1,2020,Kiowa,,,,,,,12020Kiowa
+1,2020,Yuma,,,,,,,12020Yuma
+1,2020,Elbert,,,,,,,12020Elbert
+1,2020,Sedgwick,,,,,NR,,12020Sedgwick
+1,2020,San Juan,,,,,,,12020San Juan
+1,2020,Archuleta,,,,,,,12020Archuleta
+1,2020,Delta,,,,,NR,,12020Delta
+1,2020,Fremont,,,,,NR,,12020Fremont
+1,2020,Montrose,,,,,NR,,12020Montrose
+1,2020,Gilpin,,,,,,,12020Gilpin
+1,2020,Clear Creek,,,,,NR,,12020Clear Creek
+1,2020,Otero,,,,,NR,,12020Otero
+1,2020,Park,,,,,NR,,12020Park
+1,2020,Logan,,,,,,,12020Logan
+1,2020,Custer,,,,,,,12020Custer
+1,2020,Bent,,,,,,,12020Bent
+1,2020,Prowers,,,,,,,12020Prowers
+1,2020,Hinsdale,,,,,,,12020Hinsdale
+1,2020,Costilla,,,,,,,12020Costilla
+1,2020,Rio Blanco,,,,,,,12020Rio Blanco
+1,2020,Chaffee,,,,,NR,,12020Chaffee
+1,2020,Crowley,,,,,,,12020Crowley
+1,2020,Jackson,,,,,,,12020Jackson
+1,2020,Montezuma,,,,,NR,,12020Montezuma
+1,2020,Teller,,,,,,,12020Teller
+1,2020,Gunnison,,,,,,,12020Gunnison
+1,2020,Morgan,,,,,NR,,12020Morgan
+12,2019,Broomfield,,,,,,,122019Broomfield
+12,2019,Park,,,,,NR,,122019Park
+12,2019,Washington,,,,,,,122019Washington
+12,2019,Fremont,,,,,NR,,122019Fremont
+12,2019,Montezuma,,,,,NR,,122019Montezuma
+12,2019,Saguache,,,,,,,122019Saguache
+12,2019,Logan,,,,,,,122019Logan
+12,2019,Lincoln,,,,,,,122019Lincoln
+12,2019,Teller,,,,,,,122019Teller
+12,2019,Ouray,,,,,,,122019Ouray
+12,2019,Las Animas,782,,,,,,122019Las Animas
+12,2019,Summit,1752,,,,,,122019Summit
+12,2019,Denver,328858,,,,,,122019Denver
+12,2019,Gunnison,,,,,,,122019Gunnison
+12,2019,Mesa,,,,,NR,,122019Mesa
+12,2019,Garfield,3097,,,,,,122019Garfield
+12,2019,Otero,,,,,NR,,122019Otero
+12,2019,Gilpin,,,,,,,122019Gilpin
+12,2019,Morgan,,,,,NR,,122019Morgan
+12,2019,Crowley,,,,,,,122019Crowley
+12,2019,Pueblo,21702,,,,,,122019Pueblo
+12,2019,Moffat,,,,,NR,,122019Moffat
+12,2019,Cheyenne,,,,,,,122019Cheyenne
+12,2019,El Paso,250347,,,,,,122019El Paso
+12,2019,Huerfano,,,,,,,122019Huerfano
+12,2019,Jackson,,,,,,,122019Jackson
+12,2019,Kit Carson,,,,,,,122019Kit Carson
+12,2019,Rio Blanco,,,,,,,122019Rio Blanco
+12,2019,Prowers,,,,,,,122019Prowers
+12,2019,Douglas,,,,,,,122019Douglas
+12,2019,Costilla,,,,,,,122019Costilla
+12,2019,Grand,,,,,NR,,122019Grand
+12,2019,Rio Grande,,,,,,,122019Rio Grande
+12,2019,San Juan,,,,,,,122019San Juan
+12,2019,Clear Creek,,,,,NR,,122019Clear Creek
+12,2019,Montrose,,,,,NR,,122019Montrose
+12,2019,Yuma,,,,,,,122019Yuma
+12,2019,Delta,,,,,NR,,122019Delta
+12,2019,La Plata,,,,,NR,,122019La Plata
+12,2019,Larimer,27848,,,,,,122019Larimer
+12,2019,Boulder,34197,,,,,,122019Boulder
+12,2019,Routt,4351,,,,,,122019Routt
+12,2019,Baca,,,,,,,122019Baca
+12,2019,Alamosa,,,,,NR,,122019Alamosa
+12,2019,Jefferson,37553,,,,,,122019Jefferson
+12,2019,Kiowa,,,,,,,122019Kiowa
+12,2019,Sum of NR Counties,23352,,,,,,122019Sum of NR Counties
+12,2019,Archuleta,,,,,,,122019Archuleta
+12,2019,Bent,,,,,,,122019Bent
+12,2019,Weld,8821,,,,,,122019Weld
+12,2019,Elbert,,,,,,,122019Elbert
+12,2019,Pitkin,,,,,NR,,122019Pitkin
+12,2019,Eagle,2494,,,,,,122019Eagle
+12,2019,Conejos,,,,,,,122019Conejos
+12,2019,Arapahoe,22680,,,,,,122019Arapahoe
+12,2019,Custer,,,,,,,122019Custer
+12,2019,Mineral,,,,,,,122019Mineral
+12,2019,San Miguel,,,,,NR,,122019San Miguel
+12,2019,Lake,,,,,,,122019Lake
+12,2019,Hinsdale,,,,,,,122019Hinsdale
+12,2019,Chaffee,,,,,NR,,122019Chaffee
+12,2019,Dolores,,,,,,,122019Dolores
+12,2019,Phillips,,,,,,,122019Phillips
+12,2019,Adams,19222,,,,,,122019Adams
+12,2019,Sedgwick,,,,,NR,,122019Sedgwick
+1,2020,Larimer,22888,,,,,,12020Larimer
+1,2020,Sum of NR Counties,25519,,,,,,12020Sum of NR Counties
+1,2020,Garfield,4081,,,,,,12020Garfield
+1,2020,Adams,19848,,,,,,12020Adams
+1,2020,Las Animas,762,,,,,,12020Las Animas
+1,2020,Weld,8826,,,,,,12020Weld
+1,2020,Summit,,,,,NR,,12020Summit
+1,2020,Denver,332252,,,,,,12020Denver
+1,2020,Pueblo,24781,,,,,,12020Pueblo
+1,2020,Arapahoe,26176,,,,,,12020Arapahoe
+1,2020,Jefferson,52654,,,,,,12020Jefferson
+1,2020,El Paso,504474,,,,,,12020El Paso
+1,2020,Eagle,3973,,,,,,12020Eagle
+1,2020,Routt,4310,,,,,,12020Routt
+1,2020,Pitkin,2048,,,,,,12020Pitkin
+1,2020,Boulder,35498,,,,,,12020Boulder
+2,2020,Alamosa,,,,,NR,,22020Alamosa
+2,2020,Costilla,,,,,,,22020Costilla
+2,2020,San Juan,,,,,,,22020San Juan
+2,2020,Larimer,21136,,,,,,22020Larimer
+2,2020,Morgan,,,,,NR,,22020Morgan
+2,2020,Clear Creek,,,,,NR,,22020Clear Creek
+2,2020,Mineral,,,,,,,22020Mineral
+2,2020,Routt,4282,,,,,,22020Routt
+2,2020,Gilpin,,,,,,,22020Gilpin
+2,2020,Montrose,,,,,NR,,22020Montrose
+2,2020,San Miguel,,,,,NR,,22020San Miguel
+2,2020,Garfield,2051,,,,,,22020Garfield
+2,2020,Las Animas,745,,,,,,22020Las Animas
+2,2020,Grand,,,,,NR,,22020Grand
+2,2020,Logan,,,,,,,22020Logan
+2,2020,Yuma,,,,,,,22020Yuma
+2,2020,Lincoln,,,,,,,22020Lincoln
+2,2020,Douglas,,,,,,,22020Douglas
+2,2020,El Paso,236843,,,,,,22020El Paso
+2,2020,Kit Carson,,,,,,,22020Kit Carson
+2,2020,La Plata,,,,,NR,,22020La Plata
+2,2020,Baca,,,,,,,22020Baca
+2,2020,Jefferson,37797,,,,,,22020Jefferson
+2,2020,Pitkin,,,,,NR,,22020Pitkin
+2,2020,Hinsdale,,,,,,,22020Hinsdale
+2,2020,Saguache,,,,,,,22020Saguache
+2,2020,Delta,,,,,NR,,22020Delta
+2,2020,Huerfano,,,,,,,22020Huerfano
+2,2020,Bent,,,,,,,22020Bent
+2,2020,Cheyenne,,,,,,,22020Cheyenne
+2,2020,Custer,,,,,,,22020Custer
+2,2020,Crowley,,,,,,,22020Crowley
+2,2020,Otero,,,,,NR,,22020Otero
+2,2020,Boulder,31510,,,,,,22020Boulder
+2,2020,Denver,315554,,,,,,22020Denver
+2,2020,Kiowa,,,,,,,22020Kiowa
+2,2020,Phillips,,,,,,,22020Phillips
+2,2020,Teller,,,,,,,22020Teller
+2,2020,Jackson,,,,,,,22020Jackson
+2,2020,Archuleta,,,,,,,22020Archuleta
+2,2020,Eagle,2955,,,,,,22020Eagle
+2,2020,Summit,,,,,NR,,22020Summit
+2,2020,Moffat,,,,,,,22020Moffat
+2,2020,Washington,,,,,,,22020Washington
+2,2020,Ouray,,,,,,,22020Ouray
+2,2020,Dolores,,,,,,,22020Dolores
+2,2020,Montezuma,,,,,NR,,22020Montezuma
+2,2020,Adams,16934,,,,,,22020Adams
+2,2020,Fremont,,,,,NR,,22020Fremont
+2,2020,Sedgwick,,,,,NR,,22020Sedgwick
+2,2020,Arapahoe,23241,,,,,,22020Arapahoe
+2,2020,Mesa,,,,,NR,,22020Mesa
+2,2020,Rio Grande,,,,,,,22020Rio Grande
+2,2020,Lake,,,,,,,22020Lake
+2,2020,Chaffee,,,,,NR,,22020Chaffee
+2,2020,Broomfield,,,,,,,22020Broomfield
+2,2020,Elbert,,,,,,,22020Elbert
+2,2020,Park,,,,,NR,,22020Park
+2,2020,Rio Blanco,,,,,,,22020Rio Blanco
+2,2020,Prowers,,,,,,,22020Prowers
+2,2020,Conejos,,,,,,,22020Conejos
+2,2020,Pueblo,18012,,,,,,22020Pueblo
+2,2020,Gunnison,,,,,,,22020Gunnison
+2,2020,Weld,8031,,,,,,22020Weld
+2,2020,Sum of NR Counties,23601,,,,,,22020Sum of NR Counties
+3,2020,Mesa,,,,,NR,,32020Mesa
+3,2020,Morgan,,,,,NR,,32020Morgan
+3,2020,Mineral,,,,,,,32020Mineral
+3,2020,Archuleta,,,,,,,32020Archuleta
+3,2020,Baca,,,,,,,32020Baca
+3,2020,Broomfield,,,,,,,32020Broomfield
+3,2020,Lincoln,,,,,,,32020Lincoln
+3,2020,Yuma,,,,,,,32020Yuma
+3,2020,Delta,,,,,NR,,32020Delta
+3,2020,Montezuma,,,,,NR,,32020Montezuma
+3,2020,Washington,,,,,,,32020Washington
+3,2020,Dolores,,,,,,,32020Dolores
+3,2020,Gilpin,,,,,,,32020Gilpin
+3,2020,Pueblo,21924,,,,,,32020Pueblo
+3,2020,Boulder,34790,,,,,,32020Boulder
+3,2020,Summit,,,,,NR,,32020Summit
+3,2020,Costilla,,,,,,,32020Costilla
+3,2020,San Juan,,,,,,,32020San Juan
+3,2020,Grand,,,,,NR,,32020Grand
+3,2020,Rio Blanco,,,,,,,32020Rio Blanco
+3,2020,Clear Creek,,,,,,,32020Clear Creek
+3,2020,Teller,,,,,,,32020Teller
+3,2020,Eagle,2908,,,,,,32020Eagle
+3,2020,Alamosa,,,,,NR,,32020Alamosa
+3,2020,Moffat,,,,,NR,,32020Moffat
+3,2020,Phillips,,,,,,,32020Phillips
+3,2020,Park,,,,,NR,,32020Park
+3,2020,Jefferson,37116,,,,,,32020Jefferson
+3,2020,Adams,17012,,,,,,32020Adams
+3,2020,Conejos,,,,,,,32020Conejos
+3,2020,Pitkin,,,,,NR,,32020Pitkin
+3,2020,Rio Grande,,,,,,,32020Rio Grande
+3,2020,Weld,8066,,,,,,32020Weld
+3,2020,Ouray,,,,,,,32020Ouray
+3,2020,Sedgwick,,,,,NR,,32020Sedgwick
+3,2020,Elbert,,,,,,,32020Elbert
+3,2020,Gunnison,,,,,,,32020Gunnison
+3,2020,Las Animas,695,,,,,,32020Las Animas
+3,2020,El Paso,232258,,,,,,32020El Paso
+3,2020,Otero,,,,,NR,,32020Otero
+3,2020,San Miguel,,,,,NR,,32020San Miguel
+3,2020,Garfield,3282,,,,,,32020Garfield
+3,2020,Douglas,,,,,,,32020Douglas
+3,2020,Larimer,19942,,,,,,32020Larimer
+3,2020,Cheyenne,,,,,,,32020Cheyenne
+3,2020,Prowers,,,,,,,32020Prowers
+3,2020,Lake,,,,,,,32020Lake
+3,2020,Routt,4016,,,,,,32020Routt
+3,2020,Denver,309396,,,,,,32020Denver
+3,2020,Saguache,,,,,,,32020Saguache
+3,2020,Jackson,,,,,,,32020Jackson
+3,2020,Kiowa,,,,,,,32020Kiowa
+3,2020,Montrose,,,,,NR,,32020Montrose
+3,2020,Custer,,,,,,,32020Custer
+3,2020,Crowley,,,,,,,32020Crowley
+3,2020,Bent,,,,,,,32020Bent
+3,2020,Kit Carson,,,,,,,32020Kit Carson
+3,2020,Logan,,,,,,,32020Logan
+3,2020,Chaffee,,,,,NR,,32020Chaffee
+3,2020,Fremont,,,,,NR,,32020Fremont
+3,2020,Sum of NR Counties,26182,,,,,,32020Sum of NR Counties
+3,2020,Huerfano,,,,,,,32020Huerfano
+3,2020,Arapahoe,20673,,,,,,32020Arapahoe
+3,2020,La Plata,,,,,NR,,32020La Plata
+3,2020,Hinsdale,,,,,,,32020Hinsdale
+4,2020,Pueblo,28831,,,,,,42020Pueblo
+4,2020,Gunnison,,,,,,,42020Gunnison
+4,2020,Hinsdale,,,,,,,42020Hinsdale
+4,2020,Pitkin,,,,,NR,,42020Pitkin
+4,2020,Jackson,,,,,,,42020Jackson
+4,2020,Custer,,,,,,,42020Custer
+4,2020,Huerfano,,,,,,,42020Huerfano
+4,2020,Montezuma,,,,,NR,,42020Montezuma
+4,2020,Rio Grande,,,,,,,42020Rio Grande
+4,2020,Las Animas,,,,,NR,,42020Las Animas
+4,2020,Bent,,,,,,,42020Bent
+4,2020,Garfield,,,,,NR,,42020Garfield
+4,2020,Larimer,20020,,,,,,42020Larimer
+4,2020,Mineral,,,,,,,42020Mineral
+4,2020,Gilpin,,,,,,,42020Gilpin
+4,2020,Weld,,,,,NR,,42020Weld
+4,2020,Sedgwick,,,,,NR,,42020Sedgwick
+4,2020,Montrose,,,,,NR,,42020Montrose
+4,2020,Chaffee,,,,,NR,,42020Chaffee
+4,2020,Washington,,,,,,,42020Washington
+4,2020,Rio Blanco,,,,,,,42020Rio Blanco
+4,2020,Kiowa,,,,,,,42020Kiowa
+4,2020,San Miguel,,,,,NR,,42020San Miguel
+4,2020,Baca,,,,,,,42020Baca
+4,2020,Saguache,,,,,,,42020Saguache
+4,2020,Morgan,,,,,NR,,42020Morgan
+4,2020,Clear Creek,,,,,NR,,42020Clear Creek
+4,2020,Park,,,,,NR,,42020Park
+4,2020,Cheyenne,,,,,,,42020Cheyenne
+4,2020,Alamosa,,,,,NR,,42020Alamosa
+4,2020,Sum of NR Counties,37268,,,,,,42020Sum of NR Counties
+4,2020,Moffat,,,,,NR,,42020Moffat
+4,2020,Crowley,,,,,,,42020Crowley
+4,2020,Adams,19289,,,,,,42020Adams
+4,2020,Ouray,,,,,,,42020Ouray
+4,2020,Arapahoe,24869,,,,,,42020Arapahoe
+4,2020,Jefferson,36799,,,,,,42020Jefferson
+4,2020,Logan,,,,,,,42020Logan
+4,2020,Costilla,,,,,,,42020Costilla
+4,2020,Dolores,,,,,,,42020Dolores
+4,2020,Grand,,,,,NR,,42020Grand
+4,2020,Teller,,,,,,,42020Teller
+4,2020,Douglas,,,,,,,42020Douglas
+4,2020,Prowers,,,,,,,42020Prowers
+4,2020,Broomfield,,,,,,,42020Broomfield
+4,2020,Kit Carson,,,,,,,42020Kit Carson
+4,2020,Boulder,17303,,,,,,42020Boulder
+4,2020,Denver,349663,,,,,,42020Denver
+4,2020,Mesa,,,,,NR,,42020Mesa
+4,2020,Phillips,,,,,,,42020Phillips
+4,2020,Fremont,,,,,NR,,42020Fremont
+4,2020,Summit,,,,,NR,,42020Summit
+4,2020,Conejos,,,,,,,42020Conejos
+4,2020,Eagle,,,,,NR,,42020Eagle
+4,2020,Lincoln,,,,,,,42020Lincoln
+4,2020,La Plata,,,,,NR,,42020La Plata
+4,2020,San Juan,,,,,,,42020San Juan
+4,2020,Delta,,,,,NR,,42020Delta
+4,2020,Yuma,,,,,,,42020Yuma
+4,2020,Archuleta,,,,,,,42020Archuleta
+4,2020,Elbert,,,,,,,42020Elbert
+4,2020,Routt,,,,,NR,,42020Routt
+4,2020,Otero,,,,,NR,,42020Otero
+4,2020,Lake,,,,,,,42020Lake
+4,2020,El Paso,283705,,,,,,42020El Paso
+5,2020,Prowers,,,,,,,52020Prowers
+5,2020,Adams,25630,,,,,,52020Adams
+5,2020,Archuleta,,,,,,,52020Archuleta
+5,2020,Bent,,,,,,,52020Bent
+5,2020,Custer,,,,,,,52020Custer
+5,2020,Jackson,,,,,,,52020Jackson
+5,2020,Park,,,,,NR,,52020Park
+5,2020,Douglas,,,,,,,52020Douglas
+5,2020,Jefferson,50664,,,,,,52020Jefferson
+5,2020,Montrose,,,,,NR,,52020Montrose
+5,2020,La Plata,,,,,NR,,52020La Plata
+5,2020,Logan,,,,,,,52020Logan
+5,2020,Crowley,,,,,,,52020Crowley
+5,2020,Alamosa,,,,,NR,,52020Alamosa
+5,2020,Montezuma,,,,,NR,,52020Montezuma
+5,2020,Chaffee,,,,,NR,,52020Chaffee
+5,2020,Gunnison,,,,,,,52020Gunnison
+5,2020,Otero,,,,,NR,,52020Otero
+5,2020,Lincoln,,,,,,,52020Lincoln
+5,2020,Washington,,,,,,,52020Washington
+5,2020,Yuma,,,,,,,52020Yuma
+5,2020,Pitkin,,,,,NR,,52020Pitkin
+5,2020,Hinsdale,,,,,,,52020Hinsdale
+5,2020,Grand,,,,,NR,,52020Grand
+5,2020,San Miguel,,,,,NR,,52020San Miguel
+5,2020,San Juan,,,,,,,52020San Juan
+5,2020,Eagle,5932,,,,,,52020Eagle
+5,2020,Weld,15115,,,,,,52020Weld
+5,2020,Lake,,,,,,,52020Lake
+5,2020,Mesa,,,,,NR,,52020Mesa
+5,2020,Cheyenne,,,,,,,52020Cheyenne
+5,2020,El Paso,362281,,,,,,52020El Paso
+5,2020,Fremont,,,,,NR,,52020Fremont
+5,2020,Las Animas,1383,,,,,,52020Las Animas
+5,2020,Pueblo,43256,,,,,,52020Pueblo
+5,2020,Dolores,,,,,,,52020Dolores
+5,2020,Sedgwick,,,,,NR,,52020Sedgwick
+5,2020,Denver,479846,,,,,,52020Denver
+5,2020,Clear Creek,,,,,,,52020Clear Creek
+5,2020,Rio Blanco,,,,,,,52020Rio Blanco
+5,2020,Morgan,,,,,NR,,52020Morgan
+5,2020,Phillips,,,,,,,52020Phillips
+5,2020,Ouray,,,,,,,52020Ouray
+5,2020,Kiowa,,,,,,,52020Kiowa
+5,2020,Teller,,,,,,,52020Teller
+5,2020,Conejos,,,,,,,52020Conejos
+5,2020,Larimer,30226,,,,,,52020Larimer
+5,2020,Sum of NR Counties,42994,,,,,,52020Sum of NR Counties
+5,2020,Gilpin,,,,,,,52020Gilpin
+5,2020,Mineral,,,,,,,52020Mineral
+5,2020,Costilla,,,,,,,52020Costilla
+5,2020,Baca,,,,,,,52020Baca
+5,2020,Garfield,5993,,,,,,52020Garfield
+5,2020,Routt,4554,,,,,,52020Routt
+5,2020,Rio Grande,,,,,,,52020Rio Grande
+5,2020,Moffat,,,,,NR,,52020Moffat
+5,2020,Elbert,,,,,,,52020Elbert
+5,2020,Huerfano,,,,,,,52020Huerfano
+5,2020,Boulder,39652,,,,,,52020Boulder
+5,2020,Broomfield,,,,,,,52020Broomfield
+5,2020,Summit,,,,,NR,,52020Summit
+5,2020,Saguache,,,,,NR,,52020Saguache
+5,2020,Arapahoe,33104,,,,,,52020Arapahoe
+5,2020,Kit Carson,,,,,,,52020Kit Carson
+5,2020,Delta,,,,,NR,,52020Delta
+6,2020,El Paso,393800,,,,,,62020El Paso
+6,2020,Costilla,,,,,,,62020Costilla
+6,2020,La Plata,,,,,NR,,62020La Plata
+6,2020,Washington,,,,,,,62020Washington
+6,2020,Sum of NR Counties,38295,,,,,,62020Sum of NR Counties
+6,2020,Broomfield,,,,,,,62020Broomfield
+6,2020,Gilpin,,,,,,,62020Gilpin
+6,2020,Lake,,,,,,,62020Lake
+6,2020,Baca,,,,,,,62020Baca
+6,2020,Fremont,,,,,NR,,62020Fremont
+6,2020,Sedgwick,,,,,NR,,62020Sedgwick
+6,2020,Arapahoe,30550,,,,,,62020Arapahoe
+6,2020,Mesa,,,,,NR,,62020Mesa
+6,2020,Teller,,,,,,,62020Teller
+6,2020,Otero,,,,,NR,,62020Otero
+6,2020,Huerfano,,,,,,,62020Huerfano
+6,2020,Rio Blanco,,,,,,,62020Rio Blanco
+6,2020,Kit Carson,,,,,,,62020Kit Carson
+6,2020,Summit,,,,,NR,,62020Summit
+6,2020,Denver,524216,,,,,,62020Denver
+6,2020,San Miguel,,,,,NR,,62020San Miguel
+6,2020,Weld,10677,,,,,,62020Weld
+6,2020,Morgan,,,,,NR,,62020Morgan
+6,2020,Larimer,24314,,,,,,62020Larimer
+6,2020,Elbert,,,,,,,62020Elbert
+6,2020,Jefferson,46958,,,,,,62020Jefferson
+6,2020,Routt,5583,,,,,,62020Routt
+6,2020,Conejos,,,,,,,62020Conejos
+6,2020,Douglas,,,,,,,62020Douglas
+6,2020,Montezuma,,,,,NR,,62020Montezuma
+6,2020,Las Animas,1313,,,,,,62020Las Animas
+6,2020,Rio Grande,,,,,,,62020Rio Grande
+6,2020,Clear Creek,,,,,,,62020Clear Creek
+6,2020,Delta,,,,,NR,,62020Delta
+6,2020,Lincoln,,,,,,,62020Lincoln
+6,2020,Gunnison,,,,,,,62020Gunnison
+6,2020,Park,,,,,NR,,62020Park
+6,2020,Boulder,32503,,,,,,62020Boulder
+6,2020,Phillips,,,,,,,62020Phillips
+6,2020,Cheyenne,,,,,,,62020Cheyenne
+6,2020,San Juan,,,,,,,62020San Juan
+6,2020,Saguache,,,,,NR,,62020Saguache
+6,2020,Chaffee,,,,,NR,,62020Chaffee
+6,2020,Crowley,,,,,,,62020Crowley
+6,2020,Ouray,,,,,,,62020Ouray
+6,2020,Mineral,,,,,,,62020Mineral
+6,2020,Eagle,1878,,,,,,62020Eagle
+6,2020,Montrose,,,,,NR,,62020Montrose
+6,2020,Kiowa,,,,,,,62020Kiowa
+6,2020,Pitkin,,,,,NR,,62020Pitkin
+6,2020,Bent,,,,,,,62020Bent
+6,2020,Logan,,,,,,,62020Logan
+6,2020,Grand,,,,,NR,,62020Grand
+6,2020,Prowers,,,,,,,62020Prowers
+6,2020,Hinsdale,,,,,,,62020Hinsdale
+6,2020,Alamosa,,,,,NR,,62020Alamosa
+6,2020,Adams,31208,,,,,,62020Adams
+6,2020,Garfield,3610,,,,,,62020Garfield
+6,2020,Custer,,,,,,,62020Custer
+6,2020,Yuma,,,,,,,62020Yuma
+6,2020,Moffat,,,,,NR,,62020Moffat
+6,2020,Pueblo,35973,,,,,,62020Pueblo
+6,2020,Dolores,,,,,,,62020Dolores
+6,2020,Jackson,,,,,,,62020Jackson
+6,2020,Archuleta,,,,,,,62020Archuleta
+7,2020,Conejos,,,,,,,72020Conejos
+7,2020,Mesa,,,,,NR,,72020Mesa
+7,2020,Boulder,47951,,,,,,72020Boulder
+7,2020,Huerfano,,,,,,,72020Huerfano
+7,2020,Eagle,5799,,,,,,72020Eagle
+7,2020,Gilpin,,,,,,,72020Gilpin
+7,2020,Montezuma,,,,,NR,,72020Montezuma
+7,2020,Lake,,,,,,,72020Lake
+7,2020,Mineral,,,,,,,72020Mineral
+7,2020,Yuma,,,,,,,72020Yuma
+7,2020,Teller,,,,,,,72020Teller
+7,2020,Adams,22383,,,,,,72020Adams
+7,2020,Elbert,,,,,,,72020Elbert
+7,2020,Logan,,,,,,,72020Logan
+7,2020,Otero,,,,,NR,,72020Otero
+7,2020,Ouray,,,,,,,72020Ouray
+7,2020,Delta,,,,,NR,,72020Delta
+7,2020,Chaffee,,,,,NR,,72020Chaffee
+7,2020,Alamosa,,,,,NR,,72020Alamosa
+7,2020,Rio Grande,,,,,,,72020Rio Grande
+7,2020,Jefferson,45996,,,,,,72020Jefferson
+7,2020,San Miguel,,,,,NR,,72020San Miguel
+7,2020,Clear Creek,,,,,,,72020Clear Creek
+7,2020,El Paso,431001,,,,,,72020El Paso
+7,2020,Rio Blanco,,,,,,,72020Rio Blanco
+7,2020,Saguache,,,,,NR,,72020Saguache
+7,2020,Sum of NR Counties,31787,,,,,,72020Sum of NR Counties
+7,2020,Las Animas,1337,,,,,,72020Las Animas
+7,2020,Routt,4418,,,,,,72020Routt
+7,2020,Cheyenne,,,,,,,72020Cheyenne
+7,2020,Bent,,,,,,,72020Bent
+7,2020,Broomfield,,,,,,,72020Broomfield
+7,2020,Pueblo,34071,,,,,,72020Pueblo
+7,2020,Kit Carson,,,,,,,72020Kit Carson
+7,2020,Phillips,,,,,,,72020Phillips
+7,2020,Morgan,,,,,NR,,72020Morgan
+7,2020,Arapahoe,29706,,,,,,72020Arapahoe
+7,2020,San Juan,,,,,,,72020San Juan
+7,2020,Costilla,,,,,,,72020Costilla
+7,2020,Weld,10341,,,,,,72020Weld
+7,2020,Summit,,,,,NR,,72020Summit
+7,2020,Larimer,20742,,,,,,72020Larimer
+7,2020,Gunnison,,,,,,,72020Gunnison
+7,2020,Sedgwick,,,,,NR,,72020Sedgwick
+7,2020,Kiowa,,,,,,,72020Kiowa
+7,2020,Garfield,3398,,,,,,72020Garfield
+7,2020,Montrose,,,,,NR,,72020Montrose
+7,2020,Custer,,,,,,,72020Custer
+7,2020,Baca,,,,,,,72020Baca
+7,2020,Prowers,,,,,,,72020Prowers
+7,2020,Hinsdale,,,,,,,72020Hinsdale
+7,2020,Grand,,,,,NR,,72020Grand
+7,2020,Moffat,,,,,NR,,72020Moffat
+7,2020,Crowley,,,,,,,72020Crowley
+7,2020,Lincoln,,,,,,,72020Lincoln
+7,2020,Pitkin,,,,,NR,,72020Pitkin
+7,2020,Park,,,,,NR,,72020Park
+7,2020,Douglas,,,,,,,72020Douglas
+7,2020,Washington,,,,,,,72020Washington
+7,2020,Denver,532348,,,,,,72020Denver
+7,2020,La Plata,,,,,NR,,72020La Plata
+7,2020,Archuleta,,,,,,,72020Archuleta
+7,2020,Fremont,8732,,,,,,72020Fremont
+7,2020,Jackson,,,,,,,72020Jackson
+7,2020,Dolores,,,,,,,72020Dolores
+8,2020,Yuma,,,,,,,82020Yuma
+8,2020,Otero,,,,,NR,,82020Otero
+8,2020,Sedgwick,,,,,,,82020Sedgwick
+8,2020,Gunnison,,,,,,,82020Gunnison
+8,2020,Fremont,,,,,NR,,82020Fremont
+8,2020,Larimer,22638,,,,,,82020Larimer
+8,2020,Huerfano,,,,,,,82020Huerfano
+8,2020,Conejos,,,,,,,82020Conejos
+8,2020,Archuleta,,,,,,,82020Archuleta
+8,2020,Lake,,,,,,,82020Lake
+8,2020,Broomfield,,,,,,,82020Broomfield
+8,2020,Delta,,,,,NR,,82020Delta
+8,2020,Pitkin,,,,,NR,,82020Pitkin
+8,2020,Boulder,33222,,,,,,82020Boulder
+8,2020,Logan,,,,,,,82020Logan
+8,2020,Kit Carson,,,,,,,82020Kit Carson
+8,2020,Lincoln,,,,,,,82020Lincoln
+8,2020,Las Animas,1076,,,,,,82020Las Animas
+8,2020,Kiowa,,,,,,,82020Kiowa
+8,2020,El Paso,435832,,,,,,82020El Paso
+8,2020,Summit,,,,,NR,,82020Summit
+8,2020,Prowers,,,,,,,82020Prowers
+8,2020,Park,,,,,NR,,82020Park
+8,2020,Moffat,,,,,NR,,82020Moffat
+8,2020,Crowley,,,,,,,82020Crowley
+8,2020,Pueblo,26425,,,,,,82020Pueblo
+8,2020,Eagle,3579,,,,,,82020Eagle
+8,2020,Gilpin,,,,,,,82020Gilpin
+8,2020,Cheyenne,,,,,,,82020Cheyenne
+8,2020,Baca,,,,,,,82020Baca
+8,2020,Grand,,,,,NR,,82020Grand
+8,2020,Teller,,,,,,,82020Teller
+8,2020,Mesa,,,,,NR,,82020Mesa
+8,2020,Alamosa,,,,,NR,,82020Alamosa
+8,2020,Costilla,,,,,,,82020Costilla
+8,2020,Montezuma,,,,,NR,,82020Montezuma
+8,2020,Jackson,,,,,,,82020Jackson
+8,2020,Custer,,,,,,,82020Custer
+8,2020,Sum of NR Counties,41759,,,,,,82020Sum of NR Counties
+8,2020,Bent,,,,,,,82020Bent
+8,2020,Weld,10226,,,,,,82020Weld
+8,2020,Adams,,,,,,,82020Adams
+8,2020,Routt,,,,,NR,,82020Routt
+8,2020,San Miguel,,,,,NR,,82020San Miguel
+8,2020,Elbert,,,,,,,82020Elbert
+8,2020,Montrose,,,,,NR,,82020Montrose
+8,2020,Arapahoe,33150,,,,,,82020Arapahoe
+8,2020,Morgan,,,,,NR,,82020Morgan
+8,2020,Washington,,,,,,,82020Washington
+8,2020,Chaffee,,,,,NR,,82020Chaffee
+8,2020,Clear Creek,,,,,,,82020Clear Creek
+8,2020,Hinsdale,,,,,,,82020Hinsdale
+8,2020,Saguache,,,,,NR,,82020Saguache
+8,2020,San Juan,,,,,,,82020San Juan
+8,2020,La Plata,,,,,NR,,82020La Plata
+8,2020,Dolores,,,,,,,82020Dolores
+8,2020,Douglas,,,,,,,82020Douglas
+8,2020,Jefferson,52744,,,,,,82020Jefferson
+8,2020,Ouray,,,,,,,82020Ouray
+8,2020,Denver,580148,,,,,,82020Denver
+8,2020,Mineral,,,,,,,82020Mineral
+8,2020,Garfield,3435,,,,,,82020Garfield
+8,2020,Rio Grande,,,,,,,82020Rio Grande
+8,2020,Phillips,,,,,,,82020Phillips
+8,2020,Rio Blanco,,,,,,,82020Rio Blanco
+9,2020,Moffat,,,,,NR,,92020Moffat
+9,2020,Summit,,,,,NR,,92020Summit
+9,2020,Routt,5830,,,,,,92020Routt
+9,2020,Prowers,,,,,,,92020Prowers
+9,2020,Weld,10265,,,,,,92020Weld
+9,2020,Larimer,21216,,,,,,92020Larimer
+9,2020,San Miguel,,,,,NR,,92020San Miguel
+9,2020,Pitkin,,,,,NR,,92020Pitkin
+9,2020,Gunnison,,,,,,,92020Gunnison
+9,2020,Delta,,,,,NR,,92020Delta
+9,2020,Archuleta,,,,,,,92020Archuleta
+9,2020,Jackson,,,,,,,92020Jackson
+9,2020,Kiowa,,,,,,,92020Kiowa
+9,2020,Montrose,,,,,NR,,92020Montrose
+9,2020,Boulder,37174,,,,,,92020Boulder
+9,2020,Costilla,,,,,,,92020Costilla
+9,2020,Gilpin,,,,,,,92020Gilpin
+9,2020,Montezuma,,,,,NR,,92020Montezuma
+9,2020,Grand,,,,,NR,,92020Grand
+9,2020,Washington,,,,,,,92020Washington
+9,2020,Baca,,,,,,,92020Baca
+9,2020,Denver,522761,,,,,,92020Denver
+9,2020,Otero,,,,,NR,,92020Otero
+9,2020,Arapahoe,31253,,,,,,92020Arapahoe
+9,2020,Cheyenne,,,,,,,92020Cheyenne
+9,2020,Lincoln,,,,,,,92020Lincoln
+9,2020,El Paso,410098,,,,,,92020El Paso
+9,2020,Logan,,,,,,,92020Logan
+9,2020,Adams,,,,,,,92020Adams
+9,2020,Douglas,,,,,,,92020Douglas
+9,2020,Kit Carson,,,,,,,92020Kit Carson
+9,2020,Broomfield,,,,,,,92020Broomfield
+9,2020,Crowley,,,,,,,92020Crowley
+9,2020,Morgan,,,,,NR,,92020Morgan
+9,2020,Mineral,,,,,,,92020Mineral
+9,2020,Huerfano,,,,,,,92020Huerfano
+9,2020,Rio Blanco,,,,,,,92020Rio Blanco
+9,2020,Sedgwick,,,,,,,92020Sedgwick
+9,2020,Pueblo,22057,,,,,,92020Pueblo
+9,2020,San Juan,,,,,,,92020San Juan
+9,2020,Phillips,,,,,,,92020Phillips
+9,2020,Alamosa,,,,,NR,,92020Alamosa
+9,2020,Saguache,,,,,NR,,92020Saguache
+9,2020,Park,,,,,NR,,92020Park
+9,2020,Fremont,,,,,NR,,92020Fremont
+9,2020,Teller,,,,,,,92020Teller
+9,2020,Eagle,3484,,,,,,92020Eagle
+9,2020,Ouray,,,,,,,92020Ouray
+9,2020,Elbert,,,,,,,92020Elbert
+9,2020,Mesa,,,,,NR,,92020Mesa
+9,2020,Lake,,,,,,,92020Lake
+9,2020,Dolores,,,,,,,92020Dolores
+9,2020,Conejos,,,,,,,92020Conejos
+9,2020,Sum of NR Counties,36439,,,,,,92020Sum of NR Counties
+9,2020,Rio Grande,,,,,,,92020Rio Grande
+9,2020,Hinsdale,,,,,,,92020Hinsdale
+9,2020,Garfield,3134,,,,,,92020Garfield
+9,2020,Yuma,,,,,,,92020Yuma
+9,2020,La Plata,,,,,NR,,92020La Plata
+9,2020,Clear Creek,,,,,,,92020Clear Creek
+9,2020,Las Animas,1051,,,,,,92020Las Animas
+9,2020,Jefferson,49815,,,,,,92020Jefferson
+9,2020,Custer,,,,,,,92020Custer
+9,2020,Chaffee,,,,,NR,,92020Chaffee
+9,2020,Bent,,,,,,,92020Bent
