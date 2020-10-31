@@ -1,0 +1,201 @@
+"CAGDP1 Gross Domestic Product (GDP) summary by county and metropolitan area"
+"" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","LineCode","Description","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"08001","Adams, CO*","1","Real GDP (thousands of chained 2012 dollars)",18284799,18379281,18583034,19084472,20324722,21039417,21995795,22938605,23933937
+"08001","Adams, CO*","2","Chain-type quantity indexes for real GDP",98.395,98.904,100.000,102.698,109.372,113.218,118.365,123.438,128.795
+"08001","Adams, CO*","3","Current-dollar GDP (thousands of current dollars)",17184361,17892016,18583034,19386599,20999192,22132117,23185551,24790908,26808606
+"08003","Alamosa, CO","1","Real GDP (thousands of chained 2012 dollars)",614762,637660,614267,600333,600714,662337,659375,654314,671553
+"08003","Alamosa, CO","2","Chain-type quantity indexes for real GDP",100.081,103.808,100.000,97.732,97.794,107.826,107.343,106.520,109.326
+"08003","Alamosa, CO","3","Current-dollar GDP (thousands of current dollars)",583963,623388,614267,614897,628069,702330,704593,712189,748242
+"08005","Arapahoe, CO","1","Real GDP (thousands of chained 2012 dollars)",32351649,33490827,34093393,36272073,38302465,39956471,41013746,42654549,44037874
+"08005","Arapahoe, CO","2","Chain-type quantity indexes for real GDP",94.891,98.233,100.000,106.390,112.346,117.197,120.298,125.111,129.168
+"08005","Arapahoe, CO","3","Current-dollar GDP (thousands of current dollars)",31207992,32707480,34093393,36827819,39470406,41889765,43766712,46079650,48610332
+"08007","Archuleta, CO","1","Real GDP (thousands of chained 2012 dollars)",403415,399376,419589,424356,440306,464385,481176,479089,482935
+"08007","Archuleta, CO","2","Chain-type quantity indexes for real GDP",96.145,95.183,100.000,101.136,104.937,110.676,114.678,114.181,115.097
+"08007","Archuleta, CO","3","Current-dollar GDP (thousands of current dollars)",390839,395653,419589,436001,459239,467510,487429,501180,521115
+"08009","Baca, CO","1","Real GDP (thousands of chained 2012 dollars)",227075,212165,145896,175999,133594,118407,121877,127452,137473
+"08009","Baca, CO","2","Chain-type quantity indexes for real GDP",155.642,145.422,100.000,120.633,91.568,81.159,83.537,87.358,94.227
+"08009","Baca, CO","3","Current-dollar GDP (thousands of current dollars)",195668,208213,145896,181032,136699,121272,126561,135187,148880
+"08011","Bent, CO","1","Real GDP (thousands of chained 2012 dollars)",181098,186608,164357,171723,167051,172963,181238,163672,165660
+"08011","Bent, CO","2","Chain-type quantity indexes for real GDP",110.186,113.539,100.000,104.482,101.639,105.236,110.271,99.584,100.793
+"08011","Bent, CO","3","Current-dollar GDP (thousands of current dollars)",164716,183377,164357,176154,169459,169165,171889,160474,164418
+"08013","Boulder, CO*","1","Real GDP (thousands of chained 2012 dollars)",20453633,20369551,20432621,20865085,21597092,22669578,23423069,24607654,25319458
+"08013","Boulder, CO*","2","Chain-type quantity indexes for real GDP",100.103,99.691,100.000,102.117,105.699,110.948,114.636,120.433,123.917
+"08013","Boulder, CO*","3","Current-dollar GDP (thousands of current dollars)",19887223,20018064,20432621,21219928,22268959,23779054,24815759,26367000,27533518
+"08014","Broomfield, CO*","1","Real GDP (thousands of chained 2012 dollars)",6006842,6486965,6984737,7233944,7053166,7595628,7596604,8366371,8050690
+"08014","Broomfield, CO*","2","Chain-type quantity indexes for real GDP",86.000,92.873,100.000,103.568,100.980,108.746,108.760,119.781,115.261
+"08014","Broomfield, CO*","3","Current-dollar GDP (thousands of current dollars)",5787916,6384373,6984737,7381711,7312504,7825937,7899171,8884998,8774670
+"08015","Chaffee, CO","1","Real GDP (thousands of chained 2012 dollars)",547545,550462,556676,566759,585605,606033,634208,662174,692114
+"08015","Chaffee, CO","2","Chain-type quantity indexes for real GDP",98.360,98.884,100.000,101.811,105.197,108.866,113.928,118.951,124.330
+"08015","Chaffee, CO","3","Current-dollar GDP (thousands of current dollars)",526744,537153,556676,581118,615657,655082,700000,743940,795570
+"08017","Cheyenne, CO","1","Real GDP (thousands of chained 2012 dollars)",279212,249932,221785,239873,223024,217923,230128,251808,235536
+"08017","Cheyenne, CO","2","Chain-type quantity indexes for real GDP",125.893,112.691,100.000,108.155,100.558,98.259,103.761,113.537,106.200
+"08017","Cheyenne, CO","3","Current-dollar GDP (thousands of current dollars)",254818,262486,221785,250945,226969,168689,165971,199511,196151
+"08019","Clear Creek, CO","1","Real GDP (thousands of chained 2012 dollars)",611362,606532,518277,576577,607080,639648,494493,509932,500533
+"08019","Clear Creek, CO","2","Chain-type quantity indexes for real GDP",117.960,117.029,100.000,111.249,117.134,123.418,95.411,98.390,96.576
+"08019","Clear Creek, CO","3","Current-dollar GDP (thousands of current dollars)",574119,603901,518277,558169,583242,598382,466004,503539,505016
+"08021","Conejos, CO","1","Real GDP (thousands of chained 2012 dollars)",160318,183995,173656,189206,190670,215666,216947,222447,244248
+"08021","Conejos, CO","2","Chain-type quantity indexes for real GDP",92.319,105.954,100.000,108.955,109.798,124.192,124.930,128.097,140.651
+"08021","Conejos, CO","3","Current-dollar GDP (thousands of current dollars)",150600,179977,173656,193644,195401,216566,213887,226795,251585
+"08023","Costilla, CO","1","Real GDP (thousands of chained 2012 dollars)",86912,102969,88851,96042,98935,107006,96329,104746,107662
+"08023","Costilla, CO","2","Chain-type quantity indexes for real GDP",97.818,115.890,100.000,108.093,111.350,120.433,108.417,117.890,121.172
+"08023","Costilla, CO","3","Current-dollar GDP (thousands of current dollars)",82156,100920,88851,98083,101706,110560,100540,111217,116343
+"08025","Crowley, CO","1","Real GDP (thousands of chained 2012 dollars)",108883,100446,127998,128166,131090,168503,182013,153741,126638
+"08025","Crowley, CO","2","Chain-type quantity indexes for real GDP",85.066,78.475,100.000,100.132,102.416,131.646,142.200,120.113,98.937
+"08025","Crowley, CO","3","Current-dollar GDP (thousands of current dollars)",104143,98376,127998,131576,133507,165172,169622,149051,124035
+"08027","Custer, CO","1","Real GDP (thousands of chained 2012 dollars)",120358,119607,118117,122440,128004,140388,126686,125904,127789
+"08027","Custer, CO","2","Chain-type quantity indexes for real GDP",101.897,101.261,100.000,103.660,108.370,118.854,107.254,106.592,108.188
+"08027","Custer, CO","3","Current-dollar GDP (thousands of current dollars)",116499,117142,118117,125441,134331,150936,138702,140487,145368
+"08029","Delta, CO","1","Real GDP (thousands of chained 2012 dollars)",796184,873857,897094,864211,821156,791826,756267,750050,785652
+"08029","Delta, CO","2","Chain-type quantity indexes for real GDP",88.751,97.410,100.000,96.334,91.535,88.266,84.302,83.609,87.577
+"08029","Delta, CO","3","Current-dollar GDP (thousands of current dollars)",759095,854364,897094,874594,844738,822605,794992,804487,861767
+"08031","Denver, CO","1","Real GDP (thousands of chained 2012 dollars)",52411746,53140758,54750675,57610110,60332265,64116859,64925150,67039713,70054379
+"08031","Denver, CO","2","Chain-type quantity indexes for real GDP",95.728,97.060,100.000,105.223,110.195,117.107,118.583,122.445,127.952
+"08031","Denver, CO","3","Current-dollar GDP (thousands of current dollars)",50373121,51986737,54750675,58948642,63023176,67078912,68814568,72403705,77455208
+"08033","Dolores, CO","1","Real GDP (thousands of chained 2012 dollars)",172483,154468,102828,115344,220030,216453,191724,188029,156585
+"08033","Dolores, CO","2","Chain-type quantity indexes for real GDP",167.740,150.220,100.000,112.172,213.978,210.500,186.451,182.857,152.278
+"08033","Dolores, CO","3","Current-dollar GDP (thousands of current dollars)",168484,168163,102828,120892,228414,149541,123513,141504,132365
+"08035","Douglas, CO","1","Real GDP (thousands of chained 2012 dollars)",11008499,11381305,12582070,12808827,13494310,14173343,14332960,15226588,15743268
+"08035","Douglas, CO","2","Chain-type quantity indexes for real GDP",87.494,90.457,100.000,101.802,107.250,112.647,113.916,121.018,125.125
+"08035","Douglas, CO","3","Current-dollar GDP (thousands of current dollars)",10675536,11157920,12582070,13049203,13946565,14856247,15234813,16414609,17335732
+"08037","Eagle, CO","1","Real GDP (thousands of chained 2012 dollars)",2730961,2655963,2569140,2826452,2990311,3136360,3216484,3308719,3375460
+"08037","Eagle, CO","2","Chain-type quantity indexes for real GDP",106.299,103.379,100.000,110.015,116.393,122.078,125.197,128.787,131.385
+"08037","Eagle, CO","3","Current-dollar GDP (thousands of current dollars)",2618090,2582886,2569140,2891109,3133213,3387476,3568119,3736715,3903441
+"08039","Elbert, CO","1","Real GDP (thousands of chained 2012 dollars)",361430,362491,370606,398820,397288,408333,423323,451766,484094
+"08039","Elbert, CO","2","Chain-type quantity indexes for real GDP",97.524,97.810,100.000,107.613,107.200,110.180,114.225,121.899,130.622
+"08039","Elbert, CO","3","Current-dollar GDP (thousands of current dollars)",348707,355116,370606,408733,417469,440868,466564,508145,555453
+"08041","El Paso, CO","1","Real GDP (thousands of chained 2012 dollars)",28041400,28680179,28776560,29118575,29467826,30201637,30907788,32265733,33349174
+"08041","El Paso, CO","2","Chain-type quantity indexes for real GDP",97.445,99.665,100.000,101.189,102.402,104.952,107.406,112.125,115.890
+"08041","El Paso, CO","3","Current-dollar GDP (thousands of current dollars)",27274279,28222837,28776560,29627507,30552677,31961534,33148319,35073946,37001039
+"08043","Fremont, CO","1","Real GDP (thousands of chained 2012 dollars)",1228271,1248891,1231277,1195953,1202543,1248334,1269874,1295616,1325142
+"08043","Fremont, CO","2","Chain-type quantity indexes for real GDP",99.756,101.431,100.000,97.131,97.666,101.385,103.135,105.225,107.623
+"08043","Fremont, CO","3","Current-dollar GDP (thousands of current dollars)",1186468,1225410,1231277,1224554,1260179,1342760,1392278,1447138,1515306
+"08045","Garfield, CO","1","Real GDP (thousands of chained 2012 dollars)",4198961,3958501,3816191,3841346,4148049,4230409,4246153,4301192,4243642
+"08045","Garfield, CO","2","Chain-type quantity indexes for real GDP",110.030,103.729,100.000,100.659,108.696,110.854,111.267,112.709,111.201
+"08045","Garfield, CO","3","Current-dollar GDP (thousands of current dollars)",4127862,4178420,3816191,4007310,4322150,3441973,3371779,3682316,3893318
+"08047","Gilpin, CO","1","Real GDP (thousands of chained 2012 dollars)",635406,586556,537548,526928,501865,505564,503282,552434,525142
+"08047","Gilpin, CO","2","Chain-type quantity indexes for real GDP",118.205,109.117,100.000,98.024,93.362,94.050,93.626,102.769,97.692
+"08047","Gilpin, CO","3","Current-dollar GDP (thousands of current dollars)",601588,564928,537548,538186,525046,547410,561978,625939,611473
+"08049","Grand, CO","1","Real GDP (thousands of chained 2012 dollars)",624448,621429,606255,620328,632620,653776,661941,685071,714703
+"08049","Grand, CO","2","Chain-type quantity indexes for real GDP",103.001,102.503,100.000,102.321,104.349,107.839,109.185,113.000,117.888
+"08049","Grand, CO","3","Current-dollar GDP (thousands of current dollars)",597876,606075,606255,635115,664141,706129,731850,772796,825925
+"08051","Gunnison, CO","1","Real GDP (thousands of chained 2012 dollars)",1161321,1125293,1108495,952371,940259,923743,943497,1012690,1028922
+"08051","Gunnison, CO","2","Chain-type quantity indexes for real GDP",104.766,101.515,100.000,85.916,84.823,83.333,85.115,91.357,92.822
+"08051","Gunnison, CO","3","Current-dollar GDP (thousands of current dollars)",1090648,1108183,1108495,951390,952493,937528,969003,1074232,1120201
+"08053","Hinsdale, CO","1","Real GDP (thousands of chained 2012 dollars)",46278,47171,47290,46740,47608,48200,47982,52284,52699
+"08053","Hinsdale, CO","2","Chain-type quantity indexes for real GDP",97.860,99.749,100.000,98.838,100.673,101.925,101.464,110.560,111.437
+"08053","Hinsdale, CO","3","Current-dollar GDP (thousands of current dollars)",44909,46324,47290,47521,48897,50767,51476,57063,58282
+"08055","Huerfano, CO","1","Real GDP (thousands of chained 2012 dollars)",261032,229511,207675,215453,231300,233778,246665,271378,273895
+"08055","Huerfano, CO","2","Chain-type quantity indexes for real GDP",125.692,110.515,100.000,103.745,111.376,112.569,118.774,130.674,131.887
+"08055","Huerfano, CO","3","Current-dollar GDP (thousands of current dollars)",243129,229641,207675,220486,238469,221336,230830,266826,282562
+"08057","Jackson, CO","1","Real GDP (thousands of chained 2012 dollars)",78839,82592,67984,70519,78749,89185,93650,98742,118656
+"08057","Jackson, CO","2","Chain-type quantity indexes for real GDP",115.967,121.487,100.000,103.729,115.834,131.186,137.753,145.242,174.536
+"08057","Jackson, CO","3","Current-dollar GDP (thousands of current dollars)",74634,82900,67984,72587,81535,83806,86087,97175,125414
+"08059","Jefferson, CO*","1","Real GDP (thousands of chained 2012 dollars)",24002698,24029939,24116713,24390030,25177789,26075796,27600781,28434307,29445620
+"08059","Jefferson, CO*","2","Chain-type quantity indexes for real GDP",99.527,99.640,100.000,101.133,104.400,108.123,114.447,117.903,122.096
+"08059","Jefferson, CO*","3","Current-dollar GDP (thousands of current dollars)",23191906,23521083,24116713,24882040,26180172,27778038,29949442,31307294,33039256
+"08061","Kiowa, CO","1","Real GDP (thousands of chained 2012 dollars)",100186,94753,93751,98949,89237,84548,83008,90628,73798
+"08061","Kiowa, CO","2","Chain-type quantity indexes for real GDP",106.864,101.068,100.000,105.544,95.185,90.183,88.540,96.668,78.717
+"08061","Kiowa, CO","3","Current-dollar GDP (thousands of current dollars)",91763,95417,93751,101967,90432,79033,75117,85516,71215
+"08063","Kit Carson, CO","1","Real GDP (thousands of chained 2012 dollars)",521130,437716,392480,362369,343626,318197,325292,331713,391520
+"08063","Kit Carson, CO","2","Chain-type quantity indexes for real GDP",132.779,111.526,100.000,92.328,87.553,81.073,82.881,84.517,99.756
+"08063","Kit Carson, CO","3","Current-dollar GDP (thousands of current dollars)",443046,426438,392480,371726,354515,330444,341259,354595,425741
+"08065","Lake, CO","1","Real GDP (thousands of chained 2012 dollars)",186846,206078,278563,278772,294343,277307,266524,296883,309433
+"08065","Lake, CO","2","Chain-type quantity indexes for real GDP",67.075,73.979,100.000,100.075,105.665,99.549,95.678,106.577,111.082
+"08065","Lake, CO","3","Current-dollar GDP (thousands of current dollars)",181212,203271,278563,274737,291367,274265,267324,310184,330419
+"08067","La Plata, CO","1","Real GDP (thousands of chained 2012 dollars)",3501346,3253812,3162531,3437019,3650411,3499160,3674622,3650188,3515882
+"08067","La Plata, CO","2","Chain-type quantity indexes for real GDP",110.713,102.886,100.000,108.679,115.427,110.644,116.192,115.420,111.173
+"08067","La Plata, CO","3","Current-dollar GDP (thousands of current dollars)",3408421,3362595,3162531,3571066,3826352,3162957,3309497,3478396,3538083
+"08069","Larimer, CO","1","Real GDP (thousands of chained 2012 dollars)",12632341,12807724,13104708,13582127,14114143,14784676,15358832,16121584,16793330
+"08069","Larimer, CO","2","Chain-type quantity indexes for real GDP",96.395,97.734,100.000,103.643,107.703,112.820,117.201,123.021,128.147
+"08069","Larimer, CO","3","Current-dollar GDP (thousands of current dollars)",12243111,12552282,13104708,13854440,14676625,15727627,16575106,17670237,18783482
+"08071","Las Animas, CO","1","Real GDP (thousands of chained 2012 dollars)",804924,723885,684577,683882,731042,718839,736109,723964,711460
+"08071","Las Animas, CO","2","Chain-type quantity indexes for real GDP",117.580,105.742,100.000,99.899,106.788,105.005,107.528,105.754,103.927
+"08071","Las Animas, CO","3","Current-dollar GDP (thousands of current dollars)",788672,761377,684577,713165,760104,587988,586714,620199,648555
+"08073","Lincoln, CO","1","Real GDP (thousands of chained 2012 dollars)",203937,246646,291455,324359,352881,363542,374098,396871,391910
+"08073","Lincoln, CO","2","Chain-type quantity indexes for real GDP",69.972,84.626,100.000,111.289,121.075,124.733,128.355,136.169,134.466
+"08073","Lincoln, CO","3","Current-dollar GDP (thousands of current dollars)",197868,247212,291455,335267,377296,368316,373219,408252,416530
+"08075","Logan, CO","1","Real GDP (thousands of chained 2012 dollars)",1072653,1062647,1080428,1095653,1137663,1217271,1235667,1090097,1061679
+"08075","Logan, CO","2","Chain-type quantity indexes for real GDP",99.280,98.354,100.000,101.409,105.297,112.666,114.368,100.895,98.265
+"08075","Logan, CO","3","Current-dollar GDP (thousands of current dollars)",993976,1042557,1080428,1125801,1180074,1238138,1234997,1120999,1116622
+"08077","Mesa, CO","1","Real GDP (thousands of chained 2012 dollars)",5651982,5683788,5646768,5560834,5723592,5757436,5695220,5970021,6253144
+"08077","Mesa, CO","2","Chain-type quantity indexes for real GDP",100.092,100.656,100.000,98.478,101.360,101.960,100.858,105.725,110.738
+"08077","Mesa, CO","3","Current-dollar GDP (thousands of current dollars)",5402562,5544126,5646768,5683731,5968579,6092592,6109870,6527108,7017336
+"08079","Mineral, CO","1","Real GDP (thousands of chained 2012 dollars)",52592,58403,62167,66639,66123,70751,68993,73103,77089
+"08079","Mineral, CO","2","Chain-type quantity indexes for real GDP",84.598,93.946,100.000,107.193,106.363,113.809,110.980,117.593,124.004
+"08079","Mineral, CO","3","Current-dollar GDP (thousands of current dollars)",50513,56955,62167,67566,67735,74401,74149,79592,85343
+"08081","Moffat, CO","1","Real GDP (thousands of chained 2012 dollars)",1227566,1194784,1118184,1071305,1100100,1042946,1045120,1026134,987890
+"08081","Moffat, CO","2","Chain-type quantity indexes for real GDP",109.782,106.850,100.000,95.808,98.383,93.271,93.466,91.768,88.348
+"08081","Moffat, CO","3","Current-dollar GDP (thousands of current dollars)",1217167,1218753,1118184,1088272,1157906,1064996,1048144,1068893,1063148
+"08083","Montezuma, CO","1","Real GDP (thousands of chained 2012 dollars)",1291287,1683342,1534375,1275323,1600478,1808550,1888742,2024058,1799102
+"08083","Montezuma, CO","2","Chain-type quantity indexes for real GDP",84.157,109.709,100.000,83.117,104.308,117.869,123.095,131.914,117.253
+"08083","Montezuma, CO","3","Current-dollar GDP (thousands of current dollars)",1301241,1844473,1534375,1337615,1669806,1308323,1292024,1578633,1567692
+"08085","Montrose, CO","1","Real GDP (thousands of chained 2012 dollars)",1300252,1285643,1275629,1236207,1253955,1301522,1314618,1359203,1413627
+"08085","Montrose, CO","2","Chain-type quantity indexes for real GDP",101.930,100.785,100.000,96.910,98.301,102.030,103.056,106.552,110.818
+"08085","Montrose, CO","3","Current-dollar GDP (thousands of current dollars)",1256375,1258968,1275629,1264903,1312823,1388163,1420408,1490596,1581715
+"08087","Morgan, CO","1","Real GDP (thousands of chained 2012 dollars)",1359513,1334732,1377968,1379677,1449472,1527903,1494827,1559780,1592344
+"08087","Morgan, CO","2","Chain-type quantity indexes for real GDP",98.661,96.862,100.000,100.124,105.189,110.881,108.481,113.194,115.557
+"08087","Morgan, CO","3","Current-dollar GDP (thousands of current dollars)",1295470,1304486,1377968,1414463,1514935,1589897,1545861,1635879,1682660
+"08089","Otero, CO","1","Real GDP (thousands of chained 2012 dollars)",570262,586274,578519,596313,570149,597938,580665,579125,594219
+"08089","Otero, CO","2","Chain-type quantity indexes for real GDP",98.573,101.340,100.000,103.076,98.553,103.357,100.371,100.105,102.714
+"08089","Otero, CO","3","Current-dollar GDP (thousands of current dollars)",537768,571145,578519,611958,593645,628000,613313,623508,652500
+"08091","Ouray, CO","1","Real GDP (thousands of chained 2012 dollars)",155741,148083,159276,187002,197957,214088,193107,196871,200510
+"08091","Ouray, CO","2","Chain-type quantity indexes for real GDP",97.780,92.972,100.000,117.407,124.285,134.413,121.240,123.603,125.888
+"08091","Ouray, CO","3","Current-dollar GDP (thousands of current dollars)",150163,144811,159276,188553,201992,220144,202183,211146,219458
+"08093","Park, CO","1","Real GDP (thousands of chained 2012 dollars)",338537,338404,336480,329091,328877,349626,364585,383734,400803
+"08093","Park, CO","2","Chain-type quantity indexes for real GDP",100.611,100.572,100.000,97.804,97.740,103.907,108.353,114.044,119.116
+"08093","Park, CO","3","Current-dollar GDP (thousands of current dollars)",327732,331746,336480,336608,344427,377478,402810,432897,461860
+"08095","Phillips, CO","1","Real GDP (thousands of chained 2012 dollars)",238233,262007,238405,224237,221465,198867,217901,202394,213315
+"08095","Phillips, CO","2","Chain-type quantity indexes for real GDP",99.928,109.900,100.000,94.057,92.894,83.416,91.399,84.895,89.476
+"08095","Phillips, CO","3","Current-dollar GDP (thousands of current dollars)",208326,256659,238405,230554,225940,197102,214896,204454,220369
+"08097","Pitkin, CO","1","Real GDP (thousands of chained 2012 dollars)",1563849,1554747,1585597,1668990,1768101,1810200,1864163,1871595,1900883
+"08097","Pitkin, CO","2","Chain-type quantity indexes for real GDP",98.628,98.054,100.000,105.259,111.510,114.165,117.568,118.037,119.884
+"08097","Pitkin, CO","3","Current-dollar GDP (thousands of current dollars)",1499060,1512433,1585597,1708341,1853755,1959344,2072810,2119967,2203979
+"08099","Prowers, CO","1","Real GDP (thousands of chained 2012 dollars)",593972,536873,565681,576831,532691,562738,593064,541959,585362
+"08099","Prowers, CO","2","Chain-type quantity indexes for real GDP",105.001,94.907,100.000,101.971,94.168,99.480,104.841,95.806,103.479
+"08099","Prowers, CO","3","Current-dollar GDP (thousands of current dollars)",534456,524578,565681,591666,543119,557888,572659,539914,590035
+"08101","Pueblo, CO","1","Real GDP (thousands of chained 2012 dollars)",5274674,5441708,5589514,5495976,5450844,5633254,5793524,5936817,6084945
+"08101","Pueblo, CO","2","Chain-type quantity indexes for real GDP",94.367,97.356,100.000,98.327,97.519,100.783,103.650,106.213,108.864
+"08101","Pueblo, CO","3","Current-dollar GDP (thousands of current dollars)",5123843,5366860,5589514,5606947,5718699,6035970,6285648,6562728,6888420
+"08103","Rio Blanco, CO","1","Real GDP (thousands of chained 2012 dollars)",873330,838389,807629,793957,852995,816272,762354,754490,736488
+"08103","Rio Blanco, CO","2","Chain-type quantity indexes for real GDP",108.135,103.809,100.000,98.307,105.617,101.070,94.394,93.420,91.191
+"08103","Rio Blanco, CO","3","Current-dollar GDP (thousands of current dollars)",870761,922953,807629,831041,878626,564939,495062,562080,612774
+"08105","Rio Grande, CO","1","Real GDP (thousands of chained 2012 dollars)",394589,414147,373685,372792,376356,435710,439984,424683,435646
+"08105","Rio Grande, CO","2","Chain-type quantity indexes for real GDP",105.594,110.828,100.000,99.761,100.715,116.598,117.742,113.647,116.581
+"08105","Rio Grande, CO","3","Current-dollar GDP (thousands of current dollars)",369883,404631,373685,382886,392530,452924,454116,449480,469296
+"08107","Routt, CO","1","Real GDP (thousands of chained 2012 dollars)",1915342,1931576,1859168,1782659,1742980,1606787,1596244,1648606,1676236
+"08107","Routt, CO","2","Chain-type quantity indexes for real GDP",103.021,103.895,100.000,95.885,93.751,86.425,85.858,88.674,90.161
+"08107","Routt, CO","3","Current-dollar GDP (thousands of current dollars)",1834590,1902335,1859168,1803701,1806909,1689523,1700284,1800013,1873786
+"08109","Saguache, CO","1","Real GDP (thousands of chained 2012 dollars)",169761,196032,165799,151318,148143,183987,178250,166002,170660
+"08109","Saguache, CO","2","Chain-type quantity indexes for real GDP",102.390,118.235,100.000,91.266,89.351,110.970,107.510,100.123,102.932
+"08109","Saguache, CO","3","Current-dollar GDP (thousands of current dollars)",155522,190989,165799,154650,153890,192911,186525,177039,185596
+"08111","San Juan, CO","1","Real GDP (thousands of chained 2012 dollars)",43729,46664,46672,51640,47974,49355,41257,44580,44681
+"08111","San Juan, CO","2","Chain-type quantity indexes for real GDP",93.693,99.983,100.000,110.643,102.789,105.749,88.397,95.517,95.734
+"08111","San Juan, CO","3","Current-dollar GDP (thousands of current dollars)",42188,45674,46672,52785,49576,52342,44607,48736,49447
+"08113","San Miguel, CO","1","Real GDP (thousands of chained 2012 dollars)",490222,477511,465064,495348,539119,612657,607530,607756,630972
+"08113","San Miguel, CO","2","Chain-type quantity indexes for real GDP",105.409,102.676,100.000,106.512,115.924,131.736,130.634,130.682,135.674
+"08113","San Miguel, CO","3","Current-dollar GDP (thousands of current dollars)",471149,467502,465064,508100,565788,657367,668838,682362,725195
+"08115","Sedgwick, CO","1","Real GDP (thousands of chained 2012 dollars)",148309,147671,143865,138042,150058,131811,141744,124544,122461
+"08115","Sedgwick, CO","2","Chain-type quantity indexes for real GDP",103.089,102.646,100.000,95.952,104.305,91.621,98.526,86.570,85.122
+"08115","Sedgwick, CO","3","Current-dollar GDP (thousands of current dollars)",125848,143675,143865,141581,149032,124116,128647,117494,116765
+"08117","Summit, CO","1","Real GDP (thousands of chained 2012 dollars)",1788050,1773473,1737460,1770425,1817176,1954242,1997326,2100690,2144107
+"08117","Summit, CO","2","Chain-type quantity indexes for real GDP",102.912,102.073,100.000,101.897,104.588,112.477,114.957,120.906,123.405
+"08117","Summit, CO","3","Current-dollar GDP (thousands of current dollars)",1718138,1729250,1737460,1808630,1900822,2102773,2203200,2365430,2472134
+"08119","Teller, CO","1","Real GDP (thousands of chained 2012 dollars)",786716,777911,759624,769053,792060,832946,821374,880866,858144
+"08119","Teller, CO","2","Chain-type quantity indexes for real GDP",103.566,102.407,100.000,101.241,104.270,109.652,108.129,115.961,112.970
+"08119","Teller, CO","3","Current-dollar GDP (thousands of current dollars)",749405,764251,759624,768918,799886,845533,846680,941544,937531
+"08121","Washington, CO","1","Real GDP (thousands of chained 2012 dollars)",274309,273791,250054,245170,252720,219055,228338,199232,240624
+"08121","Washington, CO","2","Chain-type quantity indexes for real GDP",109.700,109.493,100.000,98.047,101.066,87.603,91.316,79.676,96.229
+"08121","Washington, CO","3","Current-dollar GDP (thousands of current dollars)",237561,273812,250054,253134,254253,194032,196020,179951,226176
+"08123","Weld, CO*","1","Real GDP (thousands of chained 2012 dollars)",10481889,10901589,11925849,13208351,15640435,17290520,17607226,18767550,20531235
+"08123","Weld, CO*","2","Chain-type quantity indexes for real GDP",87.892,91.411,100.000,110.754,131.147,144.984,147.639,157.369,172.157
+"08123","Weld, CO*","3","Current-dollar GDP (thousands of current dollars)",10050866,11003653,11925849,13677911,16226265,14746637,14512340,16758702,19759560
+"08125","Yuma, CO","1","Real GDP (thousands of chained 2012 dollars)",781861,755118,795924,755449,810483,817648,861732,781972,673264
+"08125","Yuma, CO","2","Chain-type quantity indexes for real GDP",98.233,94.873,100.000,94.915,101.829,102.729,108.268,98.247,84.589
+"08125","Yuma, CO","3","Current-dollar GDP (thousands of current dollars)",673713,752198,795924,779494,808764,709233,705963,677842,595549
+"Legend / Footnotes:"
+"* Broomfield County, CO, was created from parts of Adams, Boulder, Jefferson, and Weld counties effective November 15, 2001. Estimates for Broomfield county begin with 2002."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"Last updated: December 12, 2019 -- new statistics for 2001-2018."
