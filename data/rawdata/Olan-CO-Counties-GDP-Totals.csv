@@ -1,8 +1,9 @@
-"CAGDP1 Gross Domestic Product (GDP) summary by county and metropolitan area"
-"Real Gross Domestic Product (GDP) (Thousands of chained 2012 dollars)" 
+"CAGDP9 Real GDP by county and metropolitan area 1/"
+"Real GDP: All industry total (Thousands of chained 2012 dollars)" 
 "Bureau of Economic Analysis" 
 "County"
 "GeoFips","GeoName","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"08000","Colorado",264791078,268680788,273519504,282533885,295698588,309179631,316751784,329573719,341076739
 "08001","Adams, CO*",18284799,18379281,18583034,19084472,20324722,21039417,21995795,22938605,23933937
 "08003","Alamosa, CO",614762,637660,614267,600333,600714,662337,659375,654314,671553
 "08005","Arapahoe, CO",32351649,33490827,34093393,36272073,38302465,39956471,41013746,42654549,44037874
@@ -68,6 +69,8 @@
 "08123","Weld, CO*",10481889,10901589,11925849,13208351,15640435,17290520,17607226,18767550,20531235
 "08125","Yuma, CO",781861,755118,795924,755449,810483,817648,861732,781972,673264
 "Legend / Footnotes:"
+"1/ Real GDP is in thousands of chained 2012 dollars. Industry detail is based on the 2012 North American Industry Classification System (NAICS)."
 "* Broomfield County, CO, was created from parts of Adams, Boulder, Jefferson, and Weld counties effective November 15, 2001. Estimates for Broomfield county begin with 2002."
 "Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"* For the All industry total and Government and government enterprises, the difference between the United States and Metropolitan and Nonmetropolitan portions reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
 "Last updated: December 12, 2019 -- new statistics for 2001-2018."
