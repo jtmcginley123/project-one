@@ -1,49 +1,49 @@
-outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
-Marijuana Use in the Past Month,12 to 17,2002-03,Colorado,0.098228,0.07902,0.121489
-Marijuana Use in the Past Month,12 to 17,2003-04,Colorado,0.098274,0.078659,0.122133
-Marijuana Use in the Past Month,12 to 17,2004-05,Colorado,0.092432,0.072828,0.11665
-Marijuana Use in the Past Month,12 to 17,2005-06,Colorado,0.076013,0.060386,0.095275
-Marijuana Use in the Past Month,12 to 17,2006-07,Colorado,0.081488,0.066562,0.099406
-Marijuana Use in the Past Month,12 to 17,2007-08,Colorado,0.091267,0.073479,0.112836
-Marijuana Use in the Past Month,12 to 17,2008-09,Colorado,0.101734,0.082055,0.125487
-Marijuana Use in the Past Month,12 to 17,2009-10,Colorado,0.099088,0.079138,0.123394
-Marijuana Use in the Past Month,12 to 17,2010-11,Colorado,0.107157,0.086996,0.131317
-Marijuana Use in the Past Month,12 to 17,2011-12,Colorado,0.104707,0.084865,0.128537
-Marijuana Use in the Past Month,12 to 17,2012-13,Colorado,0.111633,0.090789,0.136543
-Marijuana Use in the Past Month,12 to 17,2013-14,Colorado,0.12557,0.103039,0.152193
-Marijuana Use in the Past Month,12 to 17,2014-15,Colorado,0.111262,0.09017,0.136547
-Marijuana Use in the Past Month,12 to 17,2015-16,Colorado,0.090776,0.072633,0.112899
-Marijuana Use in the Past Month,12 to 17,2016-17,Colorado,0.090181,0.072895,0.111073
-Marijuana Use in the Past Month,12 to 17,2017-18,Colorado,0.093862,0.075197,0.116578
-Marijuana Use in the Past Month,18 to 25,2002-03,Colorado,0.216673,0.185874,0.251001
-Marijuana Use in the Past Month,18 to 25,2003-04,Colorado,0.189069,0.16039,0.221523
-Marijuana Use in the Past Month,18 to 25,2004-05,Colorado,0.209658,0.178487,0.244653
-Marijuana Use in the Past Month,18 to 25,2005-06,Colorado,0.211807,0.179429,0.24826
-Marijuana Use in the Past Month,18 to 25,2006-07,Colorado,0.217559,0.185012,0.254047
-Marijuana Use in the Past Month,18 to 25,2007-08,Colorado,0.234395,0.19904,0.273883
-Marijuana Use in the Past Month,18 to 25,2008-09,Colorado,0.24181,0.207094,0.280288
-Marijuana Use in the Past Month,18 to 25,2009-10,Colorado,0.263492,0.229339,0.300745
-Marijuana Use in the Past Month,18 to 25,2010-11,Colorado,0.272599,0.237021,0.311339
-Marijuana Use in the Past Month,18 to 25,2011-12,Colorado,0.268145,0.234737,0.304416
-Marijuana Use in the Past Month,18 to 25,2012-13,Colorado,0.290498,0.254158,0.329737
-Marijuana Use in the Past Month,18 to 25,2013-14,Colorado,0.312392,0.276636,0.35053
-Marijuana Use in the Past Month,18 to 25,2014-15,Colorado,0.317456,0.281558,0.355664
-Marijuana Use in the Past Month,18 to 25,2015-16,Colorado,0.321952,0.281553,0.365201
-Marijuana Use in the Past Month,18 to 25,2016-17,Colorado,0.317394,0.276741,0.361038
-Marijuana Use in the Past Month,18 to 25,2017-18,Colorado,0.332081,0.293665,0.372871
-Marijuana Use in the Past Month,26 or Older,2002-03,Colorado,0.060119,0.045223,0.079513
-Marijuana Use in the Past Month,26 or Older,2003-04,Colorado,0.049513,0.036965,0.066029
-Marijuana Use in the Past Month,26 or Older,2004-05,Colorado,0.049365,0.037296,0.065076
-Marijuana Use in the Past Month,26 or Older,2005-06,Colorado,0.054475,0.041886,0.070569
-Marijuana Use in the Past Month,26 or Older,2006-07,Colorado,0.058096,0.045011,0.074687
-Marijuana Use in the Past Month,26 or Older,2007-08,Colorado,0.068407,0.05229,0.089027
-Marijuana Use in the Past Month,26 or Older,2008-09,Colorado,0.073098,0.05572,0.095348
-Marijuana Use in the Past Month,26 or Older,2009-10,Colorado,0.088579,0.069646,0.112039
-Marijuana Use in the Past Month,26 or Older,2010-11,Colorado,0.08189,0.064283,0.103786
-Marijuana Use in the Past Month,26 or Older,2011-12,Colorado,0.076328,0.059141,0.097989
-Marijuana Use in the Past Month,26 or Older,2012-13,Colorado,0.10128,0.080841,0.126178
-Marijuana Use in the Past Month,26 or Older,2013-14,Colorado,0.124476,0.102793,0.149969
-Marijuana Use in the Past Month,26 or Older,2014-15,Colorado,0.146488,0.124148,0.172059
-Marijuana Use in the Past Month,26 or Older,2015-16,Colorado,0.140049,0.119272,0.163771
-Marijuana Use in the Past Month,26 or Older,2016-17,Colorado,0.148058,0.126122,0.173054
-Marijuana Use in the Past Month,26 or Older,2017-18,Colorado,0.157346,0.133919,0.184001
+age_group,year_pair,geography,estimate,ci_lower,ci_upper
+12 to 17,2002-03,Colorado,0.098228,0.07902,0.121489
+12 to 17,2003-04,Colorado,0.098274,0.078659,0.122133
+12 to 17,2004-05,Colorado,0.092432,0.072828,0.11665
+12 to 17,2005-06,Colorado,0.076013,0.060386,0.095275
+12 to 17,2006-07,Colorado,0.081488,0.066562,0.099406
+12 to 17,2007-08,Colorado,0.091267,0.073479,0.112836
+12 to 17,2008-09,Colorado,0.101734,0.082055,0.125487
+12 to 17,2009-10,Colorado,0.099088,0.079138,0.123394
+12 to 17,2010-11,Colorado,0.107157,0.086996,0.131317
+12 to 17,2011-12,Colorado,0.104707,0.084865,0.128537
+12 to 17,2012-13,Colorado,0.111633,0.090789,0.136543
+12 to 17,2013-14,Colorado,0.12557,0.103039,0.152193
+12 to 17,2014-15,Colorado,0.111262,0.09017,0.136547
+12 to 17,2015-16,Colorado,0.090776,0.072633,0.112899
+12 to 17,2016-17,Colorado,0.090181,0.072895,0.111073
+12 to 17,2017-18,Colorado,0.093862,0.075197,0.116578
+18 to 25,2002-03,Colorado,0.216673,0.185874,0.251001
+18 to 25,2003-04,Colorado,0.189069,0.16039,0.221523
+18 to 25,2004-05,Colorado,0.209658,0.178487,0.244653
+18 to 25,2005-06,Colorado,0.211807,0.179429,0.24826
+18 to 25,2006-07,Colorado,0.217559,0.185012,0.254047
+18 to 25,2007-08,Colorado,0.234395,0.19904,0.273883
+18 to 25,2008-09,Colorado,0.24181,0.207094,0.280288
+18 to 25,2009-10,Colorado,0.263492,0.229339,0.300745
+18 to 25,2010-11,Colorado,0.272599,0.237021,0.311339
+18 to 25,2011-12,Colorado,0.268145,0.234737,0.304416
+18 to 25,2012-13,Colorado,0.290498,0.254158,0.329737
+18 to 25,2013-14,Colorado,0.312392,0.276636,0.35053
+18 to 25,2014-15,Colorado,0.317456,0.281558,0.355664
+18 to 25,2015-16,Colorado,0.321952,0.281553,0.365201
+18 to 25,2016-17,Colorado,0.317394,0.276741,0.361038
+18 to 25,2017-18,Colorado,0.332081,0.293665,0.372871
+26 or Older,2002-03,Colorado,0.060119,0.045223,0.079513
+26 or Older,2003-04,Colorado,0.049513,0.036965,0.066029
+26 or Older,2004-05,Colorado,0.049365,0.037296,0.065076
+26 or Older,2005-06,Colorado,0.054475,0.041886,0.070569
+26 or Older,2006-07,Colorado,0.058096,0.045011,0.074687
+26 or Older,2007-08,Colorado,0.068407,0.05229,0.089027
+26 or Older,2008-09,Colorado,0.073098,0.05572,0.095348
+26 or Older,2009-10,Colorado,0.088579,0.069646,0.112039
+26 or Older,2010-11,Colorado,0.08189,0.064283,0.103786
+26 or Older,2011-12,Colorado,0.076328,0.059141,0.097989
+26 or Older,2012-13,Colorado,0.10128,0.080841,0.126178
+26 or Older,2013-14,Colorado,0.124476,0.102793,0.149969
+26 or Older,2014-15,Colorado,0.146488,0.124148,0.172059
+26 or Older,2015-16,Colorado,0.140049,0.119272,0.163771
+26 or Older,2016-17,Colorado,0.148058,0.126122,0.173054
+26 or Older,2017-18,Colorado,0.157346,0.133919,0.184001
