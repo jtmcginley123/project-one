@@ -1,19 +1,10 @@
-sub	Year	CHA_type	Codes	Def Desc	def	Denom Type	Rate Description 	Rate Method Desc	Denom	Lcl	N	Rate	Ucl	Wban	Avg. Year
-Marijuana	2011	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,327,248	589.1	7,993	602.2	615.5	26	2011
-Marijuana	2011	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,327,248	589.1	7,993	602.2	615.5	26	2011
-Marijuana	2012	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,424,217	672.3	9,767	685.8	699.5	27	2012
-Marijuana	2012	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,424,217	672.3	9,767	685.8	699.5	27	2012
-Marijuana	2013	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,620,114	838.6	13,815	852.7	867.0	28	2013
-Marijuana	2013	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,620,114	838.6	13,815	852.7	867.0	28	2013
-Marijuana	2014	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,756,313	996.9	17,767	1,011.6	1,026.5	30	2014
-Marijuana	2014	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,756,313	996.9	17,767	1,011.6	1,026.5	30	2014
-Marijuana	2015	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,851,377	751.7	14,148	764.2	776.8	25	2015
-Marijuana	2015	Emergency Department 	3043*	Use, Abuse, or Dependence	3	Discharges	Crude		1,851,377	751.7	14,148	764.2	776.8	25	2015
-Marijuana	2016	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,920,533	1,020.7	19,876	1,034.9	1,049.3	29	2016
-Marijuana	2016	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,920,533	1,020.7	19,876	1,034.9	1,049.3	29	2016
-Marijuana	2017	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,911,468	1,089.4	21,106	1,104.2	1,119.1	30	2017
-Marijuana	2017	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,911,468	1,089.4	21,106	1,104.2	1,119.1	30	2017
-Marijuana	2018	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,911,545	1,111.0	21,523	1,125.9	1,141.0	30	2018
-Marijuana	2018	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,911,545	1,111.0	21,523	1,125.9	1,141.0	30	2018
-Marijuana	2019	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,848,243	800.8	15,039	813.7	826.7	26	2019
-Marijuana	2019	Emergency Department 	F12*	Use, Abuse, or Dependence	3	Discharges	Crude		1,848,243	800.8	15,039	813.7	826.7	26	2019
+sub	Year	CHA_type	Codes	Def Desc	def	Total Discharges	LCI	Total Marijuana Emergency Discharges	Rate	UCI
+Marijuana	2011	Emergency Department 	3043*	"Use, Abuse, or Dependence"	3	1327248	589.1	7993	602.2	615.5
+Marijuana	2012	Emergency Department 	3043*	"Use, Abuse, or Dependence"	3	1424217	672.3	9767	685.8	699.5
+Marijuana	2013	Emergency Department 	3043*	"Use, Abuse, or Dependence"	3	1620114	838.6	13815	852.7	867
+Marijuana	2014	Emergency Department 	3043*	"Use, Abuse, or Dependence"	3	1756313	996.9	17767	1011.6	1026.5
+Marijuana	2015	Emergency Department 	3043*	"Use, Abuse, or Dependence"	3	1851377	751.7	14148	764.2	776.8
+Marijuana	2016	Emergency Department 	F12*	"Use, Abuse, or Dependence"	3	1920533	1020.7	19876	1034.9	1049.3
+Marijuana	2017	Emergency Department 	F12*	"Use, Abuse, or Dependence"	3	1911468	1089.4	21106	1104.2	1119.1
+Marijuana	2018	Emergency Department 	F12*	"Use, Abuse, or Dependence"	3	1911545	1111	21523	1125.9	1141
+Marijuana	2019	Emergency Department 	F12*	"Use, Abuse, or Dependence"	3	1848243	800.8	15039	813.7	826.7
