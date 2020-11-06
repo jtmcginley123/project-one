@@ -1,0 +1,814 @@
+Year,County,latitude,longtitude,Offense Type,Number of Arrests,Number of Offenses
+2012,Adams,39.69,-104.81,Possession,2079,1804
+2012,Adams,39.69,-104.81,Production,39,50
+2012,Adams,39.69,-104.81,Sales,42,41
+2012,Adams,39.69,-104.81,Smuggle,0,2
+2012,Adams,39.69,-104.81,Unknown,147,124
+2013,Adams,39.69,-104.81,Possession,867,720
+2013,Adams,39.69,-104.81,Production,15,12
+2013,Adams,39.69,-104.81,Sales,19,28
+2013,Adams,39.69,-104.81,Unknown,91,59
+2014,Adams,39.69,-104.81,Possession,725,609
+2014,Adams,39.69,-104.81,Production,6,11
+2014,Adams,39.69,-104.81,Sales,17,11
+2014,Adams,39.69,-104.81,Unknown,99,68
+2015,Adams,39.69,-104.81,Possession,648,556
+2015,Adams,39.69,-104.81,Production,8,8
+2015,Adams,39.69,-104.81,Sales,8,11
+2015,Adams,39.69,-104.81,Unknown,100,90
+2016,Adams,39.69,-104.81,Possession,611,551
+2016,Adams,39.69,-104.81,Production,20,21
+2016,Adams,39.69,-104.81,Sales,8,35
+2016,Adams,39.69,-104.81,Unknown,75,76
+2017,Adams,39.69,-104.81,Possession,627,517
+2017,Adams,39.69,-104.81,Production,21,28
+2017,Adams,39.69,-104.81,Sales,9,42
+2017,Adams,39.69,-104.81,Unknown,111,143
+2012,Alamosa,37.46,-105.87,Possession,2,2
+2013,Alamosa,37.46,-105.87,Possession,6,4
+2014,Alamosa,37.46,-105.87,Possession,9,8
+2014,Alamosa,37.46,-105.87,Unknown,3,1
+2015,Alamosa,37.46,-105.87,Possession,21,16
+2015,Alamosa,37.46,-105.87,Sales,0,1
+2015,Alamosa,37.46,-105.87,Unknown,1,0
+2016,Alamosa,37.46,-105.87,Possession,4,7
+2016,Alamosa,37.46,-105.87,Unknown,11,8
+2017,Alamosa,37.46,-105.87,Possession,12,11
+2017,Alamosa,37.46,-105.87,Sales,0,6
+2017,Alamosa,37.46,-105.87,Unknown,11,12
+2012,Arapahoe,39.69,-104.81,Possession,1374,1654
+2012,Arapahoe,39.69,-104.81,Production,65,70
+2012,Arapahoe,39.69,-104.81,Sales,24,34
+2012,Arapahoe,39.69,-104.81,Smuggle,0,1
+2012,Arapahoe,39.69,-104.81,Unknown,6,14
+2013,Arapahoe,39.69,-104.81,Possession,609,667
+2013,Arapahoe,39.69,-104.81,Production,67,68
+2013,Arapahoe,39.69,-104.81,Sales,17,36
+2013,Arapahoe,39.69,-104.81,Smuggle,0,3
+2013,Arapahoe,39.69,-104.81,Unknown,9,14
+2014,Arapahoe,39.69,-104.81,Possession,669,739
+2014,Arapahoe,39.69,-104.81,Production,122,108
+2014,Arapahoe,39.69,-104.81,Sales,19,21
+2014,Arapahoe,39.69,-104.81,Smuggle,0,1
+2014,Arapahoe,39.69,-104.81,Unknown,6,29
+2015,Arapahoe,39.69,-104.81,Possession,571,621
+2015,Arapahoe,39.69,-104.81,Production,104,135
+2015,Arapahoe,39.69,-104.81,Sales,22,19
+2015,Arapahoe,39.69,-104.81,Unknown,9,32
+2016,Arapahoe,39.69,-104.81,Possession,535,572
+2016,Arapahoe,39.69,-104.81,Production,128,109
+2016,Arapahoe,39.69,-104.81,Sales,13,16
+2016,Arapahoe,39.69,-104.81,Smuggle,3,4
+2016,Arapahoe,39.69,-104.81,Unknown,9,19
+2017,Arapahoe,39.69,-104.81,Possession,442,478
+2017,Arapahoe,39.69,-104.81,Production,120,116
+2017,Arapahoe,39.69,-104.81,Sales,8,23
+2017,Arapahoe,39.69,-104.81,Smuggle,0,3
+2017,Arapahoe,39.69,-104.81,Unknown,12,24
+2012,Archuleta,37.02,-107.4,Possession,17,11
+2012,Archuleta,37.02,-107.4,Production,0,1
+2013,Archuleta,37.02,-107.4,Possession,3,5
+2014,Archuleta,37.02,-107.4,Possession,6,8
+2014,Archuleta,37.02,-107.4,Production,0,1
+2015,Archuleta,37.02,-107.4,Possession,18,14
+2015,Archuleta,37.02,-107.4,Unknown,1,1
+2016,Archuleta,37.02,-107.4,Possession,8,7
+2016,Archuleta,37.02,-107.4,Sales,2,1
+2016,Archuleta,37.02,-107.4,Unknown,1,2
+2017,Archuleta,37.02,-107.4,Possession,2,2
+2017,Archuleta,37.02,-107.4,Unknown,4,1
+2012,Baca,37.1,-102.57,Possession,15,16
+2012,Baca,37.1,-102.57,Sales,2,0
+2013,Baca,37.1,-102.57,Possession,7,3
+2014,Baca,37.1,-102.57,Sales,1,1
+2015,Baca,37.1,-102.57,Possession,1,1
+2016,Baca,37.1,-102.57,Sales,2,1
+2012,Bent,38.1,-103.15,Possession,0,1
+2013,Bent,38.1,-103.15,Possession,1,1
+2015,Bent,38.1,-103.15,Possession,1,1
+2015,Bent,38.1,-103.15,Unknown,0,1
+2016,Bent,38.1,-103.15,Production,0,1
+2012,Boulder,39.93,-105.27,Possession,668,852
+2012,Boulder,39.93,-105.27,Production,1,4
+2012,Boulder,39.93,-105.27,Sales,8,11
+2012,Boulder,39.93,-105.27,Unknown,39,51
+2013,Boulder,39.93,-105.27,Possession,379,416
+2013,Boulder,39.93,-105.27,Production,1,1
+2013,Boulder,39.93,-105.27,Sales,1,6
+2013,Boulder,39.93,-105.27,Unknown,53,54
+2014,Boulder,39.93,-105.27,Possession,303,339
+2014,Boulder,39.93,-105.27,Production,0,1
+2014,Boulder,39.93,-105.27,Sales,17,11
+2014,Boulder,39.93,-105.27,Unknown,34,52
+2015,Boulder,39.93,-105.27,Possession,347,416
+2015,Boulder,39.93,-105.27,Production,7,7
+2015,Boulder,39.93,-105.27,Sales,5,16
+2015,Boulder,39.93,-105.27,Unknown,38,63
+2016,Boulder,39.93,-105.27,Possession,409,443
+2016,Boulder,39.93,-105.27,Production,2,5
+2016,Boulder,39.93,-105.27,Sales,11,31
+2016,Boulder,39.93,-105.27,Unknown,30,114
+2017,Boulder,39.93,-105.27,Possession,613,632
+2017,Boulder,39.93,-105.27,Production,2,6
+2017,Boulder,39.93,-105.27,Sales,4,13
+2017,Boulder,39.93,-105.27,Smuggle,1,0
+2017,Boulder,39.93,-105.27,Unknown,43,103
+2012,Broomfield,39.94,-105.06,Possession,290,202
+2012,Broomfield,39.94,-105.06,Production,0,1
+2012,Broomfield,39.94,-105.06,Sales,7,7
+2012,Broomfield,39.94,-105.06,Unknown,2,2
+2013,Broomfield,39.94,-105.06,Possession,123,90
+2013,Broomfield,39.94,-105.06,Production,0,1
+2013,Broomfield,39.94,-105.06,Sales,8,6
+2013,Broomfield,39.94,-105.06,Unknown,2,2
+2014,Broomfield,39.94,-105.06,Possession,130,87
+2014,Broomfield,39.94,-105.06,Production,2,1
+2014,Broomfield,39.94,-105.06,Sales,0,1
+2015,Broomfield,39.94,-105.06,Possession,75,50
+2015,Broomfield,39.94,-105.06,Sales,2,4
+2015,Broomfield,39.94,-105.06,Unknown,15,3
+2016,Broomfield,39.94,-105.06,Possession,108,64
+2016,Broomfield,39.94,-105.06,Production,1,1
+2016,Broomfield,39.94,-105.06,Sales,1,4
+2016,Broomfield,39.94,-105.06,Unknown,4,6
+2017,Broomfield,39.94,-105.06,Possession,108,59
+2017,Broomfield,39.94,-105.06,Unknown,0,9
+2012,Chaffee,38.53,-106.0,Possession,45,39
+2012,Chaffee,38.53,-106.0,Production,0,1
+2012,Chaffee,38.53,-106.0,Sales,2,1
+2013,Chaffee,38.53,-106.0,Possession,14,11
+2014,Chaffee,38.53,-106.0,Possession,17,19
+2015,Chaffee,38.53,-106.0,Possession,9,9
+2015,Chaffee,38.53,-106.0,Sales,1,1
+2015,Chaffee,38.53,-106.0,Smuggle,0,1
+2015,Chaffee,38.53,-106.0,Unknown,3,3
+2016,Chaffee,38.53,-106.0,Possession,18,17
+2016,Chaffee,38.53,-106.0,Unknown,1,1
+2017,Chaffee,38.53,-106.0,Possession,8,8
+2017,Chaffee,38.53,-106.0,Sales,2,2
+2012,Cheyenne,38.85,-102.17,Possession,2,3
+2012,Cheyenne,38.85,-102.17,Production,0,1
+2013,Cheyenne,38.85,-102.17,Possession,1,1
+2014,Cheyenne,38.85,-102.17,Possession,0,1
+2012,Clear Creek,39.78,-105.6,Possession,40,42
+2012,Clear Creek,39.78,-105.6,Production,1,1
+2012,Clear Creek,39.78,-105.6,Sales,1,1
+2012,Clear Creek,39.78,-105.6,Unknown,2,2
+2013,Clear Creek,39.78,-105.6,Possession,7,6
+2014,Clear Creek,39.78,-105.6,Possession,6,7
+2014,Clear Creek,39.78,-105.6,Sales,0,1
+2014,Clear Creek,39.78,-105.6,Unknown,1,0
+2015,Clear Creek,39.78,-105.6,Possession,10,6
+2015,Clear Creek,39.78,-105.6,Sales,0,1
+2016,Clear Creek,39.78,-105.6,Possession,2,1
+2016,Clear Creek,39.78,-105.6,Production,0,1
+2017,Clear Creek,39.78,-105.6,Possession,1,1
+2012,Conejos,37.07,-106.01,Possession,2,3
+2014,Costilla,37.43,-105.51,Sales,1,1
+2015,Crowley,38.19,-103.85,Possession,1,1
+2017,Crowley,38.19,-103.85,Possession,2,1
+2017,Crowley,38.19,-103.85,Sales,1,1
+2017,Crowley,38.19,-103.85,Unknown,0,1
+2012,Custer,38.13,-105.46,Possession,1,1
+2012,Custer,38.13,-105.46,Production,0,2
+2012,Custer,38.13,-105.46,Unknown,0,1
+2013,Custer,38.13,-105.46,Possession,1,1
+2013,Custer,38.13,-105.46,Unknown,0,1
+2014,Custer,38.13,-105.46,Production,2,1
+2014,Custer,38.13,-105.46,Unknown,1,1
+2015,Custer,38.13,-105.46,Production,1,1
+2015,Custer,38.13,-105.46,Unknown,3,2
+2016,Custer,38.13,-105.46,Production,1,1
+2016,Custer,38.13,-105.46,Unknown,1,3
+2017,Custer,38.13,-105.46,Possession,1,1
+2017,Custer,38.13,-105.46,Unknown,1,1
+2012,Delta,38.78,-107.93,Possession,15,18
+2012,Delta,38.78,-107.93,Sales,0,1
+2013,Delta,38.78,-107.93,Possession,12,12
+2013,Delta,38.78,-107.93,Sales,0,1
+2013,Delta,38.78,-107.93,Unknown,3,1
+2014,Delta,38.78,-107.93,Possession,8,5
+2014,Delta,38.78,-107.93,Unknown,0,1
+2015,Delta,38.78,-107.93,Possession,2,4
+2015,Delta,38.78,-107.93,Production,0,1
+2015,Delta,38.78,-107.93,Unknown,0,2
+2016,Delta,38.78,-107.93,Possession,22,12
+2016,Delta,38.78,-107.93,Production,0,1
+2016,Delta,38.78,-107.93,Sales,0,1
+2016,Delta,38.78,-107.93,Unknown,2,1
+2017,Delta,38.78,-107.93,Possession,15,14
+2017,Delta,38.78,-107.93,Unknown,6,6
+2012,Denver,39.59,-105.01,Possession,58,62
+2012,Denver,39.59,-105.01,Production,15,18
+2012,Denver,39.59,-105.01,Sales,93,88
+2012,Denver,39.59,-105.01,Unknown,2,20
+2013,Denver,39.59,-105.01,Possession,371,339
+2013,Denver,39.59,-105.01,Production,6,5
+2013,Denver,39.59,-105.01,Sales,71,66
+2013,Denver,39.59,-105.01,Unknown,3,17
+2014,Denver,39.59,-105.01,Possession,750,676
+2014,Denver,39.59,-105.01,Production,14,17
+2014,Denver,39.59,-105.01,Sales,71,55
+2014,Denver,39.59,-105.01,Unknown,1,16
+2015,Denver,39.59,-105.01,Possession,1051,883
+2015,Denver,39.59,-105.01,Production,16,22
+2015,Denver,39.59,-105.01,Sales,58,52
+2015,Denver,39.59,-105.01,Unknown,2,19
+2016,Denver,39.59,-105.01,Possession,496,472
+2016,Denver,39.59,-105.01,Production,42,38
+2016,Denver,39.59,-105.01,Sales,74,56
+2016,Denver,39.59,-105.01,Unknown,1,13
+2017,Denver,39.59,-105.01,Possession,115,143
+2017,Denver,39.59,-105.01,Production,54,44
+2017,Denver,39.59,-105.01,Sales,98,71
+2017,Denver,39.59,-105.01,Unknown,0,17
+2013,Dolores,37.65,-108.82,Possession,1,1
+2014,Dolores,37.65,-108.82,Possession,1,1
+2016,Dolores,37.65,-108.82,Production,0,1
+2017,Dolores,37.65,-108.82,Sales,1,2
+2017,Dolores,37.65,-108.82,Unknown,3,1
+2012,Douglas,39.37,-104.85,Possession,524,467
+2012,Douglas,39.37,-104.85,Production,0,2
+2012,Douglas,39.37,-104.85,Sales,4,2
+2012,Douglas,39.37,-104.85,Unknown,5,12
+2013,Douglas,39.37,-104.85,Possession,274,232
+2013,Douglas,39.37,-104.85,Sales,1,4
+2013,Douglas,39.37,-104.85,Unknown,57,47
+2014,Douglas,39.37,-104.85,Possession,214,205
+2014,Douglas,39.37,-104.85,Sales,2,1
+2014,Douglas,39.37,-104.85,Unknown,2,6
+2015,Douglas,39.37,-104.85,Possession,256,241
+2015,Douglas,39.37,-104.85,Production,0,1
+2015,Douglas,39.37,-104.85,Sales,1,3
+2015,Douglas,39.37,-104.85,Unknown,1,9
+2016,Douglas,39.37,-104.85,Possession,257,262
+2016,Douglas,39.37,-104.85,Production,2,6
+2016,Douglas,39.37,-104.85,Sales,6,6
+2016,Douglas,39.37,-104.85,Smuggle,0,1
+2016,Douglas,39.37,-104.85,Unknown,6,20
+2017,Douglas,39.37,-104.85,Possession,381,317
+2017,Douglas,39.37,-104.85,Production,9,9
+2017,Douglas,39.37,-104.85,Sales,1,2
+2017,Douglas,39.37,-104.85,Unknown,10,23
+2012,Eagle,39.87,-106.7,Possession,236,198
+2012,Eagle,39.87,-106.7,Production,2,3
+2012,Eagle,39.87,-106.7,Sales,7,2
+2012,Eagle,39.87,-106.7,Unknown,31,20
+2013,Eagle,39.87,-106.7,Possession,71,54
+2013,Eagle,39.87,-106.7,Production,1,1
+2013,Eagle,39.87,-106.7,Sales,3,4
+2013,Eagle,39.87,-106.7,Unknown,56,25
+2014,Eagle,39.87,-106.7,Possession,62,60
+2014,Eagle,39.87,-106.7,Production,0,3
+2014,Eagle,39.87,-106.7,Unknown,34,29
+2015,Eagle,39.87,-106.7,Possession,100,78
+2015,Eagle,39.87,-106.7,Production,1,3
+2015,Eagle,39.87,-106.7,Sales,1,4
+2015,Eagle,39.87,-106.7,Unknown,17,8
+2016,Eagle,39.87,-106.7,Possession,80,61
+2016,Eagle,39.87,-106.7,Sales,1,2
+2016,Eagle,39.87,-106.7,Unknown,15,9
+2017,Eagle,39.87,-106.7,Possession,83,65
+2017,Eagle,39.87,-106.7,Sales,1,1
+2017,Eagle,39.87,-106.7,Unknown,6,3
+2012,El Paso,39.07,-104.85,Possession,673,634
+2012,El Paso,39.07,-104.85,Production,20,52
+2012,El Paso,39.07,-104.85,Sales,32,44
+2012,El Paso,39.07,-104.85,Smuggle,4,2
+2012,El Paso,39.07,-104.85,Unknown,132,122
+2013,El Paso,39.07,-104.85,Possession,427,330
+2013,El Paso,39.07,-104.85,Production,4,9
+2013,El Paso,39.07,-104.85,Sales,23,41
+2013,El Paso,39.07,-104.85,Smuggle,1,0
+2013,El Paso,39.07,-104.85,Unknown,69,72
+2014,El Paso,39.07,-104.85,Possession,493,416
+2014,El Paso,39.07,-104.85,Production,2,5
+2014,El Paso,39.07,-104.85,Sales,28,41
+2014,El Paso,39.07,-104.85,Unknown,83,53
+2015,El Paso,39.07,-104.85,Possession,455,399
+2015,El Paso,39.07,-104.85,Production,3,8
+2015,El Paso,39.07,-104.85,Sales,24,35
+2015,El Paso,39.07,-104.85,Smuggle,1,1
+2015,El Paso,39.07,-104.85,Unknown,11,15
+2016,El Paso,39.07,-104.85,Possession,499,434
+2016,El Paso,39.07,-104.85,Production,3,22
+2016,El Paso,39.07,-104.85,Sales,32,44
+2016,El Paso,39.07,-104.85,Smuggle,0,1
+2016,El Paso,39.07,-104.85,Unknown,18,15
+2017,El Paso,39.07,-104.85,Possession,411,413
+2017,El Paso,39.07,-104.85,Production,7,37
+2017,El Paso,39.07,-104.85,Sales,29,45
+2017,El Paso,39.07,-104.85,Unknown,22,18
+2012,Elbert,39.47,-103.95,Possession,17,15
+2012,Elbert,39.47,-103.95,Production,0,1
+2013,Elbert,39.47,-103.95,Possession,19,11
+2014,Elbert,39.47,-103.95,Possession,16,12
+2014,Elbert,39.47,-103.95,Sales,1,1
+2015,Elbert,39.47,-103.95,Possession,6,5
+2015,Elbert,39.47,-103.95,Production,1,1
+2016,Elbert,39.47,-103.95,Possession,4,7
+2017,Elbert,39.47,-103.95,Possession,10,9
+2017,Elbert,39.47,-103.95,Production,1,1
+2017,Elbert,39.47,-103.95,Sales,2,1
+2012,Fremont,38.44,-105.23,Possession,31,57
+2012,Fremont,38.44,-105.23,Production,0,1
+2012,Fremont,38.44,-105.23,Sales,1,2
+2012,Fremont,38.44,-105.23,Unknown,8,21
+2013,Fremont,38.44,-105.23,Possession,11,25
+2013,Fremont,38.44,-105.23,Unknown,0,12
+2014,Fremont,38.44,-105.23,Possession,4,24
+2014,Fremont,38.44,-105.23,Production,1,1
+2014,Fremont,38.44,-105.23,Unknown,0,12
+2015,Fremont,38.44,-105.23,Possession,3,4
+2015,Fremont,38.44,-105.23,Production,1,1
+2015,Fremont,38.44,-105.23,Sales,2,1
+2015,Fremont,38.44,-105.23,Unknown,6,9
+2016,Fremont,38.44,-105.23,Possession,1,3
+2016,Fremont,38.44,-105.23,Production,2,2
+2016,Fremont,38.44,-105.23,Unknown,3,6
+2017,Fremont,38.44,-105.23,Possession,0,1
+2017,Fremont,38.44,-105.23,Production,1,1
+2017,Fremont,38.44,-105.23,Unknown,23,35
+2012,Garfield,39.54,-107.33,Possession,154,142
+2012,Garfield,39.54,-107.33,Sales,1,1
+2012,Garfield,39.54,-107.33,Unknown,11,11
+2013,Garfield,39.54,-107.33,Possession,42,55
+2013,Garfield,39.54,-107.33,Sales,2,2
+2013,Garfield,39.54,-107.33,Unknown,6,7
+2014,Garfield,39.54,-107.33,Possession,31,39
+2014,Garfield,39.54,-107.33,Sales,3,1
+2014,Garfield,39.54,-107.33,Unknown,10,14
+2015,Garfield,39.54,-107.33,Possession,81,68
+2015,Garfield,39.54,-107.33,Unknown,7,10
+2016,Garfield,39.54,-107.33,Possession,73,70
+2016,Garfield,39.54,-107.33,Sales,1,0
+2016,Garfield,39.54,-107.33,Unknown,14,25
+2017,Garfield,39.54,-107.33,Possession,94,67
+2017,Garfield,39.54,-107.33,Unknown,33,41
+2012,Gilpin,39.8,-105.49,Possession,95,79
+2012,Gilpin,39.8,-105.49,Production,2,2
+2012,Gilpin,39.8,-105.49,Smuggle,1,1
+2012,Gilpin,39.8,-105.49,Unknown,0,2
+2013,Gilpin,39.8,-105.49,Possession,5,5
+2013,Gilpin,39.8,-105.49,Production,2,1
+2014,Gilpin,39.8,-105.49,Possession,4,4
+2014,Gilpin,39.8,-105.49,Production,0,1
+2015,Gilpin,39.8,-105.49,Possession,5,3
+2015,Gilpin,39.8,-105.49,Production,1,0
+2016,Gilpin,39.8,-105.49,Possession,2,2
+2016,Gilpin,39.8,-105.49,Unknown,1,1
+2017,Gilpin,39.8,-105.49,Possession,5,5
+2017,Gilpin,39.8,-105.49,Unknown,1,2
+2012,Grand,39.93,-105.79,Possession,13,10
+2012,Grand,39.93,-105.79,Sales,1,2
+2013,Grand,39.93,-105.79,Possession,2,2
+2013,Grand,39.93,-105.79,Sales,0,1
+2013,Grand,39.93,-105.79,Unknown,0,1
+2014,Grand,39.93,-105.79,Possession,4,4
+2014,Grand,39.93,-105.79,Unknown,0,1
+2015,Grand,39.93,-105.79,Possession,0,1
+2015,Grand,39.93,-105.79,Unknown,0,2
+2016,Grand,39.93,-105.79,Possession,2,2
+2016,Grand,39.93,-105.79,Sales,0,1
+2017,Grand,39.93,-105.79,Unknown,0,1
+2012,Gunnison,38.67,-106.83,Possession,37,37
+2012,Gunnison,38.67,-106.83,Production,0,1
+2013,Gunnison,38.67,-106.83,Possession,24,25
+2013,Gunnison,38.67,-106.83,Production,2,1
+2013,Gunnison,38.67,-106.83,Unknown,3,3
+2014,Gunnison,38.67,-106.83,Possession,26,21
+2014,Gunnison,38.67,-106.83,Production,1,1
+2014,Gunnison,38.67,-106.83,Sales,2,1
+2014,Gunnison,38.67,-106.83,Unknown,2,5
+2015,Gunnison,38.67,-106.83,Possession,47,32
+2015,Gunnison,38.67,-106.83,Production,2,0
+2016,Gunnison,38.67,-106.83,Possession,29,20
+2016,Gunnison,38.67,-106.83,Unknown,4,3
+2017,Gunnison,38.67,-106.83,Possession,31,29
+2017,Gunnison,38.67,-106.83,Production,1,1
+2017,Gunnison,38.67,-106.83,Sales,4,3
+2017,Gunnison,38.67,-106.83,Unknown,8,6
+2012,Hinsdale,38.07,-107.3,Possession,0,1
+2016,Hinsdale,38.07,-107.3,Possession,2,2
+2012,Huerfano,37.78,-105.17,Possession,13,12
+2012,Huerfano,37.78,-105.17,Production,0,1
+2013,Huerfano,37.78,-105.17,Possession,0,1
+2014,Huerfano,37.78,-105.17,Possession,2,2
+2014,Huerfano,37.78,-105.17,Production,2,2
+2015,Huerfano,37.78,-105.17,Possession,5,4
+2015,Huerfano,37.78,-105.17,Production,1,1
+2016,Huerfano,37.78,-105.17,Possession,3,2
+2016,Huerfano,37.78,-105.17,Production,6,2
+2017,Huerfano,37.78,-105.17,Possession,0,1
+2017,Huerfano,37.78,-105.17,Production,1,1
+2012,Jackson,40.57,-106.43,Possession,0,1
+2012,Jefferson,39.82,-105.1,Possession,1329,1164
+2012,Jefferson,39.82,-105.1,Production,6,8
+2012,Jefferson,39.82,-105.1,Sales,9,3
+2012,Jefferson,39.82,-105.1,Unknown,173,84
+2013,Jefferson,39.82,-105.1,Possession,660,567
+2013,Jefferson,39.82,-105.1,Production,4,2
+2013,Jefferson,39.82,-105.1,Sales,7,18
+2013,Jefferson,39.82,-105.1,Unknown,120,60
+2014,Jefferson,39.82,-105.1,Possession,856,661
+2014,Jefferson,39.82,-105.1,Production,9,7
+2014,Jefferson,39.82,-105.1,Sales,11,11
+2014,Jefferson,39.82,-105.1,Unknown,77,68
+2015,Jefferson,39.82,-105.1,Possession,802,594
+2015,Jefferson,39.82,-105.1,Production,15,16
+2015,Jefferson,39.82,-105.1,Sales,7,6
+2015,Jefferson,39.82,-105.1,Unknown,59,54
+2016,Jefferson,39.82,-105.1,Possession,826,625
+2016,Jefferson,39.82,-105.1,Production,11,20
+2016,Jefferson,39.82,-105.1,Sales,8,9
+2016,Jefferson,39.82,-105.1,Unknown,36,41
+2017,Jefferson,39.82,-105.1,Possession,837,648
+2017,Jefferson,39.82,-105.1,Production,8,18
+2017,Jefferson,39.82,-105.1,Sales,8,8
+2017,Jefferson,39.82,-105.1,Unknown,34,40
+2012,Kiowa,38.33,-103.33,Possession,1,1
+2013,Kiowa,38.33,-103.33,Possession,3,3
+2012,Kit Carson,39.3,-102.42,Possession,18,16
+2012,Kit Carson,39.3,-102.42,Sales,1,1
+2013,Kit Carson,39.3,-102.42,Possession,11,6
+2013,Kit Carson,39.3,-102.42,Production,0,1
+2013,Kit Carson,39.3,-102.42,Sales,3,0
+2013,Kit Carson,39.3,-102.42,Unknown,0,1
+2014,Kit Carson,39.3,-102.42,Possession,4,6
+2015,Kit Carson,39.3,-102.42,Possession,16,13
+2015,Kit Carson,39.3,-102.42,Unknown,1,1
+2016,Kit Carson,39.3,-102.42,Possession,10,5
+2016,Kit Carson,39.3,-102.42,Sales,2,1
+2017,Kit Carson,39.3,-102.42,Possession,11,5
+2017,Kit Carson,39.3,-102.42,Production,3,0
+2017,Kit Carson,39.3,-102.42,Sales,1,1
+2012,La Plata,37.23,-107.59,Possession,54,62
+2012,La Plata,37.23,-107.59,Sales,0,1
+2012,La Plata,37.23,-107.59,Unknown,1,0
+2013,La Plata,37.23,-107.59,Possession,53,50
+2013,La Plata,37.23,-107.59,Sales,0,1
+2013,La Plata,37.23,-107.59,Unknown,0,1
+2014,La Plata,37.23,-107.59,Possession,81,67
+2014,La Plata,37.23,-107.59,Unknown,0,1
+2015,La Plata,37.23,-107.59,Possession,40,52
+2015,La Plata,37.23,-107.59,Unknown,25,9
+2016,La Plata,37.23,-107.59,Possession,54,43
+2016,La Plata,37.23,-107.59,Unknown,15,7
+2017,La Plata,37.23,-107.59,Possession,41,54
+2017,La Plata,37.23,-107.59,Unknown,39,16
+2012,Lake,39.37,-106.18,Possession,23,19
+2012,Lake,39.37,-106.18,Production,3,3
+2012,Lake,39.37,-106.18,Sales,1,0
+2013,Lake,39.37,-106.18,Possession,2,3
+2013,Lake,39.37,-106.18,Sales,1,1
+2014,Lake,39.37,-106.18,Possession,1,1
+2014,Lake,39.37,-106.18,Production,1,0
+2014,Lake,39.37,-106.18,Sales,0,2
+2014,Lake,39.37,-106.18,Unknown,1,2
+2016,Lake,39.37,-106.18,Possession,1,1
+2016,Lake,39.37,-106.18,Unknown,1,1
+2017,Lake,39.37,-106.18,Possession,1,2
+2012,Larimer,40.37,-105.52,Possession,521,634
+2012,Larimer,40.37,-105.52,Production,5,9
+2012,Larimer,40.37,-105.52,Sales,10,13
+2012,Larimer,40.37,-105.52,Unknown,360,461
+2013,Larimer,40.37,-105.52,Possession,283,271
+2013,Larimer,40.37,-105.52,Production,1,1
+2013,Larimer,40.37,-105.52,Sales,11,14
+2013,Larimer,40.37,-105.52,Unknown,169,206
+2014,Larimer,40.37,-105.52,Possession,283,286
+2014,Larimer,40.37,-105.52,Production,5,8
+2014,Larimer,40.37,-105.52,Sales,15,22
+2014,Larimer,40.37,-105.52,Unknown,156,238
+2015,Larimer,40.37,-105.52,Possession,308,341
+2015,Larimer,40.37,-105.52,Production,7,8
+2015,Larimer,40.37,-105.52,Sales,10,14
+2015,Larimer,40.37,-105.52,Smuggle,0,1
+2015,Larimer,40.37,-105.52,Unknown,94,184
+2016,Larimer,40.37,-105.52,Possession,393,484
+2016,Larimer,40.37,-105.52,Production,13,19
+2016,Larimer,40.37,-105.52,Sales,17,19
+2016,Larimer,40.37,-105.52,Smuggle,1,0
+2016,Larimer,40.37,-105.52,Unknown,90,128
+2017,Larimer,40.37,-105.52,Possession,378,484
+2017,Larimer,40.37,-105.52,Production,13,14
+2017,Larimer,40.37,-105.52,Sales,8,11
+2017,Larimer,40.37,-105.52,Smuggle,0,1
+2017,Larimer,40.37,-105.52,Unknown,71,98
+2012,Las Animas,37.4,-104.65,Possession,7,4
+2013,Las Animas,37.4,-104.65,Possession,2,2
+2013,Las Animas,37.4,-104.65,Sales,3,3
+2014,Las Animas,37.4,-104.65,Possession,1,1
+2014,Las Animas,37.4,-104.65,Production,0,1
+2015,Las Animas,37.4,-104.65,Possession,0,1
+2015,Las Animas,37.4,-104.65,Unknown,1,0
+2017,Las Animas,37.4,-104.65,Possession,4,4
+2017,Las Animas,37.4,-104.65,Sales,0,1
+2017,Las Animas,37.4,-104.65,Unknown,0,1
+2012,Lincoln,39.28,-103.27,Possession,1,1
+2015,Lincoln,39.28,-103.27,Smuggle,1,1
+2016,Lincoln,39.28,-103.27,Smuggle,1,1
+2017,Lincoln,39.28,-103.27,Production,7,2
+2012,Logan,40.55,-103.27,Possession,39,27
+2012,Logan,40.55,-103.27,Sales,1,0
+2012,Logan,40.55,-103.27,Unknown,1,1
+2013,Logan,40.55,-103.27,Possession,2,2
+2013,Logan,40.55,-103.27,Sales,1,0
+2014,Logan,40.55,-103.27,Possession,28,7
+2014,Logan,40.55,-103.27,Unknown,0,2
+2015,Logan,40.55,-103.27,Possession,34,33
+2016,Logan,40.55,-103.27,Possession,17,12
+2016,Logan,40.55,-103.27,Production,0,1
+2017,Logan,40.55,-103.27,Possession,9,8
+2017,Logan,40.55,-103.27,Production,1,2
+2017,Logan,40.55,-103.27,Sales,0,1
+2017,Logan,40.55,-103.27,Unknown,1,1
+2012,Mesa,39.08,-108.55,Possession,577,430
+2012,Mesa,39.08,-108.55,Production,3,7
+2012,Mesa,39.08,-108.55,Sales,14,12
+2012,Mesa,39.08,-108.55,Unknown,46,34
+2013,Mesa,39.08,-108.55,Possession,327,223
+2013,Mesa,39.08,-108.55,Production,4,6
+2013,Mesa,39.08,-108.55,Sales,20,10
+2013,Mesa,39.08,-108.55,Smuggle,1,1
+2013,Mesa,39.08,-108.55,Unknown,68,53
+2014,Mesa,39.08,-108.55,Possession,350,249
+2014,Mesa,39.08,-108.55,Production,3,4
+2014,Mesa,39.08,-108.55,Sales,17,9
+2014,Mesa,39.08,-108.55,Smuggle,0,2
+2014,Mesa,39.08,-108.55,Unknown,65,44
+2015,Mesa,39.08,-108.55,Possession,293,217
+2015,Mesa,39.08,-108.55,Production,10,7
+2015,Mesa,39.08,-108.55,Sales,11,9
+2015,Mesa,39.08,-108.55,Unknown,83,65
+2016,Mesa,39.08,-108.55,Possession,247,173
+2016,Mesa,39.08,-108.55,Production,11,8
+2016,Mesa,39.08,-108.55,Sales,20,15
+2016,Mesa,39.08,-108.55,Smuggle,0,4
+2016,Mesa,39.08,-108.55,Unknown,57,46
+2017,Mesa,39.08,-108.55,Possession,257,179
+2017,Mesa,39.08,-108.55,Production,11,13
+2017,Mesa,39.08,-108.55,Sales,42,29
+2017,Mesa,39.08,-108.55,Smuggle,0,1
+2017,Mesa,39.08,-108.55,Unknown,136,91
+2014,Mineral,37.85,-106.92,Possession,0,1
+2014,Mineral,37.85,-106.92,Sales,0,1
+2012,Moffat,40.24,-109.0,Possession,95,69
+2012,Moffat,40.24,-109.0,Production,4,1
+2012,Moffat,40.24,-109.0,Sales,3,2
+2012,Moffat,40.24,-109.0,Unknown,2,2
+2013,Moffat,40.24,-109.0,Possession,22,17
+2014,Moffat,40.24,-109.0,Possession,19,18
+2014,Moffat,40.24,-109.0,Sales,1,2
+2015,Moffat,40.24,-109.0,Possession,29,23
+2016,Moffat,40.24,-109.0,Possession,45,35
+2016,Moffat,40.24,-109.0,Sales,2,2
+2017,Moffat,40.24,-109.0,Possession,29,26
+2017,Moffat,40.24,-109.0,Sales,1,2
+2012,Montezuma,37.35,-108.57,Possession,60,54
+2012,Montezuma,37.35,-108.57,Unknown,14,12
+2013,Montezuma,37.35,-108.57,Possession,6,6
+2014,Montezuma,37.35,-108.57,Possession,11,7
+2014,Montezuma,37.35,-108.57,Sales,1,1
+2014,Montezuma,37.35,-108.57,Unknown,2,1
+2015,Montezuma,37.35,-108.57,Possession,6,7
+2016,Montezuma,37.35,-108.57,Possession,10,9
+2017,Montezuma,37.35,-108.57,Possession,7,8
+2017,Montezuma,37.35,-108.57,Sales,1,1
+2017,Montezuma,37.35,-108.57,Unknown,0,2
+2012,Montrose,38.49,-107.87,Possession,131,122
+2012,Montrose,38.49,-107.87,Production,1,1
+2012,Montrose,38.49,-107.87,Sales,1,3
+2012,Montrose,38.49,-107.87,Unknown,0,1
+2013,Montrose,38.49,-107.87,Possession,49,48
+2013,Montrose,38.49,-107.87,Sales,1,1
+2014,Montrose,38.49,-107.87,Possession,45,36
+2014,Montrose,38.49,-107.87,Unknown,1,1
+2015,Montrose,38.49,-107.87,Possession,37,39
+2015,Montrose,38.49,-107.87,Production,1,1
+2015,Montrose,38.49,-107.87,Unknown,1,1
+2016,Montrose,38.49,-107.87,Possession,31,31
+2016,Montrose,38.49,-107.87,Sales,1,1
+2016,Montrose,38.49,-107.87,Unknown,1,1
+2017,Montrose,38.49,-107.87,Possession,28,31
+2017,Montrose,38.49,-107.87,Production,0,1
+2012,Morgan,40.33,-104.12,Possession,50,52
+2012,Morgan,40.33,-104.12,Sales,1,3
+2012,Morgan,40.33,-104.12,Unknown,0,3
+2013,Morgan,40.33,-104.12,Possession,18,17
+2013,Morgan,40.33,-104.12,Sales,1,1
+2014,Morgan,40.33,-104.12,Possession,32,26
+2014,Morgan,40.33,-104.12,Unknown,2,0
+2015,Morgan,40.33,-104.12,Possession,9,13
+2015,Morgan,40.33,-104.12,Unknown,1,3
+2016,Morgan,40.33,-104.12,Possession,17,13
+2016,Morgan,40.33,-104.12,Production,1,1
+2017,Morgan,40.33,-104.12,Possession,22,18
+2017,Morgan,40.33,-104.12,Sales,1,3
+2017,Morgan,40.33,-104.12,Unknown,0,3
+2012,Otero,38.1,-103.51,Possession,15,13
+2012,Otero,38.1,-103.51,Production,1,1
+2012,Otero,38.1,-103.51,Unknown,6,0
+2013,Otero,38.1,-103.51,Possession,3,2
+2014,Otero,38.1,-103.51,Possession,5,4
+2014,Otero,38.1,-103.51,Sales,1,1
+2015,Otero,38.1,-103.51,Possession,14,9
+2015,Otero,38.1,-103.51,Unknown,0,1
+2016,Otero,38.1,-103.51,Possession,4,5
+2016,Otero,38.1,-103.51,Production,1,0
+2017,Otero,38.1,-103.51,Possession,6,4
+2017,Otero,38.1,-103.51,Production,1,1
+2017,Otero,38.1,-103.51,Sales,0,2
+2017,Otero,38.1,-103.51,Smuggle,1,1
+2017,Otero,38.1,-103.51,Unknown,0,3
+2012,Ouray,38.08,-107.69,Possession,0,1
+2014,Ouray,38.08,-107.69,Possession,4,3
+2015,Ouray,38.08,-107.69,Possession,0,1
+2012,Park,39.28,-106.06,Possession,7,10
+2012,Park,39.28,-106.06,Production,1,0
+2012,Park,39.28,-106.06,Sales,1,1
+2012,Park,39.28,-106.06,Unknown,1,0
+2013,Park,39.28,-106.06,Possession,1,3
+2014,Park,39.28,-106.06,Possession,4,3
+2014,Park,39.28,-106.06,Unknown,0,1
+2015,Park,39.28,-106.06,Possession,0,2
+2015,Park,39.28,-106.06,Production,2,1
+2016,Park,39.28,-106.06,Possession,0,1
+2016,Park,39.28,-106.06,Production,2,1
+2016,Park,39.28,-106.06,Sales,1,1
+2016,Park,39.28,-106.06,Unknown,0,1
+2017,Park,39.28,-106.06,Possession,0,1
+2017,Park,39.28,-106.06,Production,0,1
+2012,Phillips,40.68,-102.17,Possession,2,2
+2012,Phillips,40.68,-102.17,Sales,0,1
+2013,Phillips,40.68,-102.17,Possession,1,1
+2015,Phillips,40.68,-102.17,Possession,1,1
+2016,Phillips,40.68,-102.17,Possession,2,2
+2017,Phillips,40.68,-102.17,Possession,1,1
+2012,Pitkin,39.19,-106.82,Possession,7,24
+2013,Pitkin,39.19,-106.82,Possession,0,4
+2014,Pitkin,39.19,-106.82,Possession,9,12
+2014,Pitkin,39.19,-106.82,Sales,0,1
+2014,Pitkin,39.19,-106.82,Unknown,1,1
+2015,Pitkin,39.19,-106.82,Possession,5,8
+2015,Pitkin,39.19,-106.82,Sales,2,3
+2016,Pitkin,39.19,-106.82,Possession,4,4
+2017,Pitkin,39.19,-106.82,Possession,3,5
+2017,Pitkin,39.19,-106.82,Smuggle,0,1
+2012,Prowers,38.06,-102.31,Possession,90,70
+2013,Prowers,38.06,-102.31,Possession,30,25
+2013,Prowers,38.06,-102.31,Sales,2,1
+2013,Prowers,38.06,-102.31,Unknown,1,1
+2014,Prowers,38.06,-102.31,Possession,35,21
+2014,Prowers,38.06,-102.31,Sales,2,1
+2014,Prowers,38.06,-102.31,Unknown,1,1
+2015,Prowers,38.06,-102.31,Possession,2,2
+2015,Prowers,38.06,-102.31,Sales,1,1
+2016,Prowers,38.06,-102.31,Possession,3,1
+2016,Prowers,38.06,-102.31,Production,2,0
+2016,Prowers,38.06,-102.31,Sales,1,0
+2016,Prowers,38.06,-102.31,Smuggle,1,1
+2017,Prowers,38.06,-102.31,Possession,2,1
+2012,Pueblo,38.27,-104.62,Possession,11,15
+2012,Pueblo,38.27,-104.62,Production,0,2
+2012,Pueblo,38.27,-104.62,Sales,0,2
+2012,Pueblo,38.27,-104.62,Unknown,12,38
+2013,Pueblo,38.27,-104.62,Possession,9,14
+2013,Pueblo,38.27,-104.62,Sales,1,1
+2013,Pueblo,38.27,-104.62,Unknown,10,27
+2014,Pueblo,38.27,-104.62,Possession,14,14
+2014,Pueblo,38.27,-104.62,Production,0,1
+2014,Pueblo,38.27,-104.62,Sales,0,1
+2014,Pueblo,38.27,-104.62,Unknown,10,22
+2015,Pueblo,38.27,-104.62,Possession,18,25
+2015,Pueblo,38.27,-104.62,Production,0,1
+2015,Pueblo,38.27,-104.62,Sales,0,6
+2015,Pueblo,38.27,-104.62,Unknown,3,31
+2016,Pueblo,38.27,-104.62,Possession,40,29
+2016,Pueblo,38.27,-104.62,Production,0,1
+2016,Pueblo,38.27,-104.62,Sales,1,4
+2016,Pueblo,38.27,-104.62,Unknown,2,46
+2017,Pueblo,38.27,-104.62,Possession,34,19
+2017,Pueblo,38.27,-104.62,Production,0,1
+2017,Pueblo,38.27,-104.62,Sales,0,4
+2017,Pueblo,38.27,-104.62,Unknown,3,41
+2012,Rio Blanco,40.05,-107.89,Possession,26,18
+2013,Rio Blanco,40.05,-107.89,Possession,4,3
+2014,Rio Blanco,40.05,-107.89,Possession,18,12
+2015,Rio Blanco,40.05,-107.89,Possession,11,7
+2016,Rio Blanco,40.05,-107.89,Possession,3,1
+2017,Rio Blanco,40.05,-107.89,Possession,2,3
+2012,Rio Grande,37.67,-106.35,Possession,27,26
+2012,Rio Grande,37.67,-106.35,Unknown,1,1
+2013,Rio Grande,37.67,-106.35,Possession,3,2
+2013,Rio Grande,37.67,-106.35,Sales,1,1
+2013,Rio Grande,37.67,-106.35,Smuggle,1,1
+2014,Rio Grande,37.67,-106.35,Possession,2,1
+2015,Rio Grande,37.67,-106.35,Possession,10,5
+2015,Rio Grande,37.67,-106.35,Sales,1,1
+2016,Rio Grande,37.67,-106.35,Possession,6,6
+2017,Rio Grande,37.67,-106.35,Possession,8,6
+2012,Routt,40.7,-106.92,Possession,88,73
+2012,Routt,40.7,-106.92,Sales,1,1
+2012,Routt,40.7,-106.92,Unknown,3,3
+2013,Routt,40.7,-106.92,Possession,26,24
+2013,Routt,40.7,-106.92,Unknown,10,5
+2014,Routt,40.7,-106.92,Possession,46,41
+2014,Routt,40.7,-106.92,Production,0,2
+2014,Routt,40.7,-106.92,Sales,0,2
+2014,Routt,40.7,-106.92,Unknown,14,0
+2015,Routt,40.7,-106.92,Possession,35,36
+2015,Routt,40.7,-106.92,Production,3,2
+2015,Routt,40.7,-106.92,Sales,1,1
+2015,Routt,40.7,-106.92,Unknown,6,6
+2016,Routt,40.7,-106.92,Possession,46,36
+2016,Routt,40.7,-106.92,Unknown,1,0
+2017,Routt,40.7,-106.92,Possession,42,39
+2017,Routt,40.7,-106.92,Sales,0,1
+2017,Routt,40.7,-106.92,Unknown,2,1
+2012,Saguache,37.75,-106.11,Possession,11,8
+2012,Saguache,37.75,-106.11,Unknown,0,1
+2014,Saguache,37.75,-106.11,Possession,2,2
+2015,Saguache,37.75,-106.11,Possession,2,2
+2015,Saguache,37.75,-106.11,Unknown,0,1
+2016,Saguache,37.75,-106.11,Sales,0,1
+2017,Saguache,37.75,-106.11,Possession,4,4
+2017,Saguache,37.75,-106.11,Unknown,7,4
+2012,San Juan,37.82,-107.64,Possession,0,1
+2013,San Juan,37.82,-107.64,Sales,1,1
+2012,San Miguel,37.92,-108.93,Possession,0,7
+2015,San Miguel,37.92,-108.93,Possession,0,1
+2012,Sedgwick,40.98,-102.26,Possession,1,1
+2013,Sedgwick,40.98,-102.26,Possession,3,3
+2014,Sedgwick,40.98,-102.26,Production,1,1
+2012,Summit,39.5,-106.04,Possession,63,79
+2012,Summit,39.5,-106.04,Sales,0,1
+2012,Summit,39.5,-106.04,Unknown,0,1
+2013,Summit,39.5,-106.04,Possession,5,13
+2013,Summit,39.5,-106.04,Sales,0,1
+2013,Summit,39.5,-106.04,Unknown,0,5
+2014,Summit,39.5,-106.04,Possession,2,3
+2014,Summit,39.5,-106.04,Unknown,3,8
+2015,Summit,39.5,-106.04,Possession,14,7
+2015,Summit,39.5,-106.04,Unknown,8,7
+2016,Summit,39.5,-106.04,Possession,12,11
+2016,Summit,39.5,-106.04,Unknown,8,4
+2017,Summit,39.5,-106.04,Possession,5,10
+2017,Summit,39.5,-106.04,Unknown,1,2
+2012,Teller,38.74,-105.17,Possession,52,46
+2012,Teller,38.74,-105.17,Production,1,0
+2012,Teller,38.74,-105.17,Unknown,3,2
+2013,Teller,38.74,-105.17,Possession,45,40
+2013,Teller,38.74,-105.17,Sales,0,1
+2013,Teller,38.74,-105.17,Unknown,0,1
+2014,Teller,38.74,-105.17,Possession,24,24
+2014,Teller,38.74,-105.17,Sales,2,1
+2014,Teller,38.74,-105.17,Unknown,3,6
+2015,Teller,38.74,-105.17,Possession,19,18
+2015,Teller,38.74,-105.17,Sales,3,1
+2015,Teller,38.74,-105.17,Unknown,3,3
+2016,Teller,38.74,-105.17,Possession,26,14
+2016,Teller,38.74,-105.17,Production,1,1
+2016,Teller,38.74,-105.17,Sales,5,0
+2017,Teller,38.74,-105.17,Possession,20,19
+2017,Teller,38.74,-105.17,Sales,4,1
+2017,Teller,38.74,-105.17,Unknown,1,4
+2012,Washington,40.16,-103.21,Possession,20,17
+2012,Washington,40.16,-103.21,Unknown,0,2
+2013,Washington,40.16,-103.21,Possession,2,3
+2014,Washington,40.16,-103.21,Unknown,1,1
+2015,Washington,40.16,-103.21,Possession,1,1
+2016,Washington,40.16,-103.21,Possession,2,3
+2017,Washington,40.16,-103.21,Sales,0,1
+2012,Weld,40.17,-105.11,Possession,485,493
+2012,Weld,40.17,-105.11,Production,7,11
+2012,Weld,40.17,-105.11,Sales,11,14
+2012,Weld,40.17,-105.11,Smuggle,0,2
+2012,Weld,40.17,-105.11,Unknown,1,3
+2013,Weld,40.17,-105.11,Possession,313,278
+2013,Weld,40.17,-105.11,Production,4,6
+2013,Weld,40.17,-105.11,Sales,16,15
+2013,Weld,40.17,-105.11,Smuggle,0,1
+2013,Weld,40.17,-105.11,Unknown,4,7
+2014,Weld,40.17,-105.11,Possession,316,318
+2014,Weld,40.17,-105.11,Production,2,5
+2014,Weld,40.17,-105.11,Sales,11,12
+2014,Weld,40.17,-105.11,Unknown,1,4
+2015,Weld,40.17,-105.11,Possession,257,250
+2015,Weld,40.17,-105.11,Production,6,9
+2015,Weld,40.17,-105.11,Sales,4,4
+2015,Weld,40.17,-105.11,Smuggle,0,3
+2015,Weld,40.17,-105.11,Unknown,3,6
+2016,Weld,40.17,-105.11,Possession,244,260
+2016,Weld,40.17,-105.11,Production,3,10
+2016,Weld,40.17,-105.11,Sales,7,10
+2016,Weld,40.17,-105.11,Smuggle,1,4
+2016,Weld,40.17,-105.11,Unknown,14,12
+2017,Weld,40.17,-105.11,Possession,201,195
+2017,Weld,40.17,-105.11,Production,9,6
+2017,Weld,40.17,-105.11,Sales,16,13
+2017,Weld,40.17,-105.11,Smuggle,1,3
+2017,Weld,40.17,-105.11,Unknown,1,4
+2012,Yuma,40.11,-102.48,Possession,2,2
+2012,Yuma,40.11,-102.48,Production,0,1
+2013,Yuma,40.11,-102.48,Possession,4,0
