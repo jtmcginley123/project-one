@@ -1,0 +1,812 @@
+Year,County,Offense Type,Number of Offenses
+2012,Adams,MJPossession,1804
+2012,Adams,MJProduction,50
+2012,Adams,MJSales,41
+2012,Adams,MJSmuggle,2
+2012,Adams,MJUnknown,124
+2012,Alamosa,MJPossession,2
+2012,Arapahoe,MJPossession,1654
+2012,Arapahoe,MJProduction,70
+2012,Arapahoe,MJSales,34
+2012,Arapahoe,MJSmuggle,1
+2012,Arapahoe,MJUnknown,14
+2012,Archuleta,MJPossession,11
+2012,Archuleta,MJProduction,1
+2012,Baca,MJPossession,16
+2012,Bent,MJPossession,1
+2012,Boulder,MJPossession,852
+2012,Boulder,MJProduction,4
+2012,Boulder,MJSales,11
+2012,Boulder,MJUnknown,51
+2012,Broomfield,MJPossession,202
+2012,Broomfield,MJProduction,1
+2012,Broomfield,MJSales,7
+2012,Broomfield,MJUnknown,2
+2012,Chaffee,MJPossession,39
+2012,Chaffee,MJProduction,1
+2012,Chaffee,MJSales,1
+2012,Cheyenne,MJPossession,3
+2012,Cheyenne,MJProduction,1
+2012,Clear Creek,MJPossession,42
+2012,Clear Creek,MJProduction,1
+2012,Clear Creek,MJSales,1
+2012,Clear Creek,MJUnknown,2
+2012,Conejos,MJPossession,3
+2012,Custer,MJPossession,1
+2012,Custer,MJProduction,2
+2012,Custer,MJUnknown,1
+2012,Delta,MJPossession,18
+2012,Delta,MJSales,1
+2012,Denver,MJPossession,62
+2012,Denver,MJProduction,18
+2012,Denver,MJSales,88
+2012,Denver,MJUnknown,20
+2012,Douglas,MJPossession,467
+2012,Douglas,MJProduction,2
+2012,Douglas,MJSales,2
+2012,Douglas,MJUnknown,12
+2012,Eagle,MJPossession,198
+2012,Eagle,MJProduction,3
+2012,Eagle,MJSales,2
+2012,Eagle,MJUnknown,20
+2012,El Paso,MJPossession,634
+2012,El Paso,MJProduction,52
+2012,El Paso,MJSales,44
+2012,El Paso,MJSmuggle,2
+2012,El Paso,MJUnknown,122
+2012,Elbert,MJPossession,15
+2012,Elbert,MJProduction,1
+2012,Fremont,MJPossession,57
+2012,Fremont,MJProduction,1
+2012,Fremont,MJSales,2
+2012,Fremont,MJUnknown,21
+2012,Garfield,MJPossession,142
+2012,Garfield,MJSales,1
+2012,Garfield,MJUnknown,11
+2012,Gilpin,MJPossession,79
+2012,Gilpin,MJProduction,2
+2012,Gilpin,MJSmuggle,1
+2012,Gilpin,MJUnknown,2
+2012,Grand,MJPossession,10
+2012,Grand,MJSales,2
+2012,Gunnison,MJPossession,37
+2012,Gunnison,MJProduction,1
+2012,Hinsdale,MJPossession,1
+2012,Huerfano,MJPossession,12
+2012,Huerfano,MJProduction,1
+2012,Jackson,MJPossession,1
+2012,Jefferson,MJPossession,1164
+2012,Jefferson,MJProduction,8
+2012,Jefferson,MJSales,3
+2012,Jefferson,MJUnknown,84
+2012,Kiowa,MJPossession,1
+2012,Kit Carson,MJPossession,16
+2012,Kit Carson,MJSales,1
+2012,La Plata,MJPossession,62
+2012,La Plata,MJSales,1
+2012,Lake,MJPossession,19
+2012,Lake,MJProduction,3
+2012,Larimer,MJPossession,634
+2012,Larimer,MJProduction,9
+2012,Larimer,MJSales,13
+2012,Larimer,MJUnknown,461
+2012,Las Animas,MJPossession,4
+2012,Lincoln,MJPossession,1
+2012,Location not Available,MJPossession,1124
+2012,Location not Available,MJProduction,2
+2012,Location not Available,MJSales,15
+2012,Location not Available,MJSmuggle,1
+2012,Location not Available,MJUnknown,122
+2012,Logan,MJPossession,27
+2012,Logan,MJUnknown,1
+2012,Mesa,MJPossession,430
+2012,Mesa,MJProduction,7
+2012,Mesa,MJSales,12
+2012,Mesa,MJUnknown,34
+2012,Moffat,MJPossession,69
+2012,Moffat,MJProduction,1
+2012,Moffat,MJSales,2
+2012,Moffat,MJUnknown,2
+2012,Montezuma,MJPossession,54
+2012,Montezuma,MJUnknown,12
+2012,Montrose,MJPossession,122
+2012,Montrose,MJProduction,1
+2012,Montrose,MJSales,3
+2012,Montrose,MJUnknown,1
+2012,Morgan,MJPossession,52
+2012,Morgan,MJSales,3
+2012,Morgan,MJUnknown,3
+2012,Otero,MJPossession,13
+2012,Otero,MJProduction,1
+2012,Ouray,MJPossession,1
+2012,Park,MJPossession,10
+2012,Park,MJSales,1
+2012,Phillips,MJPossession,2
+2012,Phillips,MJSales,1
+2012,Pitkin,MJPossession,24
+2012,Prowers,MJPossession,70
+2012,Pueblo,MJPossession,15
+2012,Pueblo,MJProduction,2
+2012,Pueblo,MJSales,2
+2012,Pueblo,MJUnknown,38
+2012,Rio Blanco,MJPossession,18
+2012,Rio Grande,MJPossession,26
+2012,Rio Grande,MJUnknown,1
+2012,Routt,MJPossession,73
+2012,Routt,MJSales,1
+2012,Routt,MJUnknown,3
+2012,Saguache,MJPossession,8
+2012,Saguache,MJUnknown,1
+2012,San Juan,MJPossession,1
+2012,San Miguel,MJPossession,7
+2012,Sedgwick,MJPossession,1
+2012,Summit,MJPossession,79
+2012,Summit,MJSales,1
+2012,Summit,MJUnknown,1
+2012,Teller,MJPossession,46
+2012,Teller,MJUnknown,2
+2012,Washington,MJPossession,17
+2012,Washington,MJUnknown,2
+2012,Weld,MJPossession,493
+2012,Weld,MJProduction,11
+2012,Weld,MJSales,14
+2012,Weld,MJSmuggle,2
+2012,Weld,MJUnknown,3
+2012,Yuma,MJPossession,2
+2012,Yuma,MJProduction,1
+2013,Adams,MJPossession,720
+2013,Adams,MJProduction,12
+2013,Adams,MJSales,28
+2013,Adams,MJUnknown,59
+2013,Alamosa,MJPossession,4
+2013,Arapahoe,MJPossession,667
+2013,Arapahoe,MJProduction,68
+2013,Arapahoe,MJSales,36
+2013,Arapahoe,MJSmuggle,3
+2013,Arapahoe,MJUnknown,14
+2013,Archuleta,MJPossession,5
+2013,Baca,MJPossession,3
+2013,Bent,MJPossession,1
+2013,Boulder,MJPossession,416
+2013,Boulder,MJProduction,1
+2013,Boulder,MJSales,6
+2013,Boulder,MJUnknown,54
+2013,Broomfield,MJPossession,90
+2013,Broomfield,MJProduction,1
+2013,Broomfield,MJSales,6
+2013,Broomfield,MJUnknown,2
+2013,Chaffee,MJPossession,11
+2013,Cheyenne,MJPossession,1
+2013,Clear Creek,MJPossession,6
+2013,Custer,MJPossession,1
+2013,Custer,MJUnknown,1
+2013,Delta,MJPossession,12
+2013,Delta,MJSales,1
+2013,Delta,MJUnknown,1
+2013,Denver,MJPossession,339
+2013,Denver,MJProduction,5
+2013,Denver,MJSales,66
+2013,Denver,MJUnknown,17
+2013,Dolores,MJPossession,1
+2013,Douglas,MJPossession,232
+2013,Douglas,MJSales,4
+2013,Douglas,MJUnknown,47
+2013,Eagle,MJPossession,54
+2013,Eagle,MJProduction,1
+2013,Eagle,MJSales,4
+2013,Eagle,MJUnknown,25
+2013,El Paso,MJPossession,330
+2013,El Paso,MJProduction,9
+2013,El Paso,MJSales,41
+2013,El Paso,MJUnknown,72
+2013,Elbert,MJPossession,11
+2013,Fremont,MJPossession,25
+2013,Fremont,MJUnknown,12
+2013,Garfield,MJPossession,55
+2013,Garfield,MJSales,2
+2013,Garfield,MJUnknown,7
+2013,Gilpin,MJPossession,5
+2013,Gilpin,MJProduction,1
+2013,Grand,MJPossession,2
+2013,Grand,MJSales,1
+2013,Grand,MJUnknown,1
+2013,Gunnison,MJPossession,25
+2013,Gunnison,MJProduction,1
+2013,Gunnison,MJUnknown,3
+2013,Huerfano,MJPossession,1
+2013,Jefferson,MJPossession,567
+2013,Jefferson,MJProduction,2
+2013,Jefferson,MJSales,18
+2013,Jefferson,MJUnknown,60
+2013,Kiowa,MJPossession,3
+2013,Kit Carson,MJPossession,6
+2013,Kit Carson,MJProduction,1
+2013,Kit Carson,MJUnknown,1
+2013,La Plata,MJPossession,50
+2013,La Plata,MJSales,1
+2013,La Plata,MJUnknown,1
+2013,Lake,MJPossession,3
+2013,Lake,MJSales,1
+2013,Larimer,MJPossession,271
+2013,Larimer,MJProduction,1
+2013,Larimer,MJSales,14
+2013,Larimer,MJUnknown,206
+2013,Las Animas,MJPossession,2
+2013,Las Animas,MJSales,3
+2013,Location not Available,MJPossession,231
+2013,Location not Available,MJSales,7
+2013,Location not Available,MJSmuggle,1
+2013,Location not Available,MJUnknown,35
+2013,Logan,MJPossession,2
+2013,Mesa,MJPossession,223
+2013,Mesa,MJProduction,6
+2013,Mesa,MJSales,10
+2013,Mesa,MJSmuggle,1
+2013,Mesa,MJUnknown,53
+2013,Moffat,MJPossession,17
+2013,Montezuma,MJPossession,6
+2013,Montrose,MJPossession,48
+2013,Montrose,MJSales,1
+2013,Morgan,MJPossession,17
+2013,Morgan,MJSales,1
+2013,Otero,MJPossession,2
+2013,Park,MJPossession,3
+2013,Phillips,MJPossession,1
+2013,Pitkin,MJPossession,4
+2013,Prowers,MJPossession,25
+2013,Prowers,MJSales,1
+2013,Prowers,MJUnknown,1
+2013,Pueblo,MJPossession,14
+2013,Pueblo,MJSales,1
+2013,Pueblo,MJUnknown,27
+2013,Rio Blanco,MJPossession,3
+2013,Rio Grande,MJPossession,2
+2013,Rio Grande,MJSales,1
+2013,Rio Grande,MJSmuggle,1
+2013,Routt,MJPossession,24
+2013,Routt,MJUnknown,5
+2013,San Juan,MJSales,1
+2013,Sedgwick,MJPossession,3
+2013,Summit,MJPossession,13
+2013,Summit,MJSales,1
+2013,Summit,MJUnknown,5
+2013,Teller,MJPossession,40
+2013,Teller,MJSales,1
+2013,Teller,MJUnknown,1
+2013,Washington,MJPossession,3
+2013,Weld,MJPossession,278
+2013,Weld,MJProduction,6
+2013,Weld,MJSales,15
+2013,Weld,MJSmuggle,1
+2013,Weld,MJUnknown,7
+2014,Adams,MJPossession,609
+2014,Adams,MJProduction,11
+2014,Adams,MJSales,11
+2014,Adams,MJUnknown,68
+2014,Alamosa,MJPossession,8
+2014,Alamosa,MJUnknown,1
+2014,Arapahoe,MJPossession,739
+2014,Arapahoe,MJProduction,108
+2014,Arapahoe,MJSales,21
+2014,Arapahoe,MJSmuggle,1
+2014,Arapahoe,MJUnknown,29
+2014,Archuleta,MJPossession,8
+2014,Archuleta,MJProduction,1
+2014,Baca,MJSales,1
+2014,Boulder,MJPossession,339
+2014,Boulder,MJProduction,1
+2014,Boulder,MJSales,11
+2014,Boulder,MJUnknown,52
+2014,Broomfield,MJPossession,87
+2014,Broomfield,MJProduction,1
+2014,Broomfield,MJSales,1
+2014,Chaffee,MJPossession,19
+2014,Cheyenne,MJPossession,1
+2014,Clear Creek,MJPossession,7
+2014,Clear Creek,MJSales,1
+2014,Costilla,MJSales,1
+2014,Custer,MJProduction,1
+2014,Custer,MJUnknown,1
+2014,Delta,MJPossession,5
+2014,Delta,MJUnknown,1
+2014,Denver,MJPossession,676
+2014,Denver,MJProduction,17
+2014,Denver,MJSales,55
+2014,Denver,MJUnknown,16
+2014,Dolores,MJPossession,1
+2014,Douglas,MJPossession,205
+2014,Douglas,MJSales,1
+2014,Douglas,MJUnknown,6
+2014,Eagle,MJPossession,60
+2014,Eagle,MJProduction,3
+2014,Eagle,MJUnknown,29
+2014,El Paso,MJPossession,416
+2014,El Paso,MJProduction,5
+2014,El Paso,MJSales,41
+2014,El Paso,MJUnknown,53
+2014,Elbert,MJPossession,12
+2014,Elbert,MJSales,1
+2014,Fremont,MJPossession,24
+2014,Fremont,MJProduction,1
+2014,Fremont,MJUnknown,12
+2014,Garfield,MJPossession,39
+2014,Garfield,MJSales,1
+2014,Garfield,MJUnknown,14
+2014,Gilpin,MJPossession,4
+2014,Gilpin,MJProduction,1
+2014,Grand,MJPossession,4
+2014,Grand,MJUnknown,1
+2014,Gunnison,MJPossession,21
+2014,Gunnison,MJProduction,1
+2014,Gunnison,MJSales,1
+2014,Gunnison,MJUnknown,5
+2014,Huerfano,MJPossession,2
+2014,Huerfano,MJProduction,2
+2014,Jefferson,MJPossession,661
+2014,Jefferson,MJProduction,7
+2014,Jefferson,MJSales,11
+2014,Jefferson,MJUnknown,68
+2014,Kit Carson,MJPossession,6
+2014,La Plata,MJPossession,67
+2014,La Plata,MJUnknown,1
+2014,Lake,MJPossession,1
+2014,Lake,MJSales,2
+2014,Lake,MJUnknown,2
+2014,Larimer,MJPossession,286
+2014,Larimer,MJProduction,8
+2014,Larimer,MJSales,22
+2014,Larimer,MJUnknown,238
+2014,Las Animas,MJPossession,1
+2014,Las Animas,MJProduction,1
+2014,Location not Available,MJPossession,287
+2014,Location not Available,MJProduction,1
+2014,Location not Available,MJSales,5
+2014,Location not Available,MJUnknown,40
+2014,Logan,MJPossession,7
+2014,Logan,MJUnknown,2
+2014,Mesa,MJPossession,249
+2014,Mesa,MJProduction,4
+2014,Mesa,MJSales,9
+2014,Mesa,MJSmuggle,2
+2014,Mesa,MJUnknown,44
+2014,Mineral,MJPossession,1
+2014,Mineral,MJSales,1
+2014,Moffat,MJPossession,18
+2014,Moffat,MJSales,2
+2014,Montezuma,MJPossession,7
+2014,Montezuma,MJSales,1
+2014,Montezuma,MJUnknown,1
+2014,Montrose,MJPossession,36
+2014,Montrose,MJUnknown,1
+2014,Morgan,MJPossession,26
+2014,Otero,MJPossession,4
+2014,Otero,MJSales,1
+2014,Ouray,MJPossession,3
+2014,Park,MJPossession,3
+2014,Park,MJUnknown,1
+2014,Pitkin,MJPossession,12
+2014,Pitkin,MJSales,1
+2014,Pitkin,MJUnknown,1
+2014,Prowers,MJPossession,21
+2014,Prowers,MJSales,1
+2014,Prowers,MJUnknown,1
+2014,Pueblo,MJPossession,14
+2014,Pueblo,MJProduction,1
+2014,Pueblo,MJSales,1
+2014,Pueblo,MJUnknown,22
+2014,Rio Blanco,MJPossession,12
+2014,Rio Grande,MJPossession,1
+2014,Routt,MJPossession,41
+2014,Routt,MJProduction,2
+2014,Routt,MJSales,2
+2014,Saguache,MJPossession,2
+2014,Sedgwick,MJProduction,1
+2014,Summit,MJPossession,3
+2014,Summit,MJUnknown,8
+2014,Teller,MJPossession,24
+2014,Teller,MJSales,1
+2014,Teller,MJUnknown,6
+2014,Washington,MJUnknown,1
+2014,Weld,MJPossession,318
+2014,Weld,MJProduction,5
+2014,Weld,MJSales,12
+2014,Weld,MJUnknown,4
+2015,Adams,MJPossession,556
+2015,Adams,MJProduction,8
+2015,Adams,MJSales,11
+2015,Adams,MJUnknown,90
+2015,Alamosa,MJPossession,16
+2015,Alamosa,MJSales,1
+2015,Arapahoe,MJPossession,621
+2015,Arapahoe,MJProduction,135
+2015,Arapahoe,MJSales,19
+2015,Arapahoe,MJUnknown,32
+2015,Archuleta,MJPossession,14
+2015,Archuleta,MJUnknown,1
+2015,Baca,MJPossession,1
+2015,Bent,MJPossession,1
+2015,Bent,MJUnknown,1
+2015,Boulder,MJPossession,416
+2015,Boulder,MJProduction,7
+2015,Boulder,MJSales,16
+2015,Boulder,MJUnknown,63
+2015,Broomfield,MJPossession,50
+2015,Broomfield,MJSales,4
+2015,Broomfield,MJUnknown,3
+2015,Chaffee,MJPossession,9
+2015,Chaffee,MJSales,1
+2015,Chaffee,MJSmuggle,1
+2015,Chaffee,MJUnknown,3
+2015,Clear Creek,MJPossession,6
+2015,Clear Creek,MJSales,1
+2015,Crowley,MJPossession,1
+2015,Custer,MJProduction,1
+2015,Custer,MJUnknown,2
+2015,Delta,MJPossession,4
+2015,Delta,MJProduction,1
+2015,Delta,MJUnknown,2
+2015,Denver,MJPossession,883
+2015,Denver,MJProduction,22
+2015,Denver,MJSales,52
+2015,Denver,MJUnknown,19
+2015,Douglas,MJPossession,241
+2015,Douglas,MJProduction,1
+2015,Douglas,MJSales,3
+2015,Douglas,MJUnknown,9
+2015,Eagle,MJPossession,78
+2015,Eagle,MJProduction,3
+2015,Eagle,MJSales,4
+2015,Eagle,MJUnknown,8
+2015,El Paso,MJPossession,399
+2015,El Paso,MJProduction,8
+2015,El Paso,MJSales,35
+2015,El Paso,MJSmuggle,1
+2015,El Paso,MJUnknown,15
+2015,Elbert,MJPossession,5
+2015,Elbert,MJProduction,1
+2015,Fremont,MJPossession,4
+2015,Fremont,MJProduction,1
+2015,Fremont,MJSales,1
+2015,Fremont,MJUnknown,9
+2015,Garfield,MJPossession,68
+2015,Garfield,MJUnknown,10
+2015,Gilpin,MJPossession,3
+2015,Grand,MJPossession,1
+2015,Grand,MJUnknown,2
+2015,Gunnison,MJPossession,32
+2015,Huerfano,MJPossession,4
+2015,Huerfano,MJProduction,1
+2015,Jefferson,MJPossession,594
+2015,Jefferson,MJProduction,16
+2015,Jefferson,MJSales,6
+2015,Jefferson,MJUnknown,54
+2015,Kit Carson,MJPossession,13
+2015,Kit Carson,MJUnknown,1
+2015,La Plata,MJPossession,52
+2015,La Plata,MJUnknown,9
+2015,Larimer,MJPossession,341
+2015,Larimer,MJProduction,8
+2015,Larimer,MJSales,14
+2015,Larimer,MJSmuggle,1
+2015,Larimer,MJUnknown,184
+2015,Las Animas,MJPossession,1
+2015,Lincoln,MJSmuggle,1
+2015,Location not Available,MJPossession,295
+2015,Location not Available,MJProduction,8
+2015,Location not Available,MJSales,10
+2015,Location not Available,MJSmuggle,1
+2015,Location not Available,MJUnknown,24
+2015,Logan,MJPossession,33
+2015,Mesa,MJPossession,217
+2015,Mesa,MJProduction,7
+2015,Mesa,MJSales,9
+2015,Mesa,MJUnknown,65
+2015,Moffat,MJPossession,23
+2015,Montezuma,MJPossession,7
+2015,Montrose,MJPossession,39
+2015,Montrose,MJProduction,1
+2015,Montrose,MJUnknown,1
+2015,Morgan,MJPossession,13
+2015,Morgan,MJUnknown,3
+2015,Otero,MJPossession,9
+2015,Otero,MJUnknown,1
+2015,Ouray,MJPossession,1
+2015,Park,MJPossession,2
+2015,Park,MJProduction,1
+2015,Phillips,MJPossession,1
+2015,Pitkin,MJPossession,8
+2015,Pitkin,MJSales,3
+2015,Prowers,MJPossession,2
+2015,Prowers,MJSales,1
+2015,Pueblo,MJPossession,25
+2015,Pueblo,MJProduction,1
+2015,Pueblo,MJSales,6
+2015,Pueblo,MJUnknown,31
+2015,Rio Blanco,MJPossession,7
+2015,Rio Grande,MJPossession,5
+2015,Rio Grande,MJSales,1
+2015,Routt,MJPossession,36
+2015,Routt,MJProduction,2
+2015,Routt,MJSales,1
+2015,Routt,MJUnknown,6
+2015,Saguache,MJPossession,2
+2015,Saguache,MJUnknown,1
+2015,San Miguel,MJPossession,1
+2015,Summit,MJPossession,7
+2015,Summit,MJUnknown,7
+2015,Teller,MJPossession,18
+2015,Teller,MJSales,1
+2015,Teller,MJUnknown,3
+2015,Washington,MJPossession,1
+2015,Weld,MJPossession,250
+2015,Weld,MJProduction,9
+2015,Weld,MJSales,4
+2015,Weld,MJSmuggle,3
+2015,Weld,MJUnknown,6
+2016,Adams,MJPossession,551
+2016,Adams,MJProduction,21
+2016,Adams,MJSales,35
+2016,Adams,MJUnknown,76
+2016,Alamosa,MJPossession,7
+2016,Alamosa,MJUnknown,8
+2016,Arapahoe,MJPossession,572
+2016,Arapahoe,MJProduction,109
+2016,Arapahoe,MJSales,16
+2016,Arapahoe,MJSmuggle,4
+2016,Arapahoe,MJUnknown,19
+2016,Archuleta,MJPossession,7
+2016,Archuleta,MJSales,1
+2016,Archuleta,MJUnknown,2
+2016,Baca,MJSales,1
+2016,Bent,MJProduction,1
+2016,Boulder,MJPossession,443
+2016,Boulder,MJProduction,5
+2016,Boulder,MJSales,31
+2016,Boulder,MJUnknown,114
+2016,Broomfield,MJPossession,64
+2016,Broomfield,MJProduction,1
+2016,Broomfield,MJSales,4
+2016,Broomfield,MJUnknown,6
+2016,Chaffee,MJPossession,17
+2016,Chaffee,MJUnknown,1
+2016,Clear Creek,MJPossession,1
+2016,Clear Creek,MJProduction,1
+2016,Custer,MJProduction,1
+2016,Custer,MJUnknown,3
+2016,Delta,MJPossession,12
+2016,Delta,MJProduction,1
+2016,Delta,MJSales,1
+2016,Delta,MJUnknown,1
+2016,Denver,MJPossession,472
+2016,Denver,MJProduction,38
+2016,Denver,MJSales,56
+2016,Denver,MJUnknown,13
+2016,Dolores,MJProduction,1
+2016,Douglas,MJPossession,262
+2016,Douglas,MJProduction,6
+2016,Douglas,MJSales,6
+2016,Douglas,MJSmuggle,1
+2016,Douglas,MJUnknown,20
+2016,Eagle,MJPossession,61
+2016,Eagle,MJSales,2
+2016,Eagle,MJUnknown,9
+2016,El Paso,MJPossession,434
+2016,El Paso,MJProduction,22
+2016,El Paso,MJSales,44
+2016,El Paso,MJSmuggle,1
+2016,El Paso,MJUnknown,15
+2016,Elbert,MJPossession,7
+2016,Fremont,MJPossession,3
+2016,Fremont,MJProduction,2
+2016,Fremont,MJUnknown,6
+2016,Garfield,MJPossession,70
+2016,Garfield,MJUnknown,25
+2016,Gilpin,MJPossession,2
+2016,Gilpin,MJUnknown,1
+2016,Grand,MJPossession,2
+2016,Grand,MJSales,1
+2016,Gunnison,MJPossession,20
+2016,Gunnison,MJUnknown,3
+2016,Hinsdale,MJPossession,2
+2016,Huerfano,MJPossession,2
+2016,Huerfano,MJProduction,2
+2016,Jefferson,MJPossession,625
+2016,Jefferson,MJProduction,20
+2016,Jefferson,MJSales,9
+2016,Jefferson,MJUnknown,41
+2016,Kit Carson,MJPossession,5
+2016,Kit Carson,MJSales,1
+2016,La Plata,MJPossession,43
+2016,La Plata,MJUnknown,7
+2016,Lake,MJPossession,1
+2016,Lake,MJUnknown,1
+2016,Larimer,MJPossession,484
+2016,Larimer,MJProduction,19
+2016,Larimer,MJSales,19
+2016,Larimer,MJUnknown,128
+2016,Lincoln,MJSmuggle,1
+2016,Location not Available,MJPossession,237
+2016,Location not Available,MJProduction,6
+2016,Location not Available,MJSales,5
+2016,Location not Available,MJSmuggle,1
+2016,Location not Available,MJUnknown,21
+2016,Logan,MJPossession,12
+2016,Logan,MJProduction,1
+2016,Mesa,MJPossession,173
+2016,Mesa,MJProduction,8
+2016,Mesa,MJSales,15
+2016,Mesa,MJSmuggle,4
+2016,Mesa,MJUnknown,46
+2016,Moffat,MJPossession,35
+2016,Moffat,MJSales,2
+2016,Montezuma,MJPossession,9
+2016,Montrose,MJPossession,31
+2016,Montrose,MJSales,1
+2016,Montrose,MJUnknown,1
+2016,Morgan,MJPossession,13
+2016,Morgan,MJProduction,1
+2016,Otero,MJPossession,5
+2016,Park,MJPossession,1
+2016,Park,MJProduction,1
+2016,Park,MJSales,1
+2016,Park,MJUnknown,1
+2016,Phillips,MJPossession,2
+2016,Pitkin,MJPossession,4
+2016,Prowers,MJPossession,1
+2016,Prowers,MJSmuggle,1
+2016,Pueblo,MJPossession,29
+2016,Pueblo,MJProduction,1
+2016,Pueblo,MJSales,4
+2016,Pueblo,MJUnknown,46
+2016,Rio Blanco,MJPossession,1
+2016,Rio Grande,MJPossession,6
+2016,Routt,MJPossession,36
+2016,Saguache,MJSales,1
+2016,Summit,MJPossession,11
+2016,Summit,MJUnknown,4
+2016,Teller,MJPossession,14
+2016,Teller,MJProduction,1
+2016,Washington,MJPossession,3
+2016,Weld,MJPossession,260
+2016,Weld,MJProduction,10
+2016,Weld,MJSales,10
+2016,Weld,MJSmuggle,4
+2016,Weld,MJUnknown,12
+2017,Adams,MJPossession,517
+2017,Adams,MJProduction,28
+2017,Adams,MJSales,42
+2017,Adams,MJUnknown,143
+2017,Alamosa,MJPossession,11
+2017,Alamosa,MJSales,6
+2017,Alamosa,MJUnknown,12
+2017,Arapahoe,MJPossession,478
+2017,Arapahoe,MJProduction,116
+2017,Arapahoe,MJSales,23
+2017,Arapahoe,MJSmuggle,3
+2017,Arapahoe,MJUnknown,24
+2017,Archuleta,MJPossession,2
+2017,Archuleta,MJUnknown,1
+2017,Boulder,MJPossession,632
+2017,Boulder,MJProduction,6
+2017,Boulder,MJSales,13
+2017,Boulder,MJUnknown,103
+2017,Broomfield,MJPossession,59
+2017,Broomfield,MJUnknown,9
+2017,Chaffee,MJPossession,8
+2017,Chaffee,MJSales,2
+2017,Clear Creek,MJPossession,1
+2017,Crowley,MJPossession,1
+2017,Crowley,MJSales,1
+2017,Crowley,MJUnknown,1
+2017,Custer,MJPossession,1
+2017,Custer,MJUnknown,1
+2017,Delta,MJPossession,14
+2017,Delta,MJUnknown,6
+2017,Denver,MJPossession,143
+2017,Denver,MJProduction,44
+2017,Denver,MJSales,71
+2017,Denver,MJUnknown,17
+2017,Dolores,MJSales,2
+2017,Dolores,MJUnknown,1
+2017,Douglas,MJPossession,317
+2017,Douglas,MJProduction,9
+2017,Douglas,MJSales,2
+2017,Douglas,MJUnknown,23
+2017,Eagle,MJPossession,65
+2017,Eagle,MJSales,1
+2017,Eagle,MJUnknown,3
+2017,El Paso,MJPossession,413
+2017,El Paso,MJProduction,37
+2017,El Paso,MJSales,45
+2017,El Paso,MJUnknown,18
+2017,Elbert,MJPossession,9
+2017,Elbert,MJProduction,1
+2017,Elbert,MJSales,1
+2017,Fremont,MJPossession,1
+2017,Fremont,MJProduction,1
+2017,Fremont,MJUnknown,35
+2017,Garfield,MJPossession,67
+2017,Garfield,MJUnknown,41
+2017,Gilpin,MJPossession,5
+2017,Gilpin,MJUnknown,2
+2017,Grand,MJUnknown,1
+2017,Gunnison,MJPossession,29
+2017,Gunnison,MJProduction,1
+2017,Gunnison,MJSales,3
+2017,Gunnison,MJUnknown,6
+2017,Huerfano,MJPossession,1
+2017,Huerfano,MJProduction,1
+2017,Jefferson,MJPossession,648
+2017,Jefferson,MJProduction,18
+2017,Jefferson,MJSales,8
+2017,Jefferson,MJUnknown,40
+2017,Kit Carson,MJPossession,5
+2017,Kit Carson,MJSales,1
+2017,La Plata,MJPossession,54
+2017,La Plata,MJUnknown,16
+2017,Lake,MJPossession,2
+2017,Larimer,MJPossession,484
+2017,Larimer,MJProduction,14
+2017,Larimer,MJSales,11
+2017,Larimer,MJSmuggle,1
+2017,Larimer,MJUnknown,98
+2017,Las Animas,MJPossession,4
+2017,Las Animas,MJSales,1
+2017,Las Animas,MJUnknown,1
+2017,Lincoln,MJProduction,2
+2017,Location not Available,MJPossession,228
+2017,Location not Available,MJProduction,2
+2017,Location not Available,MJSales,9
+2017,Location not Available,MJUnknown,33
+2017,Logan,MJPossession,8
+2017,Logan,MJProduction,2
+2017,Logan,MJSales,1
+2017,Logan,MJUnknown,1
+2017,Mesa,MJPossession,179
+2017,Mesa,MJProduction,13
+2017,Mesa,MJSales,29
+2017,Mesa,MJSmuggle,1
+2017,Mesa,MJUnknown,91
+2017,Moffat,MJPossession,26
+2017,Moffat,MJSales,2
+2017,Montezuma,MJPossession,8
+2017,Montezuma,MJSales,1
+2017,Montezuma,MJUnknown,2
+2017,Montrose,MJPossession,31
+2017,Montrose,MJProduction,1
+2017,Morgan,MJPossession,18
+2017,Morgan,MJSales,3
+2017,Morgan,MJUnknown,3
+2017,Otero,MJPossession,4
+2017,Otero,MJProduction,1
+2017,Otero,MJSales,2
+2017,Otero,MJSmuggle,1
+2017,Otero,MJUnknown,3
+2017,Park,MJPossession,1
+2017,Park,MJProduction,1
+2017,Phillips,MJPossession,1
+2017,Pitkin,MJPossession,5
+2017,Pitkin,MJSmuggle,1
+2017,Prowers,MJPossession,1
+2017,Pueblo,MJPossession,19
+2017,Pueblo,MJProduction,1
+2017,Pueblo,MJSales,4
+2017,Pueblo,MJUnknown,41
+2017,Rio Blanco,MJPossession,3
+2017,Rio Grande,MJPossession,6
+2017,Routt,MJPossession,39
+2017,Routt,MJSales,1
+2017,Routt,MJUnknown,1
+2017,Saguache,MJPossession,4
+2017,Saguache,MJUnknown,4
+2017,Summit,MJPossession,10
+2017,Summit,MJUnknown,2
+2017,Teller,MJPossession,19
+2017,Teller,MJSales,1
+2017,Teller,MJUnknown,4
+2017,Washington,MJSales,1
+2017,Weld,MJPossession,195
+2017,Weld,MJProduction,6
+2017,Weld,MJSales,13
+2017,Weld,MJSmuggle,3
+2017,Weld,MJUnknown,4

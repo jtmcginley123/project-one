@@ -1,0 +1,850 @@
+Year,County,Offense Type,Number of Arrests,Number of Offenses
+2012,Adams,Possession,2079,1804
+2012,Adams,Production,39,50
+2012,Adams,Sales,42,41
+2012,Adams,Smuggle,0,2
+2012,Adams,Unknown,147,124
+2012,Alamosa,Possession,2,2
+2012,Arapahoe,Possession,1374,1654
+2012,Arapahoe,Production,65,70
+2012,Arapahoe,Sales,24,34
+2012,Arapahoe,Smuggle,0,1
+2012,Arapahoe,Unknown,6,14
+2012,Archuleta,Possession,17,11
+2012,Archuleta,Production,0,1
+2012,Baca,Possession,15,16
+2012,Baca,Sales,2,0
+2012,Basalt PD,Possession,7,0
+2012,Bent,Possession,0,1
+2012,Boulder,Possession,668,852
+2012,Boulder,Production,1,4
+2012,Boulder,Sales,8,11
+2012,Boulder,Unknown,39,51
+2012,Broomfield,Possession,290,202
+2012,Broomfield,Production,0,1
+2012,Broomfield,Sales,7,7
+2012,Broomfield,Unknown,2,2
+2012,Chaffee,Possession,45,39
+2012,Chaffee,Production,0,1
+2012,Chaffee,Sales,2,1
+2012,Cheyenne,Possession,2,3
+2012,Cheyenne,Production,0,1
+2012,Clear Creek,Possession,40,42
+2012,Clear Creek,Production,1,1
+2012,Clear Creek,Sales,1,1
+2012,Clear Creek,Unknown,2,2
+2012,Conejos,Possession,2,3
+2012,Custer,Possession,1,1
+2012,Custer,Production,0,2
+2012,Custer,Unknown,0,1
+2012,Delta,Possession,15,18
+2012,Delta,Sales,0,1
+2012,Denver,Possession,58,62
+2012,Denver,Production,15,18
+2012,Denver,Sales,93,88
+2012,Denver,Unknown,2,20
+2012,Douglas,Possession,524,467
+2012,Douglas,Production,0,2
+2012,Douglas,Sales,4,2
+2012,Douglas,Unknown,5,12
+2012,Eagle,Possession,236,198
+2012,Eagle,Production,2,3
+2012,Eagle,Sales,7,2
+2012,Eagle,Unknown,31,20
+2012,El Paso,Possession,673,634
+2012,El Paso,Production,20,52
+2012,El Paso,Sales,32,44
+2012,El Paso,Smuggle,4,2
+2012,El Paso,Unknown,132,122
+2012,Elbert,Possession,17,15
+2012,Elbert,Production,0,1
+2012,Fremont,Possession,31,57
+2012,Fremont,Production,0,1
+2012,Fremont,Sales,1,2
+2012,Fremont,Unknown,8,21
+2012,Garfield,Possession,154,142
+2012,Garfield,Sales,1,1
+2012,Garfield,Unknown,11,11
+2012,Gilpin,Possession,95,79
+2012,Gilpin,Production,2,2
+2012,Gilpin,Smuggle,1,1
+2012,Gilpin,Unknown,0,2
+2012,Grand,Possession,13,10
+2012,Grand,Sales,1,2
+2012,Gunnison,Possession,37,37
+2012,Gunnison,Production,0,1
+2012,Hinsdale,Possession,0,1
+2012,Huerfano,Possession,13,12
+2012,Huerfano,Production,0,1
+2012,Jackson,Possession,0,1
+2012,Jefferson,Possession,1329,1164
+2012,Jefferson,Production,6,8
+2012,Jefferson,Sales,9,3
+2012,Jefferson,Unknown,173,84
+2012,Kiowa,Possession,1,1
+2012,Kit Carson,Possession,18,16
+2012,Kit Carson,Sales,1,1
+2012,La Plata,Possession,54,62
+2012,La Plata,Sales,0,1
+2012,La Plata,Unknown,1,0
+2012,Lake,Possession,23,19
+2012,Lake,Production,3,3
+2012,Lake,Sales,1,0
+2012,Larimer,Possession,521,634
+2012,Larimer,Production,5,9
+2012,Larimer,Sales,10,13
+2012,Larimer,Unknown,360,461
+2012,Las Animas,Possession,7,4
+2012,Lincoln,Possession,1,1
+2012,Location not Available,Possession,1140,1124
+2012,Location not Available,Production,2,2
+2012,Location not Available,Sales,22,15
+2012,Location not Available,Smuggle,1,1
+2012,Location not Available,Unknown,111,122
+2012,Logan,Possession,39,27
+2012,Logan,Sales,1,0
+2012,Logan,Unknown,1,1
+2012,Mesa,Possession,577,430
+2012,Mesa,Production,3,7
+2012,Mesa,Sales,14,12
+2012,Mesa,Unknown,46,34
+2012,Moffat,Possession,95,69
+2012,Moffat,Production,4,1
+2012,Moffat,Sales,3,2
+2012,Moffat,Unknown,2,2
+2012,Montezuma,Possession,60,54
+2012,Montezuma,Unknown,14,12
+2012,Montrose,Possession,131,122
+2012,Montrose,Production,1,1
+2012,Montrose,Sales,1,3
+2012,Montrose,Unknown,0,1
+2012,Morgan,Possession,50,52
+2012,Morgan,Sales,1,3
+2012,Morgan,Unknown,0,3
+2012,Otero,Possession,15,13
+2012,Otero,Production,1,1
+2012,Otero,Unknown,6,0
+2012,Ouray,Possession,0,1
+2012,Park,Possession,7,10
+2012,Park,Production,1,0
+2012,Park,Sales,1,1
+2012,Park,Unknown,1,0
+2012,Phillips,Possession,2,2
+2012,Phillips,Sales,0,1
+2012,Pitkin,Possession,7,24
+2012,Prowers,Possession,90,70
+2012,Pueblo,Possession,11,15
+2012,Pueblo,Production,0,2
+2012,Pueblo,Sales,0,2
+2012,Pueblo,Unknown,12,38
+2012,Rio Blanco,Possession,26,18
+2012,Rio Grande,Possession,27,26
+2012,Rio Grande,Unknown,1,1
+2012,Routt,Possession,88,73
+2012,Routt,Sales,1,1
+2012,Routt,Unknown,3,3
+2012,Saguache,Possession,11,8
+2012,Saguache,Unknown,0,1
+2012,San Juan,Possession,0,1
+2012,San Miguel,Possession,0,7
+2012,Sedgwick,Possession,1,1
+2012,Summit,Possession,63,79
+2012,Summit,Sales,0,1
+2012,Summit,Unknown,0,1
+2012,Teller,Possession,52,46
+2012,Teller,Production,1,0
+2012,Teller,Unknown,3,2
+2012,Washington,Possession,20,17
+2012,Washington,Unknown,0,2
+2012,Weld,Possession,485,493
+2012,Weld,Production,7,11
+2012,Weld,Sales,11,14
+2012,Weld,Smuggle,0,2
+2012,Weld,Unknown,1,3
+2012,Yuma,Possession,2,2
+2012,Yuma,Production,0,1
+2013,Adams,Possession,867,720
+2013,Adams,Production,15,12
+2013,Adams,Sales,19,28
+2013,Adams,Unknown,91,59
+2013,Alamosa,Possession,6,4
+2013,Arapahoe,Possession,609,667
+2013,Arapahoe,Production,67,68
+2013,Arapahoe,Sales,17,36
+2013,Arapahoe,Smuggle,0,3
+2013,Arapahoe,Unknown,9,14
+2013,Archuleta,Possession,3,5
+2013,Baca,Possession,7,3
+2013,Basalt PD,Possession,4,0
+2013,Bent,Possession,1,1
+2013,Boulder,Possession,379,416
+2013,Boulder,Production,1,1
+2013,Boulder,Sales,1,6
+2013,Boulder,Unknown,53,54
+2013,Broomfield,Possession,123,90
+2013,Broomfield,Production,0,1
+2013,Broomfield,Sales,8,6
+2013,Broomfield,Unknown,2,2
+2013,Chaffee,Possession,14,11
+2013,Cheyenne,Possession,1,1
+2013,Clear Creek,Possession,7,6
+2013,Custer,Possession,1,1
+2013,Custer,Unknown,0,1
+2013,Delta,Possession,12,12
+2013,Delta,Sales,0,1
+2013,Delta,Unknown,3,1
+2013,Denver,Possession,371,339
+2013,Denver,Production,6,5
+2013,Denver,Sales,71,66
+2013,Denver,Unknown,3,17
+2013,Dolores,Possession,1,1
+2013,Douglas,Possession,274,232
+2013,Douglas,Sales,1,4
+2013,Douglas,Unknown,57,47
+2013,Eagle,Possession,71,54
+2013,Eagle,Production,1,1
+2013,Eagle,Sales,3,4
+2013,Eagle,Unknown,56,25
+2013,El Paso,Possession,427,330
+2013,El Paso,Production,4,9
+2013,El Paso,Sales,23,41
+2013,El Paso,Smuggle,1,0
+2013,El Paso,Unknown,69,72
+2013,Elbert,Possession,19,11
+2013,Fremont,Possession,11,25
+2013,Fremont,Unknown,0,12
+2013,Garfield,Possession,42,55
+2013,Garfield,Sales,2,2
+2013,Garfield,Unknown,6,7
+2013,Gilpin,Possession,5,5
+2013,Gilpin,Production,2,1
+2013,Grand,Possession,2,2
+2013,Grand,Sales,0,1
+2013,Grand,Unknown,0,1
+2013,Gunnison,Possession,24,25
+2013,Gunnison,Production,2,1
+2013,Gunnison,Unknown,3,3
+2013,Huerfano,Possession,0,1
+2013,Jefferson,Possession,660,567
+2013,Jefferson,Production,4,2
+2013,Jefferson,Sales,7,18
+2013,Jefferson,Unknown,120,60
+2013,Kiowa,Possession,3,3
+2013,Kit Carson,Possession,11,6
+2013,Kit Carson,Production,0,1
+2013,Kit Carson,Sales,3,0
+2013,Kit Carson,Unknown,0,1
+2013,La Plata,Possession,53,50
+2013,La Plata,Sales,0,1
+2013,La Plata,Unknown,0,1
+2013,Lake,Possession,2,3
+2013,Lake,Sales,1,1
+2013,Larimer,Possession,283,271
+2013,Larimer,Production,1,1
+2013,Larimer,Sales,11,14
+2013,Larimer,Unknown,169,206
+2013,Las Animas,Possession,2,2
+2013,Las Animas,Sales,3,3
+2013,Location not Available,Possession,239,231
+2013,Location not Available,Sales,10,7
+2013,Location not Available,Smuggle,2,1
+2013,Location not Available,Unknown,32,35
+2013,Logan,Possession,2,2
+2013,Logan,Sales,1,0
+2013,Mesa,Possession,327,223
+2013,Mesa,Production,4,6
+2013,Mesa,Sales,20,10
+2013,Mesa,Smuggle,1,1
+2013,Mesa,Unknown,68,53
+2013,Moffat,Possession,22,17
+2013,Montezuma,Possession,6,6
+2013,Montrose,Possession,49,48
+2013,Montrose,Sales,1,1
+2013,Morgan,Possession,18,17
+2013,Morgan,Sales,1,1
+2013,Otero,Possession,3,2
+2013,Park,Possession,1,3
+2013,Phillips,Possession,1,1
+2013,Pitkin,Possession,0,4
+2013,Prowers,Possession,30,25
+2013,Prowers,Sales,2,1
+2013,Prowers,Unknown,1,1
+2013,Pueblo,Possession,9,14
+2013,Pueblo,Sales,1,1
+2013,Pueblo,Unknown,10,27
+2013,Rio Blanco,Possession,4,3
+2013,Rio Grande,Possession,3,2
+2013,Rio Grande,Sales,1,1
+2013,Rio Grande,Smuggle,1,1
+2013,Routt,Possession,26,24
+2013,Routt,Unknown,10,5
+2013,San Juan,Sales,1,1
+2013,Sedgwick,Possession,3,3
+2013,Summit,Possession,5,13
+2013,Summit,Sales,0,1
+2013,Summit,Unknown,0,5
+2013,Teller,Possession,45,40
+2013,Teller,Sales,0,1
+2013,Teller,Unknown,0,1
+2013,Washington,Possession,2,3
+2013,Weld,Possession,313,278
+2013,Weld,Production,4,6
+2013,Weld,Sales,16,15
+2013,Weld,Smuggle,0,1
+2013,Weld,Unknown,4,7
+2013,Yuma,Possession,4,0
+2014,Adams,Possession,725,609
+2014,Adams,Production,6,11
+2014,Adams,Sales,17,11
+2014,Adams,Unknown,99,68
+2014,Alamosa,Possession,9,8
+2014,Alamosa,Unknown,3,1
+2014,Arapahoe,Possession,669,739
+2014,Arapahoe,Production,122,108
+2014,Arapahoe,Sales,19,21
+2014,Arapahoe,Smuggle,0,1
+2014,Arapahoe,Unknown,6,29
+2014,Archuleta,Possession,6,8
+2014,Archuleta,Production,0,1
+2014,Baca,Sales,1,1
+2014,Basalt PD,Possession,1,0
+2014,Boulder,Possession,303,339
+2014,Boulder,Production,0,1
+2014,Boulder,Sales,17,11
+2014,Boulder,Unknown,34,52
+2014,Broomfield,Possession,130,87
+2014,Broomfield,Production,2,1
+2014,Broomfield,Sales,0,1
+2014,Chaffee,Possession,17,19
+2014,Cheyenne,Possession,0,1
+2014,Clear Creek,Possession,6,7
+2014,Clear Creek,Sales,0,1
+2014,Clear Creek,Unknown,1,0
+2014,Costilla,Sales,1,1
+2014,Custer,Production,2,1
+2014,Custer,Unknown,1,1
+2014,Delta,Possession,8,5
+2014,Delta,Unknown,0,1
+2014,Denver,Possession,750,676
+2014,Denver,Production,14,17
+2014,Denver,Sales,71,55
+2014,Denver,Unknown,1,16
+2014,Dolores,Possession,1,1
+2014,Douglas,Possession,214,205
+2014,Douglas,Sales,2,1
+2014,Douglas,Unknown,2,6
+2014,Eagle,Possession,62,60
+2014,Eagle,Production,0,3
+2014,Eagle,Unknown,34,29
+2014,El Paso,Possession,493,416
+2014,El Paso,Production,2,5
+2014,El Paso,Sales,28,41
+2014,El Paso,Unknown,83,53
+2014,Elbert,Possession,16,12
+2014,Elbert,Sales,1,1
+2014,Fremont,Possession,4,24
+2014,Fremont,Production,1,1
+2014,Fremont,Unknown,0,12
+2014,Garfield,Possession,31,39
+2014,Garfield,Sales,3,1
+2014,Garfield,Unknown,10,14
+2014,Gilpin,Possession,4,4
+2014,Gilpin,Production,0,1
+2014,Grand,Possession,4,4
+2014,Grand,Unknown,0,1
+2014,Gunnison,Possession,26,21
+2014,Gunnison,Production,1,1
+2014,Gunnison,Sales,2,1
+2014,Gunnison,Unknown,2,5
+2014,Huerfano,Possession,2,2
+2014,Huerfano,Production,2,2
+2014,Jefferson,Possession,856,661
+2014,Jefferson,Production,9,7
+2014,Jefferson,Sales,11,11
+2014,Jefferson,Unknown,77,68
+2014,Kit Carson,Possession,4,6
+2014,La Plata,Possession,81,67
+2014,La Plata,Unknown,0,1
+2014,Lake,Possession,1,1
+2014,Lake,Production,1,0
+2014,Lake,Sales,0,2
+2014,Lake,Unknown,1,2
+2014,Larimer,Possession,283,286
+2014,Larimer,Production,5,8
+2014,Larimer,Sales,15,22
+2014,Larimer,Unknown,156,238
+2014,Las Animas,Possession,1,1
+2014,Las Animas,Production,0,1
+2014,Location not Available,Possession,289,287
+2014,Location not Available,Production,2,1
+2014,Location not Available,Sales,6,5
+2014,Location not Available,Unknown,39,40
+2014,Logan,Possession,28,7
+2014,Logan,Unknown,0,2
+2014,Mesa,Possession,350,249
+2014,Mesa,Production,3,4
+2014,Mesa,Sales,17,9
+2014,Mesa,Smuggle,0,2
+2014,Mesa,Unknown,65,44
+2014,Mineral,Possession,0,1
+2014,Mineral,Sales,0,1
+2014,Moffat,Possession,19,18
+2014,Moffat,Sales,1,2
+2014,Montezuma,Possession,11,7
+2014,Montezuma,Sales,1,1
+2014,Montezuma,Unknown,2,1
+2014,Montrose,Possession,45,36
+2014,Montrose,Unknown,1,1
+2014,Morgan,Possession,32,26
+2014,Morgan,Unknown,2,0
+2014,Otero,Possession,5,4
+2014,Otero,Sales,1,1
+2014,Ouray,Possession,4,3
+2014,Park,Possession,4,3
+2014,Park,Unknown,0,1
+2014,Pitkin,Possession,9,12
+2014,Pitkin,Sales,0,1
+2014,Pitkin,Unknown,1,1
+2014,Prowers,Possession,35,21
+2014,Prowers,Sales,2,1
+2014,Prowers,Unknown,1,1
+2014,Pueblo,Possession,14,14
+2014,Pueblo,Production,0,1
+2014,Pueblo,Sales,0,1
+2014,Pueblo,Unknown,10,22
+2014,Rio Blanco,Possession,18,12
+2014,Rio Grande,Possession,2,1
+2014,Routt,Possession,46,41
+2014,Routt,Production,0,2
+2014,Routt,Sales,0,2
+2014,Routt,Unknown,14,0
+2014,Saguache,Possession,2,2
+2014,Sedgwick,Production,1,1
+2014,Summit,Possession,2,3
+2014,Summit,Unknown,3,8
+2014,Teller,Possession,24,24
+2014,Teller,Sales,2,1
+2014,Teller,Unknown,3,6
+2014,Washington,Unknown,1,1
+2014,Weld,Possession,316,318
+2014,Weld,Production,2,5
+2014,Weld,Sales,11,12
+2014,Weld,Unknown,1,4
+2015,Adams,Possession,648,556
+2015,Adams,Production,8,8
+2015,Adams,Sales,8,11
+2015,Adams,Unknown,100,90
+2015,Alamosa,Possession,21,16
+2015,Alamosa,Sales,0,1
+2015,Alamosa,Unknown,1,0
+2015,Arapahoe,Possession,571,621
+2015,Arapahoe,Production,104,135
+2015,Arapahoe,Sales,22,19
+2015,Arapahoe,Unknown,9,32
+2015,Archuleta,Possession,18,14
+2015,Archuleta,Unknown,1,1
+2015,Baca,Possession,1,1
+2015,Basalt PD,Possession,3,0
+2015,Bent,Possession,1,1
+2015,Bent,Unknown,0,1
+2015,Boulder,Possession,347,416
+2015,Boulder,Production,7,7
+2015,Boulder,Sales,5,16
+2015,Boulder,Unknown,38,63
+2015,Broomfield,Possession,75,50
+2015,Broomfield,Sales,2,4
+2015,Broomfield,Unknown,15,3
+2015,Chaffee,Possession,9,9
+2015,Chaffee,Sales,1,1
+2015,Chaffee,Smuggle,0,1
+2015,Chaffee,Unknown,3,3
+2015,Clear Creek,Possession,10,6
+2015,Clear Creek,Sales,0,1
+2015,Crowley,Possession,1,1
+2015,Custer,Production,1,1
+2015,Custer,Unknown,3,2
+2015,Delta,Possession,2,4
+2015,Delta,Production,0,1
+2015,Delta,Unknown,0,2
+2015,Denver,Possession,1051,883
+2015,Denver,Production,16,22
+2015,Denver,Sales,58,52
+2015,Denver,Unknown,2,19
+2015,Douglas,Possession,256,241
+2015,Douglas,Production,0,1
+2015,Douglas,Sales,1,3
+2015,Douglas,Unknown,1,9
+2015,Eagle,Possession,100,78
+2015,Eagle,Production,1,3
+2015,Eagle,Sales,1,4
+2015,Eagle,Unknown,17,8
+2015,El Paso,Possession,455,399
+2015,El Paso,Production,3,8
+2015,El Paso,Sales,24,35
+2015,El Paso,Smuggle,1,1
+2015,El Paso,Unknown,11,15
+2015,Elbert,Possession,6,5
+2015,Elbert,Production,1,1
+2015,Fremont,Possession,3,4
+2015,Fremont,Production,1,1
+2015,Fremont,Sales,2,1
+2015,Fremont,Unknown,6,9
+2015,Garfield,Possession,81,68
+2015,Garfield,Unknown,7,10
+2015,Gilpin,Possession,5,3
+2015,Gilpin,Production,1,0
+2015,Grand,Possession,0,1
+2015,Grand,Unknown,0,2
+2015,Gunnison,Possession,47,32
+2015,Gunnison,Production,2,0
+2015,Huerfano,Possession,5,4
+2015,Huerfano,Production,1,1
+2015,Jefferson,Possession,802,594
+2015,Jefferson,Production,15,16
+2015,Jefferson,Sales,7,6
+2015,Jefferson,Unknown,59,54
+2015,Kit Carson,Possession,16,13
+2015,Kit Carson,Unknown,1,1
+2015,La Plata,Possession,40,52
+2015,La Plata,Unknown,25,9
+2015,Larimer,Possession,308,341
+2015,Larimer,Production,7,8
+2015,Larimer,Sales,10,14
+2015,Larimer,Smuggle,0,1
+2015,Larimer,Unknown,94,184
+2015,Las Animas,Possession,0,1
+2015,Las Animas,Unknown,1,0
+2015,Lincoln,Smuggle,1,1
+2015,Location not Available,Possession,303,295
+2015,Location not Available,Production,1,8
+2015,Location not Available,Sales,11,10
+2015,Location not Available,Smuggle,1,1
+2015,Location not Available,Unknown,24,24
+2015,Logan,Possession,34,33
+2015,Mesa,Possession,293,217
+2015,Mesa,Production,10,7
+2015,Mesa,Sales,11,9
+2015,Mesa,Unknown,83,65
+2015,Moffat,Possession,29,23
+2015,Montezuma,Possession,6,7
+2015,Montrose,Possession,37,39
+2015,Montrose,Production,1,1
+2015,Montrose,Unknown,1,1
+2015,Morgan,Possession,9,13
+2015,Morgan,Unknown,1,3
+2015,Otero,Possession,14,9
+2015,Otero,Unknown,0,1
+2015,Ouray,Possession,0,1
+2015,Park,Possession,0,2
+2015,Park,Production,2,1
+2015,Phillips,Possession,1,1
+2015,Pitkin,Possession,5,8
+2015,Pitkin,Sales,2,3
+2015,Prowers,Possession,2,2
+2015,Prowers,Sales,1,1
+2015,Pueblo,Possession,18,25
+2015,Pueblo,Production,0,1
+2015,Pueblo,Sales,0,6
+2015,Pueblo,Unknown,3,31
+2015,Rio Blanco,Possession,11,7
+2015,Rio Grande,Possession,10,5
+2015,Rio Grande,Sales,1,1
+2015,Routt,Possession,35,36
+2015,Routt,Production,3,2
+2015,Routt,Sales,1,1
+2015,Routt,Unknown,6,6
+2015,Saguache,Possession,2,2
+2015,Saguache,Unknown,0,1
+2015,San Miguel,Possession,0,1
+2015,Southwest Drug Task Force,Production,1,0
+2015,Southwest Drug Task Force,Smuggle,1,0
+2015,Summit,Possession,14,7
+2015,Summit,Unknown,8,7
+2015,Teller,Possession,19,18
+2015,Teller,Sales,3,1
+2015,Teller,Unknown,3,3
+2015,Washington,Possession,1,1
+2015,Weld,Possession,257,250
+2015,Weld,Production,6,9
+2015,Weld,Sales,4,4
+2015,Weld,Smuggle,0,3
+2015,Weld,Unknown,3,6
+2016,Adams,Possession,611,551
+2016,Adams,Production,20,21
+2016,Adams,Sales,8,35
+2016,Adams,Unknown,75,76
+2016,Alamosa,Possession,4,7
+2016,Alamosa,Unknown,11,8
+2016,Arapahoe,Possession,535,572
+2016,Arapahoe,Production,128,109
+2016,Arapahoe,Sales,13,16
+2016,Arapahoe,Smuggle,3,4
+2016,Arapahoe,Unknown,9,19
+2016,Archuleta,Possession,8,7
+2016,Archuleta,Sales,2,1
+2016,Archuleta,Unknown,1,2
+2016,Baca,Sales,2,1
+2016,Bent,Production,0,1
+2016,Boulder,Possession,409,443
+2016,Boulder,Production,2,5
+2016,Boulder,Sales,11,31
+2016,Boulder,Unknown,30,114
+2016,Broomfield,Possession,108,64
+2016,Broomfield,Production,1,1
+2016,Broomfield,Sales,1,4
+2016,Broomfield,Unknown,4,6
+2016,Chaffee,Possession,18,17
+2016,Chaffee,Unknown,1,1
+2016,Clear Creek,Possession,2,1
+2016,Clear Creek,Production,0,1
+2016,Custer,Production,1,1
+2016,Custer,Unknown,1,3
+2016,Delta,Possession,22,12
+2016,Delta,Production,0,1
+2016,Delta,Sales,0,1
+2016,Delta,Unknown,2,1
+2016,Denver,Possession,496,472
+2016,Denver,Production,42,38
+2016,Denver,Sales,74,56
+2016,Denver,Unknown,1,13
+2016,Dolores,Production,0,1
+2016,Douglas,Possession,257,262
+2016,Douglas,Production,2,6
+2016,Douglas,Sales,6,6
+2016,Douglas,Smuggle,0,1
+2016,Douglas,Unknown,6,20
+2016,Eagle,Possession,80,61
+2016,Eagle,Sales,1,2
+2016,Eagle,Unknown,15,9
+2016,El Paso,Possession,499,434
+2016,El Paso,Production,3,22
+2016,El Paso,Sales,32,44
+2016,El Paso,Smuggle,0,1
+2016,El Paso,Unknown,18,15
+2016,Elbert,Possession,4,7
+2016,Fremont,Possession,1,3
+2016,Fremont,Production,2,2
+2016,Fremont,Unknown,3,6
+2016,Garfield,Possession,73,70
+2016,Garfield,Sales,1,0
+2016,Garfield,Unknown,14,25
+2016,Gilpin,Possession,2,2
+2016,Gilpin,Unknown,1,1
+2016,Grand,Possession,2,2
+2016,Grand,Sales,0,1
+2016,Gunnison,Possession,29,20
+2016,Gunnison,Unknown,4,3
+2016,Hinsdale,Possession,2,2
+2016,Huerfano,Possession,3,2
+2016,Huerfano,Production,6,2
+2016,Jefferson,Possession,826,625
+2016,Jefferson,Production,11,20
+2016,Jefferson,Sales,8,9
+2016,Jefferson,Unknown,36,41
+2016,Kit Carson,Possession,10,5
+2016,Kit Carson,Sales,2,1
+2016,La Plata,Possession,54,43
+2016,La Plata,Unknown,15,7
+2016,Lake,Possession,1,1
+2016,Lake,Unknown,1,1
+2016,Larimer,Possession,393,484
+2016,Larimer,Production,13,19
+2016,Larimer,Sales,17,19
+2016,Larimer,Smuggle,1,0
+2016,Larimer,Unknown,90,128
+2016,Lincoln,Smuggle,1,1
+2016,Location not Available,Possession,246,237
+2016,Location not Available,Production,0,6
+2016,Location not Available,Sales,5,5
+2016,Location not Available,Smuggle,1,1
+2016,Location not Available,Unknown,18,21
+2016,Logan,Possession,17,12
+2016,Logan,Production,0,1
+2016,Mesa,Possession,247,173
+2016,Mesa,Production,11,8
+2016,Mesa,Sales,20,15
+2016,Mesa,Smuggle,0,4
+2016,Mesa,Unknown,57,46
+2016,Moffat,Possession,45,35
+2016,Moffat,Sales,2,2
+2016,Montezuma,Possession,10,9
+2016,Montrose,Possession,31,31
+2016,Montrose,Sales,1,1
+2016,Montrose,Unknown,1,1
+2016,Morgan,Possession,17,13
+2016,Morgan,Production,1,1
+2016,Otero,Possession,4,5
+2016,Otero,Production,1,0
+2016,Park,Possession,0,1
+2016,Park,Production,2,1
+2016,Park,Sales,1,1
+2016,Park,Unknown,0,1
+2016,Phillips,Possession,2,2
+2016,Pitkin,Possession,4,4
+2016,Prowers,Possession,3,1
+2016,Prowers,Production,2,0
+2016,Prowers,Sales,1,0
+2016,Prowers,Smuggle,1,1
+2016,Pueblo,Possession,40,29
+2016,Pueblo,Production,0,1
+2016,Pueblo,Sales,1,4
+2016,Pueblo,Unknown,2,46
+2016,Rio Blanco,Possession,3,1
+2016,Rio Grande,Possession,6,6
+2016,Routt,Possession,46,36
+2016,Routt,Unknown,1,0
+2016,Saguache,Sales,0,1
+2016,San Miguel County SO,Production,4,0
+2016,Summit,Possession,12,11
+2016,Summit,Unknown,8,4
+2016,Teller,Possession,26,14
+2016,Teller,Production,1,1
+2016,Teller,Sales,5,0
+2016,Washington,Possession,2,3
+2016,Weld,Possession,244,260
+2016,Weld,Production,3,10
+2016,Weld,Sales,7,10
+2016,Weld,Smuggle,1,4
+2016,Weld,Unknown,14,12
+2017,Adams,Possession,627,517
+2017,Adams,Production,21,28
+2017,Adams,Sales,9,42
+2017,Adams,Unknown,111,143
+2017,Alamosa,Possession,12,11
+2017,Alamosa,Sales,0,6
+2017,Alamosa,Unknown,11,12
+2017,Arapahoe,Possession,442,478
+2017,Arapahoe,Production,120,116
+2017,Arapahoe,Sales,8,23
+2017,Arapahoe,Smuggle,0,3
+2017,Arapahoe,Unknown,12,24
+2017,Archuleta,Possession,2,2
+2017,Archuleta,Unknown,4,1
+2017,Boulder,Possession,613,632
+2017,Boulder,Production,2,6
+2017,Boulder,Sales,4,13
+2017,Boulder,Smuggle,1,0
+2017,Boulder,Unknown,43,103
+2017,Bow Mar PD,Possession,1,0
+2017,Broomfield,Possession,108,59
+2017,Broomfield,Unknown,0,9
+2017,Chaffee,Possession,8,8
+2017,Chaffee,Sales,2,2
+2017,Clear Creek,Possession,1,1
+2017,Crowley,Possession,2,1
+2017,Crowley,Sales,1,1
+2017,Crowley,Unknown,0,1
+2017,Custer,Possession,1,1
+2017,Custer,Unknown,1,1
+2017,Delta,Possession,15,14
+2017,Delta,Unknown,6,6
+2017,Denver,Possession,115,143
+2017,Denver,Production,54,44
+2017,Denver,Sales,98,71
+2017,Denver,Unknown,0,17
+2017,Dolores,Sales,1,2
+2017,Dolores,Unknown,3,1
+2017,Douglas,Possession,381,317
+2017,Douglas,Production,9,9
+2017,Douglas,Sales,1,2
+2017,Douglas,Unknown,10,23
+2017,Eagle,Possession,83,65
+2017,Eagle,Sales,1,1
+2017,Eagle,Unknown,6,3
+2017,El Paso,Possession,411,413
+2017,El Paso,Production,7,37
+2017,El Paso,Sales,29,45
+2017,El Paso,Unknown,22,18
+2017,Elbert,Possession,10,9
+2017,Elbert,Production,1,1
+2017,Elbert,Sales,2,1
+2017,Fremont,Possession,0,1
+2017,Fremont,Production,1,1
+2017,Fremont,Unknown,23,35
+2017,Garfield,Possession,94,67
+2017,Garfield,Unknown,33,41
+2017,Gilpin,Possession,5,5
+2017,Gilpin,Unknown,1,2
+2017,Grand,Unknown,0,1
+2017,Gunnison,Possession,31,29
+2017,Gunnison,Production,1,1
+2017,Gunnison,Sales,4,3
+2017,Gunnison,Unknown,8,6
+2017,Huerfano,Possession,0,1
+2017,Huerfano,Production,1,1
+2017,Jefferson,Possession,837,648
+2017,Jefferson,Production,8,18
+2017,Jefferson,Sales,8,8
+2017,Jefferson,Unknown,34,40
+2017,Kit Carson,Possession,11,5
+2017,Kit Carson,Production,3,0
+2017,Kit Carson,Sales,1,1
+2017,La Plata,Possession,41,54
+2017,La Plata,Unknown,39,16
+2017,Lake,Possession,1,2
+2017,Larimer,Possession,378,484
+2017,Larimer,Production,13,14
+2017,Larimer,Sales,8,11
+2017,Larimer,Smuggle,0,1
+2017,Larimer,Unknown,71,98
+2017,Las Animas,Possession,4,4
+2017,Las Animas,Sales,0,1
+2017,Las Animas,Unknown,0,1
+2017,Lincoln,Production,7,2
+2017,Location not Available,Possession,239,228
+2017,Location not Available,Production,1,2
+2017,Location not Available,Sales,9,9
+2017,Location not Available,Unknown,31,33
+2017,Logan,Possession,9,8
+2017,Logan,Production,1,2
+2017,Logan,Sales,0,1
+2017,Logan,Unknown,1,1
+2017,Mesa,Possession,257,179
+2017,Mesa,Production,11,13
+2017,Mesa,Sales,42,29
+2017,Mesa,Smuggle,0,1
+2017,Mesa,Unknown,136,91
+2017,Moffat,Possession,29,26
+2017,Moffat,Sales,1,2
+2017,Montezuma,Possession,7,8
+2017,Montezuma,Sales,1,1
+2017,Montezuma,Unknown,0,2
+2017,Montrose,Possession,28,31
+2017,Montrose,Production,0,1
+2017,Morgan,Possession,22,18
+2017,Morgan,Sales,1,3
+2017,Morgan,Unknown,0,3
+2017,Oak Creek PD,Possession,1,0
+2017,Otero,Possession,6,4
+2017,Otero,Production,1,1
+2017,Otero,Sales,0,2
+2017,Otero,Smuggle,1,1
+2017,Otero,Unknown,0,3
+2017,Park,Possession,0,1
+2017,Park,Production,0,1
+2017,Phillips,Possession,1,1
+2017,Pitkin,Possession,3,5
+2017,Pitkin,Smuggle,0,1
+2017,Prowers,Possession,2,1
+2017,Pueblo,Possession,34,19
+2017,Pueblo,Production,0,1
+2017,Pueblo,Sales,0,4
+2017,Pueblo,Unknown,3,41
+2017,Rio Blanco,Possession,2,3
+2017,Rio Grande,Possession,8,6
+2017,Routt,Possession,42,39
+2017,Routt,Sales,0,1
+2017,Routt,Unknown,2,1
+2017,Saguache,Possession,4,4
+2017,Saguache,Unknown,7,4
+2017,Summit,Possession,5,10
+2017,Summit,Unknown,1,2
+2017,Teller,Possession,20,19
+2017,Teller,Sales,4,1
+2017,Teller,Unknown,1,4
+2017,Washington,Sales,0,1
+2017,Weld,Possession,201,195
+2017,Weld,Production,9,6
+2017,Weld,Sales,16,13
+2017,Weld,Smuggle,1,3
+2017,Weld,Unknown,1,4
