@@ -1,0 +1,2696 @@
+fips,county,Month,Year,Med_Tax_Rev,Rec_Tax_Rev,Med_RemainderOfState_Counties,Rec_RemainderOfState_Counties,Med_Blank_Code,Rec_Blank_Code,ID
+08001,Adams,8,2019,17037,,,,,,82019Adams
+08003,Alamosa,8,2019,,,,,NR,,82019Alamosa
+08005,Arapahoe,8,2019,24256,,,,,,82019Arapahoe
+08013,Boulder,8,2019,33557,,,,,,82019Boulder
+08015,Chaffee,8,2019,,,,,NR,,82019Chaffee
+08019,Clear Creek,8,2019,,,,,NR,,82019Clear Creek
+08031,Denver,8,2019,392226,,,,,,82019Denver
+08037,Eagle,8,2019,2826,,,,,,82019Eagle
+08041,El Paso,8,2019,270107,,,,,,82019El Paso
+08043,Fremont,8,2019,5548,,,,,,82019Fremont
+08045,Garfield,8,2019,3086,,,,,,82019Garfield
+08049,Grand,8,2019,,,,,NR,,82019Grand
+08059,Jefferson,8,2019,39411,,,,,,82019Jefferson
+08067,La Plata,8,2019,,,,,NR,,82019La Plata
+08069,Larimer,8,2019,22969,,,,,,82019Larimer
+08071,Las Animas,8,2019,1901,,,,,,82019Las Animas
+08077,Mesa,8,2019,,,,,NR,,82019Mesa
+08081,Moffat,8,2019,,,,,NR,,82019Moffat
+08083,Montezuma,8,2019,1102,,,,,,82019Montezuma
+08085,Montrose,8,2019,,,,,NR,,82019Montrose
+08087,Morgan,8,2019,,,,,NR,,82019Morgan
+08089,Otero,8,2019,,,,,NR,,82019Otero
+08093,Park,8,2019,,,,,NR,,82019Park
+08097,Pitkin,8,2019,,,,,NR,,82019Pitkin
+08101,Pueblo,8,2019,21459,,,,,,82019Pueblo
+08107,Routt,8,2019,3878,,,,,,82019Routt
+08113,San Miguel,8,2019,,,,,NR,,82019San Miguel
+08115,Sedgwick,8,2019,,,,,NR,,82019Sedgwick
+08117,Summit,8,2019,,,,,NR,,82019Summit
+08123,Weld,8,2019,8858,,,,,,82019Weld
+,Sum of NR Counties,8,2019,18015,,,,,,82019Sum of NR Counties
+08001,Adams,7,2019,16539,,,,,,72019Adams
+08003,Alamosa,7,2019,,,,,NR,,72019Alamosa
+08005,Arapahoe,7,2019,23076,,,,,,72019Arapahoe
+08013,Boulder,7,2019,29361,,,,,,72019Boulder
+08015,Chaffee,7,2019,,,,,NR,,72019Chaffee
+08019,Clear Creek,7,2019,,,,,NR,,72019Clear Creek
+08031,Denver,7,2019,357367,,,,,,72019Denver
+08037,Eagle,7,2019,2501,,,,,,72019Eagle
+08041,El Paso,7,2019,291131,,,,,,72019El Paso
+08043,Fremont,7,2019,,,,,NR,,72019Fremont
+08045,Garfield,7,2019,3797,,,,,,72019Garfield
+08049,Grand,7,2019,,,,,NR,,72019Grand
+08059,Jefferson,7,2019,39008,,,,,,72019Jefferson
+08067,La Plata,7,2019,,,,,NR,,72019La Plata
+08069,Larimer,7,2019,19575,,,,,,72019Larimer
+08071,Las Animas,7,2019,1082,,,,,,72019Las Animas
+08077,Mesa,7,2019,,,,,NR,,72019Mesa
+08081,Moffat,7,2019,,,,,NR,,72019Moffat
+08083,Montezuma,7,2019,,,,,NR,,72019Montezuma
+08085,Montrose,7,2019,,,,,NR,,72019Montrose
+08087,Morgan,7,2019,,,,,NR,,72019Morgan
+08089,Otero,7,2019,,,,,NR,,72019Otero
+08093,Park,7,2019,,,,,NR,,72019Park
+08097,Pitkin,7,2019,,,,,NR,,72019Pitkin
+08101,Pueblo,7,2019,17354,,,,,,72019Pueblo
+08107,Routt,7,2019,3998,,,,,,72019Routt
+08113,San Miguel,7,2019,,,,,NR,,72019San Miguel
+08115,Sedgwick,7,2019,,,,,NR,,72019Sedgwick
+08117,Summit,7,2019,2084,,,,,,72019Summit
+08123,Weld,7,2019,8746,,,,,,72019Weld
+,Sum of NR Counties,7,2019,22155,,,,,,72019Sum of NR Counties
+08001,Adams,6,2019,40248,,,,,,62019Adams
+08003,Alamosa,6,2019,,,,,NR,,62019Alamosa
+08005,Arapahoe,6,2019,34767,,,,,,62019Arapahoe
+08013,Boulder,6,2019,32044,,,,,,62019Boulder
+08015,Chaffee,6,2019,,,,,NR,,62019Chaffee
+08019,Clear Creek,6,2019,,,,,NR,,62019Clear Creek
+08031,Denver,6,2019,419366,,,,,,62019Denver
+08037,Eagle,6,2019,2418,,,,,,62019Eagle
+08041,El Paso,6,2019,274695,,,,,,62019El Paso
+08043,Fremont,6,2019,,,,,NR,,62019Fremont
+08045,Garfield,6,2019,3582,,,,,,62019Garfield
+08049,Grand,6,2019,,,,,NR,,62019Grand
+08059,Jefferson,6,2019,39562,,,,,,62019Jefferson
+08067,La Plata,6,2019,,,,,NR,,62019La Plata
+08069,Larimer,6,2019,22399,,,,,,62019Larimer
+08071,Las Animas,6,2019,1258,,,,,,62019Las Animas
+08077,Mesa,6,2019,,,,,NR,,62019Mesa
+08081,Moffat,6,2019,,,,,NR,,62019Moffat
+08083,Montezuma,6,2019,,,,,NR,,62019Montezuma
+08085,Montrose,6,2019,,,,,NR,,62019Montrose
+08087,Morgan,6,2019,,,,,NR,,62019Morgan
+08089,Otero,6,2019,,,,,NR,,62019Otero
+08093,Park,6,2019,,,,,NR,,62019Park
+08097,Pitkin,6,2019,1555,,,,,,62019Pitkin
+08101,Pueblo,6,2019,21492,,,,,,62019Pueblo
+08107,Routt,6,2019,3863,,,,,,62019Routt
+08113,San Miguel,6,2019,,,,,NR,,62019San Miguel
+08115,Sedgwick,6,2019,,,,,NR,,62019Sedgwick
+08117,Summit,6,2019,2319,,,,,,62019Summit
+08123,Weld,6,2019,8798,,,,,,62019Weld
+,Sum of NR Counties,6,2019,23047,,,,,,62019Sum of NR Counties
+08001,Adams,5,2019,14932,,,,,,52019Adams
+08003,Alamosa,5,2019,,,,,NR,,52019Alamosa
+08005,Arapahoe,5,2019,17175,,,,,,52019Arapahoe
+08013,Boulder,5,2019,32725,,,,,,52019Boulder
+08015,Chaffee,5,2019,,,,,NR,,52019Chaffee
+08019,Clear Creek,5,2019,,,,,NR,,52019Clear Creek
+08031,Denver,5,2019,350404,,,,,,52019Denver
+08037,Eagle,5,2019,2546,,,,,,52019Eagle
+08041,El Paso,5,2019,255727,,,,,,52019El Paso
+08043,Fremont,5,2019,,,,,NR,,52019Fremont
+08045,Garfield,5,2019,3206,,,,,,52019Garfield
+08049,Grand,5,2019,,,,,NR,,52019Grand
+08059,Jefferson,5,2019,27501,,,,,,52019Jefferson
+08067,La Plata,5,2019,,,,,NR,,52019La Plata
+08069,Larimer,5,2019,22562,,,,,,52019Larimer
+08071,Las Animas,5,2019,958,,,,,,52019Las Animas
+08077,Mesa,5,2019,,,,,NR,,52019Mesa
+08083,Montezuma,5,2019,1327,,,,,,52019Montezuma
+08085,Montrose,5,2019,,,,,NR,,52019Montrose
+08087,Morgan,5,2019,,,,,NR,,52019Morgan
+08089,Otero,5,2019,,,,,NR,,52019Otero
+08093,Park,5,2019,,,,,NR,,52019Park
+08097,Pitkin,5,2019,1696,,,,,,52019Pitkin
+08101,Pueblo,5,2019,22190,,,,,,52019Pueblo
+08107,Routt,5,2019,3972,,,,,,52019Routt
+08113,San Miguel,5,2019,,,,,NR,,52019San Miguel
+08115,Sedgwick,5,2019,,,,,NR,,52019Sedgwick
+08117,Summit,5,2019,2598,,,,,,52019Summit
+08123,Weld,5,2019,9444,,,,,,52019Weld
+,Sum of NR Counties,5,2019,22563,,,,,,52019Sum of NR Counties
+08001,Adams,4,2019,21146,,,,,,42019Adams
+08003,Alamosa,4,2019,,,,,NR,,42019Alamosa
+08005,Arapahoe,4,2019,23080,,,,,,42019Arapahoe
+08013,Boulder,4,2019,33388,,,,,,42019Boulder
+08015,Chaffee,4,2019,,,,,NR,,42019Chaffee
+08019,Clear Creek,4,2019,,,,,NR,,42019Clear Creek
+08031,Denver,4,2019,346317,,,,,,42019Denver
+08037,Eagle,4,2019,4199,,,,,,42019Eagle
+08041,El Paso,4,2019,264408,,,,,,42019El Paso
+08043,Fremont,4,2019,4323,,,,,,42019Fremont
+08045,Garfield,4,2019,4111,,,,,,42019Garfield
+08049,Grand,4,2019,,,,,NR,,42019Grand
+08059,Jefferson,4,2019,36049,,,,,,42019Jefferson
+08067,La Plata,4,2019,,,,,NR,,42019La Plata
+08069,Larimer,4,2019,25736,,,,,,42019Larimer
+08071,Las Animas,4,2019,1114,,,,,,42019Las Animas
+08077,Mesa,4,2019,,,,,NR,,42019Mesa
+08081,Moffat,4,2019,,,,,NR,,42019Moffat
+08083,Montezuma,4,2019,1261,,,,,,42019Montezuma
+08085,Montrose,4,2019,,,,,NR,,42019Montrose
+08087,Morgan,4,2019,,,,,NR,,42019Morgan
+08089,Otero,4,2019,,,,,NR,,42019Otero
+08093,Park,4,2019,,,,,NR,,42019Park
+08097,Pitkin,4,2019,1496,,,,,,42019Pitkin
+08101,Pueblo,4,2019,21617,,,,,,42019Pueblo
+08107,Routt,4,2019,4195,,,,,,42019Routt
+08113,San Miguel,4,2019,,,,,NR,,42019San Miguel
+08115,Sedgwick,4,2019,,,,,NR,,42019Sedgwick
+08117,Summit,4,2019,2536,,,,,,42019Summit
+08123,Weld,4,2019,9085,,,,,,42019Weld
+,Sum of NR Counties,4,2019,18282,,,,,,42019Sum of NR Counties
+08001,Adams,3,2019,16041,,,,,,32019Adams
+08003,Alamosa,3,2019,,,,,NR,,32019Alamosa
+08005,Arapahoe,3,2019,29064,,,,,,32019Arapahoe
+08013,Boulder,3,2019,31224,,,,,,32019Boulder
+08015,Chaffee,3,2019,,,,,NR,,32019Chaffee
+08019,Clear Creek,3,2019,,,,,NR,,32019Clear Creek
+08031,Denver,3,2019,307975,,,,,,32019Denver
+08037,Eagle,3,2019,,,,,NR,,32019Eagle
+08041,El Paso,3,2019,225598,,,,,,32019El Paso
+08043,Fremont,3,2019,,,,,NR,,32019Fremont
+08045,Garfield,3,2019,4507,,,,,,32019Garfield
+08049,Grand,3,2019,,,,,NR,,32019Grand
+08059,Jefferson,3,2019,31523,,,,,,32019Jefferson
+08067,La Plata,3,2019,,,,,NR,,32019La Plata
+08069,Larimer,3,2019,21259,,,,,,32019Larimer
+08071,Las Animas,3,2019,576,,,,,,32019Las Animas
+08077,Mesa,3,2019,,,,,NR,,32019Mesa
+08083,Montezuma,3,2019,1339,,,,,,32019Montezuma
+08085,Montrose,3,2019,,,,,NR,,32019Montrose
+08087,Morgan,3,2019,,,,,NR,,32019Morgan
+08089,Otero,3,2019,,,,,NR,,32019Otero
+08093,Park,3,2019,,,,,NR,,32019Park
+08097,Pitkin,3,2019,1871,,,,,,32019Pitkin
+08101,Pueblo,3,2019,14854,,,,,,32019Pueblo
+08107,Routt,3,2019,3669,,,,,,32019Routt
+08113,San Miguel,3,2019,,,,,NR,,32019San Miguel
+08115,Sedgwick,3,2019,,,,,NR,,32019Sedgwick
+08117,Summit,3,2019,2257,,,,,,32019Summit
+08123,Weld,3,2019,8445,,,,,,32019Weld
+,Sum of NR Counties,3,2019,20467,,,,,,32019Sum of NR Counties
+08001,Adams,2,2019,15881,,,,,,22019Adams
+08003,Alamosa,2,2019,,,,,NR,,22019Alamosa
+08005,Arapahoe,2,2019,30402,,,,,,22019Arapahoe
+08013,Boulder,2,2019,34428,,,,,,22019Boulder
+08015,Chaffee,2,2019,,,,,NR,,22019Chaffee
+08019,Clear Creek,2,2019,,,,,NR,,22019Clear Creek
+08031,Denver,2,2019,318162,,,,,,22019Denver
+08037,Eagle,2,2019,,,,,NR,,22019Eagle
+08041,El Paso,2,2019,201245,,,,,,22019El Paso
+08043,Fremont,2,2019,3868,,,,,,22019Fremont
+08045,Garfield,2,2019,5016,,,,,,22019Garfield
+08049,Grand,2,2019,,,,,NR,,22019Grand
+08059,Jefferson,2,2019,43310,,,,,,22019Jefferson
+08067,La Plata,2,2019,,,,,NR,,22019La Plata
+08069,Larimer,2,2019,20871,,,,,,22019Larimer
+08071,Las Animas,2,2019,658,,,,,,22019Las Animas
+08077,Mesa,2,2019,,,,,NR,,22019Mesa
+08081,Moffat,2,2019,,,,,NR,,22019Moffat
+08083,Montezuma,2,2019,1314,,,,,,22019Montezuma
+08085,Montrose,2,2019,,,,,NR,,22019Montrose
+08087,Morgan,2,2019,,,,,NR,,22019Morgan
+08089,Otero,2,2019,,,,,NR,,22019Otero
+08093,Park,2,2019,,,,,NR,,22019Park
+08097,Pitkin,2,2019,,,,,NR,,22019Pitkin
+08101,Pueblo,2,2019,17217,,,,,,22019Pueblo
+08107,Routt,2,2019,3893,,,,,,22019Routt
+08113,San Miguel,2,2019,,,,,NR,,22019San Miguel
+08115,Sedgwick,2,2019,,,,,NR,,22019Sedgwick
+08117,Summit,2,2019,2712,,,,,,22019Summit
+08123,Weld,2,2019,9111,,,,,,22019Weld
+,Sum of NR Counties,2,2019,19258.77,,,,,,22019Sum of NR Counties
+08001,Adams,12,2018,14927,,,,,,122018Adams
+08003,Alamosa,12,2018,0,,,,NR,,122018Alamosa
+08005,Arapahoe,12,2018,31430,,,,,,122018Arapahoe
+08013,Boulder,12,2018,35788,,,,,,122018Boulder
+08015,Chaffee,12,2018,0,,,,NR,,122018Chaffee
+08019,Clear Creek,12,2018,614,,,,,,122018Clear Creek
+08031,Denver,12,2018,350452,,,,,,122018Denver
+08037,Eagle,12,2018,2285,,,,,,122018Eagle
+08041,El Paso,12,2018,213030,,,,,,122018El Paso
+08043,Fremont,12,2018,4903,,,,,,122018Fremont
+08045,Garfield,12,2018,3364,,,,,,122018Garfield
+08049,Grand,12,2018,0,,,,NR,,122018Grand
+08059,Jefferson,12,2018,42989,,,,,,122018Jefferson
+08067,La Plata,12,2018,0,,,,NR,,122018La Plata
+08069,Larimer,12,2018,25049,,,,,,122018Larimer
+08071,Las Animas,12,2018,641,,,,,,122018Las Animas
+08077,Mesa,12,2018,0,,,,NR,,122018Mesa
+08081,Moffat,12,2018,0,,,,NR,,122018Moffat
+08083,Montezuma,12,2018,1359,,,,,,122018Montezuma
+08085,Montrose,12,2018,0,,,,NR,,122018Montrose
+08087,Morgan,12,2018,0,,,,NR,,122018Morgan
+08089,Otero,12,2018,0,,,,NR,,122018Otero
+08093,Park,12,2018,0,,,,NR,,122018Park
+08097,Pitkin,12,2018,936,,,,,,122018Pitkin
+08101,Pueblo,12,2018,16183,,,,,,122018Pueblo
+08107,Routt,12,2018,3518,,,,,,122018Routt
+08113,San Miguel,12,2018,0,,,,NR,,122018San Miguel
+08115,Sedgwick,12,2018,0,,,,NR,,122018Sedgwick
+08117,Summit,12,2018,2975,,,,,,122018Summit
+08123,Weld,12,2018,9838,,,,,,122018Weld
+,Sum of NR Counties,12,2018,18870,,,,,,122018Sum of NR Counties
+08001,Adams,11,2018,12763,,,,,,112018Adams
+08003,Alamosa,11,2018,0,,,,NR,,112018Alamosa
+08005,Arapahoe,11,2018,22223,,,,,,112018Arapahoe
+08013,Boulder,11,2018,36501,,,,,,112018Boulder
+08015,Chaffee,11,2018,0,,,,NR,,112018Chaffee
+08019,Clear Creek,11,2018,562,,,,,,112018Clear Creek
+08031,Denver,11,2018,325870,,,,,,112018Denver
+08037,Eagle,11,2018,2302,,,,,,112018Eagle
+08041,El Paso,11,2018,232217,,,,,,112018El Paso
+08043,Fremont,11,2018,3238,,,,,,112018Fremont
+08045,Garfield,11,2018,4552,,,,,,112018Garfield
+08049,Grand,11,2018,0,,,,NR,,112018Grand
+08059,Jefferson,11,2018,31191,,,,,,112018Jefferson
+08067,La Plata,11,2018,0,,,,NR,,112018La Plata
+08069,Larimer,11,2018,26235,,,,,,112018Larimer
+08071,Las Animas,11,2018,781,,,,,,112018Las Animas
+08077,Mesa,11,2018,0,,,,NR,,112018Mesa
+08081,Moffat,11,2018,0,,,,NR,,112018Moffat
+08083,Montezuma,11,2018,1311,,,,,,112018Montezuma
+08085,Montrose,11,2018,0,,,,NR,,112018Montrose
+08087,Morgan,11,2018,0,,,,NR,,112018Morgan
+08089,Otero,11,2018,0,,,,NR,,112018Otero
+08093,Park,11,2018,0,,,,NR,,112018Park
+08097,Pitkin,11,2018,949,,,,,,112018Pitkin
+08101,Pueblo,11,2018,22884,,,,,,112018Pueblo
+08107,Routt,11,2018,3720,,,,,,112018Routt
+08113,San Miguel,11,2018,0,,,,NR,,112018San Miguel
+08115,Sedgwick,11,2018,0,,,,NR,,112018Sedgwick
+08117,Summit,11,2018,2692,,,,,,112018Summit
+08123,Weld,11,2018,9382,,,,,,112018Weld
+,Sum of NR Counties,11,2018,19352,,,,,,112018Sum of NR Counties
+08001,Adams,10,2018,13322,,,,,,102018Adams
+08003,Alamosa,10,2018,0,,,,NR,,102018Alamosa
+08005,Arapahoe,10,2018,22042,,,,,,102018Arapahoe
+08013,Boulder,10,2018,37751,,,,,,102018Boulder
+08015,Chaffee,10,2018,0,,,,NR,,102018Chaffee
+08019,Clear Creek,10,2018,761,,,,,,102018Clear Creek
+08031,Denver,10,2018,375357,,,,,,102018Denver
+08037,Eagle,10,2018,2444,,,,,,102018Eagle
+08041,El Paso,10,2018,217313,,,,,,102018El Paso
+08043,Fremont,10,2018,4280,,,,,,102018Fremont
+08045,Garfield,10,2018,5205,,,,,,102018Garfield
+08049,Grand,10,2018,0,,,,NR,,102018Grand
+08059,Jefferson,10,2018,30674,,,,,,102018Jefferson
+08067,La Plata,10,2018,0,,,,NR,,102018La Plata
+08069,Larimer,10,2018,26149,,,,,,102018Larimer
+08071,Las Animas,10,2018,1395,,,,,,102018Las Animas
+08077,Mesa,10,2018,0,,,,NR,,102018Mesa
+08081,Moffat,10,2018,0,,,,NR,,102018Moffat
+08083,Montezuma,10,2018,1750,,,,,,102018Montezuma
+08085,Montrose,10,2018,0,,,,NR,,102018Montrose
+08087,Morgan,10,2018,0,,,,NR,,102018Morgan
+08089,Otero,10,2018,0,,,,NR,,102018Otero
+08093,Park,10,2018,0,,,,NR,,102018Park
+08097,Pitkin,10,2018,1333,,,,,,102018Pitkin
+08101,Pueblo,10,2018,15810,,,,,,102018Pueblo
+08107,Routt,10,2018,3789,,,,,,102018Routt
+08113,San Miguel,10,2018,0,,,,NR,,102018San Miguel
+08115,Sedgwick,10,2018,0,,,,NR,,102018Sedgwick
+08117,Summit,10,2018,2638,,,,,,102018Summit
+08123,Weld,10,2018,8798,,,,,,102018Weld
+,Sum of NR Counties,10,2018,20171,,,,,,102018Sum of NR Counties
+08001,Adams,9,2018,11283,,,,,,92018Adams
+08003,Alamosa,9,2018,0,,,,NR,,92018Alamosa
+08005,Arapahoe,9,2018,34311,,,,,,92018Arapahoe
+08007,Archuleta,9,2018,0,,,,NR,,92018Archuleta
+08013,Boulder,9,2018,47559,,,,,,92018Boulder
+08015,Chaffee,9,2018,0,,,,NR,,92018Chaffee
+08019,Clear Creek,9,2018,0,,,,NR,,92018Clear Creek
+08031,Denver,9,2018,363832,,,,,,92018Denver
+08037,Eagle,9,2018,2817,,,,,,92018Eagle
+08041,El Paso,9,2018,210772,,,,,,92018El Paso
+08043,Fremont,9,2018,0,,,,NR,,92018Fremont
+08045,Garfield,9,2018,5355,,,,,,92018Garfield
+08047,Gilpin,9,2018,0,,,,NR,,92018Gilpin
+08049,Grand,9,2018,0,,,,NR,,92018Grand
+08059,Jefferson,9,2018,51799,,,,,,92018Jefferson
+08067,La Plata,9,2018,0,,,,NR,,92018La Plata
+08069,Larimer,9,2018,39310,,,,,,92018Larimer
+08071,Las Animas,9,2018,740,,,,,,92018Las Animas
+08077,Mesa,9,2018,0,,,,NR,,92018Mesa
+08083,Montezuma,9,2018,1478,,,,,,92018Montezuma
+08085,Montrose,9,2018,0,,,,NR,,92018Montrose
+08087,Morgan,9,2018,0,,,,NR,,92018Morgan
+08089,Otero,9,2018,0,,,,NR,,92018Otero
+08093,Park,9,2018,0,,,,NR,,92018Park
+08097,Pitkin,9,2018,0,,,,NR,,92018Pitkin
+08101,Pueblo,9,2018,12698,,,,,,92018Pueblo
+08107,Routt,9,2018,4413,,,,,,92018Routt
+08113,San Miguel,9,2018,0,,,,NR,,92018San Miguel
+08115,Sedgwick,9,2018,0,,,,NR,,92018Sedgwick
+08117,Summit,9,2018,2930,,,,,,92018Summit
+08119,Teller,9,2018,0,,,,NR,,92018Teller
+08123,Weld,9,2018,9305,,,,,,92018Weld
+,Sum of NR Counties,9,2018,27375,,,,,,92018Sum of NR Counties
+08001,Adams,8,2018,10430,,,,,,82018Adams
+08003,Alamosa,8,2018,0,,,,NR,,82018Alamosa
+08005,Arapahoe,8,2018,22523,,,,,,82018Arapahoe
+08007,Archuleta,8,2018,0,,,,NR,,82018Archuleta
+08013,Boulder,8,2018,39960,,,,,,82018Boulder
+08015,Chaffee,8,2018,0,,,,NR,,82018Chaffee
+08019,Clear Creek,8,2018,635,,,,,,82018Clear Creek
+08031,Denver,8,2018,362184,,,,,,82018Denver
+08037,Eagle,8,2018,2572,,,,,,82018Eagle
+08041,El Paso,8,2018,208085,,,,,,82018El Paso
+08043,Fremont,8,2018,5553,,,,,,82018Fremont
+08045,Garfield,8,2018,5564,,,,,,82018Garfield
+08047,Gilpin,8,2018,0,,,,NR,,82018Gilpin
+08049,Grand,8,2018,0,,,,NR,,82018Grand
+08059,Jefferson,8,2018,30661,,,,,,82018Jefferson
+08067,La Plata,8,2018,7117,,,,,,82018La Plata
+08069,Larimer,8,2018,20477,,,,,,82018Larimer
+08071,Las Animas,8,2018,896,,,,,,82018Las Animas
+08077,Mesa,8,2018,0,,,,NR,,82018Mesa
+08081,Moffat,8,2018,0,,,,NR,,82018Moffat
+08083,Montezuma,8,2018,1462,,,,,,82018Montezuma
+08085,Montrose,8,2018,0,,,,NR,,82018Montrose
+08087,Morgan,8,2018,0,,,,NR,,82018Morgan
+08089,Otero,8,2018,0,,,,NR,,82018Otero
+08091,Ouray,8,2018,0,,,,NR,,82018Ouray
+08093,Park,8,2018,0,,,,NR,,82018Park
+08097,Pitkin,8,2018,1321,,,,,,82018Pitkin
+08101,Pueblo,8,2018,14939,,,,,,82018Pueblo
+08107,Routt,8,2018,3832,,,,,,82018Routt
+08113,San Miguel,8,2018,0,,,,NR,,82018San Miguel
+08115,Sedgwick,8,2018,0,,,,NR,,82018Sedgwick
+08117,Summit,8,2018,2554,,,,,,82018Summit
+08123,Weld,8,2018,8769,,,,,,82018Weld
+,Sum of NR Counties,8,2018,15554,,,,,,82018Sum of NR Counties
+08001,Adams,7,2018,8872,,,,,,72018Adams
+08003,Alamosa,7,2018,0,,,,NR,,72018Alamosa
+08005,Arapahoe,7,2018,16931,,,,,,72018Arapahoe
+08007,Archuleta,7,2018,0,,,,NR,,72018Archuleta
+08013,Boulder,7,2018,38413,,,,,,72018Boulder
+08015,Chaffee,7,2018,0,,,,NR,,72018Chaffee
+08019,Clear Creek,7,2018,584,,,,,,72018Clear Creek
+08031,Denver,7,2018,329663,,,,,,72018Denver
+08037,Eagle,7,2018,2803,,,,,,72018Eagle
+08041,El Paso,7,2018,225358,,,,,,72018El Paso
+08043,Fremont,7,2018,4139,,,,,,72018Fremont
+08045,Garfield,7,2018,7497,,,,,,72018Garfield
+08047,Gilpin,7,2018,0,,,,NR,,72018Gilpin
+08049,Grand,7,2018,0,,,,NR,,72018Grand
+08059,Jefferson,7,2018,28040,,,,,,72018Jefferson
+08067,La Plata,7,2018,8076,,,,,,72018La Plata
+08069,Larimer,7,2018,26215,,,,,,72018Larimer
+08071,Las Animas,7,2018,1004,,,,,,72018Las Animas
+08077,Mesa,7,2018,0,,,,NR,,72018Mesa
+08081,Moffat,7,2018,0,,,,NR,,72018Moffat
+08083,Montezuma,7,2018,1464,,,,,,72018Montezuma
+08085,Montrose,7,2018,0,,,,NR,,72018Montrose
+08087,Morgan,7,2018,0,,,,NR,,72018Morgan
+08089,Otero,7,2018,0,,,,NR,,72018Otero
+08091,Ouray,7,2018,0,,,,NR,,72018Ouray
+08093,Park,7,2018,0,,,,NR,,72018Park
+08097,Pitkin,7,2018,1460,,,,,,72018Pitkin
+08101,Pueblo,7,2018,19999,,,,,,72018Pueblo
+08107,Routt,7,2018,3553,,,,,,72018Routt
+08113,San Miguel,7,2018,0,,,,NR,,72018San Miguel
+08115,Sedgwick,7,2018,0,,,,NR,,72018Sedgwick
+08117,Summit,7,2018,2364,,,,,,72018Summit
+08123,Weld,7,2018,9300,,,,,,72018Weld
+,Sum of NR Counties,7,2018,15780,,,,,,72018Sum of NR Counties
+08001,Adams,6,2018,12139,,,,,,62018Adams
+08003,Alamosa,6,2018,0,,,,NR,,62018Alamosa
+08005,Arapahoe,6,2018,20062,,,,,,62018Arapahoe
+08007,Archuleta,6,2018,0,,,,NR,,62018Archuleta
+08013,Boulder,6,2018,40594,,,,,,62018Boulder
+08015,Chaffee,6,2018,0,,,,NR,,62018Chaffee
+08019,Clear Creek,6,2018,712,,,,,,62018Clear Creek
+08031,Denver,6,2018,299207,,,,,,62018Denver
+08037,Eagle,6,2018,3158,,,,,,62018Eagle
+08041,El Paso,6,2018,213698,,,,,,62018El Paso
+08043,Fremont,6,2018,4147,,,,,,62018Fremont
+08045,Garfield,6,2018,8837,,,,,,62018Garfield
+08047,Gilpin,6,2018,0,,,,NR,,62018Gilpin
+08049,Grand,6,2018,0,,,,NR,,62018Grand
+08059,Jefferson,6,2018,52231,,,,,,62018Jefferson
+08067,La Plata,6,2018,7303,,,,,,62018La Plata
+08069,Larimer,6,2018,27045,,,,,,62018Larimer
+08071,Las Animas,6,2018,1259,,,,,,62018Las Animas
+08077,Mesa,6,2018,0,,,,NR,,62018Mesa
+08081,Moffat,6,2018,0,,,,NR,,62018Moffat
+08083,Montezuma,6,2018,1329,,,,,,62018Montezuma
+08085,Montrose,6,2018,0,,,,NR,,62018Montrose
+08087,Morgan,6,2018,0,,,,NR,,62018Morgan
+08089,Otero,6,2018,0,,,,NR,,62018Otero
+08091,Ouray,6,2018,0,,,,NR,,62018Ouray
+08093,Park,6,2018,0,,,,NR,,62018Park
+08097,Pitkin,6,2018,1303,,,,,,62018Pitkin
+08101,Pueblo,6,2018,9735,,,,,,62018Pueblo
+08107,Routt,6,2018,4289,,,,,,62018Routt
+08113,San Miguel,6,2018,0,,,,NR,,62018San Miguel
+08115,Sedgwick,6,2018,0,,,,NR,,62018Sedgwick
+08117,Summit,6,2018,2891,,,,,,62018Summit
+08123,Weld,6,2018,9289,,,,,,62018Weld
+,Sum of NR Counties,6,2018,15543,,,,,,62018Sum of NR Counties
+08001,Adams,5,2018,12832,,,,,,52018Adams
+08003,Alamosa,5,2018,0,,,,NR,,52018Alamosa
+08005,Arapahoe,5,2018,22006,,,,,,52018Arapahoe
+08007,Archuleta,5,2018,0,,,,NR,,52018Archuleta
+08013,Boulder,5,2018,50915,,,,,,52018Boulder
+08015,Chaffee,5,2018,0,,,,NR,,52018Chaffee
+08019,Clear Creek,5,2018,0,,,,NR,,52018Clear Creek
+08031,Denver,5,2018,346635,,,,,,52018Denver
+08037,Eagle,5,2018,4331,,,,,,52018Eagle
+08041,El Paso,5,2018,269582,,,,,,52018El Paso
+08043,Fremont,5,2018,4093,,,,,,52018Fremont
+08045,Garfield,5,2018,7065,,,,,,52018Garfield
+08047,Gilpin,5,2018,0,,,,NR,,52018Gilpin
+08049,Grand,5,2018,0,,,,NR,,52018Grand
+08059,Jefferson,5,2018,42353,,,,,,52018Jefferson
+08067,La Plata,5,2018,7580,,,,,,52018La Plata
+08069,Larimer,5,2018,29016,,,,,,52018Larimer
+08071,Las Animas,5,2018,1181,,,,,,52018Las Animas
+08077,Mesa,5,2018,0,,,,NR,,52018Mesa
+08081,Moffat,5,2018,0,,,,NR,,52018Moffat
+08083,Montezuma,5,2018,1277,,,,,,52018Montezuma
+08085,Montrose,5,2018,0,,,,NR,,52018Montrose
+08087,Morgan,5,2018,0,,,,NR,,52018Morgan
+08089,Otero,5,2018,0,,,,NR,,52018Otero
+08091,Ouray,5,2018,0,,,,NR,,52018Ouray
+08093,Park,5,2018,0,,,,NR,,52018Park
+08097,Pitkin,5,2018,2658,,,,,,52018Pitkin
+08101,Pueblo,5,2018,16433,,,,,,52018Pueblo
+08107,Routt,5,2018,4436,,,,,,52018Routt
+08113,San Miguel,5,2018,0,,,,NR,,52018San Miguel
+08115,Sedgwick,5,2018,0,,,,NR,,52018Sedgwick
+08117,Summit,5,2018,3091,,,,,,52018Summit
+08123,Weld,5,2018,10516,,,,,,52018Weld
+,Sum of NR Counties,5,2018,23915,,,,,,52018Sum of NR Counties
+08001,Adams,4,2018,11528,,,,,,42018Adams
+08003,Alamosa,4,2018,0,,,,NR,,42018Alamosa
+08005,Arapahoe,4,2018,36520,,,,,,42018Arapahoe
+08007,Archuleta,4,2018,0,,,,NR,,42018Archuleta
+08013,Boulder,4,2018,40955,,,,,,42018Boulder
+08015,Chaffee,4,2018,0,,,,NR,,42018Chaffee
+08019,Clear Creek,4,2018,1221,,,,,,42018Clear Creek
+08031,Denver,4,2018,350745,,,,,,42018Denver
+08037,Eagle,4,2018,3010,,,,,,42018Eagle
+08041,El Paso,4,2018,197924,,,,,,42018El Paso
+08043,Fremont,4,2018,3250,,,,,,42018Fremont
+08045,Garfield,4,2018,6062,,,,,,42018Garfield
+08047,Gilpin,4,2018,0,,,,NR,,42018Gilpin
+08049,Grand,4,2018,0,,,,NR,,42018Grand
+08059,Jefferson,4,2018,46567,,,,,,42018Jefferson
+08067,La Plata,4,2018,7058,,,,,,42018La Plata
+08069,Larimer,4,2018,30385,,,,,,42018Larimer
+08071,Las Animas,4,2018,687,,,,,,42018Las Animas
+08077,Mesa,4,2018,0,,,,NR,,42018Mesa
+08081,Moffat,4,2018,0,,,,NR,,42018Moffat
+08083,Montezuma,4,2018,1552,,,,,,42018Montezuma
+08085,Montrose,4,2018,0,,,,NR,,42018Montrose
+08087,Morgan,4,2018,0,,,,NR,,42018Morgan
+08091,Ouray,4,2018,0,,,,NR,,42018Ouray
+08093,Park,4,2018,0,,,,NR,,42018Park
+08097,Pitkin,4,2018,0,,,,NR,,42018Pitkin
+08101,Pueblo,4,2018,14317,,,,,,42018Pueblo
+08107,Routt,4,2018,4942,,,,,,42018Routt
+08113,San Miguel,4,2018,0,,,,NR,,42018San Miguel
+08115,Sedgwick,4,2018,0,,,,NR,,42018Sedgwick
+08117,Summit,4,2018,3479,,,,,,42018Summit
+08123,Weld,4,2018,10373,,,,,,42018Weld
+,Sum of NR Counties,4,2018,13129,,,,,,42018Sum of NR Counties
+08001,Adams,3,2018,10534,,,,,,32018Adams
+08003,Alamosa,3,2018,0,,,,NR,,32018Alamosa
+08005,Arapahoe,3,2018,21125,,,,,,32018Arapahoe
+08007,Archuleta,3,2018,0,,,,NR,,32018Archuleta
+08013,Boulder,3,2018,48159,,,,,,32018Boulder
+08015,Chaffee,3,2018,0,,,,NR,,32018Chaffee
+08019,Clear Creek,3,2018,742,,,,,,32018Clear Creek
+08031,Denver,3,2018,313884,,,,,,32018Denver
+08037,Eagle,3,2018,3352,,,,,,32018Eagle
+08041,El Paso,3,2018,214919,,,,,,32018El Paso
+08043,Fremont,3,2018,3783,,,,,,32018Fremont
+08045,Garfield,3,2018,6855,,,,,,32018Garfield
+08047,Gilpin,3,2018,0,,,,NR,,32018Gilpin
+08049,Grand,3,2018,0,,,,NR,,32018Grand
+08051,Gunnison,3,2018,0,,,,NR,,32018Gunnison
+08059,Jefferson,3,2018,24284,,,,,,32018Jefferson
+08067,La Plata,3,2018,7713,,,,,,32018La Plata
+08069,Larimer,3,2018,27883,,,,,,32018Larimer
+08071,Las Animas,3,2018,1011,,,,,,32018Las Animas
+08077,Mesa,3,2018,0,,,,NR,,32018Mesa
+08081,Moffat,3,2018,0,,,,NR,,32018Moffat
+08083,Montezuma,3,2018,1463,,,,,,32018Montezuma
+08085,Montrose,3,2018,0,,,,NR,,32018Montrose
+08087,Morgan,3,2018,0,,,,NR,,32018Morgan
+08089,Otero,3,2018,0,,,,NR,,32018Otero
+08091,Ouray,3,2018,0,,,,NR,,32018Ouray
+08093,Park,3,2018,0,,,,NR,,32018Park
+08097,Pitkin,3,2018,1626,,,,,,32018Pitkin
+08101,Pueblo,3,2018,16070,,,,,,32018Pueblo
+08107,Routt,3,2018,4308,,,,,,32018Routt
+08113,San Miguel,3,2018,0,,,,NR,,32018San Miguel
+08115,Sedgwick,3,2018,0,,,,NR,,32018Sedgwick
+08117,Summit,3,2018,2997,,,,,,32018Summit
+08123,Weld,3,2018,9165,,,,,,32018Weld
+,Sum of NR Counties,3,2018,15088,,,,,,32018Sum of NR Counties
+08001,Adams,2,2018,10047,,,,,,22018Adams
+08003,Alamosa,2,2018,0,,,,NR,,22018Alamosa
+08005,Arapahoe,2,2018,25400,,,,,,22018Arapahoe
+08007,Archuleta,2,2018,0,,,,NR,,22018Archuleta
+08013,Boulder,2,2018,47908,,,,,,22018Boulder
+08015,Chaffee,2,2018,0,,,,NR,,22018Chaffee
+08019,Clear Creek,2,2018,795,,,,,,22018Clear Creek
+08031,Denver,2,2018,353791,,,,,,22018Denver
+08037,Eagle,2,2018,2148,,,,,,22018Eagle
+08041,El Paso,2,2018,211394,,,,,,22018El Paso
+08043,Fremont,2,2018,3781,,,,,,22018Fremont
+08045,Garfield,2,2018,6667,,,,,,22018Garfield
+08047,Gilpin,2,2018,0,,,,NR,,22018Gilpin
+08049,Grand,2,2018,0,,,,NR,,22018Grand
+08059,Jefferson,2,2018,31881,,,,,,22018Jefferson
+08067,La Plata,2,2018,7721,,,,,,22018La Plata
+08069,Larimer,2,2018,30632,,,,,,22018Larimer
+08071,Las Animas,2,2018,1246,,,,,,22018Las Animas
+08077,Mesa,2,2018,0,,,,NR,,22018Mesa
+08081,Moffat,2,2018,0,,,,NR,,22018Moffat
+08083,Montezuma,2,2018,1531,,,,,,22018Montezuma
+08085,Montrose,2,2018,0,,,,NR,,22018Montrose
+08087,Morgan,2,2018,0,,,,NR,,22018Morgan
+08089,Otero,2,2018,0,,,,NR,,22018Otero
+08091,Ouray,2,2018,0,,,,NR,,22018Ouray
+08093,Park,2,2018,0,,,,NR,,22018Park
+08097,Pitkin,2,2018,1831,,,,,,22018Pitkin
+08101,Pueblo,2,2018,22316,,,,,,22018Pueblo
+08107,Routt,2,2018,4637,,,,,,22018Routt
+08113,San Miguel,2,2018,0,,,,NR,,22018San Miguel
+08115,Sedgwick,2,2018,0,,,,NR,,22018Sedgwick
+08117,Summit,2,2018,3329,,,,,,22018Summit
+08123,Weld,2,2018,9757,,,,,,22018Weld
+,Sum of NR Counties,2,2018,16126,,,,,,22018Sum of NR Counties
+08001,Adams,1,2018,12001,,,,,,12018Adams
+08003,Alamosa,1,2018,0,,,,NR,,12018Alamosa
+08005,Arapahoe,1,2018,26048,,,,,,12018Arapahoe
+08007,Archuleta,1,2018,0,,,,NR,,12018Archuleta
+08013,Boulder,1,2018,53814,,,,,,12018Boulder
+08015,Chaffee,1,2018,0,,,,NR,,12018Chaffee
+08019,Clear Creek,1,2018,871,,,,,,12018Clear Creek
+08031,Denver,1,2018,406884,,,,,,12018Denver
+08037,Eagle,1,2018,3722,,,,,,12018Eagle
+08041,El Paso,1,2018,236730,,,,,,12018El Paso
+08043,Fremont,1,2018,4539,,,,,,12018Fremont
+08045,Garfield,1,2018,6550,,,,,,12018Garfield
+08047,Gilpin,1,2018,0,,,,NR,,12018Gilpin
+08049,Grand,1,2018,0,,,,NR,,12018Grand
+08051,Gunnison,1,2018,0,,,,NR,,12018Gunnison
+08059,Jefferson,1,2018,52353,,,,,,12018Jefferson
+08067,La Plata,1,2018,8393,,,,,,12018La Plata
+08069,Larimer,1,2018,34043,,,,,,12018Larimer
+08071,Las Animas,1,2018,1398,,,,,,12018Las Animas
+08077,Mesa,1,2018,0,,,,NR,,12018Mesa
+08081,Moffat,1,2018,0,,,,NR,,12018Moffat
+08083,Montezuma,1,2018,1903,,,,,,12018Montezuma
+08085,Montrose,1,2018,0,,,,NR,,12018Montrose
+08087,Morgan,1,2018,0,,,,NR,,12018Morgan
+08089,Otero,1,2018,0,,,,NR,,12018Otero
+08091,Ouray,1,2018,0,,,,NR,,12018Ouray
+08093,Park,1,2018,0,,,,NR,,12018Park
+08097,Pitkin,1,2018,1620,,,,,,12018Pitkin
+08101,Pueblo,1,2018,14941,,,,,,12018Pueblo
+08107,Routt,1,2018,4921,,,,,,12018Routt
+08113,San Miguel,1,2018,0,,,,NR,,12018San Miguel
+08115,Sedgwick,1,2018,0,,,,NR,,12018Sedgwick
+08117,Summit,1,2018,3552,,,,,,12018Summit
+08119,Teller,1,2018,0,,,,NR,,12018Teller
+08123,Weld,1,2018,11638,,,,,,12018Weld
+,Sum of NR Counties,1,2018,16330,,,,,,12018Sum of NR Counties
+08001,Adams,12,2017,11440,,,,,,122017Adams
+08003,Alamosa,12,2017,0,,,,NR,,122017Alamosa
+08005,Arapahoe,12,2017,29558,,,,,,122017Arapahoe
+08007,Archuleta,12,2017,0,,,,NR,,122017Archuleta
+08013,Boulder,12,2017,52374,,,,,,122017Boulder
+08015,Chaffee,12,2017,0,,,,NR,,122017Chaffee
+08019,Clear Creek,12,2017,1038,,,,,,122017Clear Creek
+08031,Denver,12,2017,366058,,,,,,122017Denver
+08037,Eagle,12,2017,3327,,,,,,122017Eagle
+08041,El Paso,12,2017,206701,,,,,,122017El Paso
+08043,Fremont,12,2017,3312,,,,,,122017Fremont
+08045,Garfield,12,2017,6839,,,,,,122017Garfield
+08047,Gilpin,12,2017,0,,,,NR,,122017Gilpin
+08049,Grand,12,2017,0,,,,NR,,122017Grand
+08051,Gunnison,12,2017,0,,,,NR,,122017Gunnison
+08059,Jefferson,12,2017,40427,,,,,,122017Jefferson
+08067,La Plata,12,2017,7055,,,,,,122017La Plata
+08069,Larimer,12,2017,27212,,,,,,122017Larimer
+08071,Las Animas,12,2017,1022,,,,,,122017Las Animas
+08077,Mesa,12,2017,0,,,,NR,,122017Mesa
+08083,Montezuma,12,2017,1527,,,,,,122017Montezuma
+08085,Montrose,12,2017,0,,,,NR,,122017Montrose
+08087,Morgan,12,2017,0,,,,NR,,122017Morgan
+08089,Otero,12,2017,0,,,,NR,,122017Otero
+08091,Ouray,12,2017,0,,,,NR,,122017Ouray
+08093,Park,12,2017,0,,,,NR,,122017Park
+08097,Pitkin,12,2017,1513,,,,,,122017Pitkin
+08101,Pueblo,12,2017,10969,,,,,,122017Pueblo
+08107,Routt,12,2017,0,,,,NR,,122017Routt
+08113,San Miguel,12,2017,0,,,,NR,,122017San Miguel
+08115,Sedgwick,12,2017,0,,,,NR,,122017Sedgwick
+08117,Summit,12,2017,3219,,,,,,122017Summit
+08123,Weld,12,2017,9840,,,,,,122017Weld
+,Sum of NR Counties,12,2017,18207,,,,,,122017Sum of NR Counties
+08001,Adams,11,2017,26582,,,,,,112017Adams
+08003,Alamosa,11,2017,0,,,,NR,,112017Alamosa
+08005,Arapahoe,11,2017,24137,,,,,,112017Arapahoe
+08007,Archuleta,11,2017,0,,,,NR,,112017Archuleta
+08013,Boulder,11,2017,51056,,,,,,112017Boulder
+08015,Chaffee,11,2017,0,,,,NR,,112017Chaffee
+08019,Clear Creek,11,2017,882,,,,,,112017Clear Creek
+08031,Denver,11,2017,466517,,,,,,112017Denver
+08037,Eagle,11,2017,3401,,,,,,112017Eagle
+08041,El Paso,11,2017,227708,,,,,,112017El Paso
+08043,Fremont,11,2017,4018,,,,,,112017Fremont
+08045,Garfield,11,2017,8647,,,,,,112017Garfield
+08047,Gilpin,11,2017,0,,,,NR,,112017Gilpin
+08049,Grand,11,2017,0,,,,NR,,112017Grand
+08051,Gunnison,11,2017,0,,,,NR,,112017Gunnison
+08059,Jefferson,11,2017,49255,,,,,,112017Jefferson
+08067,La Plata,11,2017,8389,,,,,,112017La Plata
+08069,Larimer,11,2017,29191,,,,,,112017Larimer
+08071,Las Animas,11,2017,999,,,,,,112017Las Animas
+08077,Mesa,11,2017,0,,,,NR,,112017Mesa
+08081,Moffat,11,2017,0,,,,NR,,112017Moffat
+08083,Montezuma,11,2017,1302,,,,,,112017Montezuma
+08085,Montrose,11,2017,0,,,,NR,,112017Montrose
+08087,Morgan,11,2017,0,,,,NR,,112017Morgan
+08089,Otero,11,2017,0,,,,NR,,112017Otero
+08093,Park,11,2017,0,,,,NR,,112017Park
+08097,Pitkin,11,2017,1611,,,,,,112017Pitkin
+08101,Pueblo,11,2017,14313,,,,,,112017Pueblo
+08107,Routt,11,2017,0,,,,NR,,112017Routt
+08113,San Miguel,11,2017,0,,,,NR,,112017San Miguel
+08115,Sedgwick,11,2017,0,,,,NR,,112017Sedgwick
+08117,Summit,11,2017,3391,,,,,,112017Summit
+08119,Teller,11,2017,0,,,,NR,,112017Teller
+08123,Weld,11,2017,9155,,,,,,112017Weld
+,Sum of NR Counties,11,2017,20312,,,,,,112017Sum of NR Counties
+08001,Adams,10,2017,29766,,,,,,102017Adams
+08003,Alamosa,10,2017,0,,,,NR,,102017Alamosa
+08005,Arapahoe,10,2017,22182,,,,,,102017Arapahoe
+08007,Archuleta,10,2017,0,,,,NR,,102017Archuleta
+08013,Boulder,10,2017,49754,,,,,,102017Boulder
+08015,Chaffee,10,2017,0,,,,NR,,102017Chaffee
+08019,Clear Creek,10,2017,1160,,,,,,102017Clear Creek
+08023,Costilla,10,2017,0,,,,NR,,102017Costilla
+08031,Denver,10,2017,502759,,,,,,102017Denver
+08037,Eagle,10,2017,4087,,,,,,102017Eagle
+08041,El Paso,10,2017,240981,,,,,,102017El Paso
+08043,Fremont,10,2017,4667,,,,,,102017Fremont
+08045,Garfield,10,2017,10787,,,,,,102017Garfield
+08047,Gilpin,10,2017,0,,,,NR,,102017Gilpin
+08049,Grand,10,2017,0,,,,NR,,102017Grand
+08059,Jefferson,10,2017,40777,,,,,,102017Jefferson
+08067,La Plata,10,2017,8462,,,,,,102017La Plata
+08069,Larimer,10,2017,32452,,,,,,102017Larimer
+08071,Las Animas,10,2017,1181,,,,,,102017Las Animas
+08077,Mesa,10,2017,0,,,,NR,,102017Mesa
+08081,Moffat,10,2017,0,,,,NR,,102017Moffat
+08083,Montezuma,10,2017,2098,,,,,,102017Montezuma
+08085,Montrose,10,2017,0,,,,NR,,102017Montrose
+08087,Morgan,10,2017,0,,,,NR,,102017Morgan
+08089,Otero,10,2017,0,,,,NR,,102017Otero
+08091,Ouray,10,2017,0,,,,NR,,102017Ouray
+08093,Park,10,2017,0,,,,NR,,102017Park
+08097,Pitkin,10,2017,1816,,,,,,102017Pitkin
+08101,Pueblo,10,2017,15471,,,,,,102017Pueblo
+08107,Routt,10,2017,0,,,,NR,,102017Routt
+08113,San Miguel,10,2017,580,,,,,,102017San Miguel
+08115,Sedgwick,10,2017,0,,,,NR,,102017Sedgwick
+08117,Summit,10,2017,3245,,,,,,102017Summit
+08123,Weld,10,2017,9260,,,,,,102017Weld
+,Sum of NR Counties,10,2017,21774,,,,,,102017Sum of NR Counties
+08001,Adams,9,2017,30520,,,,,,92017Adams
+08003,Alamosa,9,2017,0,,,,NR,,92017Alamosa
+08005,Arapahoe,9,2017,32494,,,,,,92017Arapahoe
+08007,Archuleta,9,2017,0,,,,NR,,92017Archuleta
+08013,Boulder,9,2017,50861,,,,,,92017Boulder
+08015,Chaffee,9,2017,0,,,,NR,,92017Chaffee
+08019,Clear Creek,9,2017,1102,,,,,,92017Clear Creek
+08023,Costilla,9,2017,0,,,,NR,,92017Costilla
+08031,Denver,9,2017,508760,,,,,,92017Denver
+08037,Eagle,9,2017,4343,,,,,,92017Eagle
+08041,El Paso,9,2017,232556,,,,,,92017El Paso
+08043,Fremont,9,2017,5245,,,,,,92017Fremont
+08045,Garfield,9,2017,9881,,,,,,92017Garfield
+08047,Gilpin,9,2017,0,,,,NR,,92017Gilpin
+08049,Grand,9,2017,0,,,,NR,,92017Grand
+08059,Jefferson,9,2017,44969,,,,,,92017Jefferson
+08067,La Plata,9,2017,8916,,,,,,92017La Plata
+08069,Larimer,9,2017,31565,,,,,,92017Larimer
+08071,Las Animas,9,2017,1333,,,,,,92017Las Animas
+08077,Mesa,9,2017,0,,,,NR,,92017Mesa
+08081,Moffat,9,2017,0,,,,NR,,92017Moffat
+08083,Montezuma,9,2017,2667,,,,,,92017Montezuma
+08085,Montrose,9,2017,0,,,,NR,,92017Montrose
+08087,Morgan,9,2017,0,,,,NR,,92017Morgan
+08089,Otero,9,2017,0,,,,NR,,92017Otero
+08093,Park,9,2017,0,,,,NR,,92017Park
+08097,Pitkin,9,2017,1867,,,,,,92017Pitkin
+08101,Pueblo,9,2017,21657,,,,,,92017Pueblo
+08107,Routt,9,2017,0,,,,NR,,92017Routt
+08113,San Miguel,9,2017,473,,,,,,92017San Miguel
+08115,Sedgwick,9,2017,0,,,,NR,,92017Sedgwick
+08117,Summit,9,2017,3159,,,,,,92017Summit
+08119,Teller,9,2017,0,,,,NR,,92017Teller
+08123,Weld,9,2017,8927,,,,,,92017Weld
+,Sum of NR Counties,9,2017,23236,,,,,,92017Sum of NR Counties
+08001,Adams,8,2017,26195,,,,,,82017Adams
+08003,Alamosa,8,2017,0,,,,NR,,82017Alamosa
+08005,Arapahoe,8,2017,29587,,,,,,82017Arapahoe
+08007,Archuleta,8,2017,0,,,,NR,,82017Archuleta
+08013,Boulder,8,2017,55997,,,,,,82017Boulder
+08015,Chaffee,8,2017,0,,,,NR,,82017Chaffee
+08019,Clear Creek,8,2017,921,,,,,,82017Clear Creek
+08023,Costilla,8,2017,0,,,,NR,,82017Costilla
+08031,Denver,8,2017,507955,,,,,,82017Denver
+08037,Eagle,8,2017,3990,,,,,,82017Eagle
+08041,El Paso,8,2017,234542,,,,,,82017El Paso
+08043,Fremont,8,2017,5740,,,,,,82017Fremont
+08045,Garfield,8,2017,6908,,,,,,82017Garfield
+08047,Gilpin,8,2017,0,,,,NR,,82017Gilpin
+08049,Grand,8,2017,0,,,,NR,,82017Grand
+08051,Gunnison,8,2017,0,,,,NR,,82017Gunnison
+08059,Jefferson,8,2017,32199,,,,,,82017Jefferson
+08067,La Plata,8,2017,8696,,,,,,82017La Plata
+08069,Larimer,8,2017,33455,,,,,,82017Larimer
+08071,Las Animas,8,2017,0,,,,NR,,82017Las Animas
+08077,Mesa,8,2017,0,,,,NR,,82017Mesa
+08081,Moffat,8,2017,0,,,,NR,,82017Moffat
+08083,Montezuma,8,2017,2047,,,,,,82017Montezuma
+08085,Montrose,8,2017,0,,,,NR,,82017Montrose
+08087,Morgan,8,2017,0,,,,NR,,82017Morgan
+08089,Otero,8,2017,0,,,,NR,,82017Otero
+08091,Ouray,8,2017,0,,,,NR,,82017Ouray
+08093,Park,8,2017,0,,,,NR,,82017Park
+08097,Pitkin,8,2017,2076,,,,,,82017Pitkin
+08101,Pueblo,8,2017,17460,,,,,,82017Pueblo
+08107,Routt,8,2017,0,,,,NR,,82017Routt
+08113,San Miguel,8,2017,753,,,,,,82017San Miguel
+08115,Sedgwick,8,2017,0,,,,NR,,82017Sedgwick
+08117,Summit,8,2017,3351,,,,,,82017Summit
+08123,Weld,8,2017,8132,,,,,,82017Weld
+,Sum of NR Counties,8,2017,23556,,,,,,82017Sum of NR Counties
+08001,Adams,7,2017,30597,139506,,,,,72017Adams
+08005,Arapahoe,7,2017,34103,279150,,,,,72017Arapahoe
+08007,Archuleta,7,2017,0,19763,,,NR,,72017Archuleta
+08013,Boulder,7,2017,53398,200148,,,,,72017Boulder
+08015,Chaffee,7,2017,0,16274,,,NR,,72017Chaffee
+08019,Clear Creek,7,2017,1585,16559,,,,,72017Clear Creek
+08021,Conejos,7,2017,,14534,,,,,72017Conejos
+08023,Costilla,7,2017,0,11438,,,NR,,72017Costilla
+08031,Denver,7,2017,481698,885655,,,,,72017Denver
+08037,Eagle,7,2017,3072,32069,,,,,72017Eagle
+08041,El Paso,7,2017,253579,0,,,,NR,72017El Paso
+08045,Garfield,7,2017,8239,58333,,,,,72017Garfield
+08047,Gilpin,7,2017,0,7725,,,NR,,72017Gilpin
+08049,Grand,7,2017,0,9385,,,NR,,72017Grand
+08051,Gunnison,7,2017,0,10725,,,NR,,72017Gunnison
+08055,Huerfano,7,2017,,0,,,,NR,72017Huerfano
+08059,Jefferson,7,2017,32163,127460,,,,,72017Jefferson
+08067,La Plata,7,2017,17234,63041,,,,,72017La Plata
+08065,Lake,7,2017,,7274,,,,,72017Lake
+08069,Larimer,7,2017,31333,141072,,,,,72017Larimer
+08071,Las Animas,7,2017,926,126033,,,,,72017Las Animas
+08077,Mesa,7,2017,0,0,,,NR,NR,72017Mesa
+08083,Montezuma,7,2017,2140,52762,,,,,72017Montezuma
+08087,Morgan,7,2017,0,24634,,,NR,,72017Morgan
+08091,Ouray,7,2017,0,19357,,,NR,,72017Ouray
+08093,Park,7,2017,0,12169,,,NR,,72017Park
+08097,Pitkin,7,2017,1945,25771,,,,,72017Pitkin
+08101,Pueblo,7,2017,21903,104818,,,,,72017Pueblo
+08107,Routt,7,2017,0,23405,,,NR,,72017Routt
+08109,Saguache,7,2017,,0,,,,NR,72017Saguache
+08111,San Juan,7,2017,,0,,,,NR,72017San Juan
+08113,San Miguel,7,2017,672,11970,,,,,72017San Miguel
+08115,Sedgwick,7,2017,0,0,,,NR,NR,72017Sedgwick
+08117,Summit,7,2017,2933,44262,,,,,72017Summit
+08123,Weld,7,2017,8488,73106,,,,,72017Weld
+,Sum of NR Counties,7,2017,20830,120778,,,,,72017Sum of NR Counties
+08003,Alamosa,7,2017,0,,,,NR,,72017Alamosa
+08043,Fremont,7,2017,5918,,,,,,72017Fremont
+08081,Moffat,7,2017,0,,,,NR,,72017Moffat
+08085,Montrose,7,2017,0,,,,NR,,72017Montrose
+08089,Otero,7,2017,0,,,,NR,,72017Otero
+08119,Teller,7,2017,0,,,,NR,,72017Teller
+08001,Adams,6,2017,30141,138365,,,,,62017Adams
+08005,Arapahoe,6,2017,33906,270122,,,,,62017Arapahoe
+08007,Archuleta,6,2017,0,0,,,NR,NR,62017Archuleta
+08013,Boulder,6,2017,55178,190372,,,,,62017Boulder
+08015,Chaffee,6,2017,0,12647,,,NR,,62017Chaffee
+08019,Clear Creek,6,2017,1256,13076,,,,,62017Clear Creek
+08021,Conejos,6,2017,,12640,,,,,62017Conejos
+08023,Costilla,6,2017,0,9352,,,NR,,62017Costilla
+08031,Denver,6,2017,517605,885739,,,,,62017Denver
+08037,Eagle,6,2017,3502,24541,,,,,62017Eagle
+08041,El Paso,6,2017,267657,0,,,,NR,62017El Paso
+08045,Garfield,6,2017,9703,54425,,,,,62017Garfield
+08047,Gilpin,6,2017,0,8165,,,NR,,62017Gilpin
+08049,Grand,6,2017,0,6192,,,NR,,62017Grand
+08051,Gunnison,6,2017,0,15267,,,NR,,62017Gunnison
+08055,Huerfano,6,2017,,0,,,,NR,62017Huerfano
+08059,Jefferson,6,2017,29317,126205,,,,,62017Jefferson
+08067,La Plata,6,2017,10397,57259,,,,,62017La Plata
+08065,Lake,6,2017,,5782,,,,,62017Lake
+08069,Larimer,6,2017,32395,131764,,,,,62017Larimer
+08071,Las Animas,6,2017,0,89341,,,NR,,62017Las Animas
+08077,Mesa,6,2017,0,0,,,NR,NR,62017Mesa
+08083,Montezuma,6,2017,2214,52487,,,,,62017Montezuma
+08087,Morgan,6,2017,0,29755,,,NR,,62017Morgan
+08091,Ouray,6,2017,0,12599,,,NR,,62017Ouray
+08093,Park,6,2017,0,10155,,,NR,,62017Park
+08097,Pitkin,6,2017,1657,14163,,,,,62017Pitkin
+08101,Pueblo,6,2017,20925,96357,,,,,62017Pueblo
+08107,Routt,6,2017,4346,19046,,,,,62017Routt
+08109,Saguache,6,2017,,0,,,,NR,62017Saguache
+08111,San Juan,6,2017,,0,,,,NR,62017San Juan
+08113,San Miguel,6,2017,383,5521,,,,,62017San Miguel
+08115,Sedgwick,6,2017,0,0,,,NR,NR,62017Sedgwick
+08117,Summit,6,2017,2855,32940,,,,,62017Summit
+08123,Weld,6,2017,8099,73732,,,,,62017Weld
+,Sum of NR Counties,6,2017,20451,129869,,,,,62017Sum of NR Counties
+08003,Alamosa,6,2017,0,,,,NR,,62017Alamosa
+08043,Fremont,6,2017,0,,,,NR,,62017Fremont
+08081,Moffat,6,2017,0,,,,NR,,62017Moffat
+08085,Montrose,6,2017,0,,,,NR,,62017Montrose
+08089,Otero,6,2017,0,,,,NR,,62017Otero
+08119,Teller,6,2017,0,,,,NR,,62017Teller
+08001,Adams,5,2017,32817,141429,,,,,52017Adams
+08005,Arapahoe,5,2017,24274,287048,,,,,52017Arapahoe
+08007,Archuleta,5,2017,0,13515,,,NR,,52017Archuleta
+08013,Boulder,5,2017,60974,177017,,,,,52017Boulder
+08015,Chaffee,5,2017,0,10426,,,NR,,52017Chaffee
+08019,Clear Creek,5,2017,1512,13646,,,,,52017Clear Creek
+08021,Conejos,5,2017,,11856,,,,,52017Conejos
+08023,Costilla,5,2017,0,7217,,,NR,,52017Costilla
+08031,Denver,5,2017,532556,839280,,,,,52017Denver
+08037,Eagle,5,2017,4509,40768,,,,,52017Eagle
+08041,El Paso,5,2017,237951,0,,,,NR,52017El Paso
+08045,Garfield,5,2017,8733,51969,,,,,52017Garfield
+08047,Gilpin,5,2017,0,7475,,,NR,,52017Gilpin
+08049,Grand,5,2017,0,6221,,,NR,,52017Grand
+08051,Gunnison,5,2017,0,11860,,,NR,,52017Gunnison
+08055,Huerfano,5,2017,,0,,,,NR,52017Huerfano
+08059,Jefferson,5,2017,29147,134975,,,,,52017Jefferson
+08065,Lake,5,2017,,7211,,,,,52017Lake
+08067,La Plata,5,2017,8135,61222,,,,,52017La Plata
+08069,Larimer,5,2017,31925,125328,,,,,52017Larimer
+08071,Las Animas,5,2017,894,91940,,,,,52017Las Animas
+08077,Mesa,5,2017,0,0,,,NR,NR,52017Mesa
+08083,Montezuma,5,2017,2032,44742,,,,,52017Montezuma
+08087,Morgan,5,2017,0,0,,,NR,NR,52017Morgan
+08091,Ouray,5,2017,0,0,,,NR,NR,52017Ouray
+08093,Park,5,2017,0,8856,,,NR,,52017Park
+08097,Pitkin,5,2017,0,17181,,,NR,,52017Pitkin
+08101,Pueblo,5,2017,18844,84883,,,,,52017Pueblo
+08107,Routt,5,2017,5114,20380,,,,,52017Routt
+08109,Saguache,5,2017,,0,,,,NR,52017Saguache
+08111,San Juan,5,2017,,0,,,,NR,52017San Juan
+08113,San Miguel,5,2017,654,10235,,,,,52017San Miguel
+08115,Sedgwick,5,2017,0,0,,,NR,NR,52017Sedgwick
+08117,Summit,5,2017,3962,45620,,,,,52017Summit
+08123,Weld,5,2017,8173,75243,,,,,52017Weld
+,Combined Counties,5,2017,,130366,,,,,52017Combined Counties
+08003,Alamosa,5,2017,0,,,,NR,,52017Alamosa
+08043,Fremont,5,2017,4982,,,,,,52017Fremont
+08081,Moffat,5,2017,0,,,,NR,,52017Moffat
+08085,Montrose,5,2017,0,,,,NR,,52017Montrose
+08089,Otero,5,2017,0,,,,NR,,52017Otero
+08119,Teller,5,2017,0,,,,NR,,52017Teller
+,Combined Counties 2,5,2017,16892,,,,,,52017Combined Counties 2
+08001,Adams,4,2017,26842,145724,,,,,42017Adams
+08005,Arapahoe,4,2017,33771,282799,,,,,42017Arapahoe
+08007,Archuleta,4,2017,,18619,,,,,42017Archuleta
+08013,Boulder,4,2017,56283,176018,,,,,42017Boulder
+08015,Chaffee,4,2017,,12371,,,,,42017Chaffee
+08019,Clear Creek,4,2017,1815,18349,,,,,42017Clear Creek
+08021,Conejos,4,2017,,11950,,,,,42017Conejos
+08023,Costilla,4,2017,,9285,,,,,42017Costilla
+08031,Denver,4,2017,538559,842583,,,,,42017Denver
+08037,Eagle,4,2017,4584,42600,,,,,42017Eagle
+08045,Garfield,4,2017,9433,56406,,,,,42017Garfield
+08047,Gilpin,4,2017,,6473,,,,,42017Gilpin
+08049,Grand,4,2017,,14253,,,,,42017Grand
+08051,Gunnison,4,2017,,17986,,,,,42017Gunnison
+08059,Jefferson,4,2017,46752,138054,,,,,42017Jefferson
+08067,La Plata,4,2017,418,62570,,,,,42017La Plata
+08069,Larimer,4,2017,32838,129580,,,,,42017Larimer
+08071,Las Animas,4,2017,985,89954,,,,,42017Las Animas
+08083,Montezuma,4,2017,1677,47539,,,,,42017Montezuma
+08093,Park,4,2017,,10403,,,,,42017Park
+08097,Pitkin,4,2017,705,41656,,,,,42017Pitkin
+08101,Pueblo,4,2017,17842,100262,,,,,42017Pueblo
+08107,Routt,4,2017,,28355,,,,,42017Routt
+08113,San Miguel,4,2017,791,12539,,,,,42017San Miguel
+08117,Summit,4,2017,4435,82597,,,,,42017Summit
+08123,Weld,4,2017,8263,78402,,,,,42017Weld
+,Remainder of State,4,2017,20678,138703,"Costilla, Gilpin, Grand, Mesa, Moffat, Montrose, Morgan, Otero, Park, Routt, Sedgwick, and Teller.","El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,42017Remainder of State
+08041,El Paso,4,2017,264869,,,,,,42017El Paso
+08043,Fremont,4,2017,5362,,,,,,42017Fremont
+08001,Adams,3,2017,16881,118622,,,,,32017Adams
+08005,Arapahoe,3,2017,39164,256518,,,,,32017Arapahoe
+08007,Archuleta,3,2017,,15275,,,,,32017Archuleta
+08013,Boulder,3,2017,61636,166310,,,,,32017Boulder
+08015,Chaffee,3,2017,,9073,,,,,32017Chaffee
+08019,Clear Creek,3,2017,1952,15946,,,,,32017Clear Creek
+08021,Conejos,3,2017,,9536,,,,,32017Conejos
+08023,Costilla,3,2017,,6232,,,,,32017Costilla
+08031,Denver,3,2017,582381,860182,,,,,32017Denver
+08037,Eagle,3,2017,3823,44064,,,,,32017Eagle
+08045,Garfield,3,2017,7738,46369,,,,,32017Garfield
+08047,Gilpin,3,2017,,5592,,,,,32017Gilpin
+08049,Grand,3,2017,,10486,,,,,32017Grand
+08051,Gunnison,3,2017,,22710,,,,,32017Gunnison
+08059,Jefferson,3,2017,83809,112884,,,,,32017Jefferson
+08067,La Plata,3,2017,7996,68476,,,,,32017La Plata
+08065,Lake,3,2017,,5580,,,,,32017Lake
+08069,Larimer,3,2017,30401,111818,,,,,32017Larimer
+08071,Las Animas,3,2017,875,75067,,,,,32017Las Animas
+08083,Montezuma,3,2017,1702,37104,,,,,32017Montezuma
+08087,Morgan,3,2017,,22438,,,,,32017Morgan
+08091,Ouray,3,2017,,14949,,,,,32017Ouray
+08093,Park,3,2017,,7937,,,,,32017Park
+08097,Pitkin,3,2017,3299,33421,,,,,32017Pitkin
+08101,Pueblo,3,2017,17316,74493,,,,,32017Pueblo
+08107,Routt,3,2017,4519,26802,,,,,32017Routt
+08113,San Miguel,3,2017,483,9759,,,,,32017San Miguel
+08117,Summit,3,2017,3889,70029,,,,,32017Summit
+08123,Weld,3,2017,7480,69558,,,,,32017Weld
+,Remainder of State,3,2017,13015,96165,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison,  Mesa, Moffat, Montrose, Morgan, Otero, Ouray, Park, and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan, and Sedgwick.",,,32017Remainder of State
+08041,El Paso,3,2017,216143,,,,,,32017El Paso
+08043,Fremont,3,2017,6812,,,,,,32017Fremont
+08001,Adams,2,2017,21071,127372,,,,,22017Adams
+08005,Arapahoe,2,2017,27713,229318,,,,,22017Arapahoe
+,Archuletta,2,2017,,15507,,,,,22017Archuletta
+08013,Boulder,2,2017,57350,160367,,,,,22017Boulder
+08015,Chaffee,2,2017,,9199,,,,,22017Chaffee
+08019,Clear Creek,2,2017,1469,16698,,,,,22017Clear Creek
+08021,Conejos,2,2017,,8494,,,,,22017Conejos
+08023,Costilla,2,2017,,6166,,,,,22017Costilla
+08031,Denver,2,2017,431934,747069,,,,,22017Denver
+08037,Eagle,2,2017,5601,49642,,,,,22017Eagle
+08045,Garfield,2,2017,8672,39091,,,,,22017Garfield
+08047,Gilpin,2,2017,,4495,,,,,22017Gilpin
+08049,Grand,2,2017,,10764,,,,,22017Grand
+08051,Gunnison,2,2017,,10871,,,,,22017Gunnison
+08059,Jefferson,2,2017,39660,116005,,,,,22017Jefferson
+08067,La Plata,2,2017,8717,47922,,,,,22017La Plata
+08065,Lake,2,2017,,5566,,,,,22017Lake
+08069,Larimer,2,2017,27286,100562,,,,,22017Larimer
+08071,Las Animas,2,2017,,58200,,,,,22017Las Animas
+08083,Montezuma,2,2017,3140,46063,,,,,22017Montezuma
+08091,Ouray,2,2017,,10759,,,,,22017Ouray
+08093,Park,2,2017,,7784,,,,,22017Park
+08097,Pitkin,2,2017,2087,30840,,,,,22017Pitkin
+08101,Pueblo,2,2017,7671,60707,,,,,22017Pueblo
+08107,Routt,2,2017,5226,27362,,,,,22017Routt
+08113,San Miguel,2,2017,1031,14527,,,,,22017San Miguel
+08117,Summit,2,2017,,85554,,,,,22017Summit
+08123,Weld,2,2017,7422,67803,,,,,22017Weld
+,Remainder of State,2,2017,22330,69020,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Otero, Ouray, Park, Sedgwick, Summit, Teller","El Paso, Huerfano, Mesa, Morgan, Saguache, San Juan,and Sedgwick.",,,22017Remainder of State
+08041,El Paso,2,2017,194433,,,,,,22017El Paso
+08001,Adams,1,2017,14960,126839,,,,,12017Adams
+08005,Arapahoe,1,2017,37520,268979,,,,,12017Arapahoe
+08013,Boulder,1,2017,59231,161640,,,,,12017Boulder
+08015,Chaffee,1,2017,,10341,,,,,12017Chaffee
+08019,Clear Creek,1,2017,1738,20964,,,,,12017Clear Creek
+08021,Conejos,1,2017,,9755,,,,,12017Conejos
+08023,Costilla,1,2017,,7616,,,,,12017Costilla
+08031,Denver,1,2017,419489,762068,,,,,12017Denver
+08037,Eagle,1,2017,4146,40748,,,,,12017Eagle
+08045,Garfield,1,2017,7262,41432,,,,,12017Garfield
+08047,Gilpin,1,2017,,5984,,,,,12017Gilpin
+08049,Grand,1,2017,,11214,,,,,12017Grand
+08051,Gunnison,1,2017,,18269,,,,,12017Gunnison
+08059,Jefferson,1,2017,43750,123827,,,,,12017Jefferson
+08067,La Plata,1,2017,10547,53458,,,,,12017La Plata
+08065,Lake,1,2017,,5393,,,,,12017Lake
+08069,Larimer,1,2017,32979,117689,,,,,12017Larimer
+08071,Las Animas,1,2017,,69105,,,,,12017Las Animas
+08083,Montezuma,1,2017,,29368,,,,,12017Montezuma
+08087,Morgan,1,2017,,16595,,,,,12017Morgan
+08091,Ouray,1,2017,,12170,,,,,12017Ouray
+08093,Park,1,2017,,8799,,,,,12017Park
+08097,Pitkin,1,2017,-5267,35168,,,,,12017Pitkin
+08101,Pueblo,1,2017,19096,75918,,,,,12017Pueblo
+08107,Routt,1,2017,5354,23201,,,,,12017Routt
+08113,San Miguel,1,2017,858,9207,,,,,12017San Miguel
+08117,Summit,1,2017,4581,63209,,,,,12017Summit
+08123,Weld,1,2017,8586,71127,,,,,12017Weld
+,Remainder of State,1,2017,16391,102910,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montezuma, Montrose, Morgan, Otero, Ouray, Park, Sedgwick, and Teller","Archuletta, El Paso, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,12017Remainder of State
+08041,El Paso,1,2017,228115,,,,,,12017El Paso
+08043,Fremont,1,2017,4871,,,,,,12017Fremont
+08001,Adams,12,2016,11163,126500,,,,,122016Adams
+08005,Arapahoe,12,2016,53043,262716,,,,,122016Arapahoe
+08013,Boulder,12,2016,51198,158528,,,,,122016Boulder
+08015,Chaffee,12,2016,,9011,,,,,122016Chaffee
+08019,Clear Creek,12,2016,1964,7916,,,,,122016Clear Creek
+08021,Conejos,12,2016,,9321,,,,,122016Conejos
+08023,Costilla,12,2016,,8088,,,,,122016Costilla
+08031,Denver,12,2016,463738,649705,,,,,122016Denver
+08037,Eagle,12,2016,3115,20409,,,,,122016Eagle
+08045,Garfield,12,2016,8986,38635,,,,,122016Garfield
+08047,Gilpin,12,2016,,5465,,,,,122016Gilpin
+08049,Grand,12,2016,,7132,,,,,122016Grand
+08051,Gunnison,12,2016,,5355,,,,,122016Gunnison
+08059,Jefferson,12,2016,44066,111901,,,,,122016Jefferson
+08067,La Plata,12,2016,8336,47240,,,,,122016La Plata
+08069,Larimer,12,2016,33072,116143,,,,,122016Larimer
+08071,Las Animas,12,2016,,69656,,,,,122016Las Animas
+08083,Montezuma,12,2016,1762,37649,,,,,122016Montezuma
+08087,Morgan,12,2016,,16096,,,,,122016Morgan
+08091,Ouray,12,2016,,7165,,,,,122016Ouray
+08093,Park,12,2016,,8250,,,,,122016Park
+08097,Pitkin,12,2016,2831,12437,,,,,122016Pitkin
+08101,Pueblo,12,2016,18775,63904,,,,,122016Pueblo
+08107,Routt,12,2016,4862,17389,,,,,122016Routt
+08113,San Miguel,12,2016,815,4306,,,,,122016San Miguel
+08117,Summit,12,2016,,31614,,,,,122016Summit
+08123,Weld,12,2016,,68979,,,,,122016Weld
+,Remainder of State,12,2016,26739,109436,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, Summit, Teller and Weld","Archuletta, El Paso, Huerfano, Lake, Mesa, Saguache and Sedgwick.",,,122016Remainder of State
+08041,El Paso,12,2016,214815,,,,,,122016El Paso
+08001,Adams,11,2016,11675,131759,,,,,112016Adams
+08005,Arapahoe,11,2016,27635,244765,,,,,112016Arapahoe
+,Archuletta,11,2016,,15865,,,,,112016Archuletta
+08013,Boulder,11,2016,61483,171652,,,,,112016Boulder
+08015,Chaffee,11,2016,,10286,,,,,112016Chaffee
+08019,Clear Creek,11,2016,1948,14014,,,,,112016Clear Creek
+08021,Conejos,11,2016,,10932,,,,,112016Conejos
+08023,Costilla,11,2016,,6213,,,,,112016Costilla
+08031,Denver,11,2016,464066,834362,,,,,112016Denver
+08037,Eagle,11,2016,4361,25591,,,,,112016Eagle
+08045,Garfield,11,2016,13996,48610,,,,,112016Garfield
+08047,Gilpin,11,2016,,6934,,,,,112016Gilpin
+08049,Grand,11,2016,,7333,,,,,112016Grand
+08051,Gunnison,11,2016,,16367,,,,,112016Gunnison
+08059,Jefferson,11,2016,47826,120253,,,,,112016Jefferson
+08065,Lake,11,2016,,5771,,,,,112016Lake
+08067,La Plata,11,2016,10546,53367,,,,,112016La Plata
+08069,Larimer,11,2016,33250,116304,,,,,112016Larimer
+08071,Las Animas,11,2016,,65542,,,,,112016Las Animas
+08083,Montezuma,11,2016,1727,36938,,,,,112016Montezuma
+08087,Morgan,11,2016,,18137,,,,,112016Morgan
+08091,Ouray,11,2016,,11529,,,,,112016Ouray
+08093,Park,11,2016,,8861,,,,,112016Park
+08097,Pitkin,11,2016,5249,14486,,,,,112016Pitkin
+08101,Pueblo,11,2016,18943,83993,,,,,112016Pueblo
+08107,Routt,11,2016,5721,19885,,,,,112016Routt
+08113,San Miguel,11,2016,1135,7181,,,,,112016San Miguel
+08117,Summit,11,2016,4392,41152,,,,,112016Summit
+08123,Weld,11,2016,6768,72233,,,,,112016Weld
+,Remainder of State,11,2016,16178,101444,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,112016Remainder of State
+08041,El Paso,11,2016,241652,,,,,,112016El Paso
+08043,Fremont,11,2016,4448,,,,,,112016Fremont
+08001,Adams,10,2016,12256,134529,,,,,102016Adams
+08005,Arapahoe,10,2016,52992,295759,,,,,102016Arapahoe
+,Archuletta,10,2016,,20920,,,,,102016Archuletta
+08013,Boulder,10,2016,65768,181889,,,,,102016Boulder
+08015,Chaffee,10,2016,,14237,,,,,102016Chaffee
+08019,Clear Creek,10,2016,3214,24259,,,,,102016Clear Creek
+08021,Conejos,10,2016,,12378,,,,,102016Conejos
+08023,Costilla,10,2016,,8933,,,,,102016Costilla
+08031,Denver,10,2016,551137,821214,,,,,102016Denver
+08037,Eagle,10,2016,5870,27734,,,,,102016Eagle
+08045,Garfield,10,2016,10700,51113,,,,,102016Garfield
+08047,Gilpin,10,2016,,7873,,,,,102016Gilpin
+08051,Gunnison,10,2016,,15602,,,,,102016Gunnison
+08059,Jefferson,10,2016,43541,129204,,,,,102016Jefferson
+08065,Lake,10,2016,,7375,,,,,102016Lake
+08067,La Plata,10,2016,12433,57067,,,,,102016La Plata
+08069,Larimer,10,2016,34856,123484,,,,,102016Larimer
+08071,Las Animas,10,2016,,71307,,,,,102016Las Animas
+08083,Montezuma,10,2016,2491,41872,,,,,102016Montezuma
+08087,Morgan,10,2016,,21581,,,,,102016Morgan
+08091,Ouray,10,2016,,11446,,,,,102016Ouray
+08093,Park,10,2016,,10504,,,,,102016Park
+08097,Pitkin,10,2016,3682,23809,,,,,102016Pitkin
+08101,Pueblo,10,2016,25159,90793,,,,,102016Pueblo
+08107,Routt,10,2016,,23051,,,,,102016Routt
+08113,San Miguel,10,2016,1465,10627,,,,,102016San Miguel
+08117,Summit,10,2016,3982,39248,,,,,102016Summit
+08123,Weld,10,2016,9953,73053,,,,,102016Weld
+,Remainder of State,10,2016,25804,123546,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Routt, Sedgwick, and Teller","El Paso, Grand, Huerfano, Mesa, Saguache, San Juan,and Sedgwick.",,,102016Remainder of State
+08041,El Paso,10,2016,240154,,,,,,102016El Paso
+08043,Fremont,10,2016,4616,,,,,,102016Fremont
+08001,Adams,9,2016,14137,135706,,,,,92016Adams
+08005,Arapahoe,9,2016,35593,224305,,,,,92016Arapahoe
+,Archuletta,9,2016,,21681,,,,,92016Archuletta
+08013,Boulder,9,2016,65305,187323,,,,,92016Boulder
+08019,Clear Creek,9,2016,1622,17103,,,,,92016Clear Creek
+08021,Conejos,9,2016,,12098,,,,,92016Conejos
+08023,Costilla,9,2016,,11409,,,,,92016Costilla
+08031,Denver,9,2016,593786,782584,,,,,92016Denver
+08037,Eagle,9,2016,7644,32453,,,,,92016Eagle
+08045,Garfield,9,2016,11795,42285,,,,,92016Garfield
+08047,Gilpin,9,2016,,7264,,,,,92016Gilpin
+08049,Grand,9,2016,,11429,,,,,92016Grand
+08051,Gunnison,9,2016,,17911,,,,,92016Gunnison
+08059,Jefferson,9,2016,48918,127350,,,,,92016Jefferson
+08065,Lake,9,2016,,8743,,,,,92016Lake
+08067,La Plata,9,2016,12824,65555,,,,,92016La Plata
+08069,Larimer,9,2016,36572,122957,,,,,92016Larimer
+08071,Las Animas,9,2016,,63143,,,,,92016Las Animas
+08083,Montezuma,9,2016,1467,30232,,,,,92016Montezuma
+08091,Ouray,9,2016,,14900,,,,,92016Ouray
+08093,Park,9,2016,,11079,,,,,92016Park
+08097,Pitkin,9,2016,4093,28751,,,,,92016Pitkin
+08101,Pueblo,9,2016,24628,90059,,,,,92016Pueblo
+08107,Routt,9,2016,4811,25874,,,,,92016Routt
+08113,San Miguel,9,2016,1331,12256,,,,,92016San Miguel
+08117,Summit,9,2016,4642,45932,,,,,92016Summit
+08123,Weld,9,2016,9473,69389,,,,,92016Weld
+,Remainder of State,9,2016,18826,155234,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Chaffee, El Paso, Huerfano, Mesa, Morgan, Saguache,San Juan, and Sedgwick.",,,92016Remainder of State
+08041,El Paso,9,2016,256397,,,,,,92016El Paso
+08043,Fremont,9,2016,6898,,,,,,92016Fremont
+08001,Adams,8,2016,11436,119706,,,,,82016Adams
+08005,Arapahoe,8,2016,43337,252705,,,,,82016Arapahoe
+08013,Boulder,8,2016,65391,197795,,,,,82016Boulder
+08019,Clear Creek,8,2016,1939,21397,,,,,82016Clear Creek
+08021,Conejos,8,2016,,12228,,,,,82016Conejos
+08023,Costilla,8,2016,,12180,,,,,82016Costilla
+08031,Denver,8,2016,541784,742595,,,,,82016Denver
+08037,Eagle,8,2016,5229,32219,,,,,82016Eagle
+08045,Garfield,8,2016,12101,47044,,,,,82016Garfield
+08047,Gilpin,8,2016,,7001,,,,,82016Gilpin
+08049,Grand,8,2016,,10850,,,,,82016Grand
+08051,Gunnison,8,2016,,19887,,,,,82016Gunnison
+08059,Jefferson,8,2016,46395,123060,,,,,82016Jefferson
+08065,Lake,8,2016,,8087,,,,,82016Lake
+08067,La Plata,8,2016,11781,62472,,,,,82016La Plata
+08069,Larimer,8,2016,35770,120062,,,,,82016Larimer
+08071,Las Animas,8,2016,,62820,,,,,82016Las Animas
+08083,Montezuma,8,2016,2907,34131,,,,,82016Montezuma
+08087,Morgan,8,2016,,19195,,,,,82016Morgan
+08091,Ouray,8,2016,,26344,,,,,82016Ouray
+08093,Park,8,2016,,11131,,,,,82016Park
+08097,Pitkin,8,2016,-484,33561,,,,,82016Pitkin
+08101,Pueblo,8,2016,25958,68193,,,,,82016Pueblo
+08107,Routt,8,2016,4537,27003,,,,,82016Routt
+08113,San Miguel,8,2016,1227,13271,,,,,82016San Miguel
+08117,Summit,8,2016,4772,50769,,,,,82016Summit
+08123,Weld,8,2016,9284,67760,,,,,82016Weld
+,Remainder of State,8,2016,19267,147368,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Archuletta, Chaffee, El Paso, Mesa, Saguache, San Juan, and Sedgwick.",,,82016Remainder of State
+08041,El Paso,8,2016,240225,,,,,,82016El Paso
+08043,Fremont,8,2016,6442,,,,,,82016Fremont
+08001,Adams,7,2016,9942,157219,,,,,72016Adams
+08005,Arapahoe,7,2016,41835,244207,,,,,72016Arapahoe
+,Auchuletta,7,2016,,17924,,,,,72016Auchuletta
+08013,Boulder,7,2016,73253,162835,,,,,72016Boulder
+08015,Chaffee,7,2016,,13389,,,,,72016Chaffee
+08019,Clear Creek,7,2016,1918,12881,,,,,72016Clear Creek
+08021,Conejos,7,2016,,9429,,,,,72016Conejos
+08023,Costilla,7,2016,,5697,,,,,72016Costilla
+08031,Denver,7,2016,533148,641595,,,,,72016Denver
+08037,Eagle,7,2016,5159,24364,,,,,72016Eagle
+08045,Garfield,7,2016,12233,41327,,,,,72016Garfield
+08047,Gilpin,7,2016,,6023,,,,,72016Gilpin
+08049,Grand,7,2016,,7422,,,,,72016Grand
+08051,Gunnison,7,2016,,14784,,,,,72016Gunnison
+08059,Jefferson,7,2016,48524,127640,,,,,72016Jefferson
+08065,Lake,7,2016,,6064,,,,,72016Lake
+08067,La Plata,7,2016,12367,52431,,,,,72016La Plata
+08069,Larimer,7,2016,27483,106318,,,,,72016Larimer
+08071,Las Animas,7,2016,,46850,,,,,72016Las Animas
+08083,Montezuma,7,2016,2693,26396,,,,,72016Montezuma
+08087,Morgan,7,2016,,16582,,,,,72016Morgan
+08093,Park,7,2016,,8777,,,,,72016Park
+08097,Pitkin,7,2016,3669,19520,,,,,72016Pitkin
+08101,Pueblo,7,2016,22110,63232,,,,,72016Pueblo
+08107,Routt,7,2016,3988,19063,,,,,72016Routt
+08113,San Miguel,7,2016,1100,8789,,,,,72016San Miguel
+08117,Summit,7,2016,4300,36181,,,,,72016Summit
+08123,Weld,7,2016,8446,57561,,,,,72016Weld
+,Remainder of State,7,2016,18177,108050,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","El Paso, Mesa, Ouray, Saguache, San Juan and Sedgwick.",,,72016Remainder of State
+08041,El Paso,7,2016,231702,,,,,,72016El Paso
+08043,Fremont,7,2016,6249,,,,,,72016Fremont
+08001,Adams,6,2016,14686,49134,,,,,62016Adams
+08005,Arapahoe,6,2016,36871,179467,,,,,62016Arapahoe
+,Auchuletta,6,2016,,12901,,,,,62016Auchuletta
+08013,Boulder,6,2016,58530,149874,,,,,62016Boulder
+08015,Chaffee,6,2016,,9725,,,,,62016Chaffee
+08019,Clear Creek,6,2016,2333,14968,,,,,62016Clear Creek
+08021,Conejos,6,2016,,7320,,,,,62016Conejos
+08023,Costilla,6,2016,,7007,,,,,62016Costilla
+08031,Denver,6,2016,502345,590835,,,,,62016Denver
+08037,Eagle,6,2016,10830,18789,,,,,62016Eagle
+08045,Garfield,6,2016,12213,31113,,,,,62016Garfield
+08047,Gilpin,6,2016,701,6137,,,,,62016Gilpin
+08049,Grand,6,2016,,5372,,,,,62016Grand
+08051,Gunnison,6,2016,,10558,,,,,62016Gunnison
+08059,Jefferson,6,2016,40732,80966,,,,,62016Jefferson
+08065,Lake,6,2016,,4322,,,,,62016Lake
+08067,La Plata,6,2016,11219,44684,,,,,62016La Plata
+08069,Larimer,6,2016,38915,121409,,,,,62016Larimer
+08071,Las Animas,6,2016,,42030,,,,,62016Las Animas
+08083,Montezuma,6,2016,2975,24750,,,,,62016Montezuma
+08087,Morgan,6,2016,,20496,,,,,62016Morgan
+08091,Ouray,6,2016,,8624,,,,,62016Ouray
+08093,Park,6,2016,,7126,,,,,62016Park
+08097,Pitkin,6,2016,4429,8279,,,,,62016Pitkin
+08101,Pueblo,6,2016,29804,50859,,,,,62016Pueblo
+08107,Routt,6,2016,,13756,,,,,62016Routt
+08113,San Miguel,6,2016,1476,7250,,,,,62016San Miguel
+08117,Summit,6,2016,4526,28576,,,,,62016Summit
+08123,Weld,6,2016,10104,57981,,,,,62016Weld
+,Remainder of State,6,2016,20882,92188,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray,Park, Routt and Sedgwick","El Paso, Huerfano, Mesa, Saguache, San Juan and Sedgwick.",,,62016Remainder of State
+08041,El Paso,6,2016,247396,,,,,,62016El Paso
+08043,Fremont,6,2016,6259,,,,,,62016Fremont
+08001,Adams,5,2016,17594,140229,,,,,52016Adams
+08005,Arapahoe,5,2016,62995,256522,,,,,52016Arapahoe
+08013,Boulder,5,2016,80529,164305,,,,,52016Boulder
+08015,Chaffee,5,2016,,8654,,,,,52016Chaffee
+08019,Clear Creek,5,2016,2372,9744,,,,,52016Clear Creek
+08021,Conejos,5,2016,,6314,,,,,52016Conejos
+08023,Costilla,5,2016,,5163,,,,,52016Costilla
+08031,Denver,5,2016,518807,770799,,,,,52016Denver
+08037,Eagle,5,2016,3760,27045,,,,,52016Eagle
+08045,Garfield,5,2016,15483,29640,,,,,52016Garfield
+08047,Gilpin,5,2016,,6747,,,,,52016Gilpin
+08049,Grand,5,2016,,6615,,,,,52016Grand
+08051,Gunnison,5,2016,,11564,,,,,52016Gunnison
+08059,Jefferson,5,2016,52014,131325,,,,,52016Jefferson
+08067,La Plata,5,2016,11506,43195,,,,,52016La Plata
+08069,Larimer,5,2016,38172,75328,,,,,52016Larimer
+08071,Las Animas,5,2016,,43614,,,,,52016Las Animas
+08083,Montezuma,5,2016,3164,20631,,,,,52016Montezuma
+08093,Park,5,2016,,5851,,,,,52016Park
+08097,Pitkin,5,2016,2474,15594,,,,,52016Pitkin
+08101,Pueblo,5,2016,28412,60223,,,,,52016Pueblo
+08107,Routt,5,2016,5292,15859,,,,,52016Routt
+08113,San Miguel,5,2016,1538,7413,,,,,52016San Miguel
+08117,Summit,5,2016,6673,54016,,,,,52016Summit
+08123,Weld,5,2016,18193,89650,,,,,52016Weld
+,Remainder of State,5,2016,17042,141231,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick and Teller","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,52016Remainder of State
+08041,El Paso,5,2016,250786,,,,,,52016El Paso
+08043,Fremont,5,2016,8262,,,,,,52016Fremont
+08001,Adams,4,2016,4602,37034,,,,,42016Adams
+08005,Arapahoe,4,2016,22393,163688,,,,,42016Arapahoe
+08013,Boulder,4,2016,73164,131661,,,,,42016Boulder
+08015,Chaffee,4,2016,,10012,,,,,42016Chaffee
+08019,Clear Creek,4,2016,2602,14678,,,,,42016Clear Creek
+08021,Conejos,4,2016,,6067,,,,,42016Conejos
+08023,Costilla,4,2016,,5373,,,,,42016Costilla
+08031,Denver,4,2016,450002,519517,,,,,42016Denver
+08037,Eagle,4,2016,8681,33497,,,,,42016Eagle
+08045,Garfield,4,2016,11204,30434,,,,,42016Garfield
+08047,Gilpin,4,2016,,4751,,,,,42016Gilpin
+08049,Grand,4,2016,,10273,,,,,42016Grand
+08051,Gunnison,4,2016,,14378,,,,,42016Gunnison
+08059,Jefferson,4,2016,42725,65274,,,,,42016Jefferson
+08067,La Plata,4,2016,11345,47159,,,,,42016La Plata
+08069,Larimer,4,2016,35866,93180,,,,,42016Larimer
+08071,Las Animas,4,2016,,29997,,,,,42016Las Animas
+08083,Montezuma,4,2016,2886,20885,,,,,42016Montezuma
+08093,Park,4,2016,,6662,,,,,42016Park
+08097,Pitkin,4,2016,6138,22556,,,,,42016Pitkin
+08101,Pueblo,4,2016,10557,42687,,,,,42016Pueblo
+08107,Routt,4,2016,6183,22235,,,,,42016Routt
+08117,Summit,4,2016,,55819,,,,,42016Summit
+08123,Weld,4,2016,,25947,,,,,42016Weld
+,Remainder of State,4,2016,30207,142619,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick, Summit, Teller and Weld","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Miguel and Sedgwick.",,,42016Remainder of State
+08041,El Paso,4,2016,213427,,,,,,42016El Paso
+08043,Fremont,4,2016,5483,,,,,,42016Fremont
+08001,Adams,3,2016,12248,87812,,,,,32016Adams
+08005,Arapahoe,3,2016,47138,194786,,,,,32016Arapahoe
+08013,Boulder,3,2016,71056,129140,,,,,32016Boulder
+08015,Chaffee,3,2016,,8278,,,,,32016Chaffee
+08019,Clear Creek,3,2016,3720,16839,,,,,32016Clear Creek
+08021,Conejos,3,2016,,4639,,,,,32016Conejos
+08023,Costilla,3,2016,,4627,,,,,32016Costilla
+08031,Denver,3,2016,456044,569776,,,,,32016Denver
+08037,Eagle,3,2016,8036,33338,,,,,32016Eagle
+08045,Garfield,3,2016,8715,21612,,,,,32016Garfield
+08047,Gilpin,3,2016,,4060,,,,,32016Gilpin
+08049,Grand,3,2016,,7975,,,,,32016Grand
+08051,Gunnison,3,2016,,6715,,,,,32016Gunnison
+08059,Jefferson,3,2016,42654,87068,,,,,32016Jefferson
+08067,La Plata,3,2016,10103,44645,,,,,32016La Plata
+08069,Larimer,3,2016,31192,69294,,,,,32016Larimer
+08071,Las Animas,3,2016,,2701,,,,,32016Las Animas
+08083,Montezuma,3,2016,2883,17237,,,,,32016Montezuma
+08093,Park,3,2016,,5117,,,,,32016Park
+08097,Pitkin,3,2016,3238,26688,,,,,32016Pitkin
+08101,Pueblo,3,2016,25507,36195,,,,,32016Pueblo
+08107,Routt,3,2016,6097,22696,,,,,32016Routt
+08113,San Miguel,3,2016,1558,12861,,,,,32016San Miguel
+08117,Summit,3,2016,7018,73994,,,,,32016Summit
+08123,Weld,3,2016,9615,54678,,,,,32016Weld
+,Remainder of State,3,2016,23448,89878,"Alamosa, Archuleta, Chaffee, Costilla, Fremont, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Juan, Sedgwick and Teller","Archuletta, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,32016Remainder of State
+08041,El Paso,3,2016,196527,,,,,,32016El Paso
+08001,Adams,2,2016,10424,75954,,,,,22016Adams
+08005,Arapahoe,2,2016,41280,169337,,,,,22016Arapahoe
+,Archuletta,2,2016,,12104,,,,,22016Archuletta
+08013,Boulder,2,2016,77845,141228,,,,,22016Boulder
+08015,Chaffee,2,2016,,9809,,,,,22016Chaffee
+08019,Clear Creek,2,2016,2663,17808,,,,,22016Clear Creek
+08031,Denver,2,2016,403927,546434,,,,,22016Denver
+08037,Eagle,2,2016,8443,34568,,,,,22016Eagle
+08045,Garfield,2,2016,10145,20432,,,,,22016Garfield
+08047,Gilpin,2,2016,,2602,,,,,22016Gilpin
+08049,Grand,2,2016,,8248,,,,,22016Grand
+08051,Gunnison,2,2016,,11923,,,,,22016Gunnison
+08059,Jefferson,2,2016,53493,83812,,,,,22016Jefferson
+08067,La Plata,2,2016,10221,33211,,,,,22016La Plata
+08069,Larimer,2,2016,34586,76031,,,,,22016Larimer
+08071,Las Animas,2,2016,,25320,,,,,22016Las Animas
+08083,Montezuma,2,2016,2225,15259,,,,,22016Montezuma
+08093,Park,2,2016,,5691,,,,,22016Park
+08097,Pitkin,2,2016,5244,22303,,,,,22016Pitkin
+08101,Pueblo,2,2016,18984,37624,,,,,22016Pueblo
+08107,Routt,2,2016,5702,23169,,,,,22016Routt
+08113,San Miguel,2,2016,,8280,,,,,22016San Miguel
+08117,Summit,2,2016,5433,59410,,,,,22016Summit
+08123,Weld,2,2016,11465,49478,,,,,22016Weld
+,Remainder of State,2,2016,17002,94078,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick and Teller","Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick",,,22016Remainder of State
+08041,El Paso,2,2016,175444,,,,,,22016El Paso
+08043,Fremont,2,2016,3448,,,,,,22016Fremont
+08001,Adams,1,2016,13325.84,80780.43,,,,,12016Adams
+08005,Arapahoe,1,2016,57608,192698.8,,,,,12016Arapahoe
+,Archuletta,1,2016,,13143.02,,,,,12016Archuletta
+08013,Boulder,1,2016,78352.34,147666,,,,,12016Boulder
+08019,Clear Creek,1,2016,1654.24,13107.1,,,,,12016Clear Creek
+08031,Denver,1,2016,532544.51,623071.7,,,,,12016Denver
+08037,Eagle,1,2016,8600.65,28934,,,,,12016Eagle
+08045,Garfield,1,2016,10258.21,20021,,,,,12016Garfield
+08047,Gilpin,1,2016,,4231.51,,,,,12016Gilpin
+08049,Grand,1,2016,,7869,,,,,12016Grand
+08051,Gunnison,1,2016,,16366.65,,,,,12016Gunnison
+08059,Jefferson,1,2016,52362.51,99504.98,,,,,12016Jefferson
+08067,La Plata,1,2016,10374,38850.85,,,,,12016La Plata
+08069,Larimer,1,2016,38714.44,92223.06,,,,,12016Larimer
+08071,Las Animas,1,2016,,37037.56,,,,,12016Las Animas
+08083,Montezuma,1,2016,2522,16163,,,,,12016Montezuma
+08093,Park,1,2016,,5638.87,,,,,12016Park
+08097,Pitkin,1,2016,2269.09,18546.89,,,,,12016Pitkin
+08101,Pueblo,1,2016,16291.63,38557.01,,,,,12016Pueblo
+08107,Routt,1,2016,5707,19239,,,,,12016Routt
+08113,San Miguel,1,2016,1285,9392,,,,,12016San Miguel
+08117,Summit,1,2016,6563,47979,,,,,12016Summit
+08123,Weld,1,2016,10788,52765,,,,,12016Weld
+,Remainder of State,1,2016,20608.7,120294.3,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Parkand Sedgwick","Chaffee, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick.",,,12016Remainder of State
+08041,El Paso,1,2016,221778.72,,,,,,12016El Paso
+08043,Fremont,1,2016,5619.17,,,,,,12016Fremont
+08001,Adams,12,2015,12531,71941,,,,,122015Adams
+08005,Arapahoe,12,2015,29363,143866,,,,,122015Arapahoe
+08013,Boulder,12,2015,65739,122809,,,,,122015Boulder
+08015,Chaffee,12,2015,,7481,,,,,122015Chaffee
+08019,Clear Creek,12,2015,1918,10212,,,,,122015Clear Creek
+08031,Denver,12,2015,349026,532887,,,,,122015Denver
+08037,Eagle,12,2015,7829,17202,,,,,122015Eagle
+08045,Garfield,12,2015,12323,17447,,,,,122015Garfield
+08047,Gilpin,12,2015,,6892,,,,,122015Gilpin
+08049,Grand,12,2015,,4270,,,,,122015Grand
+08051,Gunnison,12,2015,,12319,,,,,122015Gunnison
+08059,Jefferson,12,2015,51412,82255,,,,,122015Jefferson
+08067,La Plata,12,2015,9334,33367,,,,,122015La Plata
+08069,Larimer,12,2015,33789,75864,,,,,122015Larimer
+08071,Las Animas,12,2015,,29225,,,,,122015Las Animas
+08083,Montezuma,12,2015,2621,15243,,,,,122015Montezuma
+08093,Park,12,2015,,4729,,,,,122015Park
+08097,Pitkin,12,2015,2216,10072,,,,,122015Pitkin
+08101,Pueblo,12,2015,13094,31773,,,,,122015Pueblo
+08107,Routt,12,2015,5123,12790,,,,,122015Routt
+08113,San Miguel,12,2015,1117,3617,,,,,122015San Miguel
+08117,Summit,12,2015,6045,28603,,,,,122015Summit
+08123,Weld,12,2015,10147,48723,,,,,122015Weld
+,Remainder of State,12,2015,17773,107872,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Parkand Sedgwick","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, and Sedgwick",,,122015Remainder of State
+08041,El Paso,12,2015,195651,,,,,,122015El Paso
+08043,Fremont,12,2015,2993,,,,,,122015Fremont
+08001,Adams,11,2015,10389,61952,,,,,112015Adams
+08005,Arapahoe,11,2015,55261,146573,,,,,112015Arapahoe
+08013,Boulder,11,2015,71686,114280,,,,,112015Boulder
+08015,Chaffee,11,2015,,9659,,,,,112015Chaffee
+08019,Clear Creek,11,2015,-1047,15202,,,,,112015Clear Creek
+08031,Denver,11,2015,341421,459988,,,,,112015Denver
+08037,Eagle,11,2015,6487,22558,,,,,112015Eagle
+08045,Garfield,11,2015,9933,24428,,,,,112015Garfield
+08047,Gilpin,11,2015,,4088,,,,,112015Gilpin
+08049,Grand,11,2015,,4754,,,,,112015Grand
+08059,Jefferson,11,2015,43267,69015,,,,,112015Jefferson
+08067,La Plata,11,2015,11351,39047,,,,,112015La Plata
+08069,Larimer,11,2015,36690,69043,,,,,112015Larimer
+08071,Las Animas,11,2015,,17734,,,,,112015Las Animas
+08083,Montezuma,11,2015,2766,17999,,,,,112015Montezuma
+08093,Park,11,2015,,5823,,,,,112015Park
+08097,Pitkin,11,2015,2243,24772,,,,,112015Pitkin
+08101,Pueblo,11,2015,21151,48792,,,,,112015Pueblo
+08107,Routt,11,2015,5651,16490,,,,,112015Routt
+08113,San Miguel,11,2015,1436,4733,,,,,112015San Miguel
+08117,Summit,11,2015,6243,27750,,,,,112015Summit
+08123,Weld,11,2015,11726,54546,,,,,112015Weld
+,Remainder of State,11,2015,13988,117604,"Alamosa, Archuleta, Costilla, Gilpin, Grand, Las Animas, Mesa, Montrose, Park, Sedgwick and Teller","Archuleta, Conejos, Costilla, El Paso, Gunnison, Huerfano, Lake, Mesa,Morgan, Ouray, Saguache, and Sedgwick",,,112015Remainder of State
+08041,El Paso,11,2015,222834,,,,,,112015El Paso
+08043,Fremont,11,2015,6167,,,,,,112015Fremont
+08001,Adams,10,2015,11809,58124,,,,,102015Adams
+08005,Arapahoe,10,2015,59447,162428,,,,,102015Arapahoe
+08013,Boulder,10,2015,82097,145808,,,,,102015Boulder
+08015,Chaffee,10,2015,,12481,,,,,102015Chaffee
+08019,Clear Creek,10,2015,2773,16734,,,,,102015Clear Creek
+08031,Denver,10,2015,506809,554959,,,,,102015Denver
+08037,Eagle,10,2015,9342,13900,,,,,102015Eagle
+08045,Garfield,10,2015,13416,25968,,,,,102015Garfield
+08047,Gilpin,10,2015,1158,4215,,,,,102015Gilpin
+08049,Grand,10,2015,,5811,,,,,102015Grand
+08051,Gunnison,10,2015,,9863,,,,,102015Gunnison
+08059,Jefferson,10,2015,57101,87195,,,,,102015Jefferson
+08067,La Plata,10,2015,13693,44053,,,,,102015La Plata
+08069,Larimer,10,2015,41291,83080,,,,,102015Larimer
+08071,Las Animas,10,2015,,30698,,,,,102015Las Animas
+08083,Montezuma,10,2015,3434,18423,,,,,102015Montezuma
+08091,Ouray,10,2015,,7326,,,,,102015Ouray
+08093,Park,10,2015,,6442,,,,,102015Park
+08097,Pitkin,10,2015,1413,21501,,,,,102015Pitkin
+08101,Pueblo,10,2015,13700,31547,,,,,102015Pueblo
+08107,Routt,10,2015,6078,18032,,,,,102015Routt
+08113,San Miguel,10,2015,1500,10709,,,,,102015San Miguel
+08117,Summit,10,2015,6584,32127,,,,,102015Summit
+08123,Weld,10,2015,12559,54301,,,,,102015Weld
+,Remainder of State,10,2015,18343,126936,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Saguache, San Juan, and Sedgwick",,,102015Remainder of State
+08041,El Paso,10,2015,205403,,,,,,102015El Paso
+08043,Fremont,10,2015,5479,,,,,,102015Fremont
+08001,Adams,9,2015,12066,64198,,,,,92015Adams
+08005,Arapahoe,9,2015,50269,146920,,,,,92015Arapahoe
+08013,Boulder,9,2015,76606,143853,,,,,92015Boulder
+08015,Chaffee,9,2015,,26628,,,,,92015Chaffee
+08019,Clear Creek,9,2015,3498,15590,,,,,92015Clear Creek
+08031,Denver,9,2015,554013,586938,,,,,92015Denver
+08037,Eagle,9,2015,9619,21534,,,,,92015Eagle
+08045,Garfield,9,2015,19390,25479,,,,,92015Garfield
+08047,Gilpin,9,2015,2002,5873,,,,,92015Gilpin
+08049,Grand,9,2015,,6709,,,,,92015Grand
+08051,Gunnison,9,2015,,11567,,,,,92015Gunnison
+08059,Jefferson,9,2015,54043,93836,,,,,92015Jefferson
+08067,La Plata,9,2015,13036,43601,,,,,92015La Plata
+08069,Larimer,9,2015,40572,83960,,,,,92015Larimer
+08071,Las Animas,9,2015,,29937,,,,,92015Las Animas
+08083,Montezuma,9,2015,4197,18421,,,,,92015Montezuma
+08093,Park,9,2015,,7145,,,,,92015Park
+08097,Pitkin,9,2015,1052,21266,,,,,92015Pitkin
+08101,Pueblo,9,2015,16188,43612,,,,,92015Pueblo
+08107,Routt,9,2015,5550,18826,,,,,92015Routt
+08113,San Miguel,9,2015,1363,10865,,,,,92015San Miguel
+08117,Summit,9,2015,6649,35311,,,,,92015Summit
+08123,Weld,9,2015,12032,55954,,,,,92015Weld
+,Remainder of State,9,2015,17603,141949,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,92015Remainder of State
+08041,El Paso,9,2015,254156,,,,,,92015El Paso
+08043,Fremont,9,2015,7227,,,,,,92015Fremont
+08001,Adams,8,2015,11247,47992,,,,,82015Adams
+08005,Arapahoe,8,2015,42537,128962,,,,,82015Arapahoe
+08013,Boulder,8,2015,85442,144255,,,,,82015Boulder
+08019,Clear Creek,8,2015,5431,17745,,,,,82015Clear Creek
+08031,Denver,8,2015,518868,564813,,,,,82015Denver
+08037,Eagle,8,2015,10580,21341,,,,,82015Eagle
+08045,Garfield,8,2015,13010,27023,,,,,82015Garfield
+08047,Gilpin,8,2015,,5384,,,,,82015Gilpin
+08049,Grand,8,2015,,6643,,,,,82015Grand
+08051,Gunnison,8,2015,,11898,,,,,82015Gunnison
+08059,Jefferson,8,2015,62487,72547,,,,,82015Jefferson
+08067,La Plata,8,2015,13626,44086,,,,,82015La Plata
+08069,Larimer,8,2015,37648,78122,,,,,82015Larimer
+08071,Las Animas,8,2015,,33301,,,,,82015Las Animas
+08083,Montezuma,8,2015,3785,15391,,,,,82015Montezuma
+08093,Park,8,2015,,7288,,,,,82015Park
+08097,Pitkin,8,2015,4720,26886,,,,,82015Pitkin
+08101,Pueblo,8,2015,22247,57042,,,,,82015Pueblo
+08107,Routt,8,2015,5217,18512,,,,,82015Routt
+08113,San Miguel,8,2015,1438,11526,,,,,82015San Miguel
+08117,Summit,8,2015,7079,41913,,,,,82015Summit
+08123,Weld,8,2015,10217,53585,,,,,82015Weld
+,Remainder of State,8,2015,19576,145987,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, and Sedgwick","Archuleta, Chaffee, Conejos, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,82015Remainder of State
+08041,El Paso,8,2015,233749,,,,,,82015El Paso
+08043,Fremont,8,2015,7610,,,,,,82015Fremont
+08031,Denver,7,2015,453698,489176,,,,,72015Denver
+08005,Arapahoe,7,2015,65918,140304,,,,,72015Arapahoe
+08013,Boulder,7,2015,73454,128318,,,,,72015Boulder
+08019,Clear Creek,7,2015,1251,12586,,,,,72015Clear Creek
+08037,Eagle,7,2015,6948,15169,,,,,72015Eagle
+08045,Garfield,7,2015,10985,21748,,,,,72015Garfield
+08047,Gilpin,7,2015,,3414,,,,,72015Gilpin
+08049,Grand,7,2015,,4450,,,,,72015Grand
+08051,Gunnison,7,2015,,8620,,,,,72015Gunnison
+08059,Jefferson,7,2015,47617,92913,,,,,72015Jefferson
+08067,La Plata,7,2015,16528,50681,,,,,72015La Plata
+08069,Larimer,7,2015,32508,66800,,,,,72015Larimer
+08071,Las Animas,7,2015,,19771,,,,,72015Las Animas
+08083,Montezuma,7,2015,2580,14267,,,,,72015Montezuma
+08093,Park,7,2015,,5447,,,,,72015Park
+08097,Pitkin,7,2015,3074,15148,,,,,72015Pitkin
+08101,Pueblo,7,2015,13504,35667,,,,,72015Pueblo
+08107,Routt,7,2015,4484,14168,,,,,72015Routt
+08113,San Miguel,7,2015,1725,10248,,,,,72015San Miguel
+08117,Summit,7,2015,5646,26535,,,,,72015Summit
+08123,Weld,7,2015,8071,48347,,,,,72015Weld
+,Remainder of State,7,2015,19300,183025,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller.","Adams, Archuleta, Chaffee, Costilla, El Paso, Huerfano, Lake, Mesa, Morgan, Ouray, Saguache, San Juan, and Sedgwick",,,72015Remainder of State
+08001,Adams,7,2015,17209,,,,,,72015Adams
+08041,El Paso,7,2015,197835,,,,,,72015El Paso
+08043,Fremont,7,2015,5773,,,,,,72015Fremont
+08001,Adams,6,2015,10298,17494,,,,,62015Adams
+08005,Arapahoe,6,2015,41057,75778,,,,,62015Arapahoe
+08013,Boulder,6,2015,76119,122172,,,,,62015Boulder
+08015,Chaffee,6,2015,,7687,,,,,62015Chaffee
+08019,Clear Creek,6,2015,4320,7734,,,,,62015Clear Creek
+08031,Denver,6,2015,399814,486655,,,,,62015Denver
+08037,Eagle,6,2015,9610,12211,,,,,62015Eagle
+08045,Garfield,6,2015,10551,19986,,,,,62015Garfield
+08047,Gilpin,6,2015,,5000,,,,,62015Gilpin
+08051,Gunnison,6,2015,,4928,,,,,62015Gunnison
+08059,Jefferson,6,2015,53242,68630,,,,,62015Jefferson
+08067,La Plata,6,2015,4622,16893,,,,,62015La Plata
+08069,Larimer,6,2015,34480,65977,,,,,62015Larimer
+08071,Las Animas,6,2015,,15383,,,,,62015Las Animas
+08083,Montezuma,6,2015,4947,10424,,,,,62015Montezuma
+08093,Park,6,2015,,4790,,,,,62015Park
+08097,Pitkin,6,2015,1753,6038,,,,,62015Pitkin
+08101,Pueblo,6,2015,16626,47177,,,,,62015Pueblo
+08107,Routt,6,2015,4593,12214,,,,,62015Routt
+08113,San Miguel,6,2015,,3709,,,,,62015San Miguel
+08117,Summit,6,2015,6292,20710,,,,,62015Summit
+08123,Weld,6,2015,9608,46733,,,,,62015Weld
+,Remainder of State,6,2015,23817,113845,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, San Miguel, Sedgwick, and Teller",,,,62015Remainder of State
+08041,El Paso,6,2015,189852,,,,,,62015El Paso
+08043,Fremont,6,2015,6856,,,,,,62015Fremont
+08045,Garfield,5,2015,10780,17752,,,,,52015Garfield
+08001,Adams,5,2015,13330,41082,,,,,52015Adams
+08005,Arapahoe,5,2015,160958,106133,,,,,52015Arapahoe
+08013,Boulder,5,2015,63067,113829,,,,,52015Boulder
+08015,Chaffee,5,2015,,10746,,,,,52015Chaffee
+08019,Clear Creek,5,2015,519,12211,,,,,52015Clear Creek
+08031,Denver,5,2015,266771,499741,,,,,52015Denver
+08037,Eagle,5,2015,9024,15172,,,,,52015Eagle
+08047,Gilpin,5,2015,,4271,,,,,52015Gilpin
+08051,Gunnison,5,2015,,5345,,,,,52015Gunnison
+08059,Jefferson,5,2015,47633,56772,,,,,52015Jefferson
+08067,La Plata,5,2015,20888,19742,,,,,52015La Plata
+08069,Larimer,5,2015,36297,58823,,,,,52015Larimer
+08071,Las Animas,5,2015,,13583,,,,,52015Las Animas
+08083,Montezuma,5,2015,3876,7221,,,,,52015Montezuma
+08093,Park,5,2015,,3452,,,,,52015Park
+08097,Pitkin,5,2015,2096,13387,,,,,52015Pitkin
+08101,Pueblo,5,2015,8459,38321,,,,,52015Pueblo
+08107,Routt,5,2015,5432,12648,,,,,52015Routt
+08113,San Miguel,5,2015,1112,4581,,,,,52015San Miguel
+08117,Summit,5,2015,8644,27781,,,,,52015Summit
+08123,Weld,5,2015,7984,43464,,,,,52015Weld
+,Remainder of State,5,2015,17906,62820,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray, Saguache and Sedgwick",,,52015Remainder of State
+08041,El Paso,5,2015,205057,,,,,,52015El Paso
+08043,Fremont,5,2015,5371,,,,,,52015Fremont
+08001,Adams,4,2015,11922,44220,,,,,42015Adams
+08005,Arapahoe,4,2015,38362,67656,,,,,42015Arapahoe
+08013,Boulder,4,2015,59855,109336,,,,,42015Boulder
+08019,Clear Creek,4,2015,3926,12813,,,,,42015Clear Creek
+08031,Denver,4,2015,418500,467578,,,,,42015Denver
+08037,Eagle,4,2015,10326,24715,,,,,42015Eagle
+08045,Garfield,4,2015,11415,18009,,,,,42015Garfield
+08047,Gilpin,4,2015,,2769,,,,,42015Gilpin
+08051,Gunnison,4,2015,,7593,,,,,42015Gunnison
+08059,Jefferson,4,2015,46460,63009,,,,,42015Jefferson
+08067,La Plata,4,2015,25085,25344,,,,,42015La Plata
+08069,Larimer,4,2015,34075,55678,,,,,42015Larimer
+08071,Las Animas,4,2015,,11821,,,,,42015Las Animas
+08083,Montezuma,4,2015,3292,6468,,,,,42015Montezuma
+08093,Park,4,2015,,4137,,,,,42015Park
+08097,Pitkin,4,2015,2159,24023,,,,,42015Pitkin
+08101,Pueblo,4,2015,14904,45710,,,,,42015Pueblo
+08107,Routt,4,2015,5918,20381,,,,,42015Routt
+08113,San Miguel,4,2015,1864,11014,,,,,42015San Miguel
+08117,Summit,4,2015,6350,50715,,,,,42015Summit
+08123,Weld,4,2015,12672,41189,,,,,42015Weld
+,Remainder of State,4,2015,18972,83728,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray,Saguache, San Juan and Sedgwick.",,,42015Remainder of State
+08041,El Paso,4,2015,164229,,,,,,42015El Paso
+08043,Fremont,4,2015,4907,,,,,,42015Fremont
+08005,Arapahoe,3,2015,25790,62680,,,,,32015Arapahoe
+08013,Boulder,3,2015,68817,94149,,,,,32015Boulder
+08019,Clear Creek,3,2015,2273,13659,,,,,32015Clear Creek
+08031,Denver,3,2015,358208,451969,,,,,32015Denver
+08037,Eagle,3,2015,7839,21256,,,,,32015Eagle
+08045,Garfield,3,2015,9913,14884,,,,,32015Garfield
+08047,Gilpin,3,2015,839,2853,,,,,32015Gilpin
+08051,Gunnison,3,2015,,6597,,,,,32015Gunnison
+08059,Jefferson,3,2015,45154,67463,,,,,32015Jefferson
+08067,La Plata,3,2015,24576,10605,,,,,32015La Plata
+08069,Larimer,3,2015,32718,48469,,,,,32015Larimer
+08071,Las Animas,3,2015,,8210,,,,,32015Las Animas
+08083,Montezuma,3,2015,2668,5096,,,,,32015Montezuma
+08097,Pitkin,3,2015,2594,23430,,,,,32015Pitkin
+08101,Pueblo,3,2015,9870,23618,,,,,32015Pueblo
+08113,San Miguel,3,2015,1039,5963,,,,,32015San Miguel
+08117,Summit,3,2015,8650,51411,,,,,32015Summit
+08123,Weld,3,2015,10221,36230,,,,,32015Weld
+,Remainder of State,3,2015,22334,150472,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Las Animas, Mesa, Moffat, Montrose, Morgan, Ouray, Park, Routt, Sedgwick, and Teller","Adams, Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Morgan, Ouray, Park, Routt, Saguache, San Juan and Sedgwick",,,32015Remainder of State
+08001,Adams,3,2015,15962,,,,,,32015Adams
+08041,El Paso,3,2015,166821,,,,,,32015El Paso
+08043,Fremont,3,2015,4350,,,,,,32015Fremont
+08001,Adams,2,2015,8304,13092,,,,,22015Adams
+08005,Arapahoe,2,2015,25572,53858,,,,,22015Arapahoe
+08013,Boulder,2,2015,64260,109224,,,,,22015Boulder
+08019,Clear Creek,2,2015,2117,12583,,,,,22015Clear Creek
+08031,Denver,2,2015,363061,423513,,,,,22015Denver
+08037,Eagle,2,2015,9390,20375,,,,,22015Eagle
+08045,Garfield,2,2015,9421,17304,,,,,22015Garfield
+08047,Gilpin,2,2015,1065,3893,,,,,22015Gilpin
+08051,Gunnison,2,2015,587,9075,,,,,22015Gunnison
+08059,Jefferson,2,2015,45470,48086,,,,,22015Jefferson
+08067,La Plata,2,2015,25691,11858,,,,,22015La Plata
+08069,Larimer,2,2015,33160,49274,,,,,22015Larimer
+08071,Las Animas,2,2015,,6424,,,,,22015Las Animas
+08097,Pitkin,2,2015,2245,23537,,,,,22015Pitkin
+08101,Pueblo,2,2015,3328,26366,,,,,22015Pueblo
+08113,San Miguel,2,2015,1529,11557,,,,,22015San Miguel
+08117,Summit,2,2015,6351,50009,,,,,22015Summit
+08123,Weld,2,2015,10194,34889,,,,,22015Weld
+,Remainder of State,2,2015,15878,97711,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Lake, Las Animas, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Mesa, Montezuma, Morgan,  Ouray, Park, Routt, Saguache, San Juan and Sedgwick",,,22015Remainder of State
+08041,El Paso,2,2015,142988,,,,,,22015El Paso
+08043,Fremont,2,2015,6779,,,,,,22015Fremont
+08083,Montezuma,2,2015,3296,,,,,,22015Montezuma
+,Route,2,2015,5104,,,,,,22015Route
+08001,Adams,1,2015,13187,41848,,,,,12015Adams
+08005,Arapahoe,1,2015,35071,41272,,,,,12015Arapahoe
+08013,Boulder,1,2015,70604,93696,,,,,12015Boulder
+08019,Clear Creek,1,2015,2331,11867,,,,,12015Clear Creek
+08031,Denver,1,2015,408178,418985,,,,,12015Denver
+08037,Eagle,1,2015,7794,21287,,,,,12015Eagle
+08045,Garfield,1,2015,8249,16464,,,,,12015Garfield
+08047,Gilpin,1,2015,922,2278,,,,,12015Gilpin
+08051,Gunnison,1,2015,-350,7698,,,,,12015Gunnison
+08059,Jefferson,1,2015,51671,56419,,,,,12015Jefferson
+08067,La Plata,1,2015,14932,24406,,,,,12015La Plata
+08069,Larimer,1,2015,33837,47766,,,,,12015Larimer
+08097,Pitkin,1,2015,2321,16837,,,,,12015Pitkin
+08101,Pueblo,1,2015,17165,38458,,,,,12015Pueblo
+,Route,1,2015,4961,14752,,,,,12015Route
+08113,San Miguel,1,2015,1559,10158,,,,,12015San Miguel
+08117,Summit,1,2015,7089,27756,,,,,12015Summit
+08123,Weld,1,2015,13850,31015,,,,,12015Weld
+,Remainder of State,1,2015,17241,62071,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Lake, Las Animas, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Grand, Lake, Las Animas, Montezuma, Morgan,  Ouray, Park, Saguache, and Sedgwick",,,12015Remainder of State
+08041,El Paso,1,2015,169625,,,,,,12015El Paso
+08043,Fremont,1,2015,5735,,,,,,12015Fremont
+08083,Montezuma,1,2015,3276,,,,,,12015Montezuma
+08001,Adams,12,2014,13462,38490,,,,,122014Adams
+08005,Arapahoe,12,2014,26638,23467,,,,,122014Arapahoe
+08013,Boulder,12,2014,64733,91020,,,,,122014Boulder
+08019,Clear Creek,12,2014,2585,8630,,,,,122014Clear Creek
+08031,Denver,12,2014,369967,419829,,,,,122014Denver
+08037,Eagle,12,2014,6806,10836,,,,,122014Eagle
+08045,Garfield,12,2014,7911,14475,,,,,122014Garfield
+08051,Gunnison,12,2014,1663,3215,,,,,122014Gunnison
+08059,Jefferson,12,2014,46641,47216,,,,,122014Jefferson
+08067,La Plata,12,2014,12529,18997,,,,,122014La Plata
+08069,Larimer,12,2014,31622,43355,,,,,122014Larimer
+08097,Pitkin,12,2014,2135,6478,,,,,122014Pitkin
+08101,Pueblo,12,2014,12066,39350,,,,,122014Pueblo
+08113,San Miguel,12,2014,532,4453,,,,,122014San Miguel
+08117,Summit,12,2014,4417,22938,,,,,122014Summit
+08123,Weld,12,2014,8877,28156,,,,,122014Weld
+,Remainder of State,12,2014,22944,56559,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Lake, Mesa, Moffat, Montezuma, Montrose, Ouray, Park, Routt, Sedgwick, and Teller","Archuleta, Chaffee, Costilla, El Paso, Gilpin, Lake, Las Animas, Ouray, Park, Routt, Saguache, and Sedgwick",,,122014Remainder of State
+08041,El Paso,12,2014,133682,,,,,,122014El Paso
+08043,Fremont,12,2014,3261,,,,,,122014Fremont
+08013,Boulder,11,2014,70690,99827,,,,,112014Boulder
+08019,Clear Creek,11,2014,2916,8868,,,,,112014Clear Creek
+08031,Denver,11,2014,480683,424815,,,,,112014Denver
+08037,Eagle,11,2014,8584,10563,,,,,112014Eagle
+08045,Garfield,11,2014,12527,15391,,,,,112014Garfield
+08051,Gunnison,11,2014,,5371,,,,,112014Gunnison
+08059,Jefferson,11,2014,48972,48372,,,,,112014Jefferson
+08069,Larimer,11,2014,32168,43276,,,,,112014Larimer
+08097,Pitkin,11,2014,2430,7001,,,,,112014Pitkin
+08101,Pueblo,11,2014,6543,32693,,,,,112014Pueblo
+08113,San Miguel,11,2014,1016,8259,,,,,112014San Miguel
+08117,Summit,11,2014,4996,16271,,,,,112014Summit
+08123,Weld,11,2014,10471,32041,,,,,112014Weld
+,Remainder of State,11,2014,26866,135502,"Alamosa, Archuleta, Chaffee, Costilla, Gilpin, Grand, Gunnison, Lake, Mesa, Moffat, Montezuma, Montrose, Morgan, Ouray, Park, Routt, Saguache, Sedgwick, and Teller","Adams, Arapohoe, Archuleta, Chaffee, El Paso, Gilpin, La Plata, Lake, Morgan, Ouray, Park, Routt, Saguache and Sedgwick",,,112014Remainder of State
+08001,Adams,11,2014,13305,,,,,,112014Adams
+08005,Arapahoe,11,2014,30817,,,,,,112014Arapahoe
+08041,El Paso,11,2014,154894,,,,,,112014El Paso
+08043,Fremont,11,2014,4563,,,,,,112014Fremont
+08067,La Plata,11,2014,15890,,,,,,112014La Plata
+08013,Boulder,10,2014,84153,101499,,,,,102014Boulder
+08019,Clear Creek,10,2014,2880,11083,,,,,102014Clear Creek
+08031,Denver,10,2014,420245,406376,,,,,102014Denver
+08037,Eagle,10,2014,1551,11167,,,,,102014Eagle
+08045,Garfield,10,2014,16510,16001,,,,,102014Garfield
+08047,Gilpin,10,2014,1105,3775,,,,,102014Gilpin
+08051,Gunnison,10,2014,,7460,,,,,102014Gunnison
+08059,Jefferson,10,2014,51577,47728,,,,,102014Jefferson
+08069,Larimer,10,2014,35881,39779,,,,,102014Larimer
+08097,Pitkin,10,2014,3177,9033,,,,,102014Pitkin
+08101,Pueblo,10,2014,7051,56126,,,,,102014Pueblo
+08113,San Miguel,10,2014,1423,14825,,,,,102014San Miguel
+08117,Summit,10,2014,6128,21294,,,,,102014Summit
+08123,Weld,10,2014,8152,34036,,,,,102014Weld
+,Remainder of State,10,2014,21210,106734,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa,    Moffat, Montrose, Morgan, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Archuleta, Chaffee, El Paso, La Plata, Lake, Morgan, Ouray, Park, Routt, Saguache and Sedgwick",,,102014Remainder of State
+08001,Adams,10,2014,12759,,,,,,102014Adams
+08005,Arapahoe,10,2014,28941,,,,,,102014Arapahoe
+08041,El Paso,10,2014,170037,,,,,,102014El Paso
+08043,Fremont,10,2014,7602,,,,,,102014Fremont
+08067,La Plata,10,2014,19256,,,,,,102014La Plata
+08083,Montezuma,10,2014,3497,,,,,,102014Montezuma
+08107,Routt,10,2014,5495,,,,,,102014Routt
+08001,Adams,9,2014,13510,,,,,,92014Adams
+08005,Arapahoe,9,2014,32668,,,,,,92014Arapahoe
+08013,Boulder,9,2014,79049,,,,,,92014Boulder
+08015,Chaffee,9,2014,2607,,,,,,92014Chaffee
+08019,Clear Creek,9,2014,2886,,,,,,92014Clear Creek
+08031,Denver,9,2014,434878,,,,,,92014Denver
+08037,Eagle,9,2014,6685,,,,,,92014Eagle
+08041,El Paso,9,2014,177673,,,,,,92014El Paso
+08043,Fremont,9,2014,6973,,,,,,92014Fremont
+08045,Garfield,9,2014,14370,,,,,,92014Garfield
+08047,Gilpin,9,2014,1179,,,,,,92014Gilpin
+08059,Jefferson,9,2014,52806,,,,,,92014Jefferson
+08067,La Plata,9,2014,16366,,,,,,92014La Plata
+08069,Larimer,9,2014,32046,,,,,,92014Larimer
+08083,Montezuma,9,2014,3669,,,,,,92014Montezuma
+08097,Pitkin,9,2014,3356,,,,,,92014Pitkin
+08101,Pueblo,9,2014,11639,,,,,,92014Pueblo
+08107,Routt,9,2014,10693,,,,,,92014Routt
+08113,San Miguel,9,2014,1299,,,,,,92014San Miguel
+08117,Summit,9,2014,4790,,,,,,92014Summit
+08123,Weld,9,2014,7631,,,,,,92014Weld
+,Remainder of State,9,2014,19034,,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache and Sedgwick",,,,92014Remainder of State
+08013,Boulder,8,2014,71626,92421,,,,,82014Boulder
+08019,Clear Creek,8,2014,3050,13876,,,,,82014Clear Creek
+08031,Denver,8,2014,376061,395192,,,,,82014Denver
+08045,Garfield,8,2014,11816,11386,,,,,82014Garfield
+08047,Gilpin,8,2014,964,4192,,,,,82014Gilpin
+08051,Gunnison,8,2014,,6326,,,,,82014Gunnison
+08059,Jefferson,8,2014,46348,44949,,,,,82014Jefferson
+08069,Larimer,8,2014,29607,34481,,,,,82014Larimer
+08097,Pitkin,8,2014,4435,14460,,,,,82014Pitkin
+08101,Pueblo,8,2014,16490,53501,,,,,82014Pueblo
+08113,San Miguel,8,2014,1823,20475,,,,,82014San Miguel
+08117,Summit,8,2014,5149,28848,,,,,82014Summit
+08123,Weld,8,2014,9092,33072,,,,,82014Weld
+,Remainder of State,8,2014,14232,67899,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Routt and Sedgwick","Adams, Eagle, Lake, Ouray, Park, Routt and Sedgwick.",,,82014Remainder of State
+08001,Adams,8,2014,12684,,,,,,82014Adams
+08005,Arapahoe,8,2014,31401,,,,,,82014Arapahoe
+08015,Chaffee,8,2014,4228,,,,,,82014Chaffee
+08037,Eagle,8,2014,3377,,,,,,82014Eagle
+08041,El Paso,8,2014,168736,,,,,,82014El Paso
+08043,Fremont,8,2014,7310,,,,,,82014Fremont
+08067,La Plata,8,2014,16929,,,,,,82014La Plata
+08083,Montezuma,8,2014,3354,,,,,,82014Montezuma
+08013,Boulder,7,2014,63803,77019,,,,,72014Boulder
+08019,Clear Creek,7,2014,2747,11442,,,,,72014Clear Creek
+08031,Denver,7,2014,378415,366377,,,,,72014Denver
+08045,Garfield,7,2014,11069,11409,,,,,72014Garfield
+08047,Gilpin,7,2014,1269,5234,,,,,72014Gilpin
+08059,Jefferson,7,2014,49197,40723,,,,,72014Jefferson
+08097,Pitkin,7,2014,2363,9296,,,,,72014Pitkin
+08101,Pueblo,7,2014,8823,50988,,,,,72014Pueblo
+08113,San Miguel,7,2014,2035,9295,,,,,72014San Miguel
+08117,Summit,7,2014,5031,19959,,,,,72014Summit
+08123,Weld,7,2014,13084,22550,,,,,72014Weld
+,Remainder of State,7,2014,20933,75816,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Routt and Sedgwick","Adams, Eagle, Gunnison, Lake, Larimer, Ouray, Park, Routt and Sedgwick.",,,72014Remainder of State
+08001,Adams,7,2014,12144,,,,,,72014Adams
+08005,Arapahoe,7,2014,28959,,,,,,72014Arapahoe
+08015,Chaffee,7,2014,2939,,,,,,72014Chaffee
+08037,Eagle,7,2014,3903,,,,,,72014Eagle
+08041,El Paso,7,2014,158300,,,,,,72014El Paso
+08043,Fremont,7,2014,11845,,,,,,72014Fremont
+08067,La Plata,7,2014,16104,,,,,,72014La Plata
+08069,Larimer,7,2014,32545,,,,,,72014Larimer
+08083,Montezuma,7,2014,5352,,,,,,72014Montezuma
+08013,Boulder,6,2014,75248,66999,,,,,62014Boulder
+08019,Clear Creek,6,2014,2768,11848,,,,,62014Clear Creek
+08031,Denver,6,2014,448749,330940,,,,,62014Denver
+08045,Garfield,6,2014,14261,8462,,,,,62014Garfield
+08047,Gilpin,6,2014,1298,3911,,,,,62014Gilpin
+08059,Jefferson,6,2014,51392,40920,,,,,62014Jefferson
+08097,Pitkin,6,2014,4027,5360,,,,,62014Pitkin
+08101,Pueblo,6,2014,13263,41559,,,,,62014Pueblo
+08113,San Miguel,6,2014,1863,7740,,,,,62014San Miguel
+08117,Summit,6,2014,5659,31904,,,,,62014Summit
+08123,Weld,6,2014,14504,20016,,,,,62014Weld
+,Remainder of State,6,2014,16146,72464,"Alamosa, Archuleta, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, and Sedgwick.","Adams, Eagle, Gunnison, Lake, Larimer, Ouray, Park, and Routt.",,,62014Remainder of State
+08001,Adams,6,2014,19753,,,,,,62014Adams
+08005,Arapahoe,6,2014,29480,,,,,,62014Arapahoe
+08015,Chaffee,6,2014,3066,,,,,,62014Chaffee
+08037,Eagle,6,2014,5326,,,,,,62014Eagle
+08041,El Paso,6,2014,161302,,,,,,62014El Paso
+08043,Fremont,6,2014,4663,,,,,,62014Fremont
+08067,La Plata,6,2014,15120,,,,,,62014La Plata
+08069,Larimer,6,2014,30427,,,,,,62014Larimer
+08083,Montezuma,6,2014,4176,,,,,,62014Montezuma
+08107,Routt,6,2014,4761,,,,,,62014Routt
+08013,Boulder,5,2014,88590,53566,,,,,52014Boulder
+08019,Clear Creek,5,2014,2632,9153,,,,,52014Clear Creek
+08031,Denver,5,2014,421106,384369,,,,,52014Denver
+08047,Gilpin,5,2014,1214,3791,,,,,52014Gilpin
+08059,Jefferson,5,2014,67475,39183,,,,,52014Jefferson
+08097,Pitkin,5,2014,4325,6714,,,,,52014Pitkin
+08101,Pueblo,5,2014,11468,32603,,,,,52014Pueblo
+08113,San Miguel,5,2014,1429,6034,,,,,52014San Miguel
+08117,Summit,5,2014,8120,22761,,,,,52014Summit
+08123,Weld,5,2014,14716,14974,,,,,52014Weld
+,Remainder of State,5,2014,19731,66580,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Garfield, Gunnison, Lake, Larimer, Ouray, Park, and Routt.",,,52014Remainder of State
+08001,Adams,5,2014,6351,,,,,,52014Adams
+08005,Arapahoe,5,2014,38484,,,,,,52014Arapahoe
+08037,Eagle,5,2014,8591,,,,,,52014Eagle
+08041,El Paso,5,2014,144236,,,,,,52014El Paso
+08043,Fremont,5,2014,5689,,,,,,52014Fremont
+08045,Garfield,5,2014,10033,,,,,,52014Garfield
+08067,La Plata,5,2014,22917,,,,,,52014La Plata
+08069,Larimer,5,2014,35514,,,,,,52014Larimer
+08083,Montezuma,5,2014,2134,,,,,,52014Montezuma
+08107,Routt,5,2014,5227,,,,,,52014Routt
+08013,Boulder,4,2014,94702,40136,,,,,42014Boulder
+08019,Clear Creek,4,2014,3982,15972,,,,,42014Clear Creek
+08031,Denver,4,2014,489964,295126,,,,,42014Denver
+08047,Gilpin,4,2014,970,3968,,,,,42014Gilpin
+08059,Jefferson,4,2014,57720,30120,,,,,42014Jefferson
+08101,Pueblo,4,2014,14555,51330,,,,,42014Pueblo
+08113,San Miguel,4,2014,3177,9620,,,,,42014San Miguel
+08117,Summit,4,2014,6003,29054,,,,,42014Summit
+,Remainder of State,4,2014,23768,94179,"Alamosa, Archuleta, Chaffee, Costilla, Gunnison, Lake, Mesa, Moffat, Montezuma, Montrose, Ouray, Park, Saguache, and Sedgwick.","Adams, Garfield, Gunnison, Lake, Ouray, Park, Pitkin, Routt, and Weld.",,,42014Remainder of State
+08001,Adams,4,2014,13534,,,,,,42014Adams
+08005,Arapahoe,4,2014,29504,,,,,,42014Arapahoe
+08037,Eagle,4,2014,4867,,,,,,42014Eagle
+08041,El Paso,4,2014,155230,,,,,,42014El Paso
+08043,Fremont,4,2014,6589,,,,,,42014Fremont
+08045,Garfield,4,2014,13101,,,,,,42014Garfield
+08067,La Plata,4,2014,16639,,,,,,42014La Plata
+08069,Larimer,4,2014,32081,,,,,,42014Larimer
+08097,Pitkin,4,2014,11125,,,,,,42014Pitkin
+08107,Routt,4,2014,5928,,,,,,42014Routt
+08123,Weld,4,2014,16461,,,,,,42014Weld
+08019,Clear Creek,3,2014,2845,12491,,,,,32014Clear Creek
+08031,Denver,3,2014,483432,245709,,,,,32014Denver
+08047,Gilpin,3,2014,918,6833,,,,,32014Gilpin
+08059,Jefferson,3,2014,55944,24961,,,,,32014Jefferson
+08101,Pueblo,3,2014,14683,15262,,,,,32014Pueblo
+08113,San Miguel,3,2014,5016,5786,,,,,32014San Miguel
+08117,Summit,3,2014,9343,31584,,,,,32014Summit
+,Remainder of State,3,2014,16668,95627,"Alamosa, Archuleta, Chaffee, Costilla, Grand, Gunnison, Lake, Mesa, Moffat, Montrose, Ouray, Park, Saguache, Sedgwick, and Teller","Adams, Boulder, Garfield, Gunnison, Lake, Ouray, Park, Routt, and Weld",,,32014Remainder of State
+08001,Adams,3,2014,14491,,,,,,32014Adams
+08005,Arapahoe,3,2014,30854,,,,,,32014Arapahoe
+08013,Boulder,3,2014,104687,,,,,,32014Boulder
+08037,Eagle,3,2014,8289,,,,,,32014Eagle
+08041,El Paso,3,2014,177929,,,,,,32014El Paso
+08043,Fremont,3,2014,5063,,,,,,32014Fremont
+08045,Garfield,3,2014,10626,,,,,,32014Garfield
+08067,La Plata,3,2014,13041,,,,,,32014La Plata
+08069,Larimer,3,2014,33897,,,,,,32014Larimer
+08083,Montezuma,3,2014,2651,,,,,,32014Montezuma
+08097,Pitkin,3,2014,2398,,,,,,32014Pitkin
+08107,Routt,3,2014,9018,,,,,,32014Routt
+08123,Weld,3,2014,20383,,,,,,32014Weld
+08019,Clear Creek,2,2014,3952,12770,,,,,22014Clear Creek
+08031,Denver,2,2014,442941,256756,,,,,22014Denver
+08047,Gilpin,2,2014,1269,5380,,,,,22014Gilpin
+08059,Jefferson,2,2014,54443,24416,,,,,22014Jefferson
+08113,San Miguel,2,2014,2319,12121,,,,,22014San Miguel
+08117,Summit,2,2014,7681,37274,,,,,22014Summit
+,Remainder of State,2,2014,10067,67972,"Alamosa, Archuleta, Costilla, Grand, Lake, Mesa, Moffat, Montrose, Ouray, Park, Sedgwick, and Teller","Adams, Garfield, Lake, Park, Pueblo, Routt, and Weld.",,,22014Remainder of State
+08001,Adams,2,2014,18254,,,,,,22014Adams
+08005,Arapahoe,2,2014,25951,,,,,,22014Arapahoe
+08013,Boulder,2,2014,97913,,,,,,22014Boulder
+08015,Chaffee,2,2014,2338,,,,,,22014Chaffee
+08037,Eagle,2,2014,4141,,,,,,22014Eagle
+08041,El Paso,2,2014,141447,,,,,,22014El Paso
+08043,Fremont,2,2014,4726,,,,,,22014Fremont
+08045,Garfield,2,2014,16674,,,,,,22014Garfield
+08051,Gunnison,2,2014,1992,,,,,,22014Gunnison
+08067,La Plata,2,2014,13422,,,,,,22014La Plata
+08069,Larimer,2,2014,21404,,,,,,22014Larimer
+08083,Montezuma,2,2014,4266,,,,,,22014Montezuma
+08097,Pitkin,2,2014,6999,,,,,,22014Pitkin
+08101,Pueblo,2,2014,6249,,,,,,22014Pueblo
+08107,Routt,2,2014,4171,,,,,,22014Routt
+08123,Weld,2,2014,20901,,,,,,22014Weld
+08001,Adams,9,2019,20297,,,,,,92019Adams
+08003,Alamosa,9,2019,,,,,NR,,92019Alamosa
+08005,Arapahoe,9,2019,26477,,,,,,92019Arapahoe
+08013,Boulder,9,2019,35837,,,,,,92019Boulder
+08015,Chaffee,9,2019,,,,,NR,,92019Chaffee
+08019,Clear Creek,9,2019,,,,,NR,,92019Clear Creek
+08029,Delta,9,2019,,,,,NR,,92019Delta
+08031,Denver,9,2019,362152,,,,,,92019Denver
+08037,Eagle,9,2019,2970,,,,,,92019Eagle
+08041,El Paso,9,2019,308682,,,,,,92019El Paso
+08043,Fremont,9,2019,,,,,NR,,92019Fremont
+08045,Garfield,9,2019,2990,,,,,,92019Garfield
+08049,Grand,9,2019,,,,,NR,,92019Grand
+08059,Jefferson,9,2019,43135,,,,,,92019Jefferson
+08067,La Plata,9,2019,,,,,NR,,92019La Plata
+08069,Larimer,9,2019,22385,,,,,,92019Larimer
+08071,Las Animas,9,2019,1558,,,,,,92019Las Animas
+08077,Mesa,9,2019,,,,,NR,,92019Mesa
+08081,Moffat,9,2019,,,,,NR,,92019Moffat
+08083,Montezuma,9,2019,,,,,NR,,92019Montezuma
+08085,Montrose,9,2019,,,,,NR,,92019Montrose
+08087,Morgan,9,2019,,,,,NR,,92019Morgan
+08089,Otero,9,2019,,,,,NR,,92019Otero
+08093,Park,9,2019,,,,,NR,,92019Park
+08097,Pitkin,9,2019,,,,,NR,,92019Pitkin
+08101,Pueblo,9,2019,28451,,,,,,92019Pueblo
+08107,Routt,9,2019,4263,,,,,,92019Routt
+08113,San Miguel,9,2019,,,,,NR,,92019San Miguel
+08115,Sedgwick,9,2019,,,,,NR,,92019Sedgwick
+08117,Summit,9,2019,3486,,,,,,92019Summit
+08123,Weld,9,2019,9856,,,,,,92019Weld
+,Sum of NR Counties,9,2019,23362,,,,,,92019Sum of NR Counties
+08001,Adams,10,2019,20498,,,,,,102019Adams
+08003,Alamosa,10,2019,,,,,NR,,102019Alamosa
+08005,Arapahoe,10,2019,23973,,,,,,102019Arapahoe
+08013,Boulder,10,2019,32954,,,,,,102019Boulder
+08015,Chaffee,10,2019,,,,,NR,,102019Chaffee
+08019,Clear Creek,10,2019,331,,,,,,102019Clear Creek
+08029,Delta,10,2019,,,,,NR,,102019Delta
+08031,Denver,10,2019,352082,,,,,,102019Denver
+08037,Eagle,10,2019,2603,,,,,,102019Eagle
+08041,El Paso,10,2019,278351,,,,,,102019El Paso
+08043,Fremont,10,2019,7840,,,,,,102019Fremont
+08045,Garfield,10,2019,2960,,,,,,102019Garfield
+08049,Grand,10,2019,,,,,NR,,102019Grand
+08059,Jefferson,10,2019,36904,,,,,,102019Jefferson
+08067,La Plata,10,2019,,,,,NR,,102019La Plata
+08069,Larimer,10,2019,23181,,,,,,102019Larimer
+08071,Las Animas,10,2019,732,,,,,,102019Las Animas
+08077,Mesa,10,2019,,,,,NR,,102019Mesa
+08081,Moffat,10,2019,,,,,NR,,102019Moffat
+08083,Montezuma,10,2019,,,,,NR,,102019Montezuma
+08085,Montrose,10,2019,,,,,NR,,102019Montrose
+08087,Morgan,10,2019,,,,,NR,,102019Morgan
+08089,Otero,10,2019,,,,,NR,,102019Otero
+08093,Park,10,2019,,,,,NR,,102019Park
+08097,Pitkin,10,2019,,,,,NR,,102019Pitkin
+08101,Pueblo,10,2019,26742,,,,,,102019Pueblo
+08107,Routt,10,2019,4308,,,,,,102019Routt
+08113,San Miguel,10,2019,,,,,NR,,102019San Miguel
+08115,Sedgwick,10,2019,,,,,NR,,102019Sedgwick
+08117,Summit,10,2019,2209,,,,,,102019Summit
+08123,Weld,10,2019,8978,,,,,,102019Weld
+,Sum of NR Counties,10,2019,19639,,,,,,102019Sum of NR Counties
+08001,Adams,11,2019,19152,,,,,,112019Adams
+08003,Alamosa,11,2019,,,,,NR,,112019Alamosa
+08005,Arapahoe,11,2019,26106,,,,,,112019Arapahoe
+08013,Boulder,11,2019,33713,,,,,,112019Boulder
+08015,Chaffee,11,2019,,,,,NR,,112019Chaffee
+08019,Clear Creek,11,2019,,,,,NR,,112019Clear Creek
+08029,Delta,11,2019,,,,,NR,,112019Delta
+08031,Denver,11,2019,338064,,,,,,112019Denver
+08037,Eagle,11,2019,2610,,,,,,112019Eagle
+08041,El Paso,11,2019,263194,,,,,,112019El Paso
+08043,Fremont,11,2019,,,,,NR,,112019Fremont
+08045,Garfield,11,2019,2413,,,,,,112019Garfield
+08049,Grand,11,2019,,,,,NR,,112019Grand
+08059,Jefferson,11,2019,33383,,,,,,112019Jefferson
+08067,La Plata,11,2019,,,,,NR,,112019La Plata
+08069,Larimer,11,2019,19621,,,,,,112019Larimer
+08071,Las Animas,11,2019,674,,,,,,112019Las Animas
+08077,Mesa,11,2019,,,,,NR,,112019Mesa
+08081,Moffat,11,2019,,,,,NR,,112019Moffat
+08083,Montezuma,11,2019,,,,,NR,,112019Montezuma
+08085,Montrose,11,2019,,,,,NR,,112019Montrose
+08087,Morgan,11,2019,,,,,NR,,112019Morgan
+08089,Otero,11,2019,,,,,NR,,112019Otero
+08093,Park,11,2019,,,,,NR,,112019Park
+08097,Pitkin,11,2019,,,,,NR,,112019Pitkin
+08101,Pueblo,11,2019,22045,,,,,,112019Pueblo
+08107,Routt,11,2019,4478,,,,,,112019Routt
+08113,San Miguel,11,2019,,,,,NR,,112019San Miguel
+08115,Sedgwick,11,2019,,,,,NR,,112019Sedgwick
+08117,Summit,11,2019,2063,,,,,,112019Summit
+08123,Weld,11,2019,8923,,,,,,112019Weld
+,Sum of NR Counties,11,2019,22938,,,,,,112019Sum of NR Counties
+08079,Mineral,11,2019,,,,,,,112019Mineral
+08119,Teller,11,2019,,,,,,,112019Teller
+08027,Custer,11,2019,,,,,,,112019Custer
+08023,Costilla,11,2019,,,,,,,112019Costilla
+08033,Dolores,11,2019,,,,,,,112019Dolores
+08009,Baca,11,2019,,,,,,,112019Baca
+08109,Saguache,11,2019,,,,,,,112019Saguache
+08061,Kiowa,11,2019,,,,,,,112019Kiowa
+08091,Ouray,11,2019,,,,,,,112019Ouray
+08065,Lake,11,2019,,,,,,,112019Lake
+08017,Cheyenne,11,2019,,,,,,,112019Cheyenne
+08099,Prowers,11,2019,,,,,,,112019Prowers
+08053,Hinsdale,11,2019,,,,,,,112019Hinsdale
+08095,Phillips,11,2019,,,,,,,112019Phillips
+08007,Archuleta,11,2019,,,,,,,112019Archuleta
+08111,San Juan,11,2019,,,,,,,112019San Juan
+08075,Logan,11,2019,,,,,,,112019Logan
+08063,Kit Carson,11,2019,,,,,,,112019Kit Carson
+08039,Elbert,11,2019,,,,,,,112019Elbert
+08021,Conejos,11,2019,,,,,,,112019Conejos
+08014,Broomfield,11,2019,,,,,,,112019Broomfield
+08121,Washington,11,2019,,,,,,,112019Washington
+08011,Bent,11,2019,,,,,,,112019Bent
+08105,Rio Grande,11,2019,,,,,,,112019Rio Grande
+08055,Huerfano,11,2019,,,,,,,112019Huerfano
+08073,Lincoln,11,2019,,,,,,,112019Lincoln
+08051,Gunnison,11,2019,,,,,,,112019Gunnison
+08047,Gilpin,11,2019,,,,,,,112019Gilpin
+08025,Crowley,11,2019,,,,,,,112019Crowley
+08103,Rio Blanco,11,2019,,,,,,,112019Rio Blanco
+08125,Yuma,11,2019,,,,,,,112019Yuma
+08035,Douglas,11,2019,,,,,,,112019Douglas
+08057,Jackson,11,2019,,,,,,,112019Jackson
+08095,Phillips,1,2020,,,,,,,12020Phillips
+08035,Douglas,1,2020,,,,,,,12020Douglas
+08077,Mesa,1,2020,,,,,NR,,12020Mesa
+08067,La Plata,1,2020,,,,,NR,,12020La Plata
+08079,Mineral,1,2020,,,,,,,12020Mineral
+08014,Broomfield,1,2020,,,,,,,12020Broomfield
+08049,Grand,1,2020,,,,,NR,,12020Grand
+08065,Lake,1,2020,,,,,,,12020Lake
+08033,Dolores,1,2020,,,,,,,12020Dolores
+08109,Saguache,1,2020,,,,,,,12020Saguache
+08081,Moffat,1,2020,,,,,NR,,12020Moffat
+08055,Huerfano,1,2020,,,,,,,12020Huerfano
+08073,Lincoln,1,2020,,,,,,,12020Lincoln
+08021,Conejos,1,2020,,,,,,,12020Conejos
+08017,Cheyenne,1,2020,,,,,,,12020Cheyenne
+08009,Baca,1,2020,,,,,,,12020Baca
+08091,Ouray,1,2020,,,,,,,12020Ouray
+08105,Rio Grande,1,2020,,,,,,,12020Rio Grande
+08003,Alamosa,1,2020,,,,,NR,,12020Alamosa
+08113,San Miguel,1,2020,,,,,NR,,12020San Miguel
+08063,Kit Carson,1,2020,,,,,,,12020Kit Carson
+08121,Washington,1,2020,,,,,,,12020Washington
+08061,Kiowa,1,2020,,,,,,,12020Kiowa
+08125,Yuma,1,2020,,,,,,,12020Yuma
+08039,Elbert,1,2020,,,,,,,12020Elbert
+08115,Sedgwick,1,2020,,,,,NR,,12020Sedgwick
+08111,San Juan,1,2020,,,,,,,12020San Juan
+08007,Archuleta,1,2020,,,,,,,12020Archuleta
+08029,Delta,1,2020,,,,,NR,,12020Delta
+08043,Fremont,1,2020,,,,,NR,,12020Fremont
+08085,Montrose,1,2020,,,,,NR,,12020Montrose
+08047,Gilpin,1,2020,,,,,,,12020Gilpin
+08019,Clear Creek,1,2020,,,,,NR,,12020Clear Creek
+08089,Otero,1,2020,,,,,NR,,12020Otero
+08093,Park,1,2020,,,,,NR,,12020Park
+08075,Logan,1,2020,,,,,,,12020Logan
+08027,Custer,1,2020,,,,,,,12020Custer
+08011,Bent,1,2020,,,,,,,12020Bent
+08099,Prowers,1,2020,,,,,,,12020Prowers
+08053,Hinsdale,1,2020,,,,,,,12020Hinsdale
+08023,Costilla,1,2020,,,,,,,12020Costilla
+08103,Rio Blanco,1,2020,,,,,,,12020Rio Blanco
+08015,Chaffee,1,2020,,,,,NR,,12020Chaffee
+08025,Crowley,1,2020,,,,,,,12020Crowley
+08057,Jackson,1,2020,,,,,,,12020Jackson
+08083,Montezuma,1,2020,,,,,NR,,12020Montezuma
+08119,Teller,1,2020,,,,,,,12020Teller
+08051,Gunnison,1,2020,,,,,,,12020Gunnison
+08087,Morgan,1,2020,,,,,NR,,12020Morgan
+08014,Broomfield,12,2019,,,,,,,122019Broomfield
+08093,Park,12,2019,,,,,NR,,122019Park
+08121,Washington,12,2019,,,,,,,122019Washington
+08043,Fremont,12,2019,,,,,NR,,122019Fremont
+08083,Montezuma,12,2019,,,,,NR,,122019Montezuma
+08109,Saguache,12,2019,,,,,,,122019Saguache
+08075,Logan,12,2019,,,,,,,122019Logan
+08073,Lincoln,12,2019,,,,,,,122019Lincoln
+08119,Teller,12,2019,,,,,,,122019Teller
+08091,Ouray,12,2019,,,,,,,122019Ouray
+08071,Las Animas,12,2019,782,,,,,,122019Las Animas
+08117,Summit,12,2019,1752,,,,,,122019Summit
+08031,Denver,12,2019,328858,,,,,,122019Denver
+08051,Gunnison,12,2019,,,,,,,122019Gunnison
+08077,Mesa,12,2019,,,,,NR,,122019Mesa
+08045,Garfield,12,2019,3097,,,,,,122019Garfield
+08089,Otero,12,2019,,,,,NR,,122019Otero
+08047,Gilpin,12,2019,,,,,,,122019Gilpin
+08087,Morgan,12,2019,,,,,NR,,122019Morgan
+08025,Crowley,12,2019,,,,,,,122019Crowley
+08101,Pueblo,12,2019,21702,,,,,,122019Pueblo
+08081,Moffat,12,2019,,,,,NR,,122019Moffat
+08017,Cheyenne,12,2019,,,,,,,122019Cheyenne
+08041,El Paso,12,2019,250347,,,,,,122019El Paso
+08055,Huerfano,12,2019,,,,,,,122019Huerfano
+08057,Jackson,12,2019,,,,,,,122019Jackson
+08063,Kit Carson,12,2019,,,,,,,122019Kit Carson
+08103,Rio Blanco,12,2019,,,,,,,122019Rio Blanco
+08099,Prowers,12,2019,,,,,,,122019Prowers
+08035,Douglas,12,2019,,,,,,,122019Douglas
+08023,Costilla,12,2019,,,,,,,122019Costilla
+08049,Grand,12,2019,,,,,NR,,122019Grand
+08105,Rio Grande,12,2019,,,,,,,122019Rio Grande
+08111,San Juan,12,2019,,,,,,,122019San Juan
+08019,Clear Creek,12,2019,,,,,NR,,122019Clear Creek
+08085,Montrose,12,2019,,,,,NR,,122019Montrose
+08125,Yuma,12,2019,,,,,,,122019Yuma
+08029,Delta,12,2019,,,,,NR,,122019Delta
+08067,La Plata,12,2019,,,,,NR,,122019La Plata
+08069,Larimer,12,2019,27848,,,,,,122019Larimer
+08013,Boulder,12,2019,34197,,,,,,122019Boulder
+08107,Routt,12,2019,4351,,,,,,122019Routt
+08009,Baca,12,2019,,,,,,,122019Baca
+08003,Alamosa,12,2019,,,,,NR,,122019Alamosa
+08059,Jefferson,12,2019,37553,,,,,,122019Jefferson
+08061,Kiowa,12,2019,,,,,,,122019Kiowa
+,Sum of NR Counties,12,2019,23352,,,,,,122019Sum of NR Counties
+08007,Archuleta,12,2019,,,,,,,122019Archuleta
+08011,Bent,12,2019,,,,,,,122019Bent
+08123,Weld,12,2019,8821,,,,,,122019Weld
+08039,Elbert,12,2019,,,,,,,122019Elbert
+08097,Pitkin,12,2019,,,,,NR,,122019Pitkin
+08037,Eagle,12,2019,2494,,,,,,122019Eagle
+08021,Conejos,12,2019,,,,,,,122019Conejos
+08005,Arapahoe,12,2019,22680,,,,,,122019Arapahoe
+08027,Custer,12,2019,,,,,,,122019Custer
+08079,Mineral,12,2019,,,,,,,122019Mineral
+08113,San Miguel,12,2019,,,,,NR,,122019San Miguel
+08065,Lake,12,2019,,,,,,,122019Lake
+08053,Hinsdale,12,2019,,,,,,,122019Hinsdale
+08015,Chaffee,12,2019,,,,,NR,,122019Chaffee
+08033,Dolores,12,2019,,,,,,,122019Dolores
+08095,Phillips,12,2019,,,,,,,122019Phillips
+08001,Adams,12,2019,19222,,,,,,122019Adams
+08115,Sedgwick,12,2019,,,,,NR,,122019Sedgwick
+08069,Larimer,1,2020,22888,,,,,,12020Larimer
+,Sum of NR Counties,1,2020,25519,,,,,,12020Sum of NR Counties
+08045,Garfield,1,2020,4081,,,,,,12020Garfield
+08001,Adams,1,2020,19848,,,,,,12020Adams
+08071,Las Animas,1,2020,762,,,,,,12020Las Animas
+08123,Weld,1,2020,8826,,,,,,12020Weld
+08117,Summit,1,2020,,,,,NR,,12020Summit
+08031,Denver,1,2020,332252,,,,,,12020Denver
+08101,Pueblo,1,2020,24781,,,,,,12020Pueblo
+08005,Arapahoe,1,2020,26176,,,,,,12020Arapahoe
+08059,Jefferson,1,2020,52654,,,,,,12020Jefferson
+08041,El Paso,1,2020,504474,,,,,,12020El Paso
+08037,Eagle,1,2020,3973,,,,,,12020Eagle
+08107,Routt,1,2020,4310,,,,,,12020Routt
+08097,Pitkin,1,2020,2048,,,,,,12020Pitkin
+08013,Boulder,1,2020,35498,,,,,,12020Boulder
+08003,Alamosa,2,2020,,,,,NR,,22020Alamosa
+08023,Costilla,2,2020,,,,,,,22020Costilla
+08111,San Juan,2,2020,,,,,,,22020San Juan
+08069,Larimer,2,2020,21136,,,,,,22020Larimer
+08087,Morgan,2,2020,,,,,NR,,22020Morgan
+08019,Clear Creek,2,2020,,,,,NR,,22020Clear Creek
+08079,Mineral,2,2020,,,,,,,22020Mineral
+08107,Routt,2,2020,4282,,,,,,22020Routt
+08047,Gilpin,2,2020,,,,,,,22020Gilpin
+08085,Montrose,2,2020,,,,,NR,,22020Montrose
+08113,San Miguel,2,2020,,,,,NR,,22020San Miguel
+08045,Garfield,2,2020,2051,,,,,,22020Garfield
+08071,Las Animas,2,2020,745,,,,,,22020Las Animas
+08049,Grand,2,2020,,,,,NR,,22020Grand
+08075,Logan,2,2020,,,,,,,22020Logan
+08125,Yuma,2,2020,,,,,,,22020Yuma
+08073,Lincoln,2,2020,,,,,,,22020Lincoln
+08035,Douglas,2,2020,,,,,,,22020Douglas
+08041,El Paso,2,2020,236843,,,,,,22020El Paso
+08063,Kit Carson,2,2020,,,,,,,22020Kit Carson
+08067,La Plata,2,2020,,,,,NR,,22020La Plata
+08009,Baca,2,2020,,,,,,,22020Baca
+08059,Jefferson,2,2020,37797,,,,,,22020Jefferson
+08097,Pitkin,2,2020,,,,,NR,,22020Pitkin
+08053,Hinsdale,2,2020,,,,,,,22020Hinsdale
+08109,Saguache,2,2020,,,,,,,22020Saguache
+08029,Delta,2,2020,,,,,NR,,22020Delta
+08055,Huerfano,2,2020,,,,,,,22020Huerfano
+08011,Bent,2,2020,,,,,,,22020Bent
+08017,Cheyenne,2,2020,,,,,,,22020Cheyenne
+08027,Custer,2,2020,,,,,,,22020Custer
+08025,Crowley,2,2020,,,,,,,22020Crowley
+08089,Otero,2,2020,,,,,NR,,22020Otero
+08013,Boulder,2,2020,31510,,,,,,22020Boulder
+08031,Denver,2,2020,315554,,,,,,22020Denver
+08061,Kiowa,2,2020,,,,,,,22020Kiowa
+08095,Phillips,2,2020,,,,,,,22020Phillips
+08119,Teller,2,2020,,,,,,,22020Teller
+08057,Jackson,2,2020,,,,,,,22020Jackson
+08007,Archuleta,2,2020,,,,,,,22020Archuleta
+08037,Eagle,2,2020,2955,,,,,,22020Eagle
+08117,Summit,2,2020,,,,,NR,,22020Summit
+08081,Moffat,2,2020,,,,,,,22020Moffat
+08121,Washington,2,2020,,,,,,,22020Washington
+08091,Ouray,2,2020,,,,,,,22020Ouray
+08033,Dolores,2,2020,,,,,,,22020Dolores
+08083,Montezuma,2,2020,,,,,NR,,22020Montezuma
+08001,Adams,2,2020,16934,,,,,,22020Adams
+08043,Fremont,2,2020,,,,,NR,,22020Fremont
+08115,Sedgwick,2,2020,,,,,NR,,22020Sedgwick
+08005,Arapahoe,2,2020,23241,,,,,,22020Arapahoe
+08077,Mesa,2,2020,,,,,NR,,22020Mesa
+08105,Rio Grande,2,2020,,,,,,,22020Rio Grande
+08065,Lake,2,2020,,,,,,,22020Lake
+08015,Chaffee,2,2020,,,,,NR,,22020Chaffee
+08014,Broomfield,2,2020,,,,,,,22020Broomfield
+08039,Elbert,2,2020,,,,,,,22020Elbert
+08093,Park,2,2020,,,,,NR,,22020Park
+08103,Rio Blanco,2,2020,,,,,,,22020Rio Blanco
+08099,Prowers,2,2020,,,,,,,22020Prowers
+08021,Conejos,2,2020,,,,,,,22020Conejos
+08101,Pueblo,2,2020,18012,,,,,,22020Pueblo
+08051,Gunnison,2,2020,,,,,,,22020Gunnison
+08123,Weld,2,2020,8031,,,,,,22020Weld
+,Sum of NR Counties,2,2020,23601,,,,,,22020Sum of NR Counties
+08077,Mesa,3,2020,,,,,NR,,32020Mesa
+08087,Morgan,3,2020,,,,,NR,,32020Morgan
+08079,Mineral,3,2020,,,,,,,32020Mineral
+08007,Archuleta,3,2020,,,,,,,32020Archuleta
+08009,Baca,3,2020,,,,,,,32020Baca
+08014,Broomfield,3,2020,,,,,,,32020Broomfield
+08073,Lincoln,3,2020,,,,,,,32020Lincoln
+08125,Yuma,3,2020,,,,,,,32020Yuma
+08029,Delta,3,2020,,,,,NR,,32020Delta
+08083,Montezuma,3,2020,,,,,NR,,32020Montezuma
+08121,Washington,3,2020,,,,,,,32020Washington
+08033,Dolores,3,2020,,,,,,,32020Dolores
+08047,Gilpin,3,2020,,,,,,,32020Gilpin
+08101,Pueblo,3,2020,21924,,,,,,32020Pueblo
+08013,Boulder,3,2020,34790,,,,,,32020Boulder
+08117,Summit,3,2020,,,,,NR,,32020Summit
+08023,Costilla,3,2020,,,,,,,32020Costilla
+08111,San Juan,3,2020,,,,,,,32020San Juan
+08049,Grand,3,2020,,,,,NR,,32020Grand
+08103,Rio Blanco,3,2020,,,,,,,32020Rio Blanco
+08019,Clear Creek,3,2020,,,,,,,32020Clear Creek
+08119,Teller,3,2020,,,,,,,32020Teller
+08037,Eagle,3,2020,2908,,,,,,32020Eagle
+08003,Alamosa,3,2020,,,,,NR,,32020Alamosa
+08081,Moffat,3,2020,,,,,NR,,32020Moffat
+08095,Phillips,3,2020,,,,,,,32020Phillips
+08093,Park,3,2020,,,,,NR,,32020Park
+08059,Jefferson,3,2020,37116,,,,,,32020Jefferson
+08001,Adams,3,2020,17012,,,,,,32020Adams
+08021,Conejos,3,2020,,,,,,,32020Conejos
+08097,Pitkin,3,2020,,,,,NR,,32020Pitkin
+08105,Rio Grande,3,2020,,,,,,,32020Rio Grande
+08123,Weld,3,2020,8066,,,,,,32020Weld
+08091,Ouray,3,2020,,,,,,,32020Ouray
+08115,Sedgwick,3,2020,,,,,NR,,32020Sedgwick
+08039,Elbert,3,2020,,,,,,,32020Elbert
+08051,Gunnison,3,2020,,,,,,,32020Gunnison
+08071,Las Animas,3,2020,695,,,,,,32020Las Animas
+08041,El Paso,3,2020,232258,,,,,,32020El Paso
+08089,Otero,3,2020,,,,,NR,,32020Otero
+08113,San Miguel,3,2020,,,,,NR,,32020San Miguel
+08045,Garfield,3,2020,3282,,,,,,32020Garfield
+08035,Douglas,3,2020,,,,,,,32020Douglas
+08069,Larimer,3,2020,19942,,,,,,32020Larimer
+08017,Cheyenne,3,2020,,,,,,,32020Cheyenne
+08099,Prowers,3,2020,,,,,,,32020Prowers
+08065,Lake,3,2020,,,,,,,32020Lake
+08107,Routt,3,2020,4016,,,,,,32020Routt
+08031,Denver,3,2020,309396,,,,,,32020Denver
+08109,Saguache,3,2020,,,,,,,32020Saguache
+08057,Jackson,3,2020,,,,,,,32020Jackson
+08061,Kiowa,3,2020,,,,,,,32020Kiowa
+08085,Montrose,3,2020,,,,,NR,,32020Montrose
+08027,Custer,3,2020,,,,,,,32020Custer
+08025,Crowley,3,2020,,,,,,,32020Crowley
+08011,Bent,3,2020,,,,,,,32020Bent
+08063,Kit Carson,3,2020,,,,,,,32020Kit Carson
+08075,Logan,3,2020,,,,,,,32020Logan
+08015,Chaffee,3,2020,,,,,NR,,32020Chaffee
+08043,Fremont,3,2020,,,,,NR,,32020Fremont
+,Sum of NR Counties,3,2020,26182,,,,,,32020Sum of NR Counties
+08055,Huerfano,3,2020,,,,,,,32020Huerfano
+08005,Arapahoe,3,2020,20673,,,,,,32020Arapahoe
+08067,La Plata,3,2020,,,,,NR,,32020La Plata
+08053,Hinsdale,3,2020,,,,,,,32020Hinsdale
+08101,Pueblo,4,2020,28831,,,,,,42020Pueblo
+08051,Gunnison,4,2020,,,,,,,42020Gunnison
+08053,Hinsdale,4,2020,,,,,,,42020Hinsdale
+08097,Pitkin,4,2020,,,,,NR,,42020Pitkin
+08057,Jackson,4,2020,,,,,,,42020Jackson
+08027,Custer,4,2020,,,,,,,42020Custer
+08055,Huerfano,4,2020,,,,,,,42020Huerfano
+08083,Montezuma,4,2020,,,,,NR,,42020Montezuma
+08105,Rio Grande,4,2020,,,,,,,42020Rio Grande
+08071,Las Animas,4,2020,,,,,NR,,42020Las Animas
+08011,Bent,4,2020,,,,,,,42020Bent
+08045,Garfield,4,2020,,,,,NR,,42020Garfield
+08069,Larimer,4,2020,20020,,,,,,42020Larimer
+08079,Mineral,4,2020,,,,,,,42020Mineral
+08047,Gilpin,4,2020,,,,,,,42020Gilpin
+08123,Weld,4,2020,,,,,NR,,42020Weld
+08115,Sedgwick,4,2020,,,,,NR,,42020Sedgwick
+08085,Montrose,4,2020,,,,,NR,,42020Montrose
+08015,Chaffee,4,2020,,,,,NR,,42020Chaffee
+08121,Washington,4,2020,,,,,,,42020Washington
+08103,Rio Blanco,4,2020,,,,,,,42020Rio Blanco
+08061,Kiowa,4,2020,,,,,,,42020Kiowa
+08113,San Miguel,4,2020,,,,,NR,,42020San Miguel
+08009,Baca,4,2020,,,,,,,42020Baca
+08109,Saguache,4,2020,,,,,,,42020Saguache
+08087,Morgan,4,2020,,,,,NR,,42020Morgan
+08019,Clear Creek,4,2020,,,,,NR,,42020Clear Creek
+08093,Park,4,2020,,,,,NR,,42020Park
+08017,Cheyenne,4,2020,,,,,,,42020Cheyenne
+08003,Alamosa,4,2020,,,,,NR,,42020Alamosa
+,Sum of NR Counties,4,2020,37268,,,,,,42020Sum of NR Counties
+08081,Moffat,4,2020,,,,,NR,,42020Moffat
+08025,Crowley,4,2020,,,,,,,42020Crowley
+08001,Adams,4,2020,19289,,,,,,42020Adams
+08091,Ouray,4,2020,,,,,,,42020Ouray
+08005,Arapahoe,4,2020,24869,,,,,,42020Arapahoe
+08059,Jefferson,4,2020,36799,,,,,,42020Jefferson
+08075,Logan,4,2020,,,,,,,42020Logan
+08023,Costilla,4,2020,,,,,,,42020Costilla
+08033,Dolores,4,2020,,,,,,,42020Dolores
+08049,Grand,4,2020,,,,,NR,,42020Grand
+08119,Teller,4,2020,,,,,,,42020Teller
+08035,Douglas,4,2020,,,,,,,42020Douglas
+08099,Prowers,4,2020,,,,,,,42020Prowers
+08014,Broomfield,4,2020,,,,,,,42020Broomfield
+08063,Kit Carson,4,2020,,,,,,,42020Kit Carson
+08013,Boulder,4,2020,17303,,,,,,42020Boulder
+08031,Denver,4,2020,349663,,,,,,42020Denver
+08077,Mesa,4,2020,,,,,NR,,42020Mesa
+08095,Phillips,4,2020,,,,,,,42020Phillips
+08043,Fremont,4,2020,,,,,NR,,42020Fremont
+08117,Summit,4,2020,,,,,NR,,42020Summit
+08021,Conejos,4,2020,,,,,,,42020Conejos
+08037,Eagle,4,2020,,,,,NR,,42020Eagle
+08073,Lincoln,4,2020,,,,,,,42020Lincoln
+08067,La Plata,4,2020,,,,,NR,,42020La Plata
+08111,San Juan,4,2020,,,,,,,42020San Juan
+08029,Delta,4,2020,,,,,NR,,42020Delta
+08125,Yuma,4,2020,,,,,,,42020Yuma
+08007,Archuleta,4,2020,,,,,,,42020Archuleta
+08039,Elbert,4,2020,,,,,,,42020Elbert
+08107,Routt,4,2020,,,,,NR,,42020Routt
+08089,Otero,4,2020,,,,,NR,,42020Otero
+08065,Lake,4,2020,,,,,,,42020Lake
+08041,El Paso,4,2020,283705,,,,,,42020El Paso
+08099,Prowers,5,2020,,,,,,,52020Prowers
+08001,Adams,5,2020,25630,,,,,,52020Adams
+08007,Archuleta,5,2020,,,,,,,52020Archuleta
+08011,Bent,5,2020,,,,,,,52020Bent
+08027,Custer,5,2020,,,,,,,52020Custer
+08057,Jackson,5,2020,,,,,,,52020Jackson
+08093,Park,5,2020,,,,,NR,,52020Park
+08035,Douglas,5,2020,,,,,,,52020Douglas
+08059,Jefferson,5,2020,50664,,,,,,52020Jefferson
+08085,Montrose,5,2020,,,,,NR,,52020Montrose
+08067,La Plata,5,2020,,,,,NR,,52020La Plata
+08075,Logan,5,2020,,,,,,,52020Logan
+08025,Crowley,5,2020,,,,,,,52020Crowley
+08003,Alamosa,5,2020,,,,,NR,,52020Alamosa
+08083,Montezuma,5,2020,,,,,NR,,52020Montezuma
+08015,Chaffee,5,2020,,,,,NR,,52020Chaffee
+08051,Gunnison,5,2020,,,,,,,52020Gunnison
+08089,Otero,5,2020,,,,,NR,,52020Otero
+08073,Lincoln,5,2020,,,,,,,52020Lincoln
+08121,Washington,5,2020,,,,,,,52020Washington
+08125,Yuma,5,2020,,,,,,,52020Yuma
+08097,Pitkin,5,2020,,,,,NR,,52020Pitkin
+08053,Hinsdale,5,2020,,,,,,,52020Hinsdale
+08049,Grand,5,2020,,,,,NR,,52020Grand
+08113,San Miguel,5,2020,,,,,NR,,52020San Miguel
+08111,San Juan,5,2020,,,,,,,52020San Juan
+08037,Eagle,5,2020,5932,,,,,,52020Eagle
+08123,Weld,5,2020,15115,,,,,,52020Weld
+08065,Lake,5,2020,,,,,,,52020Lake
+08077,Mesa,5,2020,,,,,NR,,52020Mesa
+08017,Cheyenne,5,2020,,,,,,,52020Cheyenne
+08041,El Paso,5,2020,362281,,,,,,52020El Paso
+08043,Fremont,5,2020,,,,,NR,,52020Fremont
+08071,Las Animas,5,2020,1383,,,,,,52020Las Animas
+08101,Pueblo,5,2020,43256,,,,,,52020Pueblo
+08033,Dolores,5,2020,,,,,,,52020Dolores
+08115,Sedgwick,5,2020,,,,,NR,,52020Sedgwick
+08031,Denver,5,2020,479846,,,,,,52020Denver
+08019,Clear Creek,5,2020,,,,,,,52020Clear Creek
+08103,Rio Blanco,5,2020,,,,,,,52020Rio Blanco
+08087,Morgan,5,2020,,,,,NR,,52020Morgan
+08095,Phillips,5,2020,,,,,,,52020Phillips
+08091,Ouray,5,2020,,,,,,,52020Ouray
+08061,Kiowa,5,2020,,,,,,,52020Kiowa
+08119,Teller,5,2020,,,,,,,52020Teller
+08021,Conejos,5,2020,,,,,,,52020Conejos
+08069,Larimer,5,2020,30226,,,,,,52020Larimer
+,Sum of NR Counties,5,2020,42994,,,,,,52020Sum of NR Counties
+08047,Gilpin,5,2020,,,,,,,52020Gilpin
+08079,Mineral,5,2020,,,,,,,52020Mineral
+08023,Costilla,5,2020,,,,,,,52020Costilla
+08009,Baca,5,2020,,,,,,,52020Baca
+08045,Garfield,5,2020,5993,,,,,,52020Garfield
+08107,Routt,5,2020,4554,,,,,,52020Routt
+08105,Rio Grande,5,2020,,,,,,,52020Rio Grande
+08081,Moffat,5,2020,,,,,NR,,52020Moffat
+08039,Elbert,5,2020,,,,,,,52020Elbert
+08055,Huerfano,5,2020,,,,,,,52020Huerfano
+08013,Boulder,5,2020,39652,,,,,,52020Boulder
+08014,Broomfield,5,2020,,,,,,,52020Broomfield
+08117,Summit,5,2020,,,,,NR,,52020Summit
+08109,Saguache,5,2020,,,,,NR,,52020Saguache
+08005,Arapahoe,5,2020,33104,,,,,,52020Arapahoe
+08063,Kit Carson,5,2020,,,,,,,52020Kit Carson
+08029,Delta,5,2020,,,,,NR,,52020Delta
+08041,El Paso,6,2020,393800,,,,,,62020El Paso
+08023,Costilla,6,2020,,,,,,,62020Costilla
+08067,La Plata,6,2020,,,,,NR,,62020La Plata
+08121,Washington,6,2020,,,,,,,62020Washington
+,Sum of NR Counties,6,2020,38295,,,,,,62020Sum of NR Counties
+08014,Broomfield,6,2020,,,,,,,62020Broomfield
+08047,Gilpin,6,2020,,,,,,,62020Gilpin
+08065,Lake,6,2020,,,,,,,62020Lake
+08009,Baca,6,2020,,,,,,,62020Baca
+08043,Fremont,6,2020,,,,,NR,,62020Fremont
+08115,Sedgwick,6,2020,,,,,NR,,62020Sedgwick
+08005,Arapahoe,6,2020,30550,,,,,,62020Arapahoe
+08077,Mesa,6,2020,,,,,NR,,62020Mesa
+08119,Teller,6,2020,,,,,,,62020Teller
+08089,Otero,6,2020,,,,,NR,,62020Otero
+08055,Huerfano,6,2020,,,,,,,62020Huerfano
+08103,Rio Blanco,6,2020,,,,,,,62020Rio Blanco
+08063,Kit Carson,6,2020,,,,,,,62020Kit Carson
+08117,Summit,6,2020,,,,,NR,,62020Summit
+08031,Denver,6,2020,524216,,,,,,62020Denver
+08113,San Miguel,6,2020,,,,,NR,,62020San Miguel
+08123,Weld,6,2020,10677,,,,,,62020Weld
+08087,Morgan,6,2020,,,,,NR,,62020Morgan
+08069,Larimer,6,2020,24314,,,,,,62020Larimer
+08039,Elbert,6,2020,,,,,,,62020Elbert
+08059,Jefferson,6,2020,46958,,,,,,62020Jefferson
+08107,Routt,6,2020,5583,,,,,,62020Routt
+08021,Conejos,6,2020,,,,,,,62020Conejos
+08035,Douglas,6,2020,,,,,,,62020Douglas
+08083,Montezuma,6,2020,,,,,NR,,62020Montezuma
+08071,Las Animas,6,2020,1313,,,,,,62020Las Animas
+08105,Rio Grande,6,2020,,,,,,,62020Rio Grande
+08019,Clear Creek,6,2020,,,,,,,62020Clear Creek
+08029,Delta,6,2020,,,,,NR,,62020Delta
+08073,Lincoln,6,2020,,,,,,,62020Lincoln
+08051,Gunnison,6,2020,,,,,,,62020Gunnison
+08093,Park,6,2020,,,,,NR,,62020Park
+08013,Boulder,6,2020,32503,,,,,,62020Boulder
+08095,Phillips,6,2020,,,,,,,62020Phillips
+08017,Cheyenne,6,2020,,,,,,,62020Cheyenne
+08111,San Juan,6,2020,,,,,,,62020San Juan
+08109,Saguache,6,2020,,,,,NR,,62020Saguache
+08015,Chaffee,6,2020,,,,,NR,,62020Chaffee
+08025,Crowley,6,2020,,,,,,,62020Crowley
+08091,Ouray,6,2020,,,,,,,62020Ouray
+08079,Mineral,6,2020,,,,,,,62020Mineral
+08037,Eagle,6,2020,1878,,,,,,62020Eagle
+08085,Montrose,6,2020,,,,,NR,,62020Montrose
+08061,Kiowa,6,2020,,,,,,,62020Kiowa
+08097,Pitkin,6,2020,,,,,NR,,62020Pitkin
+08011,Bent,6,2020,,,,,,,62020Bent
+08075,Logan,6,2020,,,,,,,62020Logan
+08049,Grand,6,2020,,,,,NR,,62020Grand
+08099,Prowers,6,2020,,,,,,,62020Prowers
+08053,Hinsdale,6,2020,,,,,,,62020Hinsdale
+08003,Alamosa,6,2020,,,,,NR,,62020Alamosa
+08001,Adams,6,2020,31208,,,,,,62020Adams
+08045,Garfield,6,2020,3610,,,,,,62020Garfield
+08027,Custer,6,2020,,,,,,,62020Custer
+08125,Yuma,6,2020,,,,,,,62020Yuma
+08081,Moffat,6,2020,,,,,NR,,62020Moffat
+08101,Pueblo,6,2020,35973,,,,,,62020Pueblo
+08033,Dolores,6,2020,,,,,,,62020Dolores
+08057,Jackson,6,2020,,,,,,,62020Jackson
+08007,Archuleta,6,2020,,,,,,,62020Archuleta
+08021,Conejos,7,2020,,,,,,,72020Conejos
+08077,Mesa,7,2020,,,,,NR,,72020Mesa
+08013,Boulder,7,2020,47951,,,,,,72020Boulder
+08055,Huerfano,7,2020,,,,,,,72020Huerfano
+08037,Eagle,7,2020,5799,,,,,,72020Eagle
+08047,Gilpin,7,2020,,,,,,,72020Gilpin
+08083,Montezuma,7,2020,,,,,NR,,72020Montezuma
+08065,Lake,7,2020,,,,,,,72020Lake
+08079,Mineral,7,2020,,,,,,,72020Mineral
+08125,Yuma,7,2020,,,,,,,72020Yuma
+08119,Teller,7,2020,,,,,,,72020Teller
+08001,Adams,7,2020,22383,,,,,,72020Adams
+08039,Elbert,7,2020,,,,,,,72020Elbert
+08075,Logan,7,2020,,,,,,,72020Logan
+08089,Otero,7,2020,,,,,NR,,72020Otero
+08091,Ouray,7,2020,,,,,,,72020Ouray
+08029,Delta,7,2020,,,,,NR,,72020Delta
+08015,Chaffee,7,2020,,,,,NR,,72020Chaffee
+08003,Alamosa,7,2020,,,,,NR,,72020Alamosa
+08105,Rio Grande,7,2020,,,,,,,72020Rio Grande
+08059,Jefferson,7,2020,45996,,,,,,72020Jefferson
+08113,San Miguel,7,2020,,,,,NR,,72020San Miguel
+08019,Clear Creek,7,2020,,,,,,,72020Clear Creek
+08041,El Paso,7,2020,431001,,,,,,72020El Paso
+08103,Rio Blanco,7,2020,,,,,,,72020Rio Blanco
+08109,Saguache,7,2020,,,,,NR,,72020Saguache
+,Sum of NR Counties,7,2020,31787,,,,,,72020Sum of NR Counties
+08071,Las Animas,7,2020,1337,,,,,,72020Las Animas
+08107,Routt,7,2020,4418,,,,,,72020Routt
+08017,Cheyenne,7,2020,,,,,,,72020Cheyenne
+08011,Bent,7,2020,,,,,,,72020Bent
+08014,Broomfield,7,2020,,,,,,,72020Broomfield
+08101,Pueblo,7,2020,34071,,,,,,72020Pueblo
+08063,Kit Carson,7,2020,,,,,,,72020Kit Carson
+08095,Phillips,7,2020,,,,,,,72020Phillips
+08087,Morgan,7,2020,,,,,NR,,72020Morgan
+08005,Arapahoe,7,2020,29706,,,,,,72020Arapahoe
+08111,San Juan,7,2020,,,,,,,72020San Juan
+08023,Costilla,7,2020,,,,,,,72020Costilla
+08123,Weld,7,2020,10341,,,,,,72020Weld
+08117,Summit,7,2020,,,,,NR,,72020Summit
+08069,Larimer,7,2020,20742,,,,,,72020Larimer
+08051,Gunnison,7,2020,,,,,,,72020Gunnison
+08115,Sedgwick,7,2020,,,,,NR,,72020Sedgwick
+08061,Kiowa,7,2020,,,,,,,72020Kiowa
+08045,Garfield,7,2020,3398,,,,,,72020Garfield
+08085,Montrose,7,2020,,,,,NR,,72020Montrose
+08027,Custer,7,2020,,,,,,,72020Custer
+08009,Baca,7,2020,,,,,,,72020Baca
+08099,Prowers,7,2020,,,,,,,72020Prowers
+08053,Hinsdale,7,2020,,,,,,,72020Hinsdale
+08049,Grand,7,2020,,,,,NR,,72020Grand
+08081,Moffat,7,2020,,,,,NR,,72020Moffat
+08025,Crowley,7,2020,,,,,,,72020Crowley
+08073,Lincoln,7,2020,,,,,,,72020Lincoln
+08097,Pitkin,7,2020,,,,,NR,,72020Pitkin
+08093,Park,7,2020,,,,,NR,,72020Park
+08035,Douglas,7,2020,,,,,,,72020Douglas
+08121,Washington,7,2020,,,,,,,72020Washington
+08031,Denver,7,2020,532348,,,,,,72020Denver
+08067,La Plata,7,2020,,,,,NR,,72020La Plata
+08007,Archuleta,7,2020,,,,,,,72020Archuleta
+08043,Fremont,7,2020,8732,,,,,,72020Fremont
+08057,Jackson,7,2020,,,,,,,72020Jackson
+08033,Dolores,7,2020,,,,,,,72020Dolores
+08125,Yuma,8,2020,,,,,,,82020Yuma
+08089,Otero,8,2020,,,,,NR,,82020Otero
+08115,Sedgwick,8,2020,,,,,,,82020Sedgwick
+08051,Gunnison,8,2020,,,,,,,82020Gunnison
+08043,Fremont,8,2020,,,,,NR,,82020Fremont
+08069,Larimer,8,2020,22638,,,,,,82020Larimer
+08055,Huerfano,8,2020,,,,,,,82020Huerfano
+08021,Conejos,8,2020,,,,,,,82020Conejos
+08007,Archuleta,8,2020,,,,,,,82020Archuleta
+08065,Lake,8,2020,,,,,,,82020Lake
+08014,Broomfield,8,2020,,,,,,,82020Broomfield
+08029,Delta,8,2020,,,,,NR,,82020Delta
+08097,Pitkin,8,2020,,,,,NR,,82020Pitkin
+08013,Boulder,8,2020,33222,,,,,,82020Boulder
+08075,Logan,8,2020,,,,,,,82020Logan
+08063,Kit Carson,8,2020,,,,,,,82020Kit Carson
+08073,Lincoln,8,2020,,,,,,,82020Lincoln
+08071,Las Animas,8,2020,1076,,,,,,82020Las Animas
+08061,Kiowa,8,2020,,,,,,,82020Kiowa
+08041,El Paso,8,2020,435832,,,,,,82020El Paso
+08117,Summit,8,2020,,,,,NR,,82020Summit
+08099,Prowers,8,2020,,,,,,,82020Prowers
+08093,Park,8,2020,,,,,NR,,82020Park
+08081,Moffat,8,2020,,,,,NR,,82020Moffat
+08025,Crowley,8,2020,,,,,,,82020Crowley
+08101,Pueblo,8,2020,26425,,,,,,82020Pueblo
+08037,Eagle,8,2020,3579,,,,,,82020Eagle
+08047,Gilpin,8,2020,,,,,,,82020Gilpin
+08017,Cheyenne,8,2020,,,,,,,82020Cheyenne
+08009,Baca,8,2020,,,,,,,82020Baca
+08049,Grand,8,2020,,,,,NR,,82020Grand
+08119,Teller,8,2020,,,,,,,82020Teller
+08077,Mesa,8,2020,,,,,NR,,82020Mesa
+08003,Alamosa,8,2020,,,,,NR,,82020Alamosa
+08023,Costilla,8,2020,,,,,,,82020Costilla
+08083,Montezuma,8,2020,,,,,NR,,82020Montezuma
+08057,Jackson,8,2020,,,,,,,82020Jackson
+08027,Custer,8,2020,,,,,,,82020Custer
+,Sum of NR Counties,8,2020,41759,,,,,,82020Sum of NR Counties
+08011,Bent,8,2020,,,,,,,82020Bent
+08123,Weld,8,2020,10226,,,,,,82020Weld
+08001,Adams,8,2020,,,,,,,82020Adams
+08107,Routt,8,2020,,,,,NR,,82020Routt
+08113,San Miguel,8,2020,,,,,NR,,82020San Miguel
+08039,Elbert,8,2020,,,,,,,82020Elbert
+08085,Montrose,8,2020,,,,,NR,,82020Montrose
+08005,Arapahoe,8,2020,33150,,,,,,82020Arapahoe
+08087,Morgan,8,2020,,,,,NR,,82020Morgan
+08121,Washington,8,2020,,,,,,,82020Washington
+08015,Chaffee,8,2020,,,,,NR,,82020Chaffee
+08019,Clear Creek,8,2020,,,,,,,82020Clear Creek
+08053,Hinsdale,8,2020,,,,,,,82020Hinsdale
+08109,Saguache,8,2020,,,,,NR,,82020Saguache
+08111,San Juan,8,2020,,,,,,,82020San Juan
+08067,La Plata,8,2020,,,,,NR,,82020La Plata
+08033,Dolores,8,2020,,,,,,,82020Dolores
+08035,Douglas,8,2020,,,,,,,82020Douglas
+08059,Jefferson,8,2020,52744,,,,,,82020Jefferson
+08091,Ouray,8,2020,,,,,,,82020Ouray
+08031,Denver,8,2020,580148,,,,,,82020Denver
+08079,Mineral,8,2020,,,,,,,82020Mineral
+08045,Garfield,8,2020,3435,,,,,,82020Garfield
+08105,Rio Grande,8,2020,,,,,,,82020Rio Grande
+08095,Phillips,8,2020,,,,,,,82020Phillips
+08103,Rio Blanco,8,2020,,,,,,,82020Rio Blanco
+08081,Moffat,9,2020,,,,,NR,,92020Moffat
+08117,Summit,9,2020,,,,,NR,,92020Summit
+08107,Routt,9,2020,5830,,,,,,92020Routt
+08099,Prowers,9,2020,,,,,,,92020Prowers
+08123,Weld,9,2020,10265,,,,,,92020Weld
+08069,Larimer,9,2020,21216,,,,,,92020Larimer
+08113,San Miguel,9,2020,,,,,NR,,92020San Miguel
+08097,Pitkin,9,2020,,,,,NR,,92020Pitkin
+08051,Gunnison,9,2020,,,,,,,92020Gunnison
+08029,Delta,9,2020,,,,,NR,,92020Delta
+08007,Archuleta,9,2020,,,,,,,92020Archuleta
+08057,Jackson,9,2020,,,,,,,92020Jackson
+08061,Kiowa,9,2020,,,,,,,92020Kiowa
+08085,Montrose,9,2020,,,,,NR,,92020Montrose
+08013,Boulder,9,2020,37174,,,,,,92020Boulder
+08023,Costilla,9,2020,,,,,,,92020Costilla
+08047,Gilpin,9,2020,,,,,,,92020Gilpin
+08083,Montezuma,9,2020,,,,,NR,,92020Montezuma
+08049,Grand,9,2020,,,,,NR,,92020Grand
+08121,Washington,9,2020,,,,,,,92020Washington
+08009,Baca,9,2020,,,,,,,92020Baca
+08031,Denver,9,2020,522761,,,,,,92020Denver
+08089,Otero,9,2020,,,,,NR,,92020Otero
+08005,Arapahoe,9,2020,31253,,,,,,92020Arapahoe
+08017,Cheyenne,9,2020,,,,,,,92020Cheyenne
+08073,Lincoln,9,2020,,,,,,,92020Lincoln
+08041,El Paso,9,2020,410098,,,,,,92020El Paso
+08075,Logan,9,2020,,,,,,,92020Logan
+08001,Adams,9,2020,,,,,,,92020Adams
+08035,Douglas,9,2020,,,,,,,92020Douglas
+08063,Kit Carson,9,2020,,,,,,,92020Kit Carson
+08014,Broomfield,9,2020,,,,,,,92020Broomfield
+08025,Crowley,9,2020,,,,,,,92020Crowley
+08087,Morgan,9,2020,,,,,NR,,92020Morgan
+08079,Mineral,9,2020,,,,,,,92020Mineral
+08055,Huerfano,9,2020,,,,,,,92020Huerfano
+08103,Rio Blanco,9,2020,,,,,,,92020Rio Blanco
+08115,Sedgwick,9,2020,,,,,,,92020Sedgwick
+08101,Pueblo,9,2020,22057,,,,,,92020Pueblo
+08111,San Juan,9,2020,,,,,,,92020San Juan
+08095,Phillips,9,2020,,,,,,,92020Phillips
+08003,Alamosa,9,2020,,,,,NR,,92020Alamosa
+08109,Saguache,9,2020,,,,,NR,,92020Saguache
+08093,Park,9,2020,,,,,NR,,92020Park
+08043,Fremont,9,2020,,,,,NR,,92020Fremont
+08119,Teller,9,2020,,,,,,,92020Teller
+08037,Eagle,9,2020,3484,,,,,,92020Eagle
+08091,Ouray,9,2020,,,,,,,92020Ouray
+08039,Elbert,9,2020,,,,,,,92020Elbert
+08077,Mesa,9,2020,,,,,NR,,92020Mesa
+08065,Lake,9,2020,,,,,,,92020Lake
+08033,Dolores,9,2020,,,,,,,92020Dolores
+08021,Conejos,9,2020,,,,,,,92020Conejos
+,Sum of NR Counties,9,2020,36439,,,,,,92020Sum of NR Counties
+08105,Rio Grande,9,2020,,,,,,,92020Rio Grande
+08053,Hinsdale,9,2020,,,,,,,92020Hinsdale
+08045,Garfield,9,2020,3134,,,,,,92020Garfield
+08125,Yuma,9,2020,,,,,,,92020Yuma
+08067,La Plata,9,2020,,,,,NR,,92020La Plata
+08019,Clear Creek,9,2020,,,,,,,92020Clear Creek
+08071,Las Animas,9,2020,1051,,,,,,92020Las Animas
+08059,Jefferson,9,2020,49815,,,,,,92020Jefferson
+08027,Custer,9,2020,,,,,,,92020Custer
+08015,Chaffee,9,2020,,,,,NR,,92020Chaffee
+08011,Bent,9,2020,,,,,,,92020Bent
